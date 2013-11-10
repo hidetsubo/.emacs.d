@@ -1,0 +1,9 @@
+type=class
+library=net.protocol
+extended=
+aliases=
+included=
+superclass=Net=ProtocolError
+aliasof=
+
+Rubyの現在の標準添付ライブラリ内では使われていません。

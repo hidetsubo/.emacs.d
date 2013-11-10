@@ -1,0 +1,9 @@
+type=module
+library=tk
+extended=Tk,Tk=Encoding
+aliases=
+included=TkCore
+superclass=
+aliasof=
+
+

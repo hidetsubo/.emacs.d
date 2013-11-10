@@ -1,0 +1,9 @@
+library=webrick.httpproxy
+aliasof=
+type=object
+included=
+aliases=
+superclass=
+extended=
+
+空のソケットのふりをするオブジェクトです。

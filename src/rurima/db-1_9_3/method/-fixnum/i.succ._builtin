@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=succ
+
+--- succ -> Fixnum | Bignum
+
+self の次の整数を返します。

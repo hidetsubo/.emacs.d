@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=JIS
+
+--- JIS -> Integer
+
+ISO-2022-JP を表します。
+

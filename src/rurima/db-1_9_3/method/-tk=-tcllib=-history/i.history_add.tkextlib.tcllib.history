@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=history_add
+
+--- history_add(text)
+@todo
+

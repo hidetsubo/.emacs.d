@@ -1,0 +1,10 @@
+params=(const char *feature)
+filename=eval.c
+name=rb_provide
+type=void
+macro=false
+private=false
+
+
+ライブラリ feature をロードしたものとしてロックをかけます。
+

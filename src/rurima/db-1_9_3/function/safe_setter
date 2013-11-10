@@ -1,0 +1,8 @@
+private=true
+params=(VALUE val)
+type=void
+name=safe_setter
+filename=eval.c
+macro=false
+
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=instate
+
+--- instate(state, script = nil, &b)
+@todo
+

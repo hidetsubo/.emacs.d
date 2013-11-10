@@ -1,0 +1,10 @@
+private=false
+params=(void)
+type=void
+name=rb_clear_cache
+filename=eval.c
+macro=false
+
+
+メソッドキャッシュをすべて消去します。
+

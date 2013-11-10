@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=sections
+
+--- sections -> RDoc::Context::Section
+
+追加された [[c:RDoc::Context::Section]] の配列を返します。
+

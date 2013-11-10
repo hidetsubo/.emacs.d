@@ -1,0 +1,12 @@
+library=rdoc.options
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+rdoc コマンドのオプションを解析するためのクラスです。
+
+それぞれのオプションの詳細に関しては、[[ref:lib:rdoc#usage]] を参照してくだ
+さい。

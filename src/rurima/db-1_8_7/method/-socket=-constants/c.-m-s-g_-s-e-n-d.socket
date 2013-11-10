@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=MSG_SEND
+
+--- MSG_SEND -> Integer
+@todo
+Send the packet in so_temp
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=nearest_cell,nearestcell
+
+--- nearest_cell(x, y)
+--- nearestcell(x, y)
+@todo
+

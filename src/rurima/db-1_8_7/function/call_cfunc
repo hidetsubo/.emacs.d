@@ -1,0 +1,10 @@
+params=(VALUE (*func)(), VALUE recv, int len, int argc, VALUE *argv)
+filename=eval.c
+name=call_cfunc
+type=VALUE
+macro=false
+private=true
+
+
+C で定義されたメソッドの起動に際し、実体の関数 func を呼び出します。
+

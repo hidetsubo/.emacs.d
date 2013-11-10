@@ -1,0 +1,11 @@
+library=cgi.session
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+セッションの状態をどこにも保存しないクラスです。
+
+それぞれのメソッドは

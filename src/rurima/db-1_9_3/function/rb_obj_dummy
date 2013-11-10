@@ -1,0 +1,8 @@
+private=true
+params=(void)
+type=VALUE
+name=rb_obj_dummy
+filename=object.c
+macro=false
+
+

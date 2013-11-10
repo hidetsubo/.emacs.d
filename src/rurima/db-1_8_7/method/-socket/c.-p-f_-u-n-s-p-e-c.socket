@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=PF_UNSPEC
+
+--- PF_UNSPEC -> Integer
+プロトコルファミリー不定。
+
+@see [[m:Socket::Constants::AF_UNSPEC]], [[m:Socket.open]]
+
+

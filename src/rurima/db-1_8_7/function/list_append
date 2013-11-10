@@ -1,0 +1,12 @@
+params=(NODE *head, NODE *tail)
+filename=parse.y
+name=list_append
+type=NODE *
+macro=false
+private=true
+
+
+NODE_LIST のリスト head に非 NODE_LIST のノード
+tail を連結し、先頭ノードを返します。head が NULL
+のときは tail を NODE_LIST でラップして返します。
+

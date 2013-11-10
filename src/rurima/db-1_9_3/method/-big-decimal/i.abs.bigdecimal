@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=abs
+
+--- abs -> BigDecimal
+
+self の絶対値を返します。
+
+  BigDecimal('5').abs.to_i  # => 5
+  BigDecimal('-3').abs.to_i # => 3
+

@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpstatus
+extended=
+aliases=
+included=
+superclass=WEBrick=HTTPStatus=ClientError
+aliasof=
+
+HTTP のステータスコード 406 Not Acceptable を表すクラスです。

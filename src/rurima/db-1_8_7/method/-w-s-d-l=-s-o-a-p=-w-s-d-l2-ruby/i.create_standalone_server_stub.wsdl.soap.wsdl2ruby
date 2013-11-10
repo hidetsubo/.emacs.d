@@ -1,0 +1,7 @@
+visibility=private 
+kind=defined
+names=create_standalone_server_stub
+
+--- create_standalone_server_stub(servicename)
+@todo
+

@@ -1,0 +1,14 @@
+library=rdoc.context
+aliasof=
+type=class
+included=RDoc=Text
+aliases=
+superclass=Object
+extended=
+
+section に関する情報を保持するクラスです。
+
+ドキュメント中で以下のように記述した情報を保持しています。
+
+  # :section: The title
+  # The body

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=stop
+
+--- stop(amount = None)
+@todo
+
+

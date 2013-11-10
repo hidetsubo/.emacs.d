@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=one?
+
+--- one? -> bool
+自身が1である場合に真を返します。
+

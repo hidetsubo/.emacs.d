@@ -1,0 +1,8 @@
+params=(void)
+filename=variable.c
+name=Init_var_tables
+type=void
+macro=false
+private=false
+
+

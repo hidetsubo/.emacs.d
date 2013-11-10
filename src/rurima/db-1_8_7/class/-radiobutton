@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkRadioButton
+included=
+superclass=Object
+aliasof=
+
+

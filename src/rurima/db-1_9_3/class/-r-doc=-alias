@@ -1,0 +1,12 @@
+library=rdoc.alias
+aliasof=
+type=class
+included=
+aliases=
+superclass=RDoc=CodeObject
+extended=
+
+aliasされたメソッドを表現するクラスです。
+
+
+ライブラリの内部で使用します。

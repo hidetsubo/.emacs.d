@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=DEFAULT_HOST
+
+--- DEFAULT_HOST -> String
+
+"127.0.0.1" です。
+

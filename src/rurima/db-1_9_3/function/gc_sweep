@@ -1,0 +1,10 @@
+private=true
+params=(void)
+type=void
+name=gc_sweep
+filename=gc.c
+macro=false
+
+
+GC のスイープフェイズを実行します。
+

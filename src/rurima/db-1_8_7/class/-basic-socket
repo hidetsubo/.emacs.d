@@ -1,0 +1,13 @@
+type=class
+library=socket
+extended=
+aliases=
+included=
+superclass=IO
+aliasof=
+
+ソケットを表す抽象クラスです。具体的なソケット操作はサブクラスで
+定義されます。
+
+例えばインターネットドメインストリームソケットの場合は
+[[c:TCPSocket]] を用います。

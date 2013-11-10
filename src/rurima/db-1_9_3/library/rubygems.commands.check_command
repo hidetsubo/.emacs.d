@@ -1,0 +1,24 @@
+requires=rubygems.package.tar_reader,rubygems.package.f_sync_dir,rubygems.builder,rubygems.source_info_cache_entry,rubygems.source_info_cache,rubygems.package.tar_reader.entry,rubygems.require_paths_builder,rubygems.source_index,rubygems.digest.md5,rubygems.requirement,rubygems.spec_fetcher,rubygems.gem_path_searcher,rubygems.defaults,rubygems.installer,rubygems.ext,rubygems.remote_fetcher,rubygems.package.tar_header,rubygems.package.tar_writer,rubygems.specification,rubygems.format,rubygems.version,rubygems.package,rubygems.security,rubygems.gem_openssl,rubygems.ext.configure_builder,rubygems.ext.builder,rubygems.validator,rubygems.platform,rubygems.command,rubygems.package.tar_input,rubygems.exceptions,rubygems,rubygems.package.tar_output,rubygems.ext.ext_conf_builder,rubygems.ext.rake_builder,rubygems.digest.sha2,rubygems.dependency,rubygems.version_option,rubygems.user_interaction
+category=
+methods=
+sublibraries=
+classes=Gem=Commands=CheckCommand
+is_sublibrary=true
+
+インストールされている Gem パッケージを検証するためのライブラリです。
+
+  Usage: gem check [options]
+    Options:
+          --verify FILE                内部のチェックサムにより Gem パッケージを検証します
+      -a, --alien                      管理されていないパッケージを報告します
+      -t, --test                       Gem パッケージのユニットテストを実行します
+      -v, --version VERSION            特定のバージョンのテストを実行します
+    Common Options:
+      -h, --help                       このコマンドのヘルプを表示します
+      -V, --[no-]verbose               表示を詳細にします
+      -q, --quiet                      静かに実行します
+          --config-file FILE           指定された設定ファイルを使用します
+          --backtrace                  バックトレースを表示します
+          --debug                      Ruby 自体のデバッグオプションを有効にします
+    Summary:
+      インストールされている Gem パッケージをチェックします

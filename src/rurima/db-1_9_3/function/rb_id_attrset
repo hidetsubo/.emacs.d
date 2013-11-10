@@ -1,0 +1,8 @@
+private=false
+params=(ID id)
+type=ID
+name=rb_id_attrset
+filename=parse.y
+macro=false
+
+

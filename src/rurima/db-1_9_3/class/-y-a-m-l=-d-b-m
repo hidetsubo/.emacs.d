@@ -1,0 +1,9 @@
+library=yaml.dbm
+aliasof=
+type=class
+included=
+aliases=
+superclass=DBM
+extended=
+
+[[c:DBM]] の値に文字列以外も格納できるように拡張したクラスです。

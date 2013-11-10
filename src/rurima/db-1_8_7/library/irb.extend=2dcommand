@@ -1,0 +1,8 @@
+requires=complex,irb.cmd.chws,matrix,mathn,irb.cmd.help,irb.ext.tracer,irb.ext.multi=2dirb,irb.ext.loader,irb.cmd.load,rational,irb.cmd.pushws,irb.ext.use=2dloader,thread,irb.ext.change=2dws,readline,irb.cmd.subirb,irb.ext.save=2dhistory,irb.ext.math=2dmode,tracer,irb.ext.workspaces,irb.ext.history,irb.cmd.nop
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=IRB=ExtendCommandBundle,IRB=ContextExtender
+
+irb を拡張するためのサブライブラリです。

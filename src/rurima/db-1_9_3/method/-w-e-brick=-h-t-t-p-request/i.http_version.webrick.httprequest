@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=http_version
+
+--- http_version     -> WEBrick::HTTPVersion
+
+リクエストの HTTP バージョンを表す [[c:WEBrick::HTTPVersion]] オブジェクトを返します。
+

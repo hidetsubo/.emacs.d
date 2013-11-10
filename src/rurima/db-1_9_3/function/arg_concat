@@ -1,0 +1,8 @@
+private=true
+params=(NODE *node1, NODE *node2)
+type=NODE *
+name=arg_concat
+filename=parse.y
+macro=false
+
+

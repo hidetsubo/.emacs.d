@@ -1,0 +1,10 @@
+library=xmlrpc.server
+aliasof=
+type=class
+included=
+aliases=
+superclass=XMLRPC=BasicServer
+extended=
+
+Implements a XML-RPC server, which works with Apache mod_ruby.
+Use it in the same way as CGIServer!

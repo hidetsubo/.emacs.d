@@ -1,0 +1,12 @@
+params=(VALUE clone, VALUE obj)
+filename=ruby.h
+name=CLONESETUP
+type=void
+macro=true
+private=false
+
+
+OBJSETUP() の変種。
+clone を、obj から clone で作った
+オブジェクトとして初期化します。
+

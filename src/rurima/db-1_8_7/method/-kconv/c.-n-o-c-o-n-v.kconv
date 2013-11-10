@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=NOCONV
+
+--- NOCONV -> Integer
+
+変換されないことを表します。
+出力エンコーディングの指定にのみ用います。
+

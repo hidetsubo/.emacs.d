@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=value
+
+--- value -> Array
+
+クッキーの値を返します。
+

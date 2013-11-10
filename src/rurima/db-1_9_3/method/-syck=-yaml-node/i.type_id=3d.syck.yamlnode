@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=type_id=
+
+--- type_id=(val)
+
+自身のタグを文字列で指定します。
+
+ユーザが直接使用する事はありません。
+

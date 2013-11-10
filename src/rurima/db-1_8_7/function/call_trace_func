@@ -1,0 +1,10 @@
+params=(char *event, NODE *pos, VALUE self, ID id, VALUE klass)
+filename=eval.c
+name=call_trace_func
+type=void
+macro=false
+private=true
+
+
+評価器の動作をフックする手続き trace_func を評価します。
+

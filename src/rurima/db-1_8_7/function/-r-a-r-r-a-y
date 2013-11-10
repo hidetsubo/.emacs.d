@@ -1,0 +1,11 @@
+params=(VALUE obj)
+filename=ruby.h
+name=RARRAY
+type=struct RArray *
+macro=true
+private=false
+
+
+obj を struct RArray* にキャストする。
+本当は obj が struct RArray* でないとしてもキャストしてしまう。
+

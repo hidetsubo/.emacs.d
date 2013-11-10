@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=location
+
+--- location(exception) -> String
+
+与えられた例外の発生した場所を返します。
+

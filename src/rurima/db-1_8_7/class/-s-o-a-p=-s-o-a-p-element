@@ -1,0 +1,9 @@
+type=class
+library=soap.baseData
+extended=
+aliases=
+included=Enumerable
+superclass=Object
+aliasof=
+
+

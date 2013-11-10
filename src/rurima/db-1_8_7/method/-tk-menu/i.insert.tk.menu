@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=insert
+
+--- insert(index, type, keys = nil)
+@todo
+

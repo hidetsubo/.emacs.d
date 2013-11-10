@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=OPS
+
+--- OPS -> Hash
+
+比較演算子と対応する処理を格納したハッシュです。
+

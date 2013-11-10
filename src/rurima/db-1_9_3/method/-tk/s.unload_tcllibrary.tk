@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=unload_tcllibrary
+
+--- unload_tcllibrary(*args)
+@todo
+

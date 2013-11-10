@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=new,new_master
+
+--- new_master(safe = nil, keys = {})
+--- new(safe=nil, keys={})
+@todo
+

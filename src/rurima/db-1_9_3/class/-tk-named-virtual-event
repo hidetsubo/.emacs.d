@@ -1,0 +1,9 @@
+library=tk.virtevent
+aliasof=
+type=class
+included=
+aliases=TkVirtualEvent=PreDefVirtEvent
+superclass=Object
+extended=
+
+

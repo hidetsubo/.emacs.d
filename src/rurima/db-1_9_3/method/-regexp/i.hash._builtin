@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=hash
+
+--- hash -> Fixnum
+正規表現のオプションやテキストに基づいたハッシュ値を返します。
+
+  p /abc/i.hash #=> 4893115
+  p /abc/.hash  #=> 4856055
+

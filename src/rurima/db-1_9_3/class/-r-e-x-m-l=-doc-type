@@ -1,0 +1,9 @@
+library=rexml
+aliasof=
+type=class
+included=REXML=XMLTokens
+aliases=
+superclass=REXML=Parent
+extended=
+
+

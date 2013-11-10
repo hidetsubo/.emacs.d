@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=addBWidgetSpinBox
+
+--- addBWidgetSpinBox(name = None)
+@todo
+

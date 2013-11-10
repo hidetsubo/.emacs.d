@@ -1,0 +1,9 @@
+library=tk.checkbutton
+aliasof=
+type=class
+included=
+aliases=TkCheckButton
+superclass=Object
+extended=
+
+

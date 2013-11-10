@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=current_interval,current_sleep
+
+--- current_sleep
+--- current_interval
+@todo
+

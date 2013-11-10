@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=init
+
+--- init -> ()
+
+ライブラリ内部で使用します。
+

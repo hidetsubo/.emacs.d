@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tcheckbutton
+extended=
+aliases=Tk=Tile=TCheckButton
+included=
+superclass=Object
+aliasof=
+
+

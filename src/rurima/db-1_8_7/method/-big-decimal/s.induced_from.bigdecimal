@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=induced_from
+
+--- induced_from(num) -> BigDecimal
+
+num を [[c:BigDecimal]] に変換した結果を返します。
+
+@raise TypeError 変換できないオブジェクトを指定した場合に発生します。
+

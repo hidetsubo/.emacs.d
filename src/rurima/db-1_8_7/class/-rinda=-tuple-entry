@@ -1,0 +1,10 @@
+type=class
+library=rinda.tuplespace
+extended=
+aliases=
+included=DRb=DRbUndumped
+superclass=Object
+aliasof=
+
+A TupleEntry is a Tuple (i.e. a possible entry in some Tuplespace)
+together with expiry and cancellation data.

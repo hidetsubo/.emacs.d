@@ -1,0 +1,10 @@
+library=iconv
+aliasof=
+type=class
+included=Iconv=Failure
+aliases=
+superclass=ArgumentError
+extended=
+
+入力の最後が不完全な文字かシフトで終っているために変換が停止したこと
+を表します。

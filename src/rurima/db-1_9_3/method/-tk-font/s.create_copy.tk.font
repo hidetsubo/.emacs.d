@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=create_copy
+
+--- create_copy(font)
+@todo
+

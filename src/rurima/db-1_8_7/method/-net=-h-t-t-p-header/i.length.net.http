@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=length,size
+
+--- size -> Integer
+--- length -> Integer
+
+このメソッドは obsolete です。
+
+ヘッダフィールドの数を返します。
+

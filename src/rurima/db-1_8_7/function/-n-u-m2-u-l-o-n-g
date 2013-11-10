@@ -1,0 +1,8 @@
+params=(VLAUE x)
+filename=ruby.h
+name=NUM2ULONG
+type=unsigned long
+macro=true
+private=false
+
+

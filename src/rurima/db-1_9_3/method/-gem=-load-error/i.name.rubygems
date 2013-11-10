@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=name
+
+--- name -> String
+
+ロードに失敗した Gem の名前を返します。
+

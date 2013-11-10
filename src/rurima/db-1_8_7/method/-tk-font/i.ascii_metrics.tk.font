@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=ascii_metrics,latin_metrics
+
+--- latin_metrics(option = nil)
+--- ascii_metrics(option = nil)
+@todo
+

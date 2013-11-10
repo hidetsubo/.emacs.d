@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=place_forget
+
+--- place_forget(*args)
+@todo
+
+

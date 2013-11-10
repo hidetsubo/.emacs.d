@@ -1,0 +1,8 @@
+private=true
+params=(struct global_variable *var)
+type=void
+name=remove_trace
+filename=variable.c
+macro=false
+
+

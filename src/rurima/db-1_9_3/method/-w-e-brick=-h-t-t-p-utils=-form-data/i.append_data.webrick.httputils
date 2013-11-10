@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=append_data
+
+--- append_data(data)   -> self
+
+WEBrick::HTTPUtils の内部で使われます。ユーザがこのメソッドを直接呼ぶことはありません。
+

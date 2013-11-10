@@ -1,0 +1,9 @@
+type=class
+library=net.smtp
+extended=
+aliases=Net=SMTPSession
+included=
+superclass=Object
+aliasof=
+
+SMTP のセッションを表現したクラスです。

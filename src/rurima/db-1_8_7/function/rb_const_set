@@ -1,0 +1,10 @@
+params=(VALUE klass, ID name, VALUE val)
+filename=variable.c
+name=rb_const_set
+type=void
+macro=false
+private=false
+
+
+定数 klass::name の値を val として定義します。
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=eigenvalues
+
+--- eigenvalues -> [Float]
+固有値を配列で返します。
+

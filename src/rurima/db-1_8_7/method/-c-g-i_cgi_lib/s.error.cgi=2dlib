@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=error
+
+--- error -> ()
+エラーメッセージを出力して [[m:Kernel.#exit]] します。
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=find_next_space
+
+--- find_next_space(idx)
+@todo
+

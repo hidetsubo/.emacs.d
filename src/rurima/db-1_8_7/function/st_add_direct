@@ -1,0 +1,12 @@
+params=(st_table *table, char *key, char *value)
+filename=st.c
+name=st_add_direct
+type=void
+macro=false
+private=false
+
+
+st_insert() と似ているが、同じハッシュ値を持つエントリーに対する
+「同値検査」を省略する。key がまだ登録されていないことがはっきり
+している場合には、少し高速に登録できる。
+

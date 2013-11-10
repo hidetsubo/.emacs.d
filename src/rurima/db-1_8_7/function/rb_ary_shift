@@ -1,0 +1,15 @@
+params=(VALUE ary)
+filename=array.c
+name=rb_ary_shift
+type=VALUE
+macro=false
+private=false
+
+
+配列 ary の先頭の要素を取り除き返します。
+空配列のときは Qnil を返します。
+
+対応するRubyコード
+
+  val = ary.shift
+

@@ -1,0 +1,9 @@
+type=module
+library=webrick.httpauth.userdb
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+[[c:WEBrick::HTTPAuth::BasicAuth]], [[c:WEBrick::HTTPAuth::DigestAuth]] で使用しているモジュールです。

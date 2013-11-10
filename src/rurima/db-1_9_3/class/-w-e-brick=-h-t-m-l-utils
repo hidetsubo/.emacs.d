@@ -1,0 +1,9 @@
+library=webrick.htmlutils
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+HTML のためのユーティリティ関数を提供します。

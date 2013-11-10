@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=name
+
+--- name -> String
+
+バージョン情報を含まないパッケージの名前を返します。
+

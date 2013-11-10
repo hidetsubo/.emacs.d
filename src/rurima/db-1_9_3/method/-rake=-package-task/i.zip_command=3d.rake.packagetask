@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=zip_command=
+
+--- zip_command=(command)
+
+zip コマンドとして使用するコマンドを設定します。
+
+@param command コマンドを文字列で指定します。
+

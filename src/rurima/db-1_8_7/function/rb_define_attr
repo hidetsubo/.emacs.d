@@ -1,0 +1,12 @@
+params=(VALUE klass, const char *name, int read, int write)
+filename=class.c
+name=rb_define_attr
+type=void
+macro=false
+private=false
+
+
+クラス klass にメソッド name と name= を定義します。
+read が真のときは name を定義し、
+write が真のときは name= を定義します。
+

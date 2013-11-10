@@ -1,0 +1,10 @@
+private=false
+params=(void)
+type=void
+name=rb_gc_mark_threads
+filename=eval.c
+macro=false
+
+
+存在するスレッド全てをマークします。
+

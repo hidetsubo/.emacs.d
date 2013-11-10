@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=NOFOLLOW
+
+--- NOFOLLOW -> Integer
+ファイルがシンボリックリンクであった場合に
+例外を発生させます。
+open(2) で O_NOFOLLOW が指定できる場合に使えます。
+[[m:File.open]]で使用します。
+

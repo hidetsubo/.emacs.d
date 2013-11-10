@@ -1,0 +1,11 @@
+private=true
+params=(VALUE mod, int option, int (*func)())
+type=VALUE
+name=method_list
+filename=class.c
+macro=false
+
+
+モジュール mod に定義されているメソッドに対して
+順番に func を繰り返し呼び出します。
+

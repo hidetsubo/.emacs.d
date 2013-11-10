@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=size
+
+--- size -> Fixnum
+
+ソースエントリのサイズです。
+
+ソースインデックスが変化したことを検出するために使用します。
+

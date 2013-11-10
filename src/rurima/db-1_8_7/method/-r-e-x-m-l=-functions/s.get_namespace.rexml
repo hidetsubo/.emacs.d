@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=get_namespace
+
+--- get_namespace(node_set = nil)
+@todo
+

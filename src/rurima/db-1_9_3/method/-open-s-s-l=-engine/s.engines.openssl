@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=engines
+
+--- engines -> [OpenSSL::Engine]
+ロードされていて利用可能な engine を配列で返します。
+
+@see [[m:OpenSSL::Engine.load]]
+

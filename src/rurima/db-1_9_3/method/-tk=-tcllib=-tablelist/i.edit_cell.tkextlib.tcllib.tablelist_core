@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=edit_cell,editcell
+
+--- edit_cell(idx)
+--- editcell(idx)
+@todo
+

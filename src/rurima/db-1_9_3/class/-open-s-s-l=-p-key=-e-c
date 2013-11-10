@@ -1,0 +1,12 @@
+library=openssl
+aliasof=
+type=class
+included=
+aliases=
+superclass=OpenSSL=PKey=PKey
+extended=
+
+EC(Ellicptic Curve,楕円曲線)暗号鍵のクラスです。
+
+このクラスのメソッドについてより詳しく知りたい場合は openssl のドキュメント
+の対応する関数の項を見てください。

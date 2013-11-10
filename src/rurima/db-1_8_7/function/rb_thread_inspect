@@ -1,0 +1,8 @@
+params=(VALUE thread)
+filename=eval.c
+name=rb_thread_inspect
+type=VALUE
+macro=false
+private=true
+
+

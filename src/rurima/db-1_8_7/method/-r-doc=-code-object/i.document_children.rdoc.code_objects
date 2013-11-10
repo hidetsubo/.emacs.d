@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=document_children
+
+--- document_children -> bool
+
+自身に含まれるメソッド、エイリアス、定数や属性をドキュメントに含めるか
+どうかを返します。
+
+@see [[m:RDoc::CodeObject#document_self]]
+

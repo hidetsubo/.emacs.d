@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=cellselection_set
+
+--- cellselection_set(first, last = nil)
+@todo
+

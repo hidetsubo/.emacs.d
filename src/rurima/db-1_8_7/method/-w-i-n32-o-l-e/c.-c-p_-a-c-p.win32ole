@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=CP_ACP
+
+--- CP_ACP -> Fixnum
+
+Windows既定のANSIコードページ（0）を示します。
+

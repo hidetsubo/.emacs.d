@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=new_hash
+
+--- new_hash(val = {})
+@todo
+

@@ -1,0 +1,8 @@
+requires=tk.pack,tk.spinbox,tk.virtevent,tk.font,tkextlib.tile.tscrollbar,tk.root,tk.itemconfig,tk.mngfocus,tk.textwindow,tk.menu,tkutil,tkextlib.tile.treeview,tkextlib.setup,tkextlib.tile,tk.canvastag,tk.frame,tk.package,tk.palette,tk.image,tk.textimage,tk.button,tk.clock,tk.scale,tkextlib.tile.setup,tkextlib.tile.dialog,tkextlib.tile.tcombobox,tk.checkbutton,tk.tagfont,tk.event,tcltklib,tkextlib.tile.tpaned,tk.macpkg,tk.console,tk.winfo,tk.canvas,tk.scrollable,tk.text,tk.grid,tk.scrollbox,tk.wm,tk.texttag,tkextlib.tile.tlabel,tk.bindtag,tk.composite,tk.txtwin_abst,tkextlib.tile.tradiobutton,tkextlib.tile.tbutton,tkextlib.tile.tsquare,tk.menubar,tk.autoload,tk.selection,tk.optionobj,tk.clipboard,tk.dialog,tkextlib.tile.tscale,tk.menuspec,tk.toplevel,tk.validation,tkextlib.tile.tentry,tkextlib.tile.tlabelframe,tkextlib.tile.tseparator,tk.kinput,tk.label,tk.panedwindow,tkextlib.tile.tcheckbutton,tkextlib.tile.tnotebook,tk,tk.message,tk.bgerror,tk.variable,tk.listbox,tk.scrollbar,tkextlib.tile.tmenubutton,tkextlib.tile.tprogressbar,tkextlib.tile.style,tk.xim,tk.textmark,tk.entry,tk.optiondb,tk.radiobutton,tk.namespace,tkextlib.tile.tframe,tk.timer,tk.winpkg,tk.labelframe,tk.msgcat,tk.itemfont,tk.place,tk.encodedstr
+category=
+methods=
+sublibraries=
+classes=Tk=Tile=TRadioButton,Tk=Tile=TRadiobutton,Tk=Tile=TkRadioButton
+is_sublibrary=true
+
+

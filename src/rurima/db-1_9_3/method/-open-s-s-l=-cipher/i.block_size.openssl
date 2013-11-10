@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=block_size
+
+--- block_size -> Integer
+暗号化のブロックのサイズをバイト数で返します。
+

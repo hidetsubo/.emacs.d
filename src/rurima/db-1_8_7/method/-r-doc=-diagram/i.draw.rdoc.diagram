@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=draw
+
+--- draw -> ()
+
+自身が持つ全ての [[c:RDoc::TopLevel]] オブジェクトを解析してモジュール
+やクラスの関係を描く図を作成します。

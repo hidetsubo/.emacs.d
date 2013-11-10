@@ -1,0 +1,11 @@
+private=false
+params=(type, n)
+type=type*
+name=ALLOCA_N
+filename=ruby.h
+macro=true
+
+
+type 型のメモリを n 個スタックフレームに割り当てる。
+このメモリは関数が終わると自動的に解放される。
+

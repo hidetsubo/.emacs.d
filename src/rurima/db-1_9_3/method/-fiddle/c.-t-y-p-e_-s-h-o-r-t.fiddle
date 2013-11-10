@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=TYPE_SHORT
+
+--- TYPE_SHORT -> Integer
+C の short 型を表します。
+
+@see [[m:Fiddle::Function.new]]
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=port
+
+--- port -> Integer
+
+接続先のポート番号を返します。
+

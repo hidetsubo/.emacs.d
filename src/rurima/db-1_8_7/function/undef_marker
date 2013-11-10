@@ -1,0 +1,8 @@
+params=(void)
+filename=variable.c
+name=undef_marker
+type=void
+macro=false
+private=true
+
+

@@ -1,0 +1,8 @@
+params=(VALUE obj)
+filename=ruby.h
+name=ROBJECT
+type=struct RObject *
+macro=true
+private=false
+
+

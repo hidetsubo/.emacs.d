@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=get_content
+
+--- get_content(url, header = {})
+@todo
+

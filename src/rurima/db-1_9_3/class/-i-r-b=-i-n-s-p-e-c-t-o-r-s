@@ -1,0 +1,9 @@
+library=irb.inspector
+aliasof=
+type=object
+included=
+aliases=
+superclass=
+extended=
+
+定義された inspect_mode を管理する [[c:Hash]] オブジェクトです。

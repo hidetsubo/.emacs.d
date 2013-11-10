@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=command_processor
+
+--- command_processor -> Shell::CommandProcessor
+@todo
+

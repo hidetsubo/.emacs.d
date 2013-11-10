@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=set_attrib
+
+--- set_attrib(*args)
+@todo
+

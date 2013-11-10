@@ -1,0 +1,7 @@
+visibility=private 
+kind=defined
+names=attribute_basetype
+
+--- attribute_basetype(attr)
+@todo
+

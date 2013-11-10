@@ -1,0 +1,9 @@
+type=module
+library=soap.httpconfigloader
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+

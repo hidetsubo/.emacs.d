@@ -1,0 +1,9 @@
+type=class
+library=syck
+extended=
+aliases=
+included=Comparable
+superclass=Object
+aliasof=
+
+

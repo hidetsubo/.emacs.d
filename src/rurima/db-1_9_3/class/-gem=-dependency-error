@@ -1,0 +1,9 @@
+library=rubygems.exceptions
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Exception
+extended=
+
+依存関係の例外です。

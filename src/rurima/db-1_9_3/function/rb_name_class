@@ -1,0 +1,10 @@
+private=false
+params=(VALUE klass, ID id)
+type=void
+name=rb_name_class
+filename=variable.c
+macro=false
+
+
+クラス klass を id と命名します。
+

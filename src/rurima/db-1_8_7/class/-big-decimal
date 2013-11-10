@@ -1,0 +1,9 @@
+type=class
+library=bigdecimal
+extended=
+aliases=
+included=
+superclass=Numeric
+aliasof=
+
+可変長浮動小数点計算クラスです。

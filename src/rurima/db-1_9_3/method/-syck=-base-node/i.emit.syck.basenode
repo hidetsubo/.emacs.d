@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=emit
+
+--- emit -> String
+
+自身を YAML 形式の文字列にして返します。
+

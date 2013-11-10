@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=field_size_limit
+
+--- field_size_limit -> Fixnum
+
+フィールドサイズの最大値を返します。
+
+@see [[m:CSV.new]]
+

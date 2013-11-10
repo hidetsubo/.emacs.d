@@ -1,0 +1,15 @@
+kind=added
+visibility=public
+names=MATCH
+
+--- $MATCH -> String | nil
+
+[[m:$&]] の別名
+
+  require "English"
+
+  str = 'hoge,foo,bar,hee,hoo'
+
+  /(foo|bar)/ =~ str
+  p $MATCH     #=> "foo"
+

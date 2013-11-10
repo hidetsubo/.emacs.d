@@ -1,0 +1,9 @@
+library=json
+aliasof=JSON=Generator=GeneratorMethods=TrueClass
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+Alias of [[c:JSON::Generator::GeneratorMethods::TrueClass]]

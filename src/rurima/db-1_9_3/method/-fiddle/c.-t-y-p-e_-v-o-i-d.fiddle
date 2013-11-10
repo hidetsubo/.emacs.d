@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=TYPE_VOID
+
+--- TYPE_VOID -> Integer
+C の void 型を表します。
+
+@see [[m:Fiddle::Function.new]]
+

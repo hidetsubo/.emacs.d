@@ -1,0 +1,10 @@
+library=rubygems.ext.builder
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+拡張ライブラリをビルドするためのクラスです。
+他のビルダークラスはこのクラスを継承しています。

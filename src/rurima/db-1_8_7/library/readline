@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=CUI
+methods=
+classes=Readline,Readline=HISTORY
+
+GNU Readline によるコマンドライン入力インタフェースを提供するライブラリです。

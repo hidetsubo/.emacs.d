@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=SCOPY
+
+--- SCOPY -> Integer
+
+Shift + Copy キーを表す定数です。
+

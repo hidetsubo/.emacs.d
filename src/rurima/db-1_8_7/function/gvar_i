@@ -1,0 +1,8 @@
+params=(ID key, struct global_entry *entry, VALUE ary)
+filename=variable.c
+name=gvar_i
+type=int
+macro=false
+private=true
+
+

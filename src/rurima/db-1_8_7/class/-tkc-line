@@ -1,0 +1,9 @@
+type=class
+library=tk.canvas
+extended=
+aliases=
+included=
+superclass=TkcItem
+aliasof=Line
+
+

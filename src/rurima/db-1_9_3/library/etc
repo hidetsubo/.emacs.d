@@ -1,0 +1,14 @@
+requires=
+category=Unix
+methods=
+sublibraries=
+classes=Etc,Struct=Group,Etc=Group,Struct=Passwd,Etc=Passwd
+is_sublibrary=false
+
+/etc に存在するデータベースから情報を得るためのモジュールです。
+クラスにインクルードして使うこともできます。
+
+=== 使い方
+
+  require 'etc'
+  p Etc.getlogin

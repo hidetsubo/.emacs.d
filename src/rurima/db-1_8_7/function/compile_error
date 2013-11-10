@@ -1,0 +1,8 @@
+params=(const char *at)
+filename=eval.c
+name=compile_error
+type=void
+macro=false
+private=true
+
+

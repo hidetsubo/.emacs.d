@@ -1,0 +1,19 @@
+library=psych.tree_builder
+aliasof=
+type=class
+included=
+aliases=
+superclass=Psych=Handler
+extended=
+
+This class works in conjunction with Psych::Parser to build an in-memory
+parse tree that represents a YAML document.
+
+Example:
+
+  parser = Psych::Parser.new Psych::TreeBuilder.new
+  parser.parse('--- foo')
+  tree = parser.handler.root
+
+See Psych::Handler for documentation on the event methods used in this
+class.

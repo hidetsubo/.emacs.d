@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=set_value
+
+--- set_value(val)
+@todo
+
+値を val に設定し、self を返します。
+

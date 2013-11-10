@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkCanvas
+included=
+superclass=Object
+aliasof=
+
+

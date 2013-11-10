@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=fetch
+
+--- fetch(key)
+@todo
+
+Fetches key from the tuple.
+
+

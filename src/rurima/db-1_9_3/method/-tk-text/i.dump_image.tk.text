@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=dump_image
+
+--- dump_image(*index) { ... }
+@todo
+

@@ -1,0 +1,26 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/hide_tsubo/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/hide_tsubo/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/hide_tsubo/.emacs.d/" (21099 50241 0 0) "url/" "undohist/" "tutorial/" "src/" "sampleinit/" "public_repos/" "opt/" "init.el~" "init.el" "eshell/" "elpa/" "elisp/" "ede-projects.el" "conf/" "backups/" "auto-save-list/" "ac-dict/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/hide_tsubo/" (21099 43012 0 0) "VirtualBox VMs/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Desktop/" ".viminfo" ".Trash/" ".emacs.d/" ".DS_Store" ".CFUserTextEncoding" ".bash_history" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

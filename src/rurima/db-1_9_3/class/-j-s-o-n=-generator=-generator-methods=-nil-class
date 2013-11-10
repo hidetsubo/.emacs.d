@@ -1,0 +1,9 @@
+library=json
+aliasof=
+type=module
+included=
+aliases=JSON=Ext=Generator=GeneratorMethods=NilClass
+superclass=
+extended=
+
+[[c:NilClass]] に JSON で使用するインスタンスメソッドを追加するためのモジュールです。

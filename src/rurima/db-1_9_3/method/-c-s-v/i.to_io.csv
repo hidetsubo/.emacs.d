@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=to_io
+
+--- to_io -> self
+
+[[m:IO#to_io]] に委譲します。
+

@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=Network
+methods=
+classes=Ping
+
+サーバが稼働しているかどうか調べるための単純なメソッドを提供します。

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=content_type
+
+--- content_type         -> String | nil
+Content-Type ヘッダの値を返します。
+

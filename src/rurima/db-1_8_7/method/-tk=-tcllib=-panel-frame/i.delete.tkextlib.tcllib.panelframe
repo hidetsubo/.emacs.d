@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=delete,remove_destroy
+
+--- remove_destroy(*wins)
+--- delete(*wins)
+@todo
+

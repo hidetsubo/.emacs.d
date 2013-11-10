@@ -1,0 +1,8 @@
+params=(void)
+filename=eval.c
+name=error_pos
+type=void
+macro=false
+private=true
+
+

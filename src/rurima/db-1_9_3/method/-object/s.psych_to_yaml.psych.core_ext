@@ -1,0 +1,13 @@
+kind=added
+visibility=public
+names=psych_to_yaml,to_yaml
+
+--- to_yaml(options = {}) -> String
+--- psych_to_yaml(options = {}) -> String
+@todo
+
+Convert an object to YAML.  See [[m:Psych.dump]] for more information
+on the available options.
+
+@see [[m:Psych.dump]]
+

@@ -1,0 +1,11 @@
+library=net.http
+aliasof=
+type=class
+included=Net=HTTPExceptions
+aliases=
+superclass=Net=ProtocolError
+extended=
+
+HTTP ステータスコード 1xx を受け取ったという例外です。
+または、ステータスコードが未知のものである場合も
+これに対応します。

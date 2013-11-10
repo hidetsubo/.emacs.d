@@ -1,0 +1,8 @@
+requires=
+category=Thread
+methods=
+sublibraries=
+classes=Sync,Synchronizer,Sync_m,Synchronizer_m,Sync_m=Err,Sync_m=UnknownLocker,Sync_m=LockModeFailer
+is_sublibrary=false
+
+Mix-in により再入可能な reader/writer ロック機能を提供するライブラリです。

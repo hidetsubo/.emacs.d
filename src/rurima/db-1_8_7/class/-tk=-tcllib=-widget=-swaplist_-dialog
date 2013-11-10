@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tcllib.swaplist
+extended=
+aliases=
+included=
+superclass=TkWindow
+aliasof=
+
+

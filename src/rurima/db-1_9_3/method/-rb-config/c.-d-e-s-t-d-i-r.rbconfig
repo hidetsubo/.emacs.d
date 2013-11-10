@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=DESTDIR
+
+--- DESTDIR -> String
+
+make install するときに指定した DESTDIR を返します。
+クロスコンパイルしたときなどは値がセットされています。
+

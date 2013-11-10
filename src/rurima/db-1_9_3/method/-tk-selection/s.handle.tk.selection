@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=handle
+
+--- handle(win, func = Proc.new, keys = nil, &block)
+@todo
+

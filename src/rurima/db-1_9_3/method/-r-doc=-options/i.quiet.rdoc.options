@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=quiet
+
+--- quiet -> bool
+
+コマンドライン引数の --quiet オプションを指定していた場合、true を返し
+ます。そうでない場合は nil を返します。
+

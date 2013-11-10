@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=require_from_name
+
+--- require_from_name(fqname)
+@todo
+

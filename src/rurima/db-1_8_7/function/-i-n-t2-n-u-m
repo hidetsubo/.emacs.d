@@ -1,0 +1,10 @@
+params=(int i)
+filename=ruby.h
+name=INT2NUM
+type=VALUE
+macro=true
+private=false
+
+
+任意の整数を Fixnum か Bignum に変換します。
+

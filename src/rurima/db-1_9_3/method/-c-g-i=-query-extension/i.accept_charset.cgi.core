@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=accept_charset
+
+--- accept_charset -> String
+
+ENV['HTTP_ACCEPT_CHARSET'] を返します。
+

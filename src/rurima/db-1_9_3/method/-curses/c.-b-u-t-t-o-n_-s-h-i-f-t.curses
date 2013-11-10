@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=BUTTON_SHIFT
+
+--- BUTTON_SHIFT -> Integer
+
+マウス操作中に SHIFT キーを押下していることを表すマウスイベント用の定数です。
+
+@see [[m:Curses.getmouse]]
+

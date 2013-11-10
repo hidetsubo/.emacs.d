@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=NULL
+
+--- NULL -> String
+NULLデバイスのファイル名です。
+

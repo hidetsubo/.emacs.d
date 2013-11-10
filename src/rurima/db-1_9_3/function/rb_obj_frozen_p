@@ -1,0 +1,10 @@
+private=false
+params=(VALUE obj)
+type=VALUE
+name=rb_obj_frozen_p
+filename=object.c
+macro=false
+
+
+[[m:Object#frozen?]]
+

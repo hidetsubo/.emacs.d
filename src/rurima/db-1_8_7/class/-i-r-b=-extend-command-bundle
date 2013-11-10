@@ -1,0 +1,9 @@
+type=module
+library=irb.extend=2dcommand
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+irb のコマンドを拡張するためのモジュールです。

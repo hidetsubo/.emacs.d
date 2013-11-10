@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=[]
+
+--- [](key) -> object
+
+指定されたキーの値を返します。
+値が設定されていなければ nil を返します。
+
+@param key キーを指定します。
+

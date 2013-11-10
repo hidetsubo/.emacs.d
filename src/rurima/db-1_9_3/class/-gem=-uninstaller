@@ -1,0 +1,9 @@
+library=rubygems.uninstaller
+aliasof=
+type=class
+included=Gem=UserInteraction
+aliases=
+superclass=Object
+extended=
+
+Gem のアンインストールを行うためのクラスです。

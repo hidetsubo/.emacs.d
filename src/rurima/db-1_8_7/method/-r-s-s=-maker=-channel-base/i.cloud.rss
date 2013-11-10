@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=cloud
+
+--- cloud
+@todo
+cloudを返します．
+

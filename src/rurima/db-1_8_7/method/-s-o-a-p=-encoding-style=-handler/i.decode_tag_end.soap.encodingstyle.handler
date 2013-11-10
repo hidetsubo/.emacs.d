@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=decode_tag_end
+
+--- decode_tag_end(ns, name)
+@todo
+

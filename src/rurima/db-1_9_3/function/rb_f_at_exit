@@ -1,0 +1,8 @@
+private=true
+params=(void)
+type=VALUE
+name=rb_f_at_exit
+filename=eval.c
+macro=false
+
+

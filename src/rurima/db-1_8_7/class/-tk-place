@@ -1,0 +1,9 @@
+type=module
+library=tk.place
+extended=Tk
+aliases=
+included=Tk
+superclass=
+aliasof=Place
+
+

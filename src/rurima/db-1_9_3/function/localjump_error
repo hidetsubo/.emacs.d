@@ -1,0 +1,8 @@
+private=true
+params=(const char *mesg, VALUE status)
+type=void
+name=localjump_error
+filename=eval.c
+macro=false
+
+

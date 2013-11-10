@@ -1,0 +1,10 @@
+params=(struct global_entry *entry, VALUE val)
+filename=variable.c
+name=rb_gvar_set
+type=VALUE
+macro=false
+private=false
+
+
+グローバル変数のエントリ entry に値を代入します。
+

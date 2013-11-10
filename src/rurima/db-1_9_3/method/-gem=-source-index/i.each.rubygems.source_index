@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=each
+
+--- each{|full_name, gem| ... } -> Hash
+--- each -> Enumerator
+
+自身に登録されているそれぞれの Gem についてブロックを評価します。
+
+

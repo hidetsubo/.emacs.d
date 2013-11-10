@@ -1,0 +1,10 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=Obsolete
+methods=
+classes=SHA1
+
+このライブラリは obsolete です。[[lib:digest]] ライブラリを使ってください
+
+[[c:Digest::SHA1]] を継承した SHA1 クラスを定義します。

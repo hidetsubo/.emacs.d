@@ -1,0 +1,9 @@
+type=module
+library=yaml.basenode
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+YAML のノードを検索するのためのモジュールです。

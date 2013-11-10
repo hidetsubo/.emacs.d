@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=inspect,to_s
+
+--- inspect -> String
+--- to_s -> String
+
+自身を人間に読みやすい文字列にして返します。
+

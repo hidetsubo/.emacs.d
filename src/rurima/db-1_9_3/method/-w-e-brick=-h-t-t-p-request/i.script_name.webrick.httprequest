@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=script_name
+
+--- script_name          -> String
+
+CGI での環境変数 SCRIPT_NAME を文字列で表すアクセサです。
+

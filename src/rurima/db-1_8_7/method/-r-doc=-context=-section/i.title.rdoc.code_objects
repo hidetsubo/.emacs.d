@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=title
+
+--- title -> String | nil
+
+section のタイトルを返します。
+

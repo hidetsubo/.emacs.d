@@ -1,0 +1,10 @@
+private=true
+params=(int argc, VALUE *argv, VALUE cont)
+type=VALUE
+name=rb_cont_call
+filename=eval.c
+macro=false
+
+
+Continuation#call の実体。
+

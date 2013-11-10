@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=each_attribute
+
+--- each_attribute {|a| ... } -> [RDoc::Attr]
+
+追加された [[c:RDoc::Attr]] に対してブロックを評価します。
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=itembindinfo
+
+--- itembindinfo(tag, context = nil)
+@todo
+
+

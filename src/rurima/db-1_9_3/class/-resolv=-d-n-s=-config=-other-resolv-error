@@ -1,0 +1,11 @@
+library=resolv
+aliasof=
+type=class
+included=
+aliases=
+superclass=Resolv=ResolvError
+extended=
+
+DNS サーバからの応答がエラーであった場合に発生する例外です。
+
+Resolv::DNSの各メソッドがこの例外を発生させる可能性があります。

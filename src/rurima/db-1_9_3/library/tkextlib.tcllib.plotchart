@@ -1,0 +1,8 @@
+requires=tkextlib.tcllib.setup,tkextlib.tcllib.tooltip,tk.pack,tk.spinbox,tk.virtevent,tk.font,tk.root,tk.itemconfig,tk.mngfocus,tk.textwindow,tk.menu,tkutil,tkextlib.setup,tkextlib.tcllib.autoscroll,tk.canvastag,tk.frame,tk.package,tkextlib.tcllib.ip_entry,tkextlib.tcllib.tablelist_tile,tk.palette,tk.image,tk.textimage,tkextlib.tcllib.cursor,tk.button,tk.clock,tk.scale,tk.checkbutton,tk.tagfont,tk.event,tcltklib,tkextlib.tcllib.ico,tk.macpkg,tk.console,tk.winfo,tk.canvas,tk.scrollable,tk.text,tk.grid,tkextlib.tcllib.datefield,tkextlib.tcllib.swaplist,tk.scrollbox,tk.wm,tk.texttag,tkextlib.tcllib.history,tk.bindtag,tk.txtwin_abst,tk.composite,tkextlib.tcllib.style,tk.menubar,tk.autoload,tk.selection,tk.optionobj,tk.clipboard,tk.dialog,tkextlib.tcllib,tk.menuspec,tk.toplevel,tkextlib.tcllib.plotchart,tkextlib.tcllib.tkpiechart,tkextlib.tcllib.tablelist_core,tk.validation,tk.kinput,tk.label,tk.panedwindow,tk,tk.message,tk.bgerror,tk.variable,tk.listbox,tk.scrollbar,tk.xim,tk.textmark,tk.entry,tk.optiondb,tk.radiobutton,tk.namespace,tkextlib.tcllib.getstring,tkextlib.tcllib.widget,tk.timer,tk.winpkg,tk.labelframe,tk.msgcat,tk.itemfont,tkextlib.tcllib.ctext,tkextlib.tcllib.tablelist,tk.encodedstr,tk.place
+category=
+methods=
+sublibraries=
+classes=Tk=Tcllib=Plotchart,Tk=Tcllib=Plotchart=ChartMethod,Tk=Tcllib=Plotchart=XYPlot,Tk=Tcllib=Plotchart=Stripchart,Tk=Tcllib=Plotchart=PolarPlot,Tk=Tcllib=Plotchart=Polarplot,Tk=Tcllib=Plotchart=IsometricPlot,Tk=Tcllib=Plotchart=Isometricplot,Tk=Tcllib=Plotchart=Plot3D,Tk=Tcllib=Plotchart=Piechart,Tk=Tcllib=Plotchart=Barchart,Tk=Tcllib=Plotchart=HorizontalBarchart,Tk=Tcllib=Plotchart=Timechart,Tk=Tcllib=Plotchart=Gnattchart,Tk=Tcllib=Plotchart=PlotSeries
+is_sublibrary=true
+
+

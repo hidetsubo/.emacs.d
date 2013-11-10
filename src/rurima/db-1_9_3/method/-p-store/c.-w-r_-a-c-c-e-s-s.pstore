@@ -1,0 +1,6 @@
+kind=defined
+visibility=private 
+names=WR_ACCESS
+
+--- WR_ACCESS -> Fixnum
+内部で利用する定数です。

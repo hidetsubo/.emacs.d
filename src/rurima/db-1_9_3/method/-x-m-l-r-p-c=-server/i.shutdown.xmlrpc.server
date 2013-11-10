@@ -1,0 +1,6 @@
+kind=defined
+visibility=public
+names=shutdown
+
+--- shutdown
+Stops and shuts the server down.

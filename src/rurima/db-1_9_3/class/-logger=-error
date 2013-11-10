@@ -1,0 +1,9 @@
+library=logger
+aliasof=
+type=class
+included=
+aliases=
+superclass=RuntimeError
+extended=
+
+このライブラリで使用する例外です。

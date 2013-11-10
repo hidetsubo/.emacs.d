@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=name
+
+--- name -> String
+
+グループ名を設定します。
+
+

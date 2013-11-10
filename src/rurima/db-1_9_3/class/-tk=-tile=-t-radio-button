@@ -1,0 +1,9 @@
+library=tkextlib.tile.tradiobutton
+aliasof=
+type=class
+included=Tk=Tile=TileWidget
+aliases=
+superclass=TkRadioButton
+extended=
+
+

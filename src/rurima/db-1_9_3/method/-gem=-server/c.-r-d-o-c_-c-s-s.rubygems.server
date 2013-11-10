@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=RDOC_CSS
+
+--- RDOC_CSS -> String
+
+RDoc のための CSS を表す文字列です。

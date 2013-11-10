@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=accept_encoding
+
+--- accept_encoding -> String
+
+ENV['HTTP_ACCEPT_ENCODING'] を返します。
+

@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=AUTO
+
+--- AUTO -> Integer
+コードを自動判別することを表します。
+
+NKFモジュール自体からは利用しません。
+
+

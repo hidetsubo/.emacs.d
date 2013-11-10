@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=extend_object
+
+--- extend_object(module) -> Module
+
+ユーザが直接、使うことはありません。
+
+@see [[m:Module#extend_object]]
+

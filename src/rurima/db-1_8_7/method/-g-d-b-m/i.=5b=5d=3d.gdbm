@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=[]=
+
+--- []=(key, value)
+
+key をキーとして、value を格納します。
+
+@param key キー。
+@param value 格納する値。
+

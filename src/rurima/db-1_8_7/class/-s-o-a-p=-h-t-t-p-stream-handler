@@ -1,0 +1,9 @@
+type=class
+library=soap.streamHandler
+extended=
+aliases=
+included=
+superclass=SOAP=StreamHandler
+aliasof=
+
+

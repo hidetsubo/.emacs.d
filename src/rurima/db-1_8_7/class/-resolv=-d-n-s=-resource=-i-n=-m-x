@@ -1,0 +1,10 @@
+type=class
+library=resolv
+extended=
+aliases=
+included=
+superclass=Resolv=DNS=Resource=MX
+aliasof=
+
+DNS リソースのクラス IN、タイプ MX に対応する
+クラスです。

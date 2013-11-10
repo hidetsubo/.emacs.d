@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=full_name
+
+--- full_name -> nil
+
+常に nil を返します。
+

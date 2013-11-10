@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=tar_command
+
+--- tar_command -> String
+
+tar コマンドとして使用するコマンドを返します。
+
+デフォルトは 'tar' です。
+

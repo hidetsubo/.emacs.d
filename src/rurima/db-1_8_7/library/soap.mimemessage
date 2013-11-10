@@ -1,0 +1,8 @@
+requires=soap.soap,soap.mapping.typeMap,soap.baseData,soap.mapping.registry,soap.mapping.factory,soap.mapping.mapping,soap.mapping.rubytypeFactory,soap.mapping,soap.attachment
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=SOAP=MIMEMessage,SOAP=MIMEMessage=MIMEMessageError,SOAP=MIMEMessage=Header,SOAP=MIMEMessage=Headers,SOAP=MIMEMessage=Part
+
+

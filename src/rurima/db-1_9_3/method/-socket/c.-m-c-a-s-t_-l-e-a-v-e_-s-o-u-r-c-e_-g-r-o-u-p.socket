@@ -1,0 +1,13 @@
+kind=defined
+visibility=public
+names=MCAST_LEAVE_SOURCE_GROUP
+
+--- MCAST_LEAVE_SOURCE_GROUP -> Integer
+Leave a multicast source group
+
+[[m:BasicSocket#getsockopt]], [[m:BasicSocket#setsockopt]]
+の第2引数(optname)に使用します。
+
+@see [[m:Socket::Constants::IPPROTO_IP]], [[m:Socket::Constants::IPPROTO_IPV6]],
+     [[RFC:3678]]
+

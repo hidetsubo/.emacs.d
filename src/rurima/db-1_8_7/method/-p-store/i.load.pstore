@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=load
+
+--- load(content) -> object
+単なる [[m:Marshal.#load]] のラッパーメソッドです。
+
+@param content データを指定します。
+
+@see [[m:Marshal.#load]]
+

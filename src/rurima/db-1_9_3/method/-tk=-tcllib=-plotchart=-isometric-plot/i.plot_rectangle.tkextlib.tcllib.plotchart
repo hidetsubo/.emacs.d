@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=plot_rectangle
+
+--- plot_rectangle(*args)
+@todo
+

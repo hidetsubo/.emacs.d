@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=delete_all
+
+--- delete_all(xpath)
+@todo
+

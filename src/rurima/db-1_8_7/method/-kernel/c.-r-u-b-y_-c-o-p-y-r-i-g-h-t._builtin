@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=RUBY_COPYRIGHT
+
+--- RUBY_COPYRIGHT -> String
+Ruby のコピーライトを表す文字列。
+

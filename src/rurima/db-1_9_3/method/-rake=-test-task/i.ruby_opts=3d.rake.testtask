@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=ruby_opts=
+
+--- ruby_opts=(options)
+
+テスト実行時に Ruby コマンドに渡されるオプションをセットします。
+
+@param options 配列でオプションを指定します。
+

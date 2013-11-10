@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=set_procedure_element_type
+
+--- set_procedure_element_type(idxs, cmd)
+@todo
+

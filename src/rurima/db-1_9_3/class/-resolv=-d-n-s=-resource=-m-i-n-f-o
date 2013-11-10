@@ -1,0 +1,13 @@
+library=resolv
+aliasof=
+type=class
+included=
+aliases=
+superclass=Resolv=DNS=Resource
+extended=
+
+DNS リソースの MINFO レコード
+を表す抽象クラスです。
+
+[[m:Resolv::DNS#getresource]] で MINFO レコードを得たい場合は
+[[c:Resolv::DNS::Resource::IN::MINFO]] を使うべきです。

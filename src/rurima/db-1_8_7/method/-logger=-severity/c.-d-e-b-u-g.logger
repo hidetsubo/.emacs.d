@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=DEBUG
+
+--- DEBUG -> Integer
+ログレベル:デバッグを表す定数です。
+

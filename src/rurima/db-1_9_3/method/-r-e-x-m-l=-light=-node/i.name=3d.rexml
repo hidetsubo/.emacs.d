@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=name=
+
+--- name=(name_str, ns = nil)
+@todo
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=create_class_name
+
+--- create_class_name(qname)
+@todo
+

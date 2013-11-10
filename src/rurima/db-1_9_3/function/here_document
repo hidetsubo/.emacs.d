@@ -1,0 +1,11 @@
+private=true
+params=(NODE *here)
+type=int
+name=here_document
+filename=parse.y
+macro=false
+
+
+lex_strterm 形式の term に従ってヒアドキュメントを
+終端行まで読み込む。
+

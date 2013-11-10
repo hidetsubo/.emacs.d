@@ -1,0 +1,9 @@
+library=rubygems.exceptions
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Exception
+extended=
+
+HTTP 経由でネットワークにアクセス出来ない場合に使用する例外です。

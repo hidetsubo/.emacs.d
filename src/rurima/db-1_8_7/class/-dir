@@ -1,0 +1,9 @@
+type=class
+library=_builtin
+extended=
+aliases=
+included=Enumerable
+superclass=Object
+aliasof=
+
+ディレクトリの操作を行うためのクラスです。

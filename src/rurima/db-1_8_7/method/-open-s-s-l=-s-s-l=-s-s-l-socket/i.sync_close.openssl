@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=sync_close
+
+--- sync_close -> bool
+SSLSocket を close するときにラップしているソケットも close するかどうかを
+返します。
+
+true でソケットも close します。
+

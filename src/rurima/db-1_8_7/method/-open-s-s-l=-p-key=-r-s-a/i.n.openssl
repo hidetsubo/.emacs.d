@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=n
+
+--- n -> OpenSSL::BN
+鍵の modulus です。
+
+公開鍵、秘密鍵両方の一部です。
+

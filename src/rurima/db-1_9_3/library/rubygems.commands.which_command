@@ -1,0 +1,8 @@
+requires=rubygems.builder,rubygems.source_info_cache_entry,rubygems.source_info_cache,rubygems.source_index,rubygems.requirement,rubygems.spec_fetcher,rubygems.gem_path_searcher,rubygems.defaults,rubygems.remote_fetcher,rubygems.specification,rubygems.version,rubygems.platform,rubygems.command,rubygems.exceptions,rubygems,rubygems.digest.sha2,rubygems.dependency,rubygems.user_interaction
+category=
+methods=
+sublibraries=
+classes=Gem=Commands=WhichCommand
+is_sublibrary=true
+
+指定された Gem パッケージに含まれるライブラリのパスを見つけるためのライブラリです。

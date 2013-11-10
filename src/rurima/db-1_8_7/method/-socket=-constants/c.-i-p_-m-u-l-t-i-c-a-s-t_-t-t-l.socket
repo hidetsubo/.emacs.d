@@ -1,0 +1,12 @@
+visibility=public
+kind=defined
+names=IP_MULTICAST_TTL
+
+--- IP_MULTICAST_TTL -> Integer
+IP multicast TTL。
+[[m:BasicSocket#getsockopt]], [[m:BasicSocket#setsockopt]]
+の第2引数(optname)に使用します。
+
+@see [[m:Socket::Constants::IPPROTO_IP]], 
+     [[man:ip(4freebsd)]], [[man:ip(7linux)]]
+

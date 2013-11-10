@@ -1,0 +1,11 @@
+params=(VALUE str, const char *ptr, long len)
+filename=string.c
+name=rb_str_cat
+type=VALUE
+macro=false
+private=false
+
+
+文字列 str に、長さ len (NUL 含まず)の C の文字列
+ptr を破壊的に連結します。
+

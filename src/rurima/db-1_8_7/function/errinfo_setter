@@ -1,0 +1,8 @@
+params=(VALUE val, ID id, VALUE *var)
+filename=eval.c
+name=errinfo_setter
+type=void
+macro=false
+private=true
+
+

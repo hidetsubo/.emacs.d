@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=setiv2obj
+
+--- setiv2obj(obj, node, map)
+@todo
+

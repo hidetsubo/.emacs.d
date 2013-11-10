@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=VERSION
+
+--- VERSION -> String
+
+ライブラリのバージョンを表す文字列です。
+
+

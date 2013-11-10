@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=element_create
+
+--- element_create(name, type, *args)
+@todo
+

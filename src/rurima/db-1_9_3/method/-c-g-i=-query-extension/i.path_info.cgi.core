@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=path_info
+
+--- path_info -> String
+
+ENV['PATH_INFO'] を返します。
+

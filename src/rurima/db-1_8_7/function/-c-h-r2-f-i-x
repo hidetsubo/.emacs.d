@@ -1,0 +1,10 @@
+params=(char x)
+filename=ruby.h
+name=CHR2FIX
+type=VALUE
+macro=true
+private=false
+
+
+char 型の整数 x を Ruby の Fixnum に変換します。
+

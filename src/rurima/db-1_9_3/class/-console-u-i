@@ -1,0 +1,11 @@
+library=rubygems.user_interaction
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=StreamUI
+extended=
+
+[[c:Gem::StreamUI]] を標準入力、標準出力、標準エラー出力を使用して初期化します。
+
+@see [[m:Kernel::STDIN]], [[m:Kernel::STDOUT]], [[m:Kernel::STDERR]]

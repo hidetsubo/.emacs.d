@@ -1,0 +1,10 @@
+private=false
+params=(VALUE klass, ID id)
+type=int
+name=rb_const_defined
+filename=variable.c
+macro=false
+
+
+klass とそのスーパークラスに定数 id が定義されていれば真。
+

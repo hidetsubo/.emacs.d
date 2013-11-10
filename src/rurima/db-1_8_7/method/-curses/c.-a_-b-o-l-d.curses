@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=A_BOLD
+
+--- A_BOLD -> Integer
+
+文字列を明るくするか太字にするための属性マスク用の定数です。
+
+@see [[m:Curses.attrset]]
+

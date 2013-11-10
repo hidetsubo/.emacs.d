@@ -1,0 +1,10 @@
+private=false
+params=(VALUE v)
+type=void
+name=Check_SafeStr
+filename=ruby.h
+macro=false
+
+
+古い API です。[[f:SafeStringValue]] を使ってください。
+

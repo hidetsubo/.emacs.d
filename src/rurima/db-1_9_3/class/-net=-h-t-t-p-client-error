@@ -1,0 +1,12 @@
+library=net.http
+aliasof=
+type=class
+included=
+aliases=
+superclass=Net=HTTPResponse
+extended=
+
+HTTP レスポンス 4xx (Client Error) を表現するクラスです。
+
+リクエスト構文が間違っているなど、クライアントが間違って
+いることを表しています。

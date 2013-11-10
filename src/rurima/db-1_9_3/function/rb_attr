@@ -1,0 +1,8 @@
+private=false
+params=(VALUE klass, ID id, int read, int write, int ex)
+type=void
+name=rb_attr
+filename=eval.c
+macro=false
+
+

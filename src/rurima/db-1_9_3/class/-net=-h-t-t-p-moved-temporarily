@@ -1,0 +1,9 @@
+library=net.http
+aliasof=Net=HTTPFound
+type=class
+included=
+aliases=
+superclass=
+extended=
+
+Alias of [[c:Net::HTTPFound]]

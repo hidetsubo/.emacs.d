@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=invalid_namespace?
+
+--- invalid_namespace?
+@todo
+

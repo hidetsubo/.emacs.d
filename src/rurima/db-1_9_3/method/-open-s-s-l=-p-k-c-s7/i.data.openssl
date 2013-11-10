@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=data
+
+--- data -> String
+署名対象のデータを文字列で返します。
+

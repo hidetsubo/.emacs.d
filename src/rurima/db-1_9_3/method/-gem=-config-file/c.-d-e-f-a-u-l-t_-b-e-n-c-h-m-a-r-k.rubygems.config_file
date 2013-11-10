@@ -1,0 +1,8 @@
+kind=defined
+visibility=protected 
+names=DEFAULT_BENCHMARK
+
+--- DEFAULT_BENCHMARK -> false
+
+ベンチマークを実行するかどうかのデフォルト値です。
+

@@ -1,0 +1,9 @@
+library=rss
+aliasof=
+type=class
+included=DublinCoreModel
+aliases=
+superclass=RSS=Element
+extended=
+
+

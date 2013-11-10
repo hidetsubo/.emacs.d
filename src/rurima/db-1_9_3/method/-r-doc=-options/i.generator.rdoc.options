@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=generator
+
+--- generator -> Generator
+
+コマンドライン引数の --fmt オプションで指定した文字列に応じた
+Generator を返します。
+
+指定しなかった場合は、HTML に対応する Generator を返します。
+

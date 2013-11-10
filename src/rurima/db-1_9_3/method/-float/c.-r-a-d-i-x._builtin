@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=RADIX
+
+--- RADIX -> Fixnum
+
+指数表現の基数
+

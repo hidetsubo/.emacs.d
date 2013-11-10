@@ -1,0 +1,8 @@
+private=true
+params=(VALUE val, ID id, void *data, struct global_variable *var)
+type=void
+name=val_setter
+filename=variable.c
+macro=false
+
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=type_id
+
+--- type_id -> String
+
+自身のタグを文字列で返します。
+

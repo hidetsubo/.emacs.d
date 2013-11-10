@@ -1,0 +1,8 @@
+requires=syck.ypath,syck.basenode
+category=
+methods=
+sublibraries=
+classes=Syck=YamlNode
+is_sublibrary=true
+
+YAML のノードを表現するためのサブライブラリです。

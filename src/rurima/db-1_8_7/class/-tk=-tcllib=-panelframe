@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tcllib.panelframe
+extended=
+aliases=Tk=Tcllib=PanelFrame
+included=
+superclass=Object
+aliasof=
+
+

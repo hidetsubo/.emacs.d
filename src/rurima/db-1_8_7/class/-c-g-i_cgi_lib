@@ -1,0 +1,10 @@
+type=class
+library=cgi=2dlib
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+このライブラリは obsolete です。
+[[lib:cgi]] ライブラリを使ってください。

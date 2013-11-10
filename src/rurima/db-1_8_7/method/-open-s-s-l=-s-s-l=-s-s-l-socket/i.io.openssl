@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=io,to_io
+
+--- io -> IO
+--- to_io -> IO
+SSLSocket オブジェクトを生成する時に渡されたソケットを返します。
+
+@see [[m:OpenSSL::SSL::SSLSocket.new]]
+

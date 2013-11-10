@@ -1,0 +1,12 @@
+library=cgi.session
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+[[c:File]] を用いたセッション保存先を表すクラスです。
+
+値として文字列のみ保存することができます。
+他の型の値を扱うときは、ユーザが責任を持って型変換を行う必要があります。

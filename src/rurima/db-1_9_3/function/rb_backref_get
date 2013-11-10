@@ -1,0 +1,10 @@
+private=false
+params=(void)
+type=VALUE
+name=rb_backref_get
+filename=parse.y
+macro=false
+
+
+現在の SCOPE の $~ の値を返します。
+

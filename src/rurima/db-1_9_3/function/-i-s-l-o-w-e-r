@@ -1,0 +1,8 @@
+private=false
+params=(char c)
+type=int
+name=ISLOWER
+filename=ruby.h
+macro=true
+
+

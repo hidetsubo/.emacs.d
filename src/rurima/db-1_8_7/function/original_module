@@ -1,0 +1,8 @@
+params=(VALUE c)
+filename=variable.c
+name=original_module
+type=VALUE
+macro=false
+private=true
+
+

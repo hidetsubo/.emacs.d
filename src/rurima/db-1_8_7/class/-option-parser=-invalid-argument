@@ -1,0 +1,9 @@
+type=class
+library=optparse
+extended=
+aliases=
+included=
+superclass=OptionParser=ParseError
+aliasof=
+
+オプションの引数が指定されたパターンにマッチしない時に投げられます。

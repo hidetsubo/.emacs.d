@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=columncget,columnconfiginfo,columnconfigure,current_column_configinfo,current_columnconfiginfo
+
+--- current_column_configinfo(tagOrId, slot = nil)
+--- columncget(tagOrId, slot = nil)
+--- columnconfigure(tagOrId, slot = nil)
+--- columnconfiginfo(tagOrId, slot = nil)
+--- current_columnconfiginfo(tagOrId, slot = nil)
+@todo
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=F_WRLCK
+
+--- F_WRLCK -> Integer
+書き込みリースを取得します。
+

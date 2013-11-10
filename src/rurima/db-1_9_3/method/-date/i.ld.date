@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=ld
+
+--- ld -> Integer
+リリウス日を返します。
+

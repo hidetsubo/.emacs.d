@@ -1,0 +1,9 @@
+type=class
+library=openssl
+extended=
+aliases=
+included=
+superclass=OpenSSL=PKey=PKeyError
+aliasof=
+
+RSA 関連のエラーが起きた場合に発生する例外のクラスです。

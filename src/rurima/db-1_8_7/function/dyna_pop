@@ -1,0 +1,10 @@
+params=(struct RVarmap *vars)
+filename=parse.y
+name=dyna_pop
+type=void
+macro=false
+private=true
+
+
+ブロックローカル変数テーブルをポップします。
+

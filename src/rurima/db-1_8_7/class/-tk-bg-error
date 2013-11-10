@@ -1,0 +1,9 @@
+type=module
+library=tk.bgerror
+extended=Tk
+aliases=
+included=
+superclass=
+aliasof=
+
+

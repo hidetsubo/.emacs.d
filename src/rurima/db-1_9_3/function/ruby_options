@@ -1,0 +1,11 @@
+private=false
+params=(int argc, char **argv)
+type=void
+name=ruby_options
+filename=eval.c
+macro=false
+
+
+argc と argv を ruby への
+コマンドラインオプションとして処理します。
+

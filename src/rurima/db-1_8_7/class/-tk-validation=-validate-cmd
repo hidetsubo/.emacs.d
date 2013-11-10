@@ -1,0 +1,9 @@
+type=class
+library=tk.validation
+extended=
+aliases=
+included=
+superclass=TkValidateCommand
+aliasof=
+
+

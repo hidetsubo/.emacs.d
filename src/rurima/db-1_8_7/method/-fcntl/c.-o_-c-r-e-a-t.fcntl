@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=O_CREAT
+
+--- O_CREAT -> Integer
+ファイルが存在しない場合にファイルを作成します。
+

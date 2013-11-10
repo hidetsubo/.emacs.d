@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=seq
+
+--- seq(type_id, style = nil)
+@todo
+

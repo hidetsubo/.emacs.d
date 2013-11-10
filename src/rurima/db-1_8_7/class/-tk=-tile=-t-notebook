@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tnotebook
+extended=
+aliases=
+included=TkItemConfigMethod,Tk=Tile=TileWidget
+superclass=TkWindow
+aliasof=
+
+

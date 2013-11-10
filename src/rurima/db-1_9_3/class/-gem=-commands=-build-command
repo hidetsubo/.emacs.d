@@ -1,0 +1,9 @@
+library=rubygems.commands.build_command
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Command
+extended=
+
+Gem パッケージをビルドするためのクラスです。

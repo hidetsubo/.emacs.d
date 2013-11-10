@@ -1,0 +1,8 @@
+params=(NODE *node)
+filename=parse.y
+name=cond0
+type=NODE *
+macro=false
+private=true
+
+

@@ -1,0 +1,12 @@
+private=true
+params=(ID id, VALUE *klassp)
+type=int
+name=top_const_get
+filename=variable.c
+macro=false
+
+
+トップレベルの定数 id を参照します。
+定数 id が定義されていたら真を返し klassp に
+その値を書き込みます。未定義なら偽を返します。
+

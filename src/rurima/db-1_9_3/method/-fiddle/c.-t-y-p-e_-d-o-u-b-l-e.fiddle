@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=TYPE_DOUBLE
+
+--- TYPE_DOUBLE -> Integer
+C の double 型を表します。
+
+@see [[m:Fiddle::Function.new]]
+

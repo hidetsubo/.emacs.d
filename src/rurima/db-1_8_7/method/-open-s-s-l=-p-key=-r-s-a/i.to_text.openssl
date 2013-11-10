@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=to_text
+
+--- to_text -> String
+鍵を人間が読める形式に変換します。
+

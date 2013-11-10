@@ -1,0 +1,12 @@
+kind=defined
+visibility=public
+names=source_location
+
+--- source_location -> [String, Fixnum] | nil
+ソースコードのファイル名と行番号を配列で返します。
+
+その手続オブジェクトが ruby で定義されていない(つまりネイティブ
+である)場合は nil を返します。
+
+@see [[m:Method#source_location]]
+

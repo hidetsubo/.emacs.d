@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkScrollbar
+included=
+superclass=Object
+aliasof=
+
+

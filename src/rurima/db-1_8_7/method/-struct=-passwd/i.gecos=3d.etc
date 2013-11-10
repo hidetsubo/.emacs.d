@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=gecos=
+
+--- gecos=()
+
+このユーザのフルネーム等の詳細情報を設定します。
+

@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=YAML=Stream
+
+複数の YAML ドキュメントを一度に扱うためのサブライブラリです。

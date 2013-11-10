@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=options
+
+--- options -> Array
+
+rdoc コマンドに渡すオプションのリストを返します。
+
+指定できるオプションは -o, --main, --title, -T 以外です。
+

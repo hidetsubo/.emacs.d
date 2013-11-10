@@ -1,0 +1,9 @@
+library=rubygems.commands.cleanup_command
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Command
+extended=
+
+ローカルにインストールされている古い Gem を削除するクラスです。

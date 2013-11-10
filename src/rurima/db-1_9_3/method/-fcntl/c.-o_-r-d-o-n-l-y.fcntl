@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=O_RDONLY
+
+--- O_RDONLY -> Integer
+ファイルを読み込み専用で開きます。
+

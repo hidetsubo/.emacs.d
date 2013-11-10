@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=installed_gems
+
+--- installed_gems -> Array
+
+[[m:Gem::DependencyInstaller#install]] でインストールされた Gem のリストを返します。
+

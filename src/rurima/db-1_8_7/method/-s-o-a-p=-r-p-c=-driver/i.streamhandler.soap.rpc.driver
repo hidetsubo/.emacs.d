@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=streamhandler,streamhandler=
+
+--- streamhandler
+--- streamhandler=(value)
+@todo
+

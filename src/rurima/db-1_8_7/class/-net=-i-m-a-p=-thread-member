@@ -1,0 +1,10 @@
+type=class
+library=net.imap
+extended=
+aliases=
+included=
+superclass=Struct
+aliasof=
+
+[[m:Net::IMAP#thread]]、 [[m:Net::IMAP#uid_thread]] から
+得られるスレッドの木構造のノードを表すクラスです。

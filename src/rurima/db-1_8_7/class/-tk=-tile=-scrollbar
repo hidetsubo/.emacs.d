@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tscrollbar
+extended=
+aliases=Tk=Tile=TScrollbar,Tk=Tile=TScrollbar
+included=
+superclass=Object
+aliasof=
+
+

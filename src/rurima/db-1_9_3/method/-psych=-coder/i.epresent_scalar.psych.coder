@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=epresent_scalar
+
+--- epresent_scalar(tag, value)
+@todo
+
+Emit a scalar with +value+ and +tag+
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=normalize_space
+
+--- normalize_space(string = nil)
+@todo
+

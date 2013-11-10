@@ -1,0 +1,9 @@
+type=class
+library=drb
+extended=
+aliases=
+included=
+superclass=DRb=DRbError
+aliasof=
+
+通信エラーが発生したことを意味する例外クラス。

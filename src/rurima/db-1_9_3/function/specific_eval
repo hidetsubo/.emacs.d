@@ -1,0 +1,10 @@
+private=true
+params=(int argc, VALUE *argv, VALUE klass, VALUE self)
+type=VALUE
+name=specific_eval
+filename=eval.c
+macro=false
+
+
+rb_obj_instance_eval と rb_mod_module_eval を共通化するための補助関数です。
+

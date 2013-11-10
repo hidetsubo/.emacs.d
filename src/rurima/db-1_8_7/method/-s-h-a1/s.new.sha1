@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=new
+
+--- new(str = nil) -> SHA1
+
+SHA1 ハッシュを生成します。
+
+@param str 文字列を指定します。
+

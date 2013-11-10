@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=Database
+methods=
+classes=PStore,PStore=Error
+
+Rubyのオブジェクトを外部ファイルに格納するためのライブラリです。

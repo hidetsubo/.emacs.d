@@ -1,0 +1,8 @@
+private=true
+params=(VALUE x, VALUE y)
+type=VALUE
+name=nil_plus
+filename=object.c
+macro=false
+
+

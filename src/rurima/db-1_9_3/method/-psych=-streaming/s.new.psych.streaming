@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=new
+
+--- new
+@todo
+
+Create a new streaming emitter.  Emitter will print to +io+.  See
+Psych::Stream for an example.
+

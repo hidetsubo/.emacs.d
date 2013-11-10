@@ -1,0 +1,8 @@
+requires=
+category=
+methods=
+sublibraries=
+classes=Syck=Stream
+is_sublibrary=true
+
+複数の YAML ドキュメントを一度に扱うためのサブライブラリです。

@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=address
+
+--- address -> String
+
+接続するアドレスを返します。
+
+@see [[m:Net::HTTP.new]]

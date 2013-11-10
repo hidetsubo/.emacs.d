@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=configure
+
+--- configure(slot, value = TkComm::None)
+@todo
+
+
+

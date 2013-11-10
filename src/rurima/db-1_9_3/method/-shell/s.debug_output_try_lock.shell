@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=debug_output_try_lock
+
+--- debug_output_try_lock -> bool
+@todo
+
+@see [[m:Mutex#try_lock]]
+

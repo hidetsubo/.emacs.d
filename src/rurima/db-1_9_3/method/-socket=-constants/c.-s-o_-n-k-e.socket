@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=SO_NKE
+
+--- SO_NKE -> Integer
+@todo
+socket-level Network Kernel Extension。
+

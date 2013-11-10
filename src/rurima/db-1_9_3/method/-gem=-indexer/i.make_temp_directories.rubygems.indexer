@@ -1,0 +1,7 @@
+kind=defined
+visibility=public 
+names=make_temp_directories
+
+--- make_temp_directories
+一時的に使用するディレクトリを作成します。
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=yaml_initialize
+
+--- yaml_initialize(klass, ivars) -> YAML::Object
+@todo
+

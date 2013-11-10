@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=digest
+
+--- digest(data) -> String
+data のダイジェストを MDC2 で計算します。
+
+@param data ダイジェストを計算する文字列
+

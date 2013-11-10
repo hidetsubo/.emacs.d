@@ -1,0 +1,8 @@
+params=(VALUE proc, VALUE args)
+filename=eval.c
+name=proc_call
+type=VALUE
+macro=false
+private=true
+
+

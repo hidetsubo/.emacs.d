@@ -1,0 +1,9 @@
+type=class
+library=tk.msgcat
+extended=
+aliases=
+included=
+superclass=
+aliasof=TkMsgCatalog
+
+Alias of [[c:TkMsgCatalog]]

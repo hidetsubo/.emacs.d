@@ -1,0 +1,10 @@
+params=(long x, long y)
+filename=st.c
+name=numcmp
+type=int
+macro=false
+private=true
+
+
+int用の比較関数。
+

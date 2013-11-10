@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=emitter
+
+--- emitter -> YAML::Syck::Emitter
+@todo
+

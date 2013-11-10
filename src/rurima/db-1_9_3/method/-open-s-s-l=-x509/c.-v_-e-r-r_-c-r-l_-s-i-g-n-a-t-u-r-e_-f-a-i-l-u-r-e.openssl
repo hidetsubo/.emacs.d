@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=V_ERR_CRL_SIGNATURE_FAILURE
+
+--- V_ERR_CRL_SIGNATURE_FAILURE -> Integer
+CRL になされた署名の検証に失敗したことを意味します。
+
+[[m:OpenSSL::X509::Store#error]] や
+[[m:OpenSSL::X509::StoreContext#error]] のエラーコードとして
+使われます。
+

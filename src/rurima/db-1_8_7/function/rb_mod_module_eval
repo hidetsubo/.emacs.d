@@ -1,0 +1,10 @@
+params=(int argc, VALUE *argv, VALUE mod)
+filename=eval.c
+name=rb_mod_module_eval
+type=VALUE
+macro=false
+private=false
+
+
+Module#module_eval の実体です。
+

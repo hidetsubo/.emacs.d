@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=fileno
+
+--- fileno    -> nil
+
+何もせず nil を返します。
+

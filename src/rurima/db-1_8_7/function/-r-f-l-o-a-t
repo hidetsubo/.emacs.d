@@ -1,0 +1,8 @@
+params=(VALUE obj)
+filename=ruby.h
+name=RFLOAT
+type=struct RFloat *
+macro=true
+private=false
+
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=install_cmd
+
+--- install_cmd(*args)
+@todo
+

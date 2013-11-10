@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=disconnected?
+
+--- disconnected? -> bool
+
+サーバとの接続が切断されていれば真を返します。
+
+@see [[m:Net::IMAP#disconnect]]
+
+

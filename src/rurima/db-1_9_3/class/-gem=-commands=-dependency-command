@@ -1,0 +1,9 @@
+library=rubygems.commands.dependency_command
+aliasof=
+type=class
+included=Gem=LocalRemoteOptions,Gem=VersionOption
+aliases=
+superclass=Gem=Command
+extended=
+
+インストールされている Gem パッケージの依存関係を表示するためのクラスです。

@@ -1,0 +1,10 @@
+params=(ID id, VALUE value, int curr)
+filename=eval.c
+name=dvar_asgn_internal
+type=void
+macro=false
+private=true
+
+
+dvar_asgn と dvar_asgn_curr の補助関数です。
+

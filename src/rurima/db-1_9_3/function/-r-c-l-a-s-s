@@ -1,0 +1,8 @@
+private=false
+params=(VALUE obj)
+type=struct RClass *
+name=RCLASS
+filename=ruby.h
+macro=true
+
+

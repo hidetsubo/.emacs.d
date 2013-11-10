@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=map
+
+--- map(type_id, style = nil)
+@todo
+

@@ -1,0 +1,7 @@
+visibility=private 
+kind=defined
+names=write_file
+
+--- write_file(filename)
+@todo
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=space
+
+--- space -> String
+
+JSON 形式の文字列のトークン間に挿入する文字列を返します。
+

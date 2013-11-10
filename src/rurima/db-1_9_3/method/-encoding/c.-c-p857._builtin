@@ -1,0 +1,14 @@
+kind=defined
+visibility=public
+names=CP857,IBM857
+
+--- IBM857 -> Encoding
+--- CP857 -> Encoding
+
+CP857 エンコーディング。
+
+トルコ語に用いられる、
+8bit single-byte エンコーディングです。
+
+@see [[url:http://en.wikipedia.org/wiki/Code_page_857]]
+

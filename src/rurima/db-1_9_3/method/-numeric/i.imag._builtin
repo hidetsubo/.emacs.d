@@ -1,0 +1,13 @@
+kind=defined
+visibility=public
+names=imag,imaginary
+
+--- imag      -> 0
+--- imaginary -> 0
+
+常に 0 を返します。
+
+Numeric のサブクラスは、このメソッドを適切に再定義しなければなりません。
+
+@see [[m:Numeric#real]]、[[m:Complex#imag]]
+

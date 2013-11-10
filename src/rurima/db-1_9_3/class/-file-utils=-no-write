@@ -1,0 +1,10 @@
+library=fileutils
+aliasof=
+type=module
+included=FileUtils
+aliases=
+superclass=
+extended=
+
+FileUtils と同じメソッドが定義されていますが、
+実際にファイルを変更する操作は実行しません。

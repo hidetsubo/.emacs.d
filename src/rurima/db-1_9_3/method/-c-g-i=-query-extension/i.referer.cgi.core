@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=referer
+
+--- referer -> String
+
+ENV['HTTP_REFERER'] を返します。
+

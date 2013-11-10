@@ -1,0 +1,9 @@
+library=webrick.compat
+aliasof=
+type=class
+included=
+aliases=
+superclass=SystemCallError
+extended=
+
+プロトコル・エラー (POSIX.1)

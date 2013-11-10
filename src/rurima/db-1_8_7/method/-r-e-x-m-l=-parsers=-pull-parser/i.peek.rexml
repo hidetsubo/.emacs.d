@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=peek
+
+--- peek(depth = 0)
+@todo
+

@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=new
+
+--- new -> DRb::ExtServManager
+DRb::ExtServManager オブジェクトを生成して返します。
+
+これで生成したオブジェクトの [[m:DRb::ExtServManager#service]] を
+リモートプロセスから呼び出すことでサービスの仲介を実現します。
+

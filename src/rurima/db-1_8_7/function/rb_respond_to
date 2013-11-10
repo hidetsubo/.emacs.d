@@ -1,0 +1,11 @@
+params=(VALUE obj, ID id)
+filename=eval.c
+name=rb_respond_to
+type=int
+macro=false
+private=false
+
+
+obj にメソッド id が定義されているとき真。
+プライベートメソッドに対しても真を返します。
+

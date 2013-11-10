@@ -1,0 +1,9 @@
+type=class
+library=xsd.datatypes
+extended=
+aliases=
+included=
+superclass=XSD=XSDDecimal
+aliasof=
+
+

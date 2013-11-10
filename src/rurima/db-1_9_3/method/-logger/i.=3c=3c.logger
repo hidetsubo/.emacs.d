@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=<<
+
+--- <<(msg) -> Integer | nil
+
+ログを出力します。
+
+@param msg ログに出力するメッセージ。
+

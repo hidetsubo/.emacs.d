@@ -1,0 +1,9 @@
+type=module
+library=xsd.codegen
+extended=
+aliases=
+included=XSD=CodeGen=GenSupport
+superclass=
+aliasof=
+
+

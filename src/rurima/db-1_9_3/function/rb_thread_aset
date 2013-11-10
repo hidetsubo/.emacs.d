@@ -1,0 +1,8 @@
+private=true
+params=(VALUE thread, VALUE id, VALUE val)
+type=VALUE
+name=rb_thread_aset
+filename=eval.c
+macro=false
+
+

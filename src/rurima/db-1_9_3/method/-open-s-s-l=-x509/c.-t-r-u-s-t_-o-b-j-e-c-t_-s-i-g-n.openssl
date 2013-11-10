@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=TRUST_OBJECT_SIGN
+
+--- TRUST_OBJECT_SIGN -> Integer
+@todo
+

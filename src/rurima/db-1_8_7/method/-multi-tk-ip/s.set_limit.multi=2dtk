@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=set_limit
+
+--- set_limit(limit_type, slave = '', opts = {})
+@todo
+

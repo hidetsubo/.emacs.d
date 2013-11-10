@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=PF_RTIP
+
+--- PF_RTIP -> Integer
+Help Identify RTIP packets。
+[[m:Socket.open]] の第一引数 domain に使用します。
+
+@see [[man:socket(2freebsd)]]
+
+

@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=path=
+
+--- path=(value)
+
+クッキーを適用するパスをセットします。
+
+@param value パスを指定します。
+

@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=AF_SNA,PF_SNA
+
+--- AF_SNA -> Integer
+--- PF_SNA -> Integer
+@todo
+IBM SNA protocol。
+[[m:Socket.open]] の第一引数 domain に使用します。
+

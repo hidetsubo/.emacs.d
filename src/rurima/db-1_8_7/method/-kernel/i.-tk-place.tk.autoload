@@ -1,0 +1,9 @@
+visibility=private 
+kind=added
+names=TkPlace
+
+--- TkPlace(*args)
+@todo
+
+[[m:TkPlace.#configure]] と同じ
+

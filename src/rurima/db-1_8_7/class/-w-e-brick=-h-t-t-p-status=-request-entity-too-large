@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpstatus
+extended=
+aliases=
+included=
+superclass=WEBrick=HTTPStatus=ClientError
+aliasof=
+
+HTTP のステータスコード 413 Request Entity Too Large を表すクラスです。

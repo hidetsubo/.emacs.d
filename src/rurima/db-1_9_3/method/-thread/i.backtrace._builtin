@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=backtrace
+
+--- backtrace    -> [String] | nil
+スレッドの現在のバックトレースを返します。
+
+スレッドがすでに終了している場合は nil を返します。
+

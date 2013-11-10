@@ -1,0 +1,9 @@
+type=module
+library=webrick.httpauth.authenticator
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+

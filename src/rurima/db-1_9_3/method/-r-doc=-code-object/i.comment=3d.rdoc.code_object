@@ -1,0 +1,12 @@
+kind=defined
+visibility=public
+names=comment=
+
+--- comment=(comment)
+
+自身のコメントを comment に設定します。
+
+ただし、comment が空文字列だった場合は何もしません。
+
+@param comment コメントを文字列で指定します。
+

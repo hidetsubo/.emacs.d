@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=comment
+
+--- comment -> String | nil
+
+section のコメントを返します。
+

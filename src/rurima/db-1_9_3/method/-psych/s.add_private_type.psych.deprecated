@@ -1,0 +1,7 @@
+kind=added
+visibility=public
+names=add_private_type
+
+--- add_private_type(type_tag, &block)
+@todo
+

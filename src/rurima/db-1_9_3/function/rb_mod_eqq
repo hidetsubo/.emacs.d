@@ -1,0 +1,8 @@
+private=true
+params=(VALUE mod, VALUE arg)
+type=VALUE
+name=rb_mod_eqq
+filename=object.c
+macro=false
+
+

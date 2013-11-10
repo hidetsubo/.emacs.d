@@ -1,0 +1,18 @@
+requires=tk.pack,tk.spinbox,tk.virtevent,tk.font,tk.root,tk.itemconfig,tk.mngfocus,tk.textwindow,tk.menu,tkutil,tk.canvastag,tk.frame,tk.package,tk.palette,tk.image,tk.textimage,tk.button,tk.clock,tk.scale,tk.checkbutton,tk.tagfont,tk.event,tcltklib,tk.macpkg,tk.console,tk.winfo,tk.canvas,tk.scrollable,tk.text,tk.grid,tk.scrollbox,tk.wm,tk.texttag,tk.bindtag,tk.composite,tk.txtwin_abst,tk.menubar,tk.autoload,tk.selection,tk.optionobj,tk.clipboard,tk.dialog,tk.menuspec,tk.toplevel,tk.validation,tk.kinput,tk.label,tk.panedwindow,tk,tk.message,tk.bgerror,tk.variable,tk.listbox,tk.scrollbar,tk.xim,tk.textmark,tk.entry,tk.optiondb,tk.radiobutton,tk.namespace,tk.timer,tk.winpkg,tk.labelframe,tk.msgcat,tk.itemfont,tk.place,tk.encodedstr
+category=GUI
+methods=TclTkIp/i.__eval.tk,TclTkIp/i.__invoke.tk,TclTkIp/i.__fromUTF8.tk,TclTkIp/i.__toUTF8.tk,TclTkIp/i._ip_id_.tk,TclTkIp/i.encoding.tk,TclTkIp/i.encoding=3d.tk,TclTkLib/s._encoding.tk,TclTkLib/s._encoding=3d.tk,TclTkLib/s.encoding.tk,TclTkLib/s.encoding=3d.tk
+sublibraries=tcltklib,tkutil,remote=2dtk,multi=2dtk,tkafter,tkbgerror,tkcanvas,tkclass,tkconsole,tkdialog,tkentry,tkfont,tkmacpkg,tkmenubar,tkmngfocus,tkpalette,tkscrollbox,tktext,tkvirtevent,tkwinpkg,tkextlib.ICONS,tkextlib.blt,tkextlib.bwidget,tkextlib.itcl,tkextlib.itk,tkextlib.iwidgets,tkextlib.pkg_checker,tkextlib.tcllib,tkextlib.tclx,tkextlib.tile,tkextlib.tkDND,tkextlib.tkHTML,tkextlib.tkimg,tkextlib.tktable,tkextlib.tktrans,tkextlib.treectrl,tkextlib.vu,tkextlib.winico,tk.scrollbox,tk.encodedstr,tk.bindtag,tk.wm,tk.itemfont,tk.menubar,tk.macpkg,tk.winfo,tk.texttag,tk.panedwindow,tk.after,tk.variable,tk.clipboard,tk.bgerror,tk.composite,tk.msgcat,tk.autoload,tk.entry,tk.checkbutton,tk.frame,tk.font,tk.selection,tk.root,tk.text,tk.scrollbar,tk.tagfont,tk.itemconfig,tk.kinput,tk.menu,tk.validation,tk.scrollable,tk.toplevel,tk.textimage,tk.grid,tk.mngfocus,tk.menuspec,tk.xim,tk.spinbox,tk.button,tk.txtwin_abst,tk.label,tk.dialog,tk.console,tk.pack,tk.optionobj,tk.canvas,tk.listbox,tk.event,tk.textmark,tk.message,tk.scale,tk.textwindow,tk.package,tk.virtevent,tk.radiobutton,tk.place,tk.namespace,tk.labelframe,tk.image,tk.winpkg,tk.canvastag,tk.timer,tk.optiondb,tk.palette,tk.clock
+classes=TkComm,TkCore,TkCore=Tk_OBJECT_TABLE,TkCore=INTERP,Tk=Encoding,Tk,TkBindCore,TkConfigMethod,TkTreatFont,TkObject,TkWindow
+is_sublibrary=false
+
+tkを用いてGUIアプリケーションを作成するためのライブラリです。
+
+ * multi-tk 複数の Tcl インタープリタをサポートする
+ Ruby/Tk [[ruby-dev:20949]]
+ * tcltk Tcl/Tk ライブラリ tk とは異なり直接 Tcl/Tk を呼び出すインタフェース)
+ * tk    Ruby/Tk [[url:http://ns103.net/~arai/ruby/rubytk.html.gz]] を参照のこと
+
+=== 参考
+
+ * [[unknown:RubyTkFAQ]]
+ * "Rubyist Magazine - 0003-Ruby/Tk の動向"[[url:http://jp.rubyist.net/magazine/?0003-RubyTkMovement]]

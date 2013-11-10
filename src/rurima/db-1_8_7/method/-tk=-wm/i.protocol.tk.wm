@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=protocol
+
+--- protocol(name = nil, cmd = nil, &block)
+@todo
+

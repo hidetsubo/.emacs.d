@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_create_slave_object
+
+--- _create_slave_object(keys = {})
+@todo
+

@@ -1,0 +1,9 @@
+type=class
+library=dl.struct
+extended=
+aliases=
+included=
+superclass=DL=Importable=Struct
+aliasof=
+
+共用体に対するクラスである以外は、Struct とほぼ同じです。

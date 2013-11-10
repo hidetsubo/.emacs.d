@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=content_type
+
+--- content_type    -> String | nil
+
+リクエストの Content-Type ヘッダを文字列で返します。
+
+

@@ -1,0 +1,10 @@
+library=kconv
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+文字コードエンコーディングを変換するためのモジュール。
+[[c:Kconv]] は [[lib:nkf]] のラッパーです。

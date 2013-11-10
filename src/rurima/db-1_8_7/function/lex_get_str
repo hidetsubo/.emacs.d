@@ -1,0 +1,11 @@
+params=(VALUE s)
+filename=parse.y
+name=lex_get_str
+type=VALUE
+macro=false
+private=true
+
+
+文字列 s の lex_gets_ptr の後から一行取得し、返します。
+lex_gets_ptr も進められます。
+

@@ -1,0 +1,8 @@
+requires=tkextlib.tclx.tclx,tkextlib.tclx.setup,tkextlib.setup
+sublibraries=tkextlib.tclx.tclx,tkextlib.tclx.setup
+is_sublibrary=true
+category=
+methods=
+classes=
+
+

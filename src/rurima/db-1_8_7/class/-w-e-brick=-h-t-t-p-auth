@@ -1,0 +1,9 @@
+type=module
+library=webrick.httpauth
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+ユーザ認証の機能を提供するモジュールです。

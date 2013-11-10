@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=world_writable?
+
+--- world_writable? -> bool
+FileTest.world_writable?(self.to_s) と同じです。
+
+@see [[m:FileTest.#world_writable?]]
+
+

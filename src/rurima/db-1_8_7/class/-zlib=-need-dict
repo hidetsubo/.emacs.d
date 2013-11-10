@@ -1,0 +1,9 @@
+type=class
+library=zlib
+extended=
+aliases=
+included=
+superclass=Zlib=Error
+aliasof=
+
+展開に用いる辞書がしていされていない場合に発生します。

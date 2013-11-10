@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=execute
+
+--- execute(*obj) -> [IRB::WorkSpace]
+
+UNIX シェルコマンドの popd と同じです。
+
+@param obj 使用しません。

@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=lshift!
+
+--- lshift!(n) -> self
+自身を n ビット左シフトします。
+
+@param n シフトするビット数
+@raise OpenSSL::BNError 計算時エラー
+

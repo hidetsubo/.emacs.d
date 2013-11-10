@@ -1,0 +1,8 @@
+private=true
+params=(enum node_type type, NODE *left, NODE *right)
+type=NODE *
+name=logop
+filename=parse.y
+macro=false
+
+

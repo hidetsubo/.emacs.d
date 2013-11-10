@@ -1,0 +1,15 @@
+kind=defined
+visibility=public
+names=pack
+
+--- pack(src, destname, signer = nil)
+@todo
+
+???
+
+@param src ???
+
+@param destname ???
+
+@param signer ???
+

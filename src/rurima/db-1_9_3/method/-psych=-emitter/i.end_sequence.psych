@@ -1,0 +1,13 @@
+kind=defined
+visibility=public
+names=end_sequence
+
+--- end_sequence -> Psych::Emitter
+@todo
+
+End sequence emission.
+
+自身を返します。
+
+@see [[m:Psych::Handler#end_sequence]]
+

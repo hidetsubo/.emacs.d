@@ -1,0 +1,9 @@
+type=class
+library=racc.parser
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+

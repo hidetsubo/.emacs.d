@@ -1,0 +1,12 @@
+library=net.http
+aliasof=
+type=class
+included=Net=HTTPExceptions
+aliases=
+superclass=Net=ProtoRetriableError
+extended=
+
+HTTP ステータスコード 3xx を受け取ったという例外です。
+
+リソースが移動したなどの理由により、リクエストを完了させるには更な
+るアクションが必要になります。

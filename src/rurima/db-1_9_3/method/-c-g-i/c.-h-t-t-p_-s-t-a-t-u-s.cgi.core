@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=HTTP_STATUS
+
+--- HTTP_STATUS -> Hash
+
+HTTP のステータスコードを表すハッシュです。
+

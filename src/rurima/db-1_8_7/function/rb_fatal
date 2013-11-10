@@ -1,0 +1,10 @@
+params=(const char *fmt, ...)
+filename=error.c
+name=rb_fatal
+type=void
+macro=false
+private=false
+
+
+あらゆる例外処理をスキップして即座にインタプリタが終了します。
+fmt とその後の引数は printf と同じ形式でエラーメッセージを表現します。

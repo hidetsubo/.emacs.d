@@ -1,0 +1,9 @@
+type=module
+library=irb
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+irb のメインモジュールです。

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=set_get_line_procs
+
+--- set_get_line_procs(file, p = proc)
+@todo
+

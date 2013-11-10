@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=zero?
+
+--- zero? -> bool
+行列が零行列ならば真を返します。
+
+

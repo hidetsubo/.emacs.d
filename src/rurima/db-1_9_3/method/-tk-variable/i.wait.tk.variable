@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=wait
+
+--- wait
+@todo
+
+値が変化するまで待ちます。
+

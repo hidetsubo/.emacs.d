@@ -1,0 +1,8 @@
+private=true
+params=(VALUE klass)
+type=rb_thread_t
+name=rb_thread_alloc
+filename=eval.c
+macro=false
+
+

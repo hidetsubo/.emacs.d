@@ -1,0 +1,12 @@
+type=module
+library=_builtin
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+GC は Ruby インタプリタの「ゴミ集め(Garbage Collection)」を制御
+するモジュールです。
+
+@see [[c:ObjectSpace]]

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=OPT
+
+--- OPT -> Hash
+
+ほとんどのメソッドで使用するデフォルトのオプションを返します。
+

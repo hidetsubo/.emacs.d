@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=algorithm
+
+--- algorithm -> String
+
+アルゴリズムを表す文字列を返します。
+

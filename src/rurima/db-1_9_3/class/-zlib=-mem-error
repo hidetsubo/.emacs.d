@@ -1,0 +1,9 @@
+library=zlib
+aliasof=
+type=class
+included=
+aliases=
+superclass=Zlib=Error
+extended=
+
+メモリ不足である場合に発生します。

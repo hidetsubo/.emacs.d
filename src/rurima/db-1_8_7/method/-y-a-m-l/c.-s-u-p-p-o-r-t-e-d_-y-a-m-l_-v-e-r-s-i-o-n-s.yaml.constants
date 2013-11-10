@@ -1,0 +1,8 @@
+visibility=public
+kind=added
+names=SUPPORTED_YAML_VERSIONS
+
+--- SUPPORTED_YAML_VERSIONS -> ["1.0"]
+
+サポートする YAML のバージョンを文字列の配列で返します。
+

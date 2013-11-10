@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpstatus
+extended=
+aliases=
+included=
+superclass=WEBrick=HTTPStatus=Success
+aliasof=
+
+HTTP のステータスコード 205 Reset Content を表すクラスです。

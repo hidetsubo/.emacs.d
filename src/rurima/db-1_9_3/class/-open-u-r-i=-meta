@@ -1,0 +1,10 @@
+library=open=2duri
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+サーバから取得したデータの属性を扱うために使われるモジュールです。
+データを表す文字列や [[c:StringIO]] が extend します。

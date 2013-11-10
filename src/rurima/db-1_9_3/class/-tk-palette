@@ -1,0 +1,9 @@
+library=tk.palette
+aliasof=
+type=module
+included=Tk
+aliases=
+superclass=
+extended=
+
+extend Tk

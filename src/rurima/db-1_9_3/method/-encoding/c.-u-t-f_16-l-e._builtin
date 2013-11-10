@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=UTF_16LE
+
+--- UTF_16LE -> Encoding
+UTF-16LE (リトルエンディアン) です。
+
+BOM を含みません。
+

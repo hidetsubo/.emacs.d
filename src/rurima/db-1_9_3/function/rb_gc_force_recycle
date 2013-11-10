@@ -1,0 +1,10 @@
+private=false
+params=(VALUE p)
+type=void
+name=rb_gc_force_recycle
+filename=gc.c
+macro=false
+
+
+p を強制的に GC します。
+

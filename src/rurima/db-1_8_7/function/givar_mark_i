@@ -1,0 +1,8 @@
+params=(ID key, VALUE value)
+filename=variable.c
+name=givar_mark_i
+type=int
+macro=false
+private=true
+
+

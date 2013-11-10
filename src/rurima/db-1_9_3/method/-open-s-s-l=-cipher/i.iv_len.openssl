@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=iv_len
+
+--- iv_len -> Integer
+必要な IV(Initialization Vector) の長さをバイト数で返します。
+

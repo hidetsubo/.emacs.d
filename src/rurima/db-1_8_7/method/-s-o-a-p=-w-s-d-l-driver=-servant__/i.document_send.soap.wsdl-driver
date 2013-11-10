@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=document_send
+
+--- document_send(name, header_obj, body_obj)
+@todo
+
+
+

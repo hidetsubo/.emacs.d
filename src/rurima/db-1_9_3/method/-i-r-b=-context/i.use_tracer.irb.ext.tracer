@@ -1,0 +1,11 @@
+kind=added
+visibility=public
+names=use_tracer,use_tracer?
+
+--- use_tracer  -> bool
+--- use_tracer? -> bool
+
+irb への入力を評価する時に [[lib:tracer]] が有効かどうかを返します。
+
+@see [[lib:tracer]], [[m:IRB::Context#use_tracer=]]
+

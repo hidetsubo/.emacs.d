@@ -1,0 +1,12 @@
+type=class
+library=benchmark
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+[[m:Benchmark.#benchmark]] メソッドや [[m:Benchmark.#bm]] メソッドの
+内部で使用されているクラスです。
+
+このライブラリのユーザーが直接意識する必要はありません。

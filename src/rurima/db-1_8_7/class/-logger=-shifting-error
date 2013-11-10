@@ -1,0 +1,9 @@
+type=class
+library=logger
+extended=
+aliases=
+included=
+superclass=Logger=Error
+aliasof=
+
+ログファイルの切り替えに失敗した場合に発生する例外です。

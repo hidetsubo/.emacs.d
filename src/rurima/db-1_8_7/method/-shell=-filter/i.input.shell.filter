@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=input
+
+--- input -> Shell::Filter | nil
+現在のフィルターを返します。
+

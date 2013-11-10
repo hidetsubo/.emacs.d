@@ -1,0 +1,12 @@
+kind=defined
+visibility=public 
+names=run_test_suites
+
+--- run_test_suites(filter = /./) -> Array
+
+全てのテストを実行します。
+
+@param filter 実行するテストメソッド名を正規表現で指定します。
+
+@return テストケース数とアサーション数を返します。
+

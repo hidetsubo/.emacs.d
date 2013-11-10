@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=EAI_MAX
+
+--- EAI_MAX -> Integer
+
+EAI_* 定数の最大値。
+

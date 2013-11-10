@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=ipv6_mc_orglocal?
+
+--- ipv6_mc_orglocal? -> bool
+IPv6 のマルチキャスト(組織(organization)ローカルスコープ)
+アドレスであれば真を返します。
+
+

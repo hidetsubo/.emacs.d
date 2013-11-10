@@ -1,0 +1,8 @@
+params=(VALUE group)
+filename=eval.c
+name=thgroup_list
+type=VALUE
+macro=false
+private=true
+
+

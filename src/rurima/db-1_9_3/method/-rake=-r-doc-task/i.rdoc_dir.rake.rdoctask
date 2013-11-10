@@ -1,0 +1,9 @@
+kind=defined
+visibility=public 
+names=rdoc_dir
+
+--- rdoc_dir -> String
+
+作成した HTML ファイルを保存するディレクトリ名を返します。
+デフォルトは html です。
+

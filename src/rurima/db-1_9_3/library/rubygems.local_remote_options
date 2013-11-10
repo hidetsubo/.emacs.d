@@ -1,0 +1,9 @@
+requires=rubygems.source_info_cache,rubygems.builder,rubygems.source_info_cache_entry,rubygems.source_index,rubygems.requirement,rubygems.spec_fetcher,rubygems.gem_path_searcher,rubygems.defaults,rubygems.remote_fetcher,rubygems.specification,rubygems.version,rubygems.platform,rubygems.exceptions,rubygems,rubygems.digest.sha2,rubygems.dependency,rubygems.user_interaction
+category=
+methods=
+sublibraries=
+classes=Gem=LocalRemoteOptions
+is_sublibrary=true
+
+[[c:Gem::Command]] で使用する --local, --remote オプションのためのモジュールを
+定義したライブラリです。

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=parse_args
+
+--- parse_args(element, string)
+@todo
+

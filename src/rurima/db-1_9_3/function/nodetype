@@ -1,0 +1,11 @@
+private=true
+params=(node)
+type=enum node_type
+name=nodetype
+filename=parse.y
+macro=false
+
+
+node の種類を返します。
+デバッグ用です。
+

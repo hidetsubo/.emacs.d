@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=**
+
+--- **(other) -> OpenSSL::BN
+自身の other 乗を返します。
+
+@param other 指数
+@raise OpenSSL::BNError 計算時エラー
+

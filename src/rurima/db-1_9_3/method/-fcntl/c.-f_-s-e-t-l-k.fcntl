@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=F_SETLK
+
+--- F_SETLK -> Integer
+ファイルの範囲のロックを取得します。
+

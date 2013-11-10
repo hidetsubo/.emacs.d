@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=error_message
+
+--- error_message -> String | nil
+
+現在のエラーのエラーメッセージを返します。エラーが発生していな
+ければ、nil を返します。
+

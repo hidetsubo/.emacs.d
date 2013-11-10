@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=execute
+
+--- execute(*obj) -> obj
+
+irb の self を返します。
+
+@param obj 使用しません。
+

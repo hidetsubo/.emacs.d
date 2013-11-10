@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=anchor
+
+--- anchor
+@todo
+
+The anchor this alias links to
+

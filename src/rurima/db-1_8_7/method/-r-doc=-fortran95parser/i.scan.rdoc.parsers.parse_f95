@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=scan
+
+--- scan -> RDoc::TopLevel
+
+ソースコード中のドキュメントを解析します。
+
+@return [[c:RDoc::TopLevel]] オブジェクトを返します。

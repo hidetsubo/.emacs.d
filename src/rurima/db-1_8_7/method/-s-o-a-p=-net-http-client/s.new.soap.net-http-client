@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=new
+
+--- new(proxy = nil, agent = nil)
+@todo
+

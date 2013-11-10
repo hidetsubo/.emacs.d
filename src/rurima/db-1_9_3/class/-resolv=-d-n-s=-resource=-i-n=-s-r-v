@@ -1,0 +1,13 @@
+library=resolv
+aliasof=
+type=class
+included=
+aliases=
+superclass=Resolv=DNS=Resource
+extended=
+
+DNS リソースのクラス IN、タイプ SRV に対応する
+クラスです。
+
+[[RFC:2782]] で定義されています。
+利用可能なサービスのホスト名とポート番号を指定するレコードです。

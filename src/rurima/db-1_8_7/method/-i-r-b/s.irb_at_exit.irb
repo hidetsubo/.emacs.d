@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=irb_at_exit
+
+--- irb_at_exit -> ()
+
+at_exit で登録された処理を実行します。
+
+ユーザが直接使用するものではありません。
+

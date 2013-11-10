@@ -1,0 +1,11 @@
+params=(ID id)
+filename=eval.c
+name=rb_clear_cache_by_id
+type=void
+macro=false
+private=true
+
+
+メソッドキャシュから id という名前のメソッドの
+キャッシュエントリを全て消去します。
+

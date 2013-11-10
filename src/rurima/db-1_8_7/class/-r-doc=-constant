@@ -1,0 +1,11 @@
+type=class
+library=rdoc.code_objects
+extended=
+aliases=
+included=
+superclass=RDoc=CodeObject
+aliasof=
+
+定数を表現するクラスです。
+
+ライブラリの内部で使用します。

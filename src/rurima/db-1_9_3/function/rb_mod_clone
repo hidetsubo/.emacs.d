@@ -1,0 +1,10 @@
+private=false
+params=(VALUE mod)
+type=VALUE
+name=rb_mod_clone
+filename=class.c
+macro=false
+
+
+モジュール mod を clone して返します。
+

@@ -1,0 +1,9 @@
+type=class
+library=_builtin
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+モジュールのクラスです。

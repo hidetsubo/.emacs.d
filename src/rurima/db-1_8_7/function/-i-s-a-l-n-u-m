@@ -1,0 +1,8 @@
+params=(char c)
+filename=ruby.h
+name=ISALNUM
+type=int
+macro=true
+private=false
+
+

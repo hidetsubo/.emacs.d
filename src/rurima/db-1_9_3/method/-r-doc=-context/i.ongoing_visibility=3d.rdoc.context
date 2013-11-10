@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=ongoing_visibility=
+
+--- ongoing_visibility=(vis)
+
+Change the default visibility for new methods
+

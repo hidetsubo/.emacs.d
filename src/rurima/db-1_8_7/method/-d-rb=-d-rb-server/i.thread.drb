@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=thread
+
+--- thread -> Thread
+サーバのメインスレッドを返します。
+
+このスレッドはクライアントからの接続を受け付けるスレッドであって、
+クライアントへの応答をするスレッドではありません。
+

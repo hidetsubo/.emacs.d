@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=get_text
+
+--- get_text(path = nil)
+@todo
+

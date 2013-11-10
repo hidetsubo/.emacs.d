@@ -1,0 +1,8 @@
+params=(ID id)
+filename=eval.c
+name=errat_getter
+type=VALUE
+macro=false
+private=true
+
+

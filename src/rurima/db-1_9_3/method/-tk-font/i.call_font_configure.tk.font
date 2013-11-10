@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=call_font_configure
+
+--- call_font_configure(path, *args)
+@todo
+

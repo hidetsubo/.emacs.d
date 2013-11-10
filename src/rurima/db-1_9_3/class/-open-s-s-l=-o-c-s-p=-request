@@ -1,0 +1,12 @@
+library=openssl
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+OCSP リクエストを表すクラスです。
+
+問合せたい証明書を [[c:OpenSSL::OCSP::CertificateId]] オブジェクトの
+形で複数持つことができます。

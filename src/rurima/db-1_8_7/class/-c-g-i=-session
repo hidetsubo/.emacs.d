@@ -1,0 +1,9 @@
+type=class
+library=cgi.session
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+

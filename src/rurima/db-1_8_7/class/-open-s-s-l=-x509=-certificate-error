@@ -1,0 +1,9 @@
+type=class
+library=openssl
+extended=
+aliases=
+included=
+superclass=OpenSSL=OpenSSLError
+aliasof=
+
+X509 証明書関連のエラーを表す例外くクラスです。

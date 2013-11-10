@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=UP
+
+--- UP -> Integer
+
+上矢印キーを表す定数です。
+

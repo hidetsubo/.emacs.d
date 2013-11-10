@@ -1,0 +1,9 @@
+type=module
+library=tkextlib.tcllib.autoscroll
+extended=TkCore
+aliases=
+included=
+superclass=
+aliasof=
+
+

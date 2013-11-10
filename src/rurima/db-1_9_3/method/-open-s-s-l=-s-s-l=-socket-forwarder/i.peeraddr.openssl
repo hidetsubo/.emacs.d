@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=peeraddr
+
+--- peeraddr -> Array
+ラップされているソケットの接続先相手の情報を返します。
+
+[[m:IPSocket#peeraddr]] と同様です。
+

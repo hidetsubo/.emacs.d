@@ -1,0 +1,11 @@
+type=class
+library=net.http
+extended=
+aliases=
+included=
+superclass=Net=HTTPRedirection
+aliasof=
+
+HTTP レスポンス 301 (Moved Permanently) を表現するクラスです。
+
+詳しくは [[RFC:2616]] を見てください。

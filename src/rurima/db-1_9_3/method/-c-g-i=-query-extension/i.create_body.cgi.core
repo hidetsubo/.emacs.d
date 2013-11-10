@@ -1,0 +1,6 @@
+kind=defined
+visibility=public
+names=create_body
+
+--- create_body(is_large) -> StringIO | Tempfile
+

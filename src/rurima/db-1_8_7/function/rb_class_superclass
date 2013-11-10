@@ -1,0 +1,8 @@
+params=(VALUE klass)
+filename=object.c
+name=rb_class_superclass
+type=VALUE
+macro=false
+private=true
+
+

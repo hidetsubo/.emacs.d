@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=mainloop_exist?
+
+--- mainloop_exist?
+@todo
+

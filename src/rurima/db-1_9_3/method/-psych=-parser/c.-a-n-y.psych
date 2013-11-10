@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=ANY
+
+--- ANY
+@todo
+
+Any encoding: Let the parser choose the encoding
+

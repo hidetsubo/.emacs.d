@@ -1,0 +1,8 @@
+requires=shell.builtin=2dcommand,shell.system=2dcommand,shell.filter,shell.error
+category=
+methods=
+sublibraries=
+classes=Shell=CommandProcessor
+is_sublibrary=true
+
+[[c:Shell]] で使用可能なコマンドの大半を定義するライブラリです。

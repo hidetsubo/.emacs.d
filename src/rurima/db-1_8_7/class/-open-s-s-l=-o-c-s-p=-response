@@ -1,0 +1,15 @@
+type=class
+library=openssl
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+OCSP レスポンダからのレスポンスを表わすオブジェクトです。
+
+レスポンスの実質的な内容(証明書が失効しているか否か)
+は [[m:OpenSSL::OCSP::Response#basic]] 
+で得られる [[c:OpenSSL::OCSP::BasicResponse]] オブジェクトが
+保持しています。このオブジェクト自体はレスポンスのステータスコード
+などを保持しています。

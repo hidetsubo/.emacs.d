@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=COMMENTS_ARE_UPPER
+
+--- COMMENTS_ARE_UPPER -> false
+
+ライブラリの内部で使用します。
+

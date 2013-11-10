@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=fetcher
+
+--- fetcher -> Gem::SpecFetcher
+
+このクラスの唯一のインスタンスを返します。
+
+

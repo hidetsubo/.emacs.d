@@ -1,0 +1,8 @@
+params=(VALUE klass, VALUE under, const char *name)
+filename=variable.c
+name=rb_set_class_path
+type=void
+macro=false
+private=false
+
+

@@ -1,0 +1,9 @@
+type=class
+library=yaml.error
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+意図しない入力がメソッドに与えられた時などに発生します。

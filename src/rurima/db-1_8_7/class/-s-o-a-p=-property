@@ -1,0 +1,9 @@
+type=class
+library=soap.property
+extended=
+aliases=
+included=Enumerable
+superclass=Object
+aliasof=
+
+

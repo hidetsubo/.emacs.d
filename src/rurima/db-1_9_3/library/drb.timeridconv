@@ -1,0 +1,11 @@
+requires=
+category=
+methods=
+sublibraries=
+classes=DRb=TimerIdConv
+is_sublibrary=true
+
+[[c:DRb::DRbIdConv]] の拡張 [[c:DRb::TimerIdConv]] を定義
+するライブラリ。
+[[c:DRb::DRbIdConv]] の GC 問題をタイムアウトを定めることで
+部分的に解決します。

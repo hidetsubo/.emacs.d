@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=inject
+
+--- inject(xpath = nil, initial = nil) {|element| ... }
+@todo
+

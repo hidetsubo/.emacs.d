@@ -1,0 +1,9 @@
+type=class
+library=tk.font
+extended=TkCore,TkFont=CoreMethods
+aliases=
+included=Tk
+superclass=Object
+aliasof=Font
+
+extend TkFont::CoreMethods

@@ -1,0 +1,8 @@
+params=(VALUE args, VALUE method)
+filename=eval.c
+name=bmcall
+type=VALUE
+macro=false
+private=true
+
+

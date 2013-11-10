@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=AF_NETBIOS,PF_NETBIOS
+
+--- AF_NETBIOS -> Integer
+--- PF_NETBIOS -> Integer
+@todo
+NetBIOS。
+[[m:Socket.open]] の第一引数 domain に使用します。
+
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=sort_by_column
+
+--- sort_by_column(idx, order = nil)
+@todo
+

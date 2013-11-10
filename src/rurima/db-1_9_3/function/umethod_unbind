@@ -1,0 +1,8 @@
+private=true
+params=(VALUE obj)
+type=VALUE
+name=umethod_unbind
+filename=eval.c
+macro=false
+
+

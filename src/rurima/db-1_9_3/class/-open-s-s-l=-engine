@@ -1,0 +1,13 @@
+library=openssl
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+OpenSSL の Engine (プラグイン)を表すオブジェクトです。
+
+このインターフェースからハードウェアアクレラレータなどを利用できます。
+
+詳しくは openssl のドキュメントの engine の項を見てください。

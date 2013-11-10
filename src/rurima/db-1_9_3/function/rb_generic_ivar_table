@@ -1,0 +1,8 @@
+private=false
+params=(VALUE obj)
+type=st_table *
+name=rb_generic_ivar_table
+filename=variable.c
+macro=false
+
+

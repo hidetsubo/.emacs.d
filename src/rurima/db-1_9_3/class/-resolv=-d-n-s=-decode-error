@@ -1,0 +1,13 @@
+library=resolv
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+DNSメッセージのデコードに失敗したときに発生する
+例外のクラスです。
+
+DNSサーバからの応答が規格的に正しくない場合などに
+発生します。

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=xml_stylesheets
+
+--- xml_stylesheets
+@todo
+xml_stylesheetを管理するオブジェクトを返します．
+

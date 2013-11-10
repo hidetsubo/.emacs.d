@@ -1,0 +1,9 @@
+kind=defined
+visibility=public 
+names=update_sources
+
+--- update_sources -> bool
+
+真の場合は [[c:Gem::SourceInfoCache]] を毎回更新します。
+そうでない場合は、キャッシュがあればキャッシュの情報を使用します。
+

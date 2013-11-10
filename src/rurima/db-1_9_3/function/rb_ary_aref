@@ -1,0 +1,11 @@
+private=false
+params=(int argc, VALUE *argv, VALUE ary)
+type=VALUE
+name=rb_ary_aref
+filename=array.c
+macro=false
+
+
+argc が 1 のときは ary[*argv]、
+2 のときは ary[argv[0], argv[1]] を返します。
+

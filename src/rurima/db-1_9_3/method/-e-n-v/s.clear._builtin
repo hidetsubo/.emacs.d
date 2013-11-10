@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=clear
+
+--- clear  -> self
+
+環境変数をすべてクリアします。self を返します。
+

@@ -1,0 +1,8 @@
+params=(VALUE obj)
+filename=ruby.h
+name=RDATA
+type=struct RData *
+macro=true
+private=false
+
+

@@ -1,0 +1,10 @@
+private=false
+params=(struct global_entry *entry)
+type=VALUE
+name=rb_gvar_defined
+filename=variable.c
+macro=false
+
+
+entry で示されるグローバル変数が定義されているなら真。
+

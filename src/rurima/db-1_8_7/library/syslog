@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=Unix
+methods=
+classes=Syslog,Syslog=Constants
+
+Unix系OS の syslog を扱うライブラリです。

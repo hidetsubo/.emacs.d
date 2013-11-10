@@ -1,0 +1,9 @@
+library=iconv
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+[[c:Iconv]] が起こす例外のためのモジュールです。

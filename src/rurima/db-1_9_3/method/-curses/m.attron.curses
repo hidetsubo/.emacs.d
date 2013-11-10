@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=attron
+
+--- attron(attron) -> Integer
+@todo
+Turns off the named attributes +attrs+
+without turning any other attributes on or off.
+
+@see [[m:Curses::Window.attrset]]
+

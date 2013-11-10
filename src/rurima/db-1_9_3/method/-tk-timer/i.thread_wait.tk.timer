@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=thread_wait
+
+--- thread_wait(check_root = false)
+@todo
+

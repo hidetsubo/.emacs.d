@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=RUBY_DESCRIPTION
+
+--- RUBY_DESCRIPTION -> String
+Ruby の詳細を表す文字列。
+
+ruby -v で表示される内容が格納されています。
+

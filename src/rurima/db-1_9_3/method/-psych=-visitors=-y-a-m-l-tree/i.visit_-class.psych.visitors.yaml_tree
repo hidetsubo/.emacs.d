@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=visit_Class
+
+--- visit_Class(o)
+@todo
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=column_cget
+
+--- column_cget(tagOrId, option)
+@todo
+

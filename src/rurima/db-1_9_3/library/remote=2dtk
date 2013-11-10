@@ -1,0 +1,8 @@
+requires=tkutil,tcltklib,multi=2dtk
+category=
+methods=
+sublibraries=
+classes=MultiTkIp,RemoteTkIp
+is_sublibrary=true
+
+

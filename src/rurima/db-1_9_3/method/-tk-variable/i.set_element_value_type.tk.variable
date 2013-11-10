@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=set_element_value_type
+
+--- set_element_value_type(idxs, val)
+@todo
+
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=send
+
+--- send(thread, ret = nil)
+@todo
+

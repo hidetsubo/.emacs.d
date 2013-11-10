@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_callback_entry?
+
+--- _callback_entry?(obj)
+@todo
+

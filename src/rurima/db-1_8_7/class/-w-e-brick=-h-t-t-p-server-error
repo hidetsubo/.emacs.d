@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpserver
+extended=
+aliases=
+included=
+superclass=WEBrick=ServerError
+aliasof=
+
+

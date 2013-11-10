@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=start
+
+--- start(encoding = Nodes::Stream::UTF8)
+@todo
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=SO_ALLZONES
+
+--- SO_ALLZONES -> Integer
+@todo
+Bypass zone boundaries。
+

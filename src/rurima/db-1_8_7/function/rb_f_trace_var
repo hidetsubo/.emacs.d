@@ -1,0 +1,8 @@
+params=(int argc, VALUE *argv)
+filename=variable.c
+name=rb_f_trace_var
+type=VALUE
+macro=false
+private=false
+
+

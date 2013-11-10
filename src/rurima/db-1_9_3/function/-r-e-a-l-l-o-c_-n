@@ -1,0 +1,10 @@
+private=false
+params=(var, type, n)
+type=type*
+name=REALLOC_N
+filename=ruby.h
+macro=true
+
+
+type 型のメモリ領域 var のサイズを n 個に変更する。
+

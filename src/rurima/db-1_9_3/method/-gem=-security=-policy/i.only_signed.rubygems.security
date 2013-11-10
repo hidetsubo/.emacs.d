@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=only_signed
+
+--- only_signed -> bool
+
+この値が真である場合は、署名付きの Gem のみインストールします。
+

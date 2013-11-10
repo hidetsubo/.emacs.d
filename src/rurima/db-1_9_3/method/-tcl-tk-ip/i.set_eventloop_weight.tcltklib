@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=set_eventloop_weight
+
+--- set_eventloop_weight(loop_max, no_event)
+@todo
+

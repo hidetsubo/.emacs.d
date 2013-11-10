@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=A_NORMAL
+
+--- A_NORMAL -> Integer
+@todo
+
+???を表す属性マスク用の定数です。
+
+@see [[m:Curses.attrset]]
+

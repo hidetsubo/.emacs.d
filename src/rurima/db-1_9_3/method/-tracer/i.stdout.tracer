@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=stdout
+
+--- stdout -> IO
+
+@see [[m:Tracer.stdout]]
+

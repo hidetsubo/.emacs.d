@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=def_code
+
+--- def_code(code)
+@todo
+

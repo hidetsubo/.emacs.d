@@ -1,0 +1,11 @@
+private=false
+params=(void)
+type=VALUE
+name=rb_thread_stop
+filename=eval.c
+macro=false
+
+
+現在実行中のスレッドを停止します。
+他のスレッドから rb_thread_wakeup を呼ばれると再開します。
+

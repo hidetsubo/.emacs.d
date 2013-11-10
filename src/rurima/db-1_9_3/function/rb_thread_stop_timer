@@ -1,0 +1,14 @@
+private=false
+params=(void)
+type=void
+name=rb_thread_stop_timer
+filename=eval.c
+macro=false
+
+
+setitimer(2) が存在する場合のみ定義されます。
+
+Ruby のスレッドスケジューリングに使用しているインターバルタイマーを
+停止します。このタイマーが止まると Ruby のスレッド機構は基本的に停止
+しますので注意してください。
+

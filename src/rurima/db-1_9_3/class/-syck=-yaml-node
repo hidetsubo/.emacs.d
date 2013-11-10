@@ -1,0 +1,9 @@
+library=syck.yamlnode
+aliasof=
+type=class
+included=Syck=BaseNode
+aliases=
+superclass=Object
+extended=
+
+YAML のノードを表現するためのクラスです。

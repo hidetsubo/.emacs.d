@@ -1,0 +1,8 @@
+private=true
+params=(void)
+type=void
+name=stack_check
+filename=eval.c
+macro=false
+
+

@@ -1,0 +1,11 @@
+private=true
+params=(rb_thread_t th, int exit)
+type=void
+name=rb_thread_restore_context
+filename=eval.c
+macro=false
+
+
+スレッドを切り替えるにあたって、切り替え先のスレッド th の
+コンテキストを評価器に復帰します。
+

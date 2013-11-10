@@ -1,0 +1,11 @@
+params=(VALUE x)
+filename=ruby.h
+name=FIX2UINT
+type=unsigned int
+macro=true
+private=false
+
+
+Fixnum を unsigned int に変換します。
+返り値が unsigned int の範囲から外れる場合は RangeError が発生します。
+

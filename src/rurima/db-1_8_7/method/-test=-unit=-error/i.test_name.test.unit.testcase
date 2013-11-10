@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=test_name
+
+--- test_name -> String
+
+自身に対応するテストメソッドの名前を返します。
+

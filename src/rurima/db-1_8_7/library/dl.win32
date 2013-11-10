@@ -1,0 +1,8 @@
+requires=dl
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=Win32API
+
+Ruby/DL が [[c:Win32API]] と互換性を持つようにするライブラリ。

@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=Nothing
+
+--- Nothing -> WIN32OLE_VARIANT
+DISPATCH型の空のオブジェクトです。
+
+@see [[m:WIN32OLE::VARIANT::VT_DISPATCH]]
+
+

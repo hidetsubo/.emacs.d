@@ -1,0 +1,9 @@
+library=tkextlib.tile.tentry
+aliasof=
+type=class
+included=
+aliases=Tk=Tile=TEntry
+superclass=Object
+extended=
+
+

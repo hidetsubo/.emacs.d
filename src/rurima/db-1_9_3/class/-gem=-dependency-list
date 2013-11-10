@@ -1,0 +1,9 @@
+library=rubygems.dependency_list
+aliasof=
+type=class
+included=TSort
+aliases=
+superclass=Object
+extended=
+
+Gem の依存関係を扱うためのクラスです。

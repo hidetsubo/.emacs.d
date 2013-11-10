@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=flush_left
+
+--- flush_left(text) -> String
+
+引数から各行の行頭のスペースを削除します。
+
+@param text 文字列を指定します。
+

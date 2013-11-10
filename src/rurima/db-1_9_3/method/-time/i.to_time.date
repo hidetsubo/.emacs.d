@@ -1,0 +1,6 @@
+kind=added
+visibility=public
+names=to_time
+
+--- to_time -> Time
+対応する [[c:Time]] オブジェクトを返します。

@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=passive
+
+--- passive -> bool
+passive モードであるならば真を、そうでなければ
+偽を返します。
+
+デフォルトは偽です。
+
+@see [[m:Net::FTP#passive=]]

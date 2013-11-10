@@ -1,0 +1,11 @@
+private=false
+params=(VALUE obj, ID name)
+type=VALUE
+name=rb_ivar_get
+filename=variable.c
+macro=false
+
+
+オブジェクト obj のインスタンス変数 name の値を
+取得します。
+

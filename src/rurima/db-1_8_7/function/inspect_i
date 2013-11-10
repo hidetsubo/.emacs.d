@@ -1,0 +1,8 @@
+params=(ID id, VALUE value, VALUE str)
+filename=object.c
+name=inspect_i
+type=int
+macro=false
+private=true
+
+

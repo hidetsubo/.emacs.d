@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=ignore_whitespace_nodes
+
+--- ignore_whitespace_nodes
+@todo
+

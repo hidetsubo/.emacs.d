@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=fsync
+
+--- fsync -> 0 | nil
+
+[[m:IO#fsync]] に委譲します。
+

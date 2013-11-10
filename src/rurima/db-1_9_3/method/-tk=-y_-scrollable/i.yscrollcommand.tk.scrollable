@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=yscrollcommand
+
+--- yscrollcommand(cmd = Proc.new)
+@todo
+
+
+

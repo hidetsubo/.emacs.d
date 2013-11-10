@@ -1,0 +1,8 @@
+private=false
+params=(char *sig)
+type=void
+name=rb_thread_signal_raise
+filename=eval.c
+macro=false
+
+

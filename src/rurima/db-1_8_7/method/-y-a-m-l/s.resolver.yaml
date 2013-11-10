@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=resolver
+
+--- resolver -> YAML::Syck::DefaultResolver
+
+タグ URI との関連付けを解決するリゾルバを返します。

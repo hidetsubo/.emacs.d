@@ -1,0 +1,9 @@
+library=rdoc.markup.to_html_crossref
+aliasof=
+type=class
+included=
+aliases=
+superclass=RDoc=Markup=ToHtml
+extended=
+
+RDoc 形式のドキュメントを HTML に整形するクラスです。

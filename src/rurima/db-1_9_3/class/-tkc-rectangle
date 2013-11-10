@@ -1,0 +1,9 @@
+library=tk.canvas
+aliasof=Rectangle
+type=class
+included=
+aliases=
+superclass=TkcItem
+extended=
+
+

@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=new
+
+--- new(gem_path) -> Gem::OldFormat
+
+自身を初期化します。
+
+@param gem_path Gem ファイルへのパスを指定します。

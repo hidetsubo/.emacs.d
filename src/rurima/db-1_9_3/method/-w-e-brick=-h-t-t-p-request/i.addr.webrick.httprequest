@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=addr
+
+--- addr    -> Array
+
+クライアントと接続されているソケットの [[m:IPSocket#addr]] を返します。
+

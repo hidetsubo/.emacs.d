@@ -1,0 +1,11 @@
+kind=added
+visibility=public
+names=init_save_history
+
+--- init_save_history -> ()
+
+自身の持つ [[c:IRB::InputMethod]] オブジェクトが irb のヒストリを扱える
+ようにします。
+
+@see [[m:IRB::HistorySavingAbility.extended]]
+

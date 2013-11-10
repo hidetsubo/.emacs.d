@@ -1,0 +1,8 @@
+params=(char *key, char *value)
+filename=gc.c
+name=sweep_source_filename
+type=enum st_retval
+macro=false
+private=true
+
+

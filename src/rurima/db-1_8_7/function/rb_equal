@@ -1,0 +1,11 @@
+params=(VALUE obj1, VALUE obj2)
+filename=object.c
+name=rb_equal
+type=VALUE
+macro=false
+private=false
+
+
+obj1 == obj2 ならば Qtrue、
+そうでないならば Qfalse。
+

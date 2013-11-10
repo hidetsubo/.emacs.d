@@ -1,0 +1,10 @@
+requires=
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=RUNIT=TestSuite
+
+このライブラリは RubyUnit との互換性を提供するためだけに提供されています。
+これからユニットテストを書くときは
+[[lib:test/unit]] ライブラリを使ってください。

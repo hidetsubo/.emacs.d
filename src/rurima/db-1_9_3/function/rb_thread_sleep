@@ -1,0 +1,8 @@
+private=false
+params=(int sec)
+type=void
+name=rb_thread_sleep
+filename=eval.c
+macro=false
+
+

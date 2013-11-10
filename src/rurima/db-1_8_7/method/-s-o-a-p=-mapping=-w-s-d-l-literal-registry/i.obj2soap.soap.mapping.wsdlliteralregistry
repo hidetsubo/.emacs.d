@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=obj2soap
+
+--- obj2soap(obj, qname)
+@todo
+

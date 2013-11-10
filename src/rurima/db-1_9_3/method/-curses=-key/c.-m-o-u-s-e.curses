@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=MOUSE
+
+--- MOUSE -> Integer
+@todo
+Mouse event read
+

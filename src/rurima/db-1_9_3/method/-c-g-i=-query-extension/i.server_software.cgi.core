@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=server_software
+
+--- server_software -> String
+
+ENV['SERVER_SOFTWARE'] を返します。
+

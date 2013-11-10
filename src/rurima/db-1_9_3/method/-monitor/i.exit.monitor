@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=exit
+
+--- exit -> ()
+[[m:MonitorMixin#mon_exit]] の別名です。
+

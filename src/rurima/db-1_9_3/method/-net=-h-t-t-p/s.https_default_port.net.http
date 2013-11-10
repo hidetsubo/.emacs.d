@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=https_default_port
+
+--- https_default_port -> Integer
+HTTPS のデフォルトポート (443) を返します。
+
+
+

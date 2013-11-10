@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=kanjifont_copy
+
+--- kanjifont_copy(win, wintag = nil, winkey = nil, targetkey = nil)
+@todo
+
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=current_configinfo
+
+--- current_configinfo(slot = nil)
+@todo
+
+

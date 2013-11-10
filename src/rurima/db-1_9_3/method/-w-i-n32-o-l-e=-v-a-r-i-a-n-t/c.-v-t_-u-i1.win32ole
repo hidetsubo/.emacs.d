@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=VT_UI1
+
+--- VT_UI1 -> Integer
+符号なし8ビット整数（unsigned char）を示します（17）。
+

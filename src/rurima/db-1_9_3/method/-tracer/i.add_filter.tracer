@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=add_filter
+
+--- add_filter(p = proc)
+@todo
+
+フィルターを追加します。
+
+@param p [[c:Proc]] オブジェクトを指定します。
+

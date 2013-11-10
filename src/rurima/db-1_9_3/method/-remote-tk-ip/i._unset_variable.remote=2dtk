@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_unset_variable
+
+--- _unset_variable(var_name, flag)
+@todo
+

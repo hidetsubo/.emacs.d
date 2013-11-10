@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=VISIBILITIES
+
+--- VISIBILITIES -> [:public, :protected, :private]
+
+メソッドの可視性を [[c:Symbol]] の配列で返します。
+

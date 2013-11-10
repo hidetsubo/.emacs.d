@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=window_configure
+
+--- window_configure(tagOrId, slot, value = Tk::None)
+@todo
+

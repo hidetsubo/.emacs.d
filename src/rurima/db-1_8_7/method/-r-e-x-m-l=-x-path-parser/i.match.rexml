@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=match
+
+--- match(path_stack, nodeset)
+@todo
+

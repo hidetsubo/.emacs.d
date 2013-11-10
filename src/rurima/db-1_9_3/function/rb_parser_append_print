@@ -1,0 +1,11 @@
+private=false
+params=(void)
+type=void
+name=rb_parser_append_print
+filename=parse.y
+macro=false
+
+
+ruby の -p オプションの実装。
+ループと print のノードを ruby_eval_tree に加えます。
+

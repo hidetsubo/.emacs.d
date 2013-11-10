@@ -1,0 +1,8 @@
+params=(char c)
+filename=ruby.h
+name=ISASCII
+type=int
+macro=true
+private=false
+
+

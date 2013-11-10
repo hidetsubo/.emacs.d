@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=if_needed
+
+--- if_needed(pkg, ver, *arg) { .... }
+@todo
+

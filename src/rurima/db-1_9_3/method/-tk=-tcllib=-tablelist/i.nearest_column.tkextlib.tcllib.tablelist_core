@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=nearest_column,nearestcolumn
+
+--- nearest_column(x)
+--- nearestcolumn(x)
+@todo
+

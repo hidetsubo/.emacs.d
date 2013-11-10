@@ -1,0 +1,9 @@
+type=class
+library=soap.mapping.wsdlencodedregistry
+extended=
+aliases=
+included=SOAP=Mapping=TraverseSupport
+superclass=SOAP=Mapping=Registry
+aliasof=
+
+

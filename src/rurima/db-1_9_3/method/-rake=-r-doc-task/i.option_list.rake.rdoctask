@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=option_list
+
+--- option_list -> Array
+
+rdoc コマンドに渡すオプションのリストを返します。
+

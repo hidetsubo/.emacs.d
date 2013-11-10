@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=add_method
+
+--- add_method(a_method) -> ()
+
+引数で指定した [[c:RDoc::AnyMethod]] オブジェクトを追加します。
+
+@param a_method [[c:RDoc::AnyMethod]] オブジェクトかそのサブクラスのオ
+                ブジェクトを指定します。
+

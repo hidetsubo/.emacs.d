@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=RTLD_GLOBAL
+
+--- RTLD_GLOBAL
+@todo
+

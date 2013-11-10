@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_get_global_var2
+
+--- _get_global_var2(var_name, index_name)
+@todo
+

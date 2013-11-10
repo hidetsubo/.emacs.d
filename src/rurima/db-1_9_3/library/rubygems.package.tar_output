@@ -1,0 +1,9 @@
+requires=
+category=
+methods=
+sublibraries=
+classes=Gem=Package=TarOutput
+is_sublibrary=true
+
+gem-format な tar ファイルを書き出す [[c:Gem::Package::TarWriter]] のラッ
+パークラスを提供するライブラリです。

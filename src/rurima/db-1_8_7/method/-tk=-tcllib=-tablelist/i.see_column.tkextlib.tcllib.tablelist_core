@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=see_column,seecolumn
+
+--- see_column(idx)
+--- seecolumn(idx)
+@todo
+

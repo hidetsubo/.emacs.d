@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=restart
+
+--- restart(app_name = nil, keys = {})
+@todo
+

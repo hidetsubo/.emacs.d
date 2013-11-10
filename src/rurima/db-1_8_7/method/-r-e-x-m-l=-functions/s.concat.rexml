@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=concat
+
+--- concat(*objects)
+@todo
+

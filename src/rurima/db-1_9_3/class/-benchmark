@@ -1,0 +1,9 @@
+library=benchmark
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+ベンチマークを取るためのモジュールです。

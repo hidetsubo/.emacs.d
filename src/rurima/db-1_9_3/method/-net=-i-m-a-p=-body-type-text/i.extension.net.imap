@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=extension
+
+--- extension -> Array | nil
+メッセージの拡張データを返します。
+

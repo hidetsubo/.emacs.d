@@ -1,0 +1,8 @@
+private=true
+params=(VALUE cmd, VALUE val)
+type=void
+name=rb_trace_eval
+filename=variable.c
+macro=false
+
+

@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=clear
+
+--- clear -> ()
+
+キューを空にします。返り値は不定です。
+

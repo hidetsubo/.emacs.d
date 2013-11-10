@@ -1,0 +1,10 @@
+params=(void)
+filename=eval.c
+name=rb_f_loop
+type=VALUE
+macro=false
+private=true
+
+
+loop の実体。永遠に yield を繰り返します。
+

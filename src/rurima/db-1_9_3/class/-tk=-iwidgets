@@ -1,0 +1,9 @@
+library=tkextlib.iwidgets
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=TkCore
+
+

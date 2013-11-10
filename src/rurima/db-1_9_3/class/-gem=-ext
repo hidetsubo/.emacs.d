@@ -1,0 +1,9 @@
+library=rubygems.ext
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+拡張ライブラリをビルドするためのモジュールです。

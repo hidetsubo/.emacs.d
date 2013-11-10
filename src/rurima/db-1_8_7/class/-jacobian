@@ -1,0 +1,9 @@
+type=module
+library=bigdecimal.jacobian
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+ヤコビ行列を計算する機能を提供するモジュールです。

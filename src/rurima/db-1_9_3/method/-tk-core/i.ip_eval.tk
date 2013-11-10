@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=ip_eval
+
+--- ip_eval(cmd_string)
+@todo
+

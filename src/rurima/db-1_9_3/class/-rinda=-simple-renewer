@@ -1,0 +1,10 @@
+library=rinda.rinda
+aliasof=
+type=class
+included=DRb=DRbUndumped
+aliases=
+superclass=Object
+extended=
+
+An SimpleRenewer allows a TupleSpace to check if a TupleEntry is
+still alive.

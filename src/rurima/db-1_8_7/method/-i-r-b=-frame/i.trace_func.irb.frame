@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=trace_func
+
+--- trace_func(event, file, line, id, binding) -> Binding
+
+ライブラリ内部で使用します。

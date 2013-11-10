@@ -1,0 +1,8 @@
+private=false
+params=(void (*func)(VALUE), VALUE data)
+type=void
+name=rb_set_end_proc
+filename=eval.c
+macro=false
+
+

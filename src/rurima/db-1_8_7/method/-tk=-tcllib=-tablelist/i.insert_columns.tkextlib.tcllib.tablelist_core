@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=insert_columns,insertcolumns
+
+--- insert_columns(idx, *args)
+--- insertcolumns(idx, *args)
+@todo
+

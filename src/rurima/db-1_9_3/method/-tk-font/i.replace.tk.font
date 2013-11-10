@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=replace
+
+--- replace(ltn, knj = Tk::None)
+@todo
+

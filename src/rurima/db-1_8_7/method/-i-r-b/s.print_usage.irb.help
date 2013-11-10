@@ -1,0 +1,7 @@
+visibility=public
+kind=added
+names=print_usage
+
+--- print_usage -> ()
+
+irb コマンドのヘルプを表示します。

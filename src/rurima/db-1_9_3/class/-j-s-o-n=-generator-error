@@ -1,0 +1,9 @@
+library=json
+aliasof=
+type=class
+included=
+aliases=JSON=UnparserError
+superclass=JSON=JSONError
+extended=
+
+JSON 形式の文字列を生成するときに発生したエラーを通知する例外です。

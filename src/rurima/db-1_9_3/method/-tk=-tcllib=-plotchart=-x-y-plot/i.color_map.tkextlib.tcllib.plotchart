@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=color_map
+
+--- color_map(colors)
+@todo
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=add_checkbutton
+
+--- add_checkbutton(keys = nil)
+@todo
+

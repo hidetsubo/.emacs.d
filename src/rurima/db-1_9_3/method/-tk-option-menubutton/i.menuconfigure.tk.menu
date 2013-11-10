@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=menuconfigure
+
+--- menuconfigure(key, val = Tk::None)
+@todo
+

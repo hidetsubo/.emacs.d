@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=IPPROTO_MAX
+
+--- IPPROTO_MAX -> Integer
+IPPROTO 定数の最大値。
+

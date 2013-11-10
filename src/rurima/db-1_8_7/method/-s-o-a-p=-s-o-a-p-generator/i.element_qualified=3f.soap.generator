@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=element_qualified?
+
+--- element_qualified?(element)
+@todo
+

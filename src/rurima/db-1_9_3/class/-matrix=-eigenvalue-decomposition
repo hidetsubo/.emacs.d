@@ -1,0 +1,11 @@
+library=matrix
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+行列の固有分解の情報を保持するクラスです。
+
+[[m:Matrix#eigensystem]] の返り値のクラスです。

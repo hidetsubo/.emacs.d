@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=def_const
+
+--- def_const(const, value)
+@todo
+

@@ -1,0 +1,12 @@
+params=(VALUE obj)
+filename=ruby.h
+name=IMMEDIATE_P
+type=int
+macro=true
+private=false
+
+
+obj が即値でかつ真な値であるとき真。
+すなわち現在の実装では
+obj が Symbol か Fixnum のインスタンスであるか、 Qtrue のとき真。
+

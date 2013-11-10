@@ -1,0 +1,10 @@
+library=resolv
+aliasof=
+type=class
+included=
+aliases=
+superclass=Resolv=DNS=Resource=TXT
+extended=
+
+DNS リソースのクラス IN、タイプ TXT に対応する
+クラスです。

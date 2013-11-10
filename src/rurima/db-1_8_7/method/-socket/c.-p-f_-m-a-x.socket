@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=PF_MAX
+
+--- PF_MAX -> Integer
+プロトコルファミリーの最大数。
+
+@see [[m:Socket::Constants::AF_MAX]]
+

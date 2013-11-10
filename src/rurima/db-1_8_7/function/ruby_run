@@ -1,0 +1,10 @@
+params=(void)
+filename=eval.c
+name=ruby_run
+type=void
+macro=false
+private=false
+
+
+ruby_eval_tree の評価を開始します。
+

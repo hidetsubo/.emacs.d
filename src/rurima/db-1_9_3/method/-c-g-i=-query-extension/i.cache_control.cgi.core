@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=cache_control
+
+--- cache_control -> String
+
+ENV['HTTP_CACHE_CONTROL'] を返します。
+

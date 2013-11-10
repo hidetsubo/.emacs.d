@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=kanji_metrics
+
+--- kanji_metrics(option = nil)
+@todo
+

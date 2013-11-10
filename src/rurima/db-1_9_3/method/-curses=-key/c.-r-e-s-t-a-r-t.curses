@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=RESTART
+
+--- RESTART -> Integer
+
+Restart キーを表す定数です。
+

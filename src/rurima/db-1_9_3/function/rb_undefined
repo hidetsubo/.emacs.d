@@ -1,0 +1,8 @@
+private=true
+params=(VALUE obj, ID id, int argc, VALUE *argv, int call_status)
+type=VALUE
+name=rb_undefined
+filename=eval.c
+macro=false
+
+

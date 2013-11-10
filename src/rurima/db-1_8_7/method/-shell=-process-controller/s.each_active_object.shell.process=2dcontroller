@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=each_active_object
+
+--- each_active_object{|ref| ... } -> ()
+@todo
+

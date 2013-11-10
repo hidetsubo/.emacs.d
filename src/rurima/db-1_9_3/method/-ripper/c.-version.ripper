@@ -1,0 +1,8 @@
+kind=defined
+visibility=private 
+names=Version
+
+--- Version -> String
+
+ripper のバージョンを文字列で返します。
+

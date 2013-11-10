@@ -1,0 +1,8 @@
+requires=soap.rpc.element,soap.element,soap.soap,soap.mimemessage,soap.encodingstyle.aspDotNetHandler,soap.property,soap.httpconfigloader,soap.rpc.rpc,soap.mapping.wsdlliteralregistry,soap.mapping.typeMap,soap.streamHandler,soap.encodingstyle.soapHandler,soap.generator,soap.baseData,soap.mapping.registry,soap.processor,soap.header.handlerset,soap.mapping.factory,soap.mapping.mapping,soap.mapping.rubytypeFactory,soap.attachment,soap.encodingstyle.literalHandler,soap.rpc.proxy,soap.mapping,soap.encodingstyle.handler
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=SOAP=RPC=Driver
+
+

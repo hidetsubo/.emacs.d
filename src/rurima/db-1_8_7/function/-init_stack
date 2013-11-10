@@ -1,0 +1,8 @@
+params=(VALUE *addr)
+filename=gc.c
+name=Init_stack
+type=void
+macro=false
+private=false
+
+

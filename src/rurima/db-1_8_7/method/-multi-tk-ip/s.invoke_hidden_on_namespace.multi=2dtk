@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=invoke_hidden_on_namespace
+
+--- invoke_hidden_on_namespace(slave, ns, cmd, *args)
+@todo
+

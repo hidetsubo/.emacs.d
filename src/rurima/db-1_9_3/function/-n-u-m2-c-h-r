@@ -1,0 +1,8 @@
+private=false
+params=(VALUE x)
+type=char
+name=NUM2CHR
+filename=ruby.h
+macro=true
+
+

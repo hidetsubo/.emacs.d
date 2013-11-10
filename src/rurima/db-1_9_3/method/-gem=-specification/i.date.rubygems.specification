@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=date
+
+--- date -> Time
+
+日付を返します。
+

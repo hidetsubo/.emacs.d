@@ -1,0 +1,9 @@
+type=class
+library=csv
+extended=
+aliases=
+included=Enumerable
+superclass=Object
+aliasof=
+
+CSVの読み込み時のベースとなるクラス

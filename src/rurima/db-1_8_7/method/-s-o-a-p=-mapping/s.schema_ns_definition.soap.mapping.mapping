@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=schema_ns_definition
+
+--- schema_ns_definition(klass)
+@todo
+

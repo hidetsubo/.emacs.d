@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=integer?
+
+--- integer? -> true
+
+常に真を返します。
+

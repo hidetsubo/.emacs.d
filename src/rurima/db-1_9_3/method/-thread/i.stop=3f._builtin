@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=stop?
+
+--- stop?    -> bool
+
+スレッドが終了(dead)あるいは停止(stop)している時、true を返します。
+

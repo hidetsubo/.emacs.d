@@ -1,0 +1,10 @@
+private=true
+params=(void)
+type=int
+name=yyparse
+filename=parse.y
+macro=false
+
+
+パースを開始します。
+この関数は yacc が自動的に生成するので parse.y には存在しません。

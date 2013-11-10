@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=run
+
+--- run(suite) -> ()
+
+与えられたテストスイートを実行します。
+
+@param suite テストスイートを与えます。
+

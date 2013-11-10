@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=name
+
+--- name -> String
+保持しているマーシャリングされたオブジェクトのクラスの名前を返します。
+

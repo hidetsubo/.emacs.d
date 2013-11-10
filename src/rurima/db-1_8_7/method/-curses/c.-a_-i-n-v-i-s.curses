@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=A_INVIS
+
+--- A_INVIS -> Integer
+
+インビジブルかブランクを表す属性マスク用の定数です。
+
+@see [[m:Curses.attrset]]
+

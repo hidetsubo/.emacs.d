@@ -1,0 +1,8 @@
+requires=
+category=GC
+methods=
+sublibraries=
+classes=WeakRef,WeakRef=RefError
+is_sublibrary=false
+
+weak reference を実現します。

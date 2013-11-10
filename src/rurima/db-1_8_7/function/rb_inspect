@@ -1,0 +1,10 @@
+params=(VALUE obj)
+filename=object.c
+name=rb_inspect
+type=VALUE
+macro=false
+private=false
+
+
+obj.inspect の実体。
+

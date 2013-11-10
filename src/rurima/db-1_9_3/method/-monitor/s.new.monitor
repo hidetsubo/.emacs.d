@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=new
+
+--- new -> Monitor
+新しい Monitor オブジェクトを生成します。
+

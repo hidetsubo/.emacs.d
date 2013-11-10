@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=new
+
+--- new(gem_path)
+
+自身を初期化します。
+
+@param gem_path Gem ファイルのパスを指定します。

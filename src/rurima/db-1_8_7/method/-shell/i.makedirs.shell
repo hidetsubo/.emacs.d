@@ -1,0 +1,13 @@
+visibility=public
+kind=defined
+names=makedirs,mkpath
+
+--- makedirs(*dirs) -> Array
+--- mkpath(*dirs) -> Array
+
+[[c:File]] クラスにある同名のクラスメソッドと同じです.
+
+@param dirs 作成するディレクトリを指定します。
+
+@see [[m:File.makedirs]]
+

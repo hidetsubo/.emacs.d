@@ -1,0 +1,8 @@
+requires=optparse
+category=
+methods=
+sublibraries=
+classes=RDoc=Options
+is_sublibrary=true
+
+rdoc コマンドのオプションを解析するためのサブライブラリです。

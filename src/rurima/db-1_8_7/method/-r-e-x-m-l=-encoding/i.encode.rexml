@@ -1,0 +1,7 @@
+visibility=public
+kind=redefined
+names=encode
+
+--- encode(content)
+@todo
+

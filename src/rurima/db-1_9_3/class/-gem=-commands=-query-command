@@ -1,0 +1,9 @@
+library=rubygems.commands.query_command
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Command
+extended=
+
+Gem パッケージの情報を検索するためのクラスです。

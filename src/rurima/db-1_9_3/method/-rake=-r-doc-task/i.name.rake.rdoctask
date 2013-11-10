@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=name
+
+--- name -> String
+
+タスクの名前を返します。デフォルトは rdoc です。
+

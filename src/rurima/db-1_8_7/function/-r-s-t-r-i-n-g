@@ -1,0 +1,8 @@
+params=(VALUE obj)
+filename=ruby.h
+name=RSTRING
+type=struct RString *
+macro=true
+private=false
+
+

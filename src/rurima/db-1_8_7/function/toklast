@@ -1,0 +1,10 @@
+params=(void)
+filename=parse.y
+name=toklast
+type=char*
+macro=true
+private=true
+
+
+現在のトークンの末尾へのポインタ。
+

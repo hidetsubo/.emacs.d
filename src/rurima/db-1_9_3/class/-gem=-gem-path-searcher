@@ -1,0 +1,9 @@
+library=rubygems.gem_path_searcher
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+Gem パッケージに含まれているファイルのうちロード可能なものを検索するためのクラスです。

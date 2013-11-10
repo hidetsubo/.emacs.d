@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=install_rdoc
+
+--- install_rdoc
+
+RDoc を生成してインストールします。
+

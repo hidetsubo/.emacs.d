@@ -1,0 +1,9 @@
+library=rdoc.parser.ruby
+aliasof=
+type=class
+included=RDoc=RubyToken,RDoc=TokenStream,RDoc=Parser=RubyTools
+aliases=
+superclass=RDoc=Parser
+extended=
+
+Ruby のソースコードを解析するためのクラスです。

@@ -1,0 +1,10 @@
+type=class
+library=rdoc.parsers.parse_c
+extended=RDoc=ParserFactory
+aliases=
+included=
+superclass=Object
+aliasof=
+
+C 言語で記述されたソースコードから組み込みクラス/モジュールのドキュメン
+トを解析するためのクラスです。

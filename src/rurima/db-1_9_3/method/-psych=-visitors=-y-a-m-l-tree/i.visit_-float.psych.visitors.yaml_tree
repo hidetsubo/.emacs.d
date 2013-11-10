@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=visit_Float
+
+--- visit_Float(o)
+@todo
+

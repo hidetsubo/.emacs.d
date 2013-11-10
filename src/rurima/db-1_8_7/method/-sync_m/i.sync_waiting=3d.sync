@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=sync_waiting=
+
+--- sync_waiting=(arr)
+@todo
+

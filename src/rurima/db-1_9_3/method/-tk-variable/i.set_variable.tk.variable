@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=set_variable,variable=
+
+--- set_variable(var)
+--- variable=
+@todo
+

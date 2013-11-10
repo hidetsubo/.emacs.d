@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=encoding_convert_from,encoding_convertfrom
+
+--- encoding_convertfrom(str, enc = Tk::None)
+--- encoding_convert_from(str, enc = Tk::None)
+@todo
+

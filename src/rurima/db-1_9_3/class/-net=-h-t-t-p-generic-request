@@ -1,0 +1,12 @@
+library=net.http
+aliasof=
+type=class
+included=Net=HTTPHeader
+aliases=
+superclass=Object
+extended=
+
+[[c:Net::HTTPRequest]] のスーパークラスです。
+このクラスは直接は使わないでください。
+
+[[c:Net::HTTPRequest]] のサブクラスを使ってください。

@@ -1,0 +1,9 @@
+type=class
+library=dl.win32
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+

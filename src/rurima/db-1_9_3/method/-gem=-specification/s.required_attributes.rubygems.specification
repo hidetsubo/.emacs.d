@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=required_attributes
+
+--- required_attributes -> Array
+
+必須属性のリストを返します。
+
+

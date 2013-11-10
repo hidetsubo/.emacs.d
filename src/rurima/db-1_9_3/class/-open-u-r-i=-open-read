@@ -1,0 +1,9 @@
+library=open=2duri
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+[[c:URI::HTTP]] と [[c:URI::FTP]] を拡張するために用意されたモジュールです。

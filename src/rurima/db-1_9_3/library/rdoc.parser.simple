@@ -1,0 +1,11 @@
+requires=rdoc.context,rdoc.constant,rdoc,rdoc.stats,rdoc.anon_class,rdoc.top_level,rdoc.normal_class,rdoc.alias,rdoc.normal_module,rdoc.any_method,rdoc.code_object,rdoc.meta_method,rdoc.single_class,rdoc.ghost_method,rdoc.attr,rdoc.require,rdoc.code_objects,rdoc.class_module,rdoc.parser,rdoc.parser.simple,rdoc.include
+category=
+methods=
+sublibraries=
+classes=RDoc=Parser=Simple
+is_sublibrary=true
+
+ソースコード以外のファイルを解析するためのサブライブラリです。
+
+ファイルの内容すべてを 1 つの大きなコメントとして処理します。ただし、ファ
+イルの先頭が # で始まっていた場合、先頭行は削除されます。

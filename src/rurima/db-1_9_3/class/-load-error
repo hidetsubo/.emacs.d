@@ -1,0 +1,9 @@
+library=_builtin
+aliasof=
+type=class
+included=
+aliases=
+superclass=ScriptError
+extended=
+
+[[m:Kernel.#require]] や [[m:Kernel.#load]] が失敗したときに発生します。

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=clone
+
+--- clone -> Method
+
+自身を複製した [[c:Method]] オブジェクトを作成して返します。
+

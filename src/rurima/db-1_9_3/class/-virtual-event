@@ -1,0 +1,9 @@
+library=tkclass
+aliasof=
+type=class
+included=
+aliases=TkVirtualEvent
+superclass=Object
+extended=
+
+

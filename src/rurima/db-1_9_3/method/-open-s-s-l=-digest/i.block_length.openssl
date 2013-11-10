@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=block_length
+
+--- block_length -> Integer
+ハッシュ関数のブロックサイズを返します。
+

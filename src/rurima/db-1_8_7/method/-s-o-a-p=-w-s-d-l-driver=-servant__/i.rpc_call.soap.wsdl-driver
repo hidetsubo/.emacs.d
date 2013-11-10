@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=rpc_call
+
+--- rpc_call(name, *values)
+@todo
+
+
+

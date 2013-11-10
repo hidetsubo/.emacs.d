@@ -1,0 +1,10 @@
+library=net.http
+aliasof=
+type=class
+included=Net=HTTPHeader
+aliases=
+superclass=Object
+extended=
+
+HTTP レスポンスを表現するクラスです。
+Net::HTTP クラスは実際には HTTPResponse のサブクラスを返します。

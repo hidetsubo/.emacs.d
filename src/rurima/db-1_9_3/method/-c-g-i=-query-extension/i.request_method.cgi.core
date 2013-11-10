@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=request_method
+
+--- request_method -> String
+
+ENV['REQUEST_METHOD'] を返します。
+

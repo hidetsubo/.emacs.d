@@ -1,0 +1,11 @@
+type=class
+library=cgi.session
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+セッションの保存先としてメモリを使用するクラスです。
+
+セッションのデータは Ruby インタプリタが起動している間だけ永続化されています。

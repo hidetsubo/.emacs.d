@@ -1,0 +1,10 @@
+private=true
+params=(char *key, ID value, VALUE ary)
+type=int
+name=symbols_i
+filename=parse.y
+macro=false
+
+
+rb_sym_all_symbols() のイテレータブロック。
+

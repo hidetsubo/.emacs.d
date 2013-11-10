@@ -1,0 +1,9 @@
+type=module
+library=tkextlib.tcllib.cursor
+extended=TkCore
+aliases=
+included=
+superclass=
+aliasof=
+
+

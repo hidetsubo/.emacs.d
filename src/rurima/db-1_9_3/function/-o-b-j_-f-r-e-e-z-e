@@ -1,0 +1,8 @@
+private=false
+params=(VALUE x)
+type=void
+name=OBJ_FREEZE
+filename=ruby.h
+macro=true
+
+

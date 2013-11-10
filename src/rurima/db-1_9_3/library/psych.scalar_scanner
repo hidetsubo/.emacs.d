@@ -1,0 +1,8 @@
+requires=strscan
+category=
+methods=
+sublibraries=
+classes=Psych=ScalarScanner
+is_sublibrary=true
+
+

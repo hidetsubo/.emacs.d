@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=plot_filled_rectangle
+
+--- plot_filled_rectangle(*args)
+@todo
+

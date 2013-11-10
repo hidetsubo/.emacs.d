@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=to_ptr
+
+--- to_ptr
+@todo
+
+保持している DL::PtrData オブジェクトを返します。
+

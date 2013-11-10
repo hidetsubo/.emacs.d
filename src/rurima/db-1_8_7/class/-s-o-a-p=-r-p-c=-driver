@@ -1,0 +1,9 @@
+type=class
+library=soap.rpc.driver
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+

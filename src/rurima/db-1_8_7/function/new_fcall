@@ -1,0 +1,8 @@
+params=(ID m, NODE *a)
+filename=parse.y
+name=new_fcall
+type=NODE *
+macro=false
+private=true
+
+

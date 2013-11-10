@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=writable?
+
+--- writable? -> bool
+FileTest.writable?(self.to_s) と同じです。
+
+@see [[m:FileTest.#writable?]]
+

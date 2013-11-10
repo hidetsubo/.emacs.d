@@ -1,0 +1,11 @@
+library=net.http
+aliasof=
+type=class
+included=
+aliases=Net=HTTPRequestURITooLarge
+superclass=Net=HTTPClientError
+extended=
+
+HTTP レスポンス 414 (Request-URI Too Large) を表現するクラスです。
+
+詳しくは [[RFC:2616]] を見てください。

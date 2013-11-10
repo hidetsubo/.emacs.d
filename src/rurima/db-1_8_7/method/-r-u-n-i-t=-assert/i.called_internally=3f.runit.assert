@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=called_internally?
+
+--- called_internally? -> bool
+
+内部で使用します。
+

@@ -1,0 +1,9 @@
+type=class
+library=tk.timer
+extended=
+aliases=TkTimer
+included=
+superclass=Object
+aliasof=
+
+

@@ -1,0 +1,10 @@
+private=true
+params=(VALUE self, NODE *node)
+type=VALUE
+name=block_pass
+filename=eval.c
+macro=false
+
+
+node を評価して Proc オブジェクトを得、それを積みます。
+

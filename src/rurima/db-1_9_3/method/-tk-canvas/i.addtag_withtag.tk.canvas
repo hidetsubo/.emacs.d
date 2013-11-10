@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=addtag_withtag
+
+--- addtag_withtag(tagOrId, tag)
+@todo
+
+
+

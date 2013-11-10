@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=withdraw
+
+--- withdraw(ex = true)
+@todo
+

@@ -1,0 +1,9 @@
+requires=test.unit.testresult,test.unit.testsuite,test.unit.autorunner,test.unit.testcase,test.unit.ui.testrunnerutilities,test.unit,test.unit.assertions,test.unit.ui.testrunnermediator,test.unit.util.observable
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=Test=Unit=UI=Fox=TestRunner
+
+FOX Toolkit を用いた UI 上でユニットテストを実行し、結果を表示するため
+のライブラリです。

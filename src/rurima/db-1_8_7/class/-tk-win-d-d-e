@@ -1,0 +1,9 @@
+type=module
+library=tk.winpkg
+extended=Tk,TkWinDDE
+aliases=
+included=
+superclass=
+aliasof=
+
+

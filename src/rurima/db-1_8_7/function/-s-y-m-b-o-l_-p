@@ -1,0 +1,10 @@
+params=(VALUE obj)
+filename=ruby.h
+name=SYMBOL_P
+type=int
+macro=true
+private=false
+
+
+obj が Symbol のインスタンスのとき真。
+

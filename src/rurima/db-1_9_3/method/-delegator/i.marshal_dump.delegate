@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=marshal_dump
+
+--- marshal_dump -> object
+
+シリアライゼーションをサポートするために[[m:Delegator#__getobj__]] が返すオブジェクトを返します。
+

@@ -1,0 +1,8 @@
+params=(int argc, VALUE *argv, VALUE recv)
+filename=eval.c
+name=rb_f_send
+type=VALUE
+macro=false
+private=true
+
+

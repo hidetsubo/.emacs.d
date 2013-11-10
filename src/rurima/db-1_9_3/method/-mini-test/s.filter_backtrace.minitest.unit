@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=filter_backtrace
+
+--- filter_backtrace(backtrace) -> Array
+
+バックトレースからこのライブラリに関する部分を取り除いた結果を返します。
+
+@param backtrace バックトレースを指定します。
+

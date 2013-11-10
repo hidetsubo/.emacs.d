@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=gid
+
+--- gid        -> Integer
+
+カレントプロセスの実グループ ID を返します。
+
+@see [[man:getgid(2)]]
+

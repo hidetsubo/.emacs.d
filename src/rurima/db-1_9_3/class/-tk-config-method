@@ -1,0 +1,9 @@
+library=tk
+aliasof=
+type=module
+included=TkUtil,TkTreatFont
+aliases=
+superclass=
+extended=
+
+

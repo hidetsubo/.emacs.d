@@ -1,0 +1,14 @@
+kind=defined
+visibility=public
+names=CP864,IBM864
+
+--- IBM864 -> Encoding
+--- CP864 -> Encoding
+CP864 エンコーディング。
+
+アラビア語に用いられる、
+8bit single-byte エンコーディングです。
+
+@see [[url:http://en.wikipedia.org/wiki/Code_page_864]]
+
+

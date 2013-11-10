@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=clone
+
+--- clone() -> Vector
+
+自分自身をコピーしたベクトルを返します。
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=private 
+names=EVENTS
+
+--- EVENTS -> [Symbol]
+
+ripper の扱う全てのイベント ID (シンボル) のリストを返します。
+

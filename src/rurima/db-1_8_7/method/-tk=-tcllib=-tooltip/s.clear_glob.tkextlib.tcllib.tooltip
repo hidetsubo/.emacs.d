@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=clear_glob
+
+--- clear_glob(glob_path_pat)
+@todo
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=CREATE
+
+--- CREATE -> Integer
+
+Create キーを表す定数です。
+

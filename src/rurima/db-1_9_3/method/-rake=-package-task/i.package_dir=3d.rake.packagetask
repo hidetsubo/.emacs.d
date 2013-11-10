@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=package_dir=
+
+--- package_dir=(dirname)
+
+パッケージに入れるファイルを保存するディレクトリ名をセットします。
+
+@param dirname パッケージに入れるファイルを保存するディレクトリ名を指定します。
+

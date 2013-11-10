@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=eventloop_tkwait,eventloop_tkwait_visibility,eventloop_wait,eventloop_wait_visibility
+
+--- eventloop_wait_visibility
+--- eventloop_wait
+--- eventloop_tkwait
+--- eventloop_tkwait_visibility
+@todo
+
+

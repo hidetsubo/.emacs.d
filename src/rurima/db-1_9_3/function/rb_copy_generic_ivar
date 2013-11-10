@@ -1,0 +1,8 @@
+private=false
+params=(VALUE clone, VALUE obj)
+type=void
+name=rb_copy_generic_ivar
+filename=variable.c
+macro=false
+
+

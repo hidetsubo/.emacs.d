@@ -1,0 +1,11 @@
+private=true
+params=(VALUE klass)
+type=void
+name=rb_clear_cache_by_class
+filename=eval.c
+macro=false
+
+
+メソッドキャシュから klass クラスのメソッドの
+キャッシュエントリを消去します。
+

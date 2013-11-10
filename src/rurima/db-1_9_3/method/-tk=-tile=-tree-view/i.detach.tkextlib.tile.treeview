@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=detach
+
+--- detach(*items)
+@todo
+

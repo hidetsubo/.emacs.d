@@ -1,0 +1,11 @@
+library=net.http
+aliasof=
+type=class
+included=
+aliases=
+superclass=Net=HTTPServerError
+extended=
+
+HTTP レスポンス 505 (HTTP Version not supported) を表現するクラスです。
+
+詳しくは [[RFC:2616]] を見てください。

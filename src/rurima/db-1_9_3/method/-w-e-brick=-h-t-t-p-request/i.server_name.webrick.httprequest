@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=server_name
+
+--- server_name -> String
+
+サーバの名前を返します。
+

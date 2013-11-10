@@ -1,0 +1,8 @@
+requires=webrick.httpservlet.abstract,webrick.httpstatus,webrick.httputils
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=WEBrick=HTTPServlet=ProcHandler
+
+[[c:Proc]] を扱うためのサーブレットを提供するライブラリです。

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=attribute_config
+
+--- attribute_config(win, slot, value = Tk::None)
+@todo
+

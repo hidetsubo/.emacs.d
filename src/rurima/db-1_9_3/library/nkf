@@ -1,0 +1,8 @@
+requires=
+category=CharacterEncoding
+methods=
+sublibraries=
+classes=NKF
+is_sublibrary=false
+
+nkf を Ruby から使うためのライブラリです。

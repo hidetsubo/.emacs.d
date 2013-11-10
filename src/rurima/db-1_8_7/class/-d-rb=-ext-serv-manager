@@ -1,0 +1,9 @@
+type=class
+library=drb.extservm
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+[[c:DRb::ExtServ]] で作られたサービスを管理するクラスです。

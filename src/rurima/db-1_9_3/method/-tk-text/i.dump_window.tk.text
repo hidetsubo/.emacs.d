@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=dump_window
+
+--- dump_window(*index) { ... }
+@todo
+

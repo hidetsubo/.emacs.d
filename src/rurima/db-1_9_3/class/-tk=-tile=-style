@@ -1,0 +1,9 @@
+library=tkextlib.tile.style
+aliasof=
+type=module
+included=Tk=Tile=ParseStyleLayout
+aliases=
+superclass=
+extended=TkCore
+
+

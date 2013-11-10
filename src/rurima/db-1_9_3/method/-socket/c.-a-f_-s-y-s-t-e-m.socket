@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=AF_SYSTEM,PF_SYSTEM
+
+--- AF_SYSTEM -> Integer
+--- PF_SYSTEM -> Integer
+
+@todo
+
+[[m:Socket.open]] の第一引数 domain に使用します。
+

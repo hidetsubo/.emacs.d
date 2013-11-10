@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=buf
+
+--- buf -> String
+保持しているマーシャリングされたバイト列を返します。
+

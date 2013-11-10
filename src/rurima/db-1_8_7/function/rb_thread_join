@@ -1,0 +1,8 @@
+params=(rb_thread_t th, double limit)
+filename=eval.c
+name=rb_thread_join
+type=int
+macro=false
+private=true
+
+

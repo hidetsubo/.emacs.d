@@ -1,0 +1,11 @@
+private=false
+params=(int size)
+type=st_table *
+name=st_init_strtable_with_size
+filename=st.c
+macro=false
+
+
+キーが char* 型であるハッシュテーブルを作成する。
+[[f:st_init_table]] に文字列用の操作関数を渡しているだけ。
+

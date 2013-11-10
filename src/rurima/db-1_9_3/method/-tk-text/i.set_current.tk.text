@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=set_current
+
+--- set_current(index)
+@todo
+

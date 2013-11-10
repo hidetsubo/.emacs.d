@@ -1,0 +1,8 @@
+kind=added
+visibility=public
+names=trace_func
+
+--- trace_func(*vars) -> object | nil
+
+[[lib:debug]] ライブラリの内部で使用します。
+

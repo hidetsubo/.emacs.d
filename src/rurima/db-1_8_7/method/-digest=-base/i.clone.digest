@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=clone,dup
+
+--- dup   -> Digest::Base
+--- clone -> Digest::Base
+
+ダイジェストオブジェクトの複製を作ります。
+

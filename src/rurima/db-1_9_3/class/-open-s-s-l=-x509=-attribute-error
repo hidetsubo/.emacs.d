@@ -1,0 +1,10 @@
+library=openssl
+aliasof=
+type=class
+included=
+aliases=
+superclass=OpenSSL=OpenSSLError
+extended=
+
+[[c:OpenSSL::X509::Attribute]] 関連のエラーが起きた場合に
+発生する例外です。

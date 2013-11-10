@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=method_added
+
+--- method_added(id)
+@todo
+このクラスに定義されたメソッドを [[c:Shell]] にも定義するためのフックです。
+
+@param id メソッド名を指定します。
+

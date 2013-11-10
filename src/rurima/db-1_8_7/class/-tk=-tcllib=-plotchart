@@ -1,0 +1,9 @@
+type=module
+library=tkextlib.tcllib.plotchart
+extended=TkCore
+aliases=
+included=
+superclass=
+aliasof=
+
+

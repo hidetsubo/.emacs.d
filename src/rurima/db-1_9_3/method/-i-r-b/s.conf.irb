@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=conf
+
+--- conf -> Hash
+
+irb の設定をハッシュで返します。
+

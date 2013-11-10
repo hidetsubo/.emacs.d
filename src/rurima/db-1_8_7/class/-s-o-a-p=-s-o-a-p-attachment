@@ -1,0 +1,9 @@
+type=class
+library=soap.attachment
+extended=
+aliases=
+included=
+superclass=SOAP=SOAPExternalReference
+aliasof=
+
+

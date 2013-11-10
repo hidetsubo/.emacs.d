@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tcllib.plotchart
+extended=
+aliases=Tk=Tcllib=Plotchart=IsometricPlot
+included=
+superclass=Object
+aliasof=
+
+

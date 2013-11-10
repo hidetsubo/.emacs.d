@@ -1,0 +1,9 @@
+library=tkextlib.tcllib.scrollwin
+aliasof=Tk=Tcllib=Scrolledwindow
+type=class
+included=
+aliases=
+superclass=TkWindow
+extended=
+
+Alias of [[c:Tk::Tcllib::Scrolledwindow]]

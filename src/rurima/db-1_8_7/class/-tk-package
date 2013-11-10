@@ -1,0 +1,9 @@
+type=class
+library=tk.package
+extended=TkCore
+aliases=
+included=TkCore
+superclass=Object
+aliasof=
+
+

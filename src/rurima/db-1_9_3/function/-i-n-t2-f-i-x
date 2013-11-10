@@ -1,0 +1,11 @@
+private=false
+params=(int i)
+type=VALUE
+name=INT2FIX
+filename=ruby.h
+macro=true
+
+
+Fixnum におさまることが自明な整数を Fixnum に変換します。
+なお、Fixnum の幅は long の幅 - 1 です。
+

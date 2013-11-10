@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=u
+
+--- u -> Matrix
+LUP分解の上半行列部分を返します。
+

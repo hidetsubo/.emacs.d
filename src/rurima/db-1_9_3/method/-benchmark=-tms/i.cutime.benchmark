@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=cutime
+
+--- cutime -> Float
+
+子プロセスの User CPU time
+

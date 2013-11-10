@@ -1,0 +1,8 @@
+requires=
+category=
+methods=
+sublibraries=
+classes=Shell=Error,Shell=Error=CantApplyMethod,Shell=Error=CantDefine,Shell=Error=CommandNotFound,Shell=Error=DirStackEmpty
+is_sublibrary=true
+
+[[lib:shell]] で使用する例外を定義したライブラリです。

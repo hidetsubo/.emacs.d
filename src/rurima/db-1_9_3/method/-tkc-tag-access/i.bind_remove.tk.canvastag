@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=bind_remove
+
+--- bind_remove(seq)
+@todo
+
+
+

@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkPhotoImage
+included=
+superclass=Object
+aliasof=
+
+

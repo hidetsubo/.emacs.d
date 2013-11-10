@@ -1,0 +1,9 @@
+library=tkextlib.tcllib.ctext
+aliasof=
+type=class
+included=
+aliases=
+superclass=TkText
+extended=
+
+

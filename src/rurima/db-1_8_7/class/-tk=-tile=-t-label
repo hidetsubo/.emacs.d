@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tlabel
+extended=
+aliases=
+included=Tk=Tile=TileWidget
+superclass=TkLabel
+aliasof=
+
+

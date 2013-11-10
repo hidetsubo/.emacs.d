@@ -1,0 +1,12 @@
+kind=defined
+visibility=public
+names=AI_ADDRCONFIG
+
+--- AI_ADDRCONFIG -> Integer
+Accept only if any address is assigned。
+
+[[m:Socket.getaddrinfo]], [[m:Addrinfo.getaddrinfo]] の引数 flags に渡す
+定数です。
+
+@see [[man:getaddrinfo(3)]]
+

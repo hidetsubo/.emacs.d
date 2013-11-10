@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=Text
+methods=
+classes=StringScanner,StringScanner=Error
+
+strscan は 文字列を高速にスキャンするためのライブラリです。

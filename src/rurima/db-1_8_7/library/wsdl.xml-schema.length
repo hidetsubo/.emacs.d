@@ -1,0 +1,8 @@
+requires=wsdl.info
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=WSDL=XMLSchema=Length
+
+

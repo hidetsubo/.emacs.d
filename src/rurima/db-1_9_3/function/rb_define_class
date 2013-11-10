@@ -1,0 +1,10 @@
+private=false
+params=(const char *name, VALUE super)
+type=VALUE
+name=rb_define_class
+filename=class.c
+macro=false
+
+
+クラス super の下位クラス name を作成し返します。
+

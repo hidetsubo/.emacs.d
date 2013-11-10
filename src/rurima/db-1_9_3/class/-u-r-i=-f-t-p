@@ -1,0 +1,9 @@
+library=uri
+aliasof=
+type=class
+included=
+aliases=
+superclass=URI=Generic
+extended=
+
+FTP URI を表すクラスです。

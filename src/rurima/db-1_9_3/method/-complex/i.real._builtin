@@ -1,0 +1,12 @@
+kind=defined
+visibility=public
+names=real
+
+--- real -> Numeric
+
+自身の実部を返します。
+
+例:
+
+  Complex(3, 2).real # => 3
+

@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=COPY
+
+--- COPY -> Integer
+
+Copy キーを表す定数です。
+

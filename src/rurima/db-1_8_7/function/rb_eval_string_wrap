@@ -1,0 +1,11 @@
+params=(const char *str, int *state)
+filename=eval.c
+name=rb_eval_string_wrap
+type=VALUE
+macro=false
+private=false
+
+
+[[f:rb_eval_string_protect]] と同じですが，スクリプトの評価を
+無名のモジュールのもとで行います。
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=emitter
+
+--- emitter -> Syck::Emitter
+
+YAML を出力するためのオブジェクトを返します。
+

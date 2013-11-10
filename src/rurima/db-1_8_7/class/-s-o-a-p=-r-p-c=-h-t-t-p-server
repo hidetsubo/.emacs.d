@@ -1,0 +1,9 @@
+type=class
+library=soap.rpc.httpserver
+extended=
+aliases=
+included=
+superclass=Logger=Application
+aliasof=
+
+

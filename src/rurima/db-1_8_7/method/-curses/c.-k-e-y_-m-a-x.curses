@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=KEY_MAX
+
+--- KEY_MAX -> Integer
+
+curses で利用可能なキーを表す定数の最大値です。
+

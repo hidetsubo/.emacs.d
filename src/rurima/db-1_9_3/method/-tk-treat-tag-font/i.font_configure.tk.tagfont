@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=font_configure
+
+--- font_configure(slot)
+@todo
+
+alias font font_configinfo
+

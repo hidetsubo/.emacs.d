@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=write_with_substitution
+
+--- write_with_substitution(out, input)
+@todo
+

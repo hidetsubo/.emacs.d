@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=count
+
+--- count -> Integer
+
+[[m:Gem::StreamUI::SimpleProgressReporter#updated]] が呼び出された回数を返します。
+

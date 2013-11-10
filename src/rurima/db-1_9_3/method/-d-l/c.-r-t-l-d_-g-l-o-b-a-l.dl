@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=RTLD_GLOBAL,RTLD_LAZY,RTLD_NOW,RUBY_FREE
+
+--- RTLD_GLOBAL
+--- RTLD_LAZY
+--- RTLD_NOW
+--- RUBY_FREE
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=metrics
+
+--- metrics(fnt, option = nil)
+@todo
+

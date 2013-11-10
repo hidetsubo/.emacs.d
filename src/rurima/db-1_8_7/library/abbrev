@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=
+methods=Array/i.abbrev.abbrev
+classes=Abbrev
+
+与えられた文字列の短縮形を生成するモジュールです。

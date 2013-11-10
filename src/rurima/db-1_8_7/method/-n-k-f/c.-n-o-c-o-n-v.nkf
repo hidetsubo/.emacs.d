@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=NOCONV
+
+--- NOCONV -> Integer
+コードを変換しないことを表します。
+
+NKFモジュール自体からは利用しません。
+
+

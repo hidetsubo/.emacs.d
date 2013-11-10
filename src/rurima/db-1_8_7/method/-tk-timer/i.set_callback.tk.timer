@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=set_callback
+
+--- set_callback(sleep, args = nil)
+@todo
+

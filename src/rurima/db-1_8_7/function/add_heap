@@ -1,0 +1,10 @@
+params=(void)
+filename=gc.c
+name=add_heap
+type=void
+macro=false
+private=true
+
+
+Rubyオブジェクトのヒープスロットを増設する。
+

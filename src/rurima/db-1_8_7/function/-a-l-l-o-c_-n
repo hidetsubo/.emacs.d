@@ -1,0 +1,10 @@
+params=(type, n)
+filename=ruby.h
+name=ALLOC_N
+type=type*
+macro=true
+private=false
+
+
+type 型のメモリを n 個割り当てる。
+

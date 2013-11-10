@@ -1,0 +1,7 @@
+visibility=private 
+kind=defined
+names=_create_menu
+
+--- _create_menu(parent, menu_info, menu_name = nil, tearoff = false, default_opts = nil)
+@todo
+

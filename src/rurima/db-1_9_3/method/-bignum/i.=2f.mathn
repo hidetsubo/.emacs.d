@@ -1,0 +1,9 @@
+kind=redefined
+visibility=public
+names=/
+
+--- /(other)
+@todo
+
+Bignum#quo と同じ働きをします(有理数または整数を返します)。
+

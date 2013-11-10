@@ -1,0 +1,9 @@
+library=rubygems.indexer
+aliasof=
+type=class
+included=Gem=UserInteraction
+aliases=
+superclass=Object
+extended=
+
+Gem リポジトリのインデックスを作成するためのクラスです。

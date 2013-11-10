@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=KEY_STAB
+
+--- KEY_STAB -> Integer
+
+Shift + TAB キーを表す定数です。
+

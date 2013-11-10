@@ -1,0 +1,8 @@
+requires=
+category=Development
+methods=
+sublibraries=
+classes=MiniTest=Mock,MockExpectationError
+is_sublibrary=false
+
+シンプルなモックライブラリです。

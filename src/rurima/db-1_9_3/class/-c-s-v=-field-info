@@ -1,0 +1,12 @@
+library=csv
+aliasof=
+type=class
+included=
+aliases=
+superclass=Struct
+extended=
+
+行が読み込まれたデータソース内でのフィールドの位置の情報を格納するための
+構造体です。
+
+[[c:CSV]] クラスではこの構造体はいくつかのメソッドのブロックに渡されます。

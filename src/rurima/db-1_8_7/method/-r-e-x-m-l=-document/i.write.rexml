@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=write
+
+--- write(output = $stdout, indent = -1, transitive = false, ie_hack = false)
+@todo
+

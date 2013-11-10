@@ -1,0 +1,11 @@
+params=(NODE *node, NODE *orig)
+filename=parse.y
+name=fixpos
+type=void
+macro=false
+private=true
+
+
+orig に格納されているファイル名と行番号を node にコピーします。
+node もしくは orig が NULL のときは何もしません。
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=AuthException
+
+--- AuthException -> Class
+
+認証失敗時に発生する例外のクラスです。
+

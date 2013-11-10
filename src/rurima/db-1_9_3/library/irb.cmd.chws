@@ -1,0 +1,12 @@
+requires=irb.ext.change=2dws,irb.cmd.nop
+category=
+methods=
+sublibraries=
+classes=IRB=ExtendCommand=CurrentWorkingWorkspace,IRB=ExtendCommand=ChangeWorkspace
+is_sublibrary=true
+
+irb 中の irb_current_working_workspace、irb_change_workspace コマンドの
+ための拡張を定義したサブライブラリです。
+
+このライブラリで定義されているメソッドはユーザが直接使用するものではあ
+りません。

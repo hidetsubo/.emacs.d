@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=select_from
+
+--- select_from(tagOrId, index)
+@todo
+
+
+

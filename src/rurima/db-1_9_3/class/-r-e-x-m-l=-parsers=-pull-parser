@@ -1,0 +1,9 @@
+library=rexml
+aliasof=
+type=class
+included=REXML=XMLTokens
+aliases=
+superclass=Object
+extended=Forwardable
+
+

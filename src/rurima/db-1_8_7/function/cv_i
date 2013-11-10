@@ -1,0 +1,8 @@
+params=(ID key, VALUE value, VALUE ary)
+filename=variable.c
+name=cv_i
+type=int
+macro=false
+private=true
+
+

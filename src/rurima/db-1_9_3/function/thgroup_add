@@ -1,0 +1,8 @@
+private=true
+params=(VALUE group, VALUE thread)
+type=VALUE
+name=thgroup_add
+filename=eval.c
+macro=false
+
+

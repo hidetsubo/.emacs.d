@@ -1,0 +1,9 @@
+type=module
+library=tk.canvastag
+extended=
+aliases=
+included=TkComm,TkTreatTagFont
+superclass=
+aliasof=
+
+

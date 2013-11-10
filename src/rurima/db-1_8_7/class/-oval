@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkcOval
+included=
+superclass=Object
+aliasof=
+
+

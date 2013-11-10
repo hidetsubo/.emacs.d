@@ -1,0 +1,12 @@
+requires=irb.ext.multi=2dirb,irb.cmd.nop,thread
+category=
+methods=
+sublibraries=
+classes=IRB=ExtendCommand=IrbCommand,IRB=ExtendCommand=Jobs,IRB=ExtendCommand=Foreground,IRB=ExtendCommand=Kill
+is_sublibrary=true
+
+irb 中の irb、irb_jobs、irb_fg、irb_kill コマンドのための拡張を定義した
+サブライブラリです。
+
+このライブラリで定義されているメソッドはユーザが直接使用するものではあ
+りません。

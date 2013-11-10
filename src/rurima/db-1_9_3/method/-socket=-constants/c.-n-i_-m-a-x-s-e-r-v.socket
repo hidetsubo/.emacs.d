@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=NI_MAXSERV
+
+--- NI_MAXSERV -> Integer
+
+[[man:getnameinfo(3)]] で用いるサービス名文字列の最大長さ。
+
+@see [[man:getnameinfo(3linux)]]
+

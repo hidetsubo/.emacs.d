@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=visit_Hash
+
+--- visit_Hash(o)
+@todo
+

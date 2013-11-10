@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=register
+
+--- register(enc) {|obj| ... }
+@todo
+

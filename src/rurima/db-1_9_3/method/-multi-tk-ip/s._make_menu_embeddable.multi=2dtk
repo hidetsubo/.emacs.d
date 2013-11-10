@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_make_menu_embeddable
+
+--- _make_menu_embeddable(menu_path)
+@todo
+

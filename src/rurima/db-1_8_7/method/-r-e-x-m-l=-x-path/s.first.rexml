@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=first
+
+--- first(element, path = nil, namespaces = {}, variables = {})
+@todo
+

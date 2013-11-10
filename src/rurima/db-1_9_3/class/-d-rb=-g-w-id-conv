@@ -1,0 +1,11 @@
+library=drb.gw
+aliasof=
+type=class
+included=
+aliases=
+superclass=DRb=DRbIdConv
+extended=
+
+DRb::DRbIdConv に drb 通信の中継に必要な拡張をしたもの。
+
+詳しくは [[lib:drb/gw]] の例を見てください。

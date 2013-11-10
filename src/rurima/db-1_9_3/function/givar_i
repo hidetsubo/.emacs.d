@@ -1,0 +1,8 @@
+private=true
+params=(VALUE obj, st_table *tbl)
+type=int
+name=givar_i
+filename=variable.c
+macro=false
+
+

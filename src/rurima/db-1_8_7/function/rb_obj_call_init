@@ -1,0 +1,12 @@
+params=(VALUE obj, int argc, VALUE *argv)
+filename=eval.c
+name=rb_obj_call_init
+type=void
+macro=false
+private=false
+
+
+オブジェクト obj に対して initialize を呼び出します。
+引数は長さ argc の配列 argv で表され、
+ブロックが積んである場合はそれも自動的に渡されます。
+

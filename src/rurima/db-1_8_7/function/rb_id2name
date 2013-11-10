@@ -1,0 +1,11 @@
+params=(ID id)
+filename=parse.y
+name=rb_id2name
+type=char *
+macro=false
+private=false
+
+
+id に対応する文字列を返します。
+返り値は開放できません。
+

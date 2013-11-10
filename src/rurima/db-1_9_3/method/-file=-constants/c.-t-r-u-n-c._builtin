@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=TRUNC
+
+--- TRUNC -> Integer
+もしファイルが存在するなら、中身を抹消してサイズをゼロにします。
+[[m:File.open]]で使用します。
+

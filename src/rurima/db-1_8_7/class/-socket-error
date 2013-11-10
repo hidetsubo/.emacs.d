@@ -1,0 +1,9 @@
+type=class
+library=socket
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+[[lib:socket]] ライブラリに関する例外クラスです。

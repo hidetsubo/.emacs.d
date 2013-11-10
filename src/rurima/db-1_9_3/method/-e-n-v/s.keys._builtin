@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=keys
+
+--- keys -> [String]
+
+全環境変数の名前の配列を返します。
+

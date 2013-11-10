@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=TCP_NOOPT
+
+--- TCP_NOOPT -> Integer
+Don't use TCP options。
+[[m:BasicSocket#getsockopt]], [[m:BasicSocket#setsockopt]]
+の第2引数(optname)に使用します。
+
+@see [[man:tcp(4freebsd)]], [[man:tcp(7linux)]]
+

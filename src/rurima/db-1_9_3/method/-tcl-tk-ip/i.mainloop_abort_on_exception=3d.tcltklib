@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=mainloop_abort_on_exception=
+
+--- mainloop_abort_on_exception=(val)
+@todo
+

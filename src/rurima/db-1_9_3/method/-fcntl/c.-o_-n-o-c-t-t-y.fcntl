@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=O_NOCTTY
+
+--- O_NOCTTY -> Integer
+開いたファイルが端末デバイスでも、制御端末にはなりません。
+

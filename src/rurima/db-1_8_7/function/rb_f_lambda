@@ -1,0 +1,10 @@
+params=(void)
+filename=eval.c
+name=rb_f_lambda
+type=VALUE
+macro=false
+private=false
+
+
+ruby_block 先端の BLOCK から Proc オブジェクトを作成し、返します。
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=reset
+
+--- reset(*options) -> YAML::Syck::Emitter
+@todo
+

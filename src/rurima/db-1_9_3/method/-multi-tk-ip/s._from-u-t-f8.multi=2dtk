@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_fromUTF8
+
+--- _fromUTF8(str, encoding = nil)
+@todo
+

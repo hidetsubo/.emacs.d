@@ -1,0 +1,9 @@
+library=rubygems.local_remote_options
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+[[c:Gem::Command]] で使用する --local, --remote オプションのためのモジュールです。

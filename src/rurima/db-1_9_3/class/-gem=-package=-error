@@ -1,0 +1,9 @@
+library=rubygems.package
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+[[c:Gem::Package]] での基本的な例外です。

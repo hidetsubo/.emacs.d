@@ -1,0 +1,10 @@
+private=false
+params=(void)
+type=ID
+name=rb_frame_last_func
+filename=eval.c
+macro=false
+
+
+現在呼び出し中の (Rubyで実装された) メソッドの呼び出し名を返します。
+

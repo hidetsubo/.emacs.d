@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=VERSION
+
+--- VERSION -> String
+
+libdbm のバージョンを表す文字列です。
+
+
+

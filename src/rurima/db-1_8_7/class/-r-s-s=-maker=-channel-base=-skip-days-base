@@ -1,0 +1,9 @@
+type=class
+library=rss
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+RSS 0.91/2.0を生成するときだけ利用されます．

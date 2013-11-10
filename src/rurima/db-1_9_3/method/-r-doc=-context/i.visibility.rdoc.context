@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=visibility
+
+--- visibility -> :public | :protected | :private
+
+自身の可視性を [[c:Symbol]] で返します。
+

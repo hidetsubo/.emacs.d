@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=configure
+
+--- configure(fnt, slot, value = Tk::None)
+@todo
+

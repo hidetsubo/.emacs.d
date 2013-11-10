@@ -1,0 +1,8 @@
+private=true
+params=(struct BLOCK *block)
+type=void
+name=blk_copy_prev
+filename=eval.c
+macro=false
+
+

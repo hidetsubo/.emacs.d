@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=move_column,movecolumn
+
+--- move_column(src, target)
+--- movecolumn(src, target)
+@todo
+

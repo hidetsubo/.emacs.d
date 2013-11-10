@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=closed?,to_io
+
+--- closed? -> bool
+--- to_io -> IO
+
+IO クラスの同名メソッドと同じ。
+
+@see [[m:IO#to_io]], [[m:IO#closed?]]
+

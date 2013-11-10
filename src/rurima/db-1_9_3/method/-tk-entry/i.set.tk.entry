@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=set,value=
+
+--- value=(val)
+--- set(val)
+@todo
+
+

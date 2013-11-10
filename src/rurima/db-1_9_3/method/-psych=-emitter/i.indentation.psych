@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=indentation
+
+--- indentation -> Integer
+@todo
+
+Get the indentation level.
+

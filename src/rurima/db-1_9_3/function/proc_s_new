@@ -1,0 +1,10 @@
+private=true
+params=(int argc, VALUE *argv, VALUE klass)
+type=VALUE
+name=proc_s_new
+filename=eval.c
+macro=false
+
+
+Proc.new の実体。
+

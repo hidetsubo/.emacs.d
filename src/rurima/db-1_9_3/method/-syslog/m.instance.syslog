@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=instance
+
+--- instance -> self
+
+selfを返します。(旧版との互換性のため)
+

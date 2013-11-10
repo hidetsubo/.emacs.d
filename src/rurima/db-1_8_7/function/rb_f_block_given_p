@@ -1,0 +1,12 @@
+params=(void)
+filename=eval.c
+name=rb_f_block_given_p
+type=VALUE
+macro=false
+private=true
+
+
+block_given? の実体。
+現在評価中の (Ruby で実装された) メソッドに対して
+ブロックが与えられていたら真。
+

@@ -1,0 +1,10 @@
+params=(void)
+filename=parse.y
+name=toklen
+type=int
+macro=true
+private=true
+
+
+現在のトークンの長さ。
+

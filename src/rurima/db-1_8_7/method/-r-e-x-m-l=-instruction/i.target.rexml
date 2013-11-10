@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=target,target=
+
+--- target
+--- target=(value)
+@todo
+

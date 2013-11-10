@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=instruction
+
+--- instruction(name, instruction)
+@todo
+

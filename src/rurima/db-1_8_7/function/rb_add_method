@@ -1,0 +1,11 @@
+params=(VALUE klass, ID mid, NODE *node, int noex)
+filename=eval.c
+name=rb_add_method
+type=void
+macro=false
+private=false
+
+
+クラス klass に mid という名前のメソッドを定義する。
+その本体は node であり、noex で示される可視性を持つ。
+

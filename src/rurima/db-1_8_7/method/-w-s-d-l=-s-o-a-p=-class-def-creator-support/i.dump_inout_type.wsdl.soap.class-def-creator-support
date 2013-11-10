@@ -1,0 +1,7 @@
+visibility=private 
+kind=defined
+names=dump_inout_type
+
+--- dump_inout_type(param)
+@todo
+

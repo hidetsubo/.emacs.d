@@ -1,0 +1,9 @@
+library=tkextlib.tile.tsquare
+aliasof=
+type=class
+included=
+aliases=Tk=Tile=TSquare,Tk=Tile=TSquare
+superclass=Object
+extended=
+
+

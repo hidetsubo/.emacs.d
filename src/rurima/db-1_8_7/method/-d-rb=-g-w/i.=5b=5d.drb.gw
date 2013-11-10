@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=[]
+
+--- [](key) -> object
+登録したオブジェクトを取り出します。
+
+@param key オブジェクトを取り出すためのキー
+

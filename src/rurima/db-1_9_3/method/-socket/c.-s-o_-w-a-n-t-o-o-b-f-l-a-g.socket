@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=SO_WANTOOBFLAG
+
+--- SO_WANTOOBFLAG -> Integer
+@todo
+OOB data is wanted in MSG_FLAG on receive。
+

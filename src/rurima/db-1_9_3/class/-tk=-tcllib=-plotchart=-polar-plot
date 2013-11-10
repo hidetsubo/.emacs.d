@@ -1,0 +1,9 @@
+library=tkextlib.tcllib.plotchart
+aliasof=Tk=Tcllib=Plotchart=Polarplot
+type=class
+included=Tk=Tcllib=Plotchart=ChartMethod
+aliases=
+superclass=TkCanvas
+extended=
+
+Alias of [[c:Tk::Tcllib::Plotchart::Polarplot]]

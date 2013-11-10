@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=ret_val
+
+--- ret_val(val)
+@todo
+

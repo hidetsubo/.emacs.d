@@ -1,0 +1,14 @@
+kind=defined
+visibility=public
+names=*
+
+--- *(other) -> BigDecimal | Float
+
+積を計算します。
+
+@param other self に掛ける数を指定します。
+             [[c:Float]] オブジェクトを指定した場合、[[c:Float]] オブジェ
+             クトを返します。
+
+計算結果の精度については[[ref:lib:bigdecimal#precision]]を参照してください。
+

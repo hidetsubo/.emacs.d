@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpservlet.cgihandler
+extended=
+aliases=
+included=
+superclass=WEBrick=HTTPServlet=AbstractServlet
+aliasof=
+
+CGI を扱うためのサーブレットです。

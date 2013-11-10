@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=AF_ECMA,PF_ECMA
+
+--- AF_ECMA -> Integer
+--- PF_ECMA -> Integer
+@todo
+European computer manufacturers。
+[[m:Socket.open]] の第一引数 domain に使用します。
+
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=raw_data
+
+--- raw_data -> String
+レスポンス文字列を返します。
+

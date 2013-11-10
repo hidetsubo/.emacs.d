@@ -1,0 +1,9 @@
+library=getoptlong
+aliasof=
+type=class
+included=
+aliases=
+superclass=GetoptLong=Error
+extended=
+
+与えられたオプションに引数が欠けている場合に発生する例外です。

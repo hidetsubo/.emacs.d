@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=get_columns,getcolumns
+
+--- get_columns(first, last = nil)
+--- getcolumns(first, last = nil)
+@todo
+

@@ -1,0 +1,9 @@
+type=class
+library=irb.output=2dmethod
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+抽象的な出力を表すクラスです。ライブラリ内部で使用します。

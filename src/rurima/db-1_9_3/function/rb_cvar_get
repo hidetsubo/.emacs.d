@@ -1,0 +1,11 @@
+private=false
+params=(VALUE klass, ID name)
+type=VALUE
+name=rb_cvar_get
+filename=variable.c
+macro=false
+
+
+klass のクラス変数 name の値を
+取得します。
+

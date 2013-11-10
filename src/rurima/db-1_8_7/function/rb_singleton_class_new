@@ -1,0 +1,10 @@
+params=(VALUE super)
+filename=class.c
+name=rb_singleton_class_new
+type=VALUE
+macro=false
+private=false
+
+
+super をスーパークラスとする特異クラスを生成し、返します。
+

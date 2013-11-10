@@ -1,0 +1,10 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=Development
+methods=
+classes=Profiler__
+
+プロファイラの実装です。
+現在、[[lib:profile]] ライブラリは profiler ライブラリを
+利用して実装されています。

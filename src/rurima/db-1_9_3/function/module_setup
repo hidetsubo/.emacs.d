@@ -1,0 +1,10 @@
+private=true
+params=(VALUE module, NODE *n)
+type=VALUE
+name=module_setup
+filename=eval.c
+macro=false
+
+
+module を定義するモジュール文の本体 n を評価します。
+

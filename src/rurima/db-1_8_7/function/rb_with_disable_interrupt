@@ -1,0 +1,8 @@
+params=(VALUE (*proc)(), data)
+filename=eval.c
+name=rb_with_disable_interrupt
+type=VALUE
+macro=false
+private=false
+
+

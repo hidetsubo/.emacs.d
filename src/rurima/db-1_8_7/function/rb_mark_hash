@@ -1,0 +1,8 @@
+params=(st_table *tbl)
+filename=gc.c
+name=rb_mark_hash
+type=void
+macro=false
+private=false
+
+

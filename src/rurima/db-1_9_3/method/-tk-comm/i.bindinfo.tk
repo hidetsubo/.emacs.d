@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=bindinfo
+
+--- bindinfo(tag_or_class, context = nil)
+@todo
+

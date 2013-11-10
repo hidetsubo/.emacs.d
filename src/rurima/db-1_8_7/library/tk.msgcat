@@ -1,0 +1,8 @@
+requires=tk.package,tk.autoload,tk.panedwindow,tk.itemconfig,tk.winfo,tk.composite,tk.encodedstr,tk.timer,tk.validation,tk.pack,tk.textwindow,tk.menu,tk.canvastag,tk.scrollbar,tk.xim,tk.image,tk.itemfont,tk.palette,tk.tagfont,tk.radiobutton,tk.scrollbox,tk.mngfocus,tk.text,tk.font,tk.kinput,tk.event,tk.menuspec,tk.wm,tk.place,tk.menubar,tkutil,tk.bgerror,tk.toplevel,tk.virtevent,tk.bindtag,tk.winpkg,tk,tk.textimage,tk.clock,tk.clipboard,tk.macpkg,tk.texttag,tk.selection,tk.optiondb,tk.message,tk.msgcat,tk.scrollable,tk.entry,tk.labelframe,tk.dialog,tk.grid,tk.listbox,tk.label,tk.root,tk.canvas,tk.namespace,tk.spinbox,tk.txtwin_abst,tk.frame,tk.console,tk.scale,tcltklib,tk.variable,tk.checkbutton,tk.optionobj,tk.textmark,tk.button
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=TkMsgCatalog,TkMsgCat
+
+

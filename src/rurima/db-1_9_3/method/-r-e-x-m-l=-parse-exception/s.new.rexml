@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=new
+
+--- new(message source = nil, parser = nil, exception = nil)
+@todo
+

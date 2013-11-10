@@ -1,0 +1,9 @@
+library=pstore
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+[[c:PStore]] の中で発生する例外です。

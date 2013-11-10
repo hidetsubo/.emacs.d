@@ -1,0 +1,12 @@
+params=(const char *name, VALUE val)
+filename=variable.c
+name=rb_gv_set
+type=VALUE
+macro=false
+private=false
+
+#@# [1.5 feature]
+
+Ruby のグローバル変数 name に val を代入します。
+val を返します。
+

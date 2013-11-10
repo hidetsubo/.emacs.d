@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=need_tar=
+
+--- need_tar=(flag)
+
+gzip した tar ファイル (tgz) を作成するかどうかを設定します。
+
+@param flag 真または偽を指定します。
+

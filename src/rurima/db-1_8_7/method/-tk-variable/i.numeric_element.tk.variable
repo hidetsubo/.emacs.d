@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=numeric_element
+
+--- numeric_element(*idxs)
+@todo
+

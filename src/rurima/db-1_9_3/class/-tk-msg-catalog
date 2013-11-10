@@ -1,0 +1,9 @@
+library=tk.msgcat
+aliasof=
+type=class
+included=TkCore
+aliases=TkMsgCat
+superclass=TkObject
+extended=Tk
+
+

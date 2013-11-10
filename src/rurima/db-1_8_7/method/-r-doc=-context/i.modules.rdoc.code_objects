@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=modules
+
+--- modules -> [RDoc::NormalModule]
+
+追加された [[c:RDoc::NormalModule]] の配列を返します。
+

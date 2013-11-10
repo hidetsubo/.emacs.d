@@ -1,0 +1,7 @@
+kind=added
+visibility=public
+names=load_tclscript_rsrcid
+
+--- load_tclscript_rsrcid(resource_id, file = Tk::None)
+@todo
+

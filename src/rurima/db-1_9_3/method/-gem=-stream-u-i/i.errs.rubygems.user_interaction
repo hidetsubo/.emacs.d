@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=errs
+
+--- errs -> IO
+
+この UI にセットされているエラー出力ストリームを返します。
+

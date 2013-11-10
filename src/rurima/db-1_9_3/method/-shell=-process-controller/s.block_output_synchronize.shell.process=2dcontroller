@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=block_output_synchronize
+
+--- block_output_synchronize{ ... } -> ()
+@todo
+

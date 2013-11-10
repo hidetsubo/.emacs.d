@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=get3dcolor
+
+--- get3dcolor(path, bgcolor)
+@todo
+
+
+

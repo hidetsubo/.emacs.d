@@ -1,0 +1,7 @@
+kind=defined
+visibility=public 
+names=write_spec
+
+--- write_spec
+Ruby スクリプト形式で .gemspec ファイルを作成します。
+

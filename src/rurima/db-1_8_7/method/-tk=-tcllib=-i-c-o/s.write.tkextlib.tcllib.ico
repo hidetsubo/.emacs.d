@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=write
+
+--- write(file, index, depth, data, keys = nil)
+@todo
+

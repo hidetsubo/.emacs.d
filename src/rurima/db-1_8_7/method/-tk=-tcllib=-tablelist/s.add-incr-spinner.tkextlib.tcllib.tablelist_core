@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=addIncrSpinner
+
+--- addIncrSpinner(name = None)
+@todo
+

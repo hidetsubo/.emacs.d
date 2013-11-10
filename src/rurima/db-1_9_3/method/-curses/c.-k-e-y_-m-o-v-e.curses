@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=KEY_MOVE
+
+--- KEY_MOVE -> Integer
+@todo
+Move キーを表す定数です。
+

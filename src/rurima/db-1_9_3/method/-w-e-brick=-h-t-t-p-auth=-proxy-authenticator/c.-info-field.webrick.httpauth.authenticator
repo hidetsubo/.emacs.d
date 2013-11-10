@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=InfoField
+
+--- InfoField -> "Proxy-Authentication-Info"
+
+キーの名前です。
+

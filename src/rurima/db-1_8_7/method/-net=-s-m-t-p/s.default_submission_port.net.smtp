@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=default_submission_port
+
+--- default_submission_port -> Integer
+デフォルトのサブミッションポート番号(587)を返します。
+

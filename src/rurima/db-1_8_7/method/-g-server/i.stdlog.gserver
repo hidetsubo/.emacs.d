@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=stdlog
+
+--- stdlog -> IO
+
+ログを出力する先の [[c:IO]] オブジェクトを返します。デフォルトは [[m:$stderr]] です。
+

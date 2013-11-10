@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=cursor_restore
+
+--- cursor_restore(win, cursor = None)
+@todo
+

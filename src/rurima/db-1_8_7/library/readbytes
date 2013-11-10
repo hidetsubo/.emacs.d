@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=I/O
+methods=IO/i.readbytes.readbytes
+classes=TruncatedDataError
+
+[[m:IO#readbytes]] を提供するライブラリです。

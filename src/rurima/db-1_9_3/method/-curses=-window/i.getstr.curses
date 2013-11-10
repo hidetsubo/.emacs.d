@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=getstr
+
+--- getstr -> String
+
+ウィンドウへの入力から一行読みこみます。
+

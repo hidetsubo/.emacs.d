@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=new
+
+--- new(stream, value = nil, parent = nil, reference = false)
+@todo
+

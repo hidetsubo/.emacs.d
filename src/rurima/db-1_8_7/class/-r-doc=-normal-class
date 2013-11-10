@@ -1,0 +1,13 @@
+type=class
+library=rdoc.code_objects
+extended=
+aliases=
+included=
+superclass=RDoc=ClassModule
+aliasof=
+
+クラスを表現するためのクラスです。
+
+特異クラスや匿名クラスは含まれません。
+
+ライブラリの内部で使用します。

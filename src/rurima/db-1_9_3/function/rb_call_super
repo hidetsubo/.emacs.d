@@ -1,0 +1,11 @@
+private=false
+params=(int argc, const VALUE *argv)
+type=VALUE
+name=rb_call_super
+filename=eval.c
+macro=false
+
+
+Rubyレベルでの super です。
+現在評価中のメソッドのスーパークラスのメソッドを呼び出します。
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=copy
+
+--- copy(from_file, from_index, to_file, to_index, keys = nil)
+@todo
+

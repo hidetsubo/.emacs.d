@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=num_modules=
+
+--- num_modules=(val)
+
+解析したモジュールの数を指定します。
+
+@param val 数値を指定します。
+

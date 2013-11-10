@@ -1,0 +1,9 @@
+type=class
+library=soap.rpc.element
+extended=
+aliases=
+included=
+superclass=SOAP=Error
+aliasof=
+
+

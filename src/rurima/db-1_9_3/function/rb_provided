@@ -1,0 +1,8 @@
+private=false
+params=(const char *feature)
+type=int
+name=rb_provided
+filename=eval.c
+macro=false
+
+

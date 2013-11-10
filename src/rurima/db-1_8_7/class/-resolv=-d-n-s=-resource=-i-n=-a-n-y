@@ -1,0 +1,10 @@
+type=class
+library=resolv
+extended=
+aliases=
+included=
+superclass=Resolv=DNS=Resource=ANY
+aliasof=
+
+DNS クエリーのクラス IN、タイプ ANY に対応する
+クラスです。

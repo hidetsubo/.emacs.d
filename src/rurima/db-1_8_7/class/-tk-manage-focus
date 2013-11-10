@@ -1,0 +1,9 @@
+type=module
+library=tk.mngfocus
+extended=Tk
+aliases=
+included=
+superclass=
+aliasof=
+
+

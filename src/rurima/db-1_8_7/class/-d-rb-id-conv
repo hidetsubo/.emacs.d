@@ -1,0 +1,9 @@
+type=class
+library=drb
+extended=
+aliases=
+included=
+superclass=
+aliasof=DRb=DRbIdConv
+
+Alias of [[c:DRb::DRbIdConv]]

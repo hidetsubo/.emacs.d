@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=get_thread_no
+
+--- get_thread_no -> Integer
+@todo
+

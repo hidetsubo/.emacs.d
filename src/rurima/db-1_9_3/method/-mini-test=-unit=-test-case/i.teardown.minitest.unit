@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=teardown
+
+--- teardown
+
+各テストケースの実行後に実行するメソッドです。
+
+サブクラスで再定義します。
+

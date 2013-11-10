@@ -1,0 +1,11 @@
+private=false
+params=(VALUE outer, const char *name, VALUE super)
+type=VALUE
+name=rb_define_class_under
+filename=class.c
+macro=false
+
+
+クラス super の下位クラス outer::name
+を作成し返します。
+

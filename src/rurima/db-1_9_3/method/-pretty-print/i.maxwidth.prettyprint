@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=maxwidth
+
+--- maxwidth    -> Integer
+
+自身の幅を返します。
+

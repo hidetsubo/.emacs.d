@@ -1,0 +1,8 @@
+requires=rubygems.builder,rubygems.source_info_cache_entry,rubygems.source_info_cache,rubygems.source_index,rubygems.requirement,rubygems.spec_fetcher,rubygems.gem_path_searcher,rubygems.defaults,rubygems.remote_fetcher,rubygems.ext,rubygems.specification,rubygems.version,rubygems.ext.configure_builder,rubygems.platform,rubygems.ext.builder,rubygems.exceptions,rubygems,rubygems.ext.ext_conf_builder,rubygems.ext.rake_builder,rubygems.digest.sha2,rubygems.dependency,rubygems.user_interaction
+category=
+methods=
+sublibraries=
+classes=Gem=Ext=RakeBuilder
+is_sublibrary=true
+
+Rake を使用して拡張ライブラリをビルドするためのクラスを扱うライブラリです。

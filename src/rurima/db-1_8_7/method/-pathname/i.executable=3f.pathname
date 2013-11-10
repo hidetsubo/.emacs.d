@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=executable?
+
+--- executable? -> bool
+FileTest.executable?(self.to_s) と同じです。
+
+@see [[m:FileTest.#executable?]]
+

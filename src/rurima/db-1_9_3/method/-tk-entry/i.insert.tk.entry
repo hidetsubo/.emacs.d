@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=insert
+
+--- insert(pos, text)
+@todo
+

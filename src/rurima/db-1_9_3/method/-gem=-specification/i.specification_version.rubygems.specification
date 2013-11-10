@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=specification_version
+
+--- specification_version -> Integer
+
+この Gem パッケージに用いられている gemspec のバージョンを返します。
+

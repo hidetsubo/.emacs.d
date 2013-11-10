@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=restore
+
+--- restore -> Hash
+
+セッションの状態を復元したハッシュを返します。
+

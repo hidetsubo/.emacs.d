@@ -1,0 +1,10 @@
+params=(VALUE orig)
+filename=string.c
+name=rb_str_new4
+type=VALUE
+macro=false
+private=false
+
+
+文字列 orig の変更不可能な複製を作成し返します。
+

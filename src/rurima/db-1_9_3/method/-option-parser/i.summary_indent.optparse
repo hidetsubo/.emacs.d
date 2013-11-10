@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=summary_indent
+
+--- summary_indent          -> String
+
+サマリを表示する時のインデントを文字列で返します。
+
+@return サマリを表示する時のインデントを文字列で返します。
+

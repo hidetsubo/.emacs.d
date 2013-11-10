@@ -1,0 +1,12 @@
+kind=defined
+visibility=public
+names=IFNAMSIZ,IF_NAMESIZE
+
+--- IFNAMSIZ -> Integer
+--- IF_NAMESIZE -> Integer
+
+インターフェース名文字列の最大長さ。
+
+@see [[man:net/if.h(header)]]
+
+

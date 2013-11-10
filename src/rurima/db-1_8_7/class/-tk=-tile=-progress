@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tscale
+extended=
+aliases=Tk=Tile=TProgress,Tk=Tile=TProgress
+included=
+superclass=Object
+aliasof=
+
+

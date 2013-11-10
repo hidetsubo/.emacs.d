@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=F32
+
+--- F32 -> Integer
+
+F32 キーを表す定数です。
+

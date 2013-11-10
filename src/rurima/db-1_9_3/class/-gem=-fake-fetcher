@@ -1,0 +1,11 @@
+library=rubygems.test_utilities
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+[[c:Gem::RemoteFetcher]] を置き換えるテスト用のクラスです。
+
+使用例が見たい場合はテストコードを参照してください。

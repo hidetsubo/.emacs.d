@@ -1,0 +1,8 @@
+private=true
+params=(const char *feature, int wait)
+type=int
+name=rb_feature_p
+filename=eval.c
+macro=false
+
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=http_version
+
+--- http_version -> String
+
+サーバがサポートしている HTTP のバージョンを文字列で返します。
+

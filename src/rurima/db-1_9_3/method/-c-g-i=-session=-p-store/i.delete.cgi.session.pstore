@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=delete
+
+--- delete -> ()
+
+セッションを削除してファイルも削除します。
+

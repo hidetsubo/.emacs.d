@@ -1,0 +1,8 @@
+requires=tkextlib.tcllib.tkpiechart,tkextlib.tcllib.ip_entry,tkextlib.tcllib.ctext,tk.package,tk.autoload,tk.panedwindow,tk.itemconfig,tk.winfo,tkextlib.tcllib.datefield,tk.composite,tk.encodedstr,tk.timer,tk.validation,tk.pack,tk.textwindow,tk.menu,tk.canvastag,tk.scrollbar,tk.xim,tk.image,tk.itemfont,tk.palette,tk.tagfont,tk.radiobutton,tkextlib.tcllib.widget,tkextlib.setup,tkextlib.tcllib.cursor,tk.scrollbox,tk.mngfocus,tk.text,tk.font,tkextlib.tcllib.tooltip,tkextlib.tcllib.tablelist,tkextlib.tcllib.autoscroll,tkextlib.tcllib.setup,tk.kinput,tk.event,tk.menuspec,tk.wm,tkextlib.tcllib.history,tk.place,tk.menubar,tkextlib.tcllib.swaplist,tkutil,tk.bgerror,tk.toplevel,tk.virtevent,tk.bindtag,tk.winpkg,tk,tk.textimage,tk.clock,tk.clipboard,tkextlib.tcllib.plotchart,tk.macpkg,tk.texttag,tk.selection,tk.optiondb,tkextlib.tcllib.tablelist_tile,tkextlib.tcllib.ico,tk.message,tk.msgcat,tk.scrollable,tk.entry,tk.labelframe,tk.dialog,tk.grid,tk.label,tk.listbox,tk.root,tk.canvas,tk.namespace,tk.spinbox,tkextlib.tcllib.tablelist_core,tk.txtwin_abst,tk.frame,tkextlib.tcllib.getstring,tkextlib.tcllib.style,tkextlib.tcllib,tk.console,tk.scale,tcltklib,tk.variable,tk.textmark,tk.optionobj,tk.button,tk.checkbutton
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=Tk=Tcllib=Widget=Dialog
+
+

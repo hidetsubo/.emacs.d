@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=SIGN_POSITIVE_ZERO
+
+--- SIGN_POSITIVE_ZERO -> Fixnum
+
+正の 0 に対応する [[m:BigDecimal#sign]] の値を返します。
+
+

@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=MOVE
+
+--- MOVE -> Integer
+
+Move キーを表す定数です。
+

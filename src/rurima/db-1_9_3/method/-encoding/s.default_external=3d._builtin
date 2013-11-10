@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=default_external=
+
+--- default_external=(encoding)
+規定の外部エンコーディングを設定します。
+

@@ -1,0 +1,9 @@
+type=module
+library=soap.marshal
+extended=
+aliases=
+included=
+superclass=
+aliasof=SOAP=Marshal
+
+Alias of [[c:SOAP::Marshal]]

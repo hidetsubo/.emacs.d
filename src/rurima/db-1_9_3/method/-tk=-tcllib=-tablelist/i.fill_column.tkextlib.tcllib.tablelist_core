@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=fill_column,fillcolumn
+
+--- fill_column(idx, txt)
+--- fillcolumn(idx, txt)
+@todo
+

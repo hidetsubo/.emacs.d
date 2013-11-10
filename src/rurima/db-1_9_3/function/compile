@@ -1,0 +1,12 @@
+private=true
+params=(VALUE src, char *file, int line)
+type=NODE *
+name=compile
+filename=eval.c
+macro=false
+
+
+Ruby の文字列または IO オブジェクト src を
+構文木にコンパイルし、返します。そのとき、src が
+ファイル file の line 行目から始まっていると仮定します。
+

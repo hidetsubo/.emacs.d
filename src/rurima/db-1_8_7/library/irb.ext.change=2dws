@@ -1,0 +1,12 @@
+requires=
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=
+
+[[c:IRB::Context]] に irb 中での self を管理する機能を提供するサブライ
+ブラリです。
+
+このライブラリで定義されているメソッドはユーザが直接使用するものではあ
+りません。[[lib:irb/cmd/chws]] から呼び出されます。

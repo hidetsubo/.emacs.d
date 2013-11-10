@@ -1,0 +1,10 @@
+private=true
+params=(int argc, VALUE *argv, VALUE klass)
+type=VALUE
+name=rb_class_initialize
+filename=object.c
+macro=false
+
+
+[[m:Class#initialize]] の実体。
+

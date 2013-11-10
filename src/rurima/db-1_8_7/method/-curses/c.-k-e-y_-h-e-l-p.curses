@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=KEY_HELP
+
+--- KEY_HELP -> Integer
+
+Help キーを表す定数です。
+

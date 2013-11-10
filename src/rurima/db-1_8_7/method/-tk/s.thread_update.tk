@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=thread_update
+
+--- thread_update(idle = nil)
+@todo
+

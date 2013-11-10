@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=to_bn
+
+--- to_bn -> self
+自分自身を返します。
+

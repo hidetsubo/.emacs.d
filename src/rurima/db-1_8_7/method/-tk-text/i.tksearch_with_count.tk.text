@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=tksearch_with_count
+
+--- tksearch_with_count(*args)
+@todo
+

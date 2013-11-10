@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=irb_context
+
+--- irb_context -> IRB::Context
+
+現在の irb に関する [[c:IRB::Context]] を返します。
+

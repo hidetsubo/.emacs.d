@@ -1,0 +1,8 @@
+params=(VALUE obj, VALUE obj2)
+filename=object.c
+name=false_or
+type=VALUE
+macro=false
+private=true
+
+

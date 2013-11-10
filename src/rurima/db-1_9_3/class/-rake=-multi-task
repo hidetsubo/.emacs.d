@@ -1,0 +1,9 @@
+library=rake
+aliasof=
+type=class
+included=
+aliases=
+superclass=Rake=Task
+extended=
+
+通常のタスクと同じですが、[[lib:thread]] を用いて事前タスクを並列実行します。

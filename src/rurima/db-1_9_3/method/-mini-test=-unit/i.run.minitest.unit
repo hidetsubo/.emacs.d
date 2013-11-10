@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=run
+
+--- run(args = []) -> Fixnum | nil
+
+全てのテストを実行するためのメソッドです。
+
+@param args コマンドライン引数を指定します。
+

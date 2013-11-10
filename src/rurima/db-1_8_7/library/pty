@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=CUI
+methods=
+classes=PTY,PTY=ChildExited
+
+疑似端末(Pseudo tTY)を扱うライブラリです。

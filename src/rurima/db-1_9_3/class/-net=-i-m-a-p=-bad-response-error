@@ -1,0 +1,11 @@
+library=net.imap
+aliasof=
+type=class
+included=
+aliases=
+superclass=Net=IMAP=ResponseError
+extended=
+
+サーバから "BAD" レスポンスが来た場合に発生する例外のクラスです。
+クライアントからのコマンドが IMAP の規格から外れている場合や
+サーバ内部エラーの場合に発生します。

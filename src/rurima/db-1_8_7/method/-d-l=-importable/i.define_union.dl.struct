@@ -1,0 +1,13 @@
+visibility=public
+kind=added
+names=define_union,union
+
+--- define_union(contents)
+--- union(contents)
+@todo
+
+共用体を定義します。
+contents については上記 define_struct と同様です。
+
+
+

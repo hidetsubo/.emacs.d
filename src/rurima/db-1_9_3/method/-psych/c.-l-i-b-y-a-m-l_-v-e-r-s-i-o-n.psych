@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=LIBYAML_VERSION
+
+--- LIBYAML_VERSION -> String
+libyaml のバージョン。
+

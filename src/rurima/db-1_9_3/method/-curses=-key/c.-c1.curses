@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=C1
+
+--- C1 -> Integer
+
+キーパッドの左下を表す定数です。
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=to_s
+
+--- to_s -> String
+拡張領域の内容を、文字列表現で返します。
+

@@ -1,0 +1,9 @@
+library=tk.canvas
+aliasof=Canvas
+type=class
+included=TkCanvasItemConfig,Tk=Scrollable
+aliases=
+superclass=TkWindow
+extended=
+
+

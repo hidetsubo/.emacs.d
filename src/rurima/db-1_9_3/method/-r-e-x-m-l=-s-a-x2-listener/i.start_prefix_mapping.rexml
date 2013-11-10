@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=start_prefix_mapping
+
+--- start_prefix_mapping(prefix, uri)
+@todo
+

@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=del,delete,forget,remove
+
+--- forget(win, *wins)
+--- del(win, *wins)
+--- delete(win, *wins)
+--- remove(win, *wins)
+@todo
+

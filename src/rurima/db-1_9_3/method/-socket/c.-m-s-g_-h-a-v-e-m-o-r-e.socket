@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=MSG_HAVEMORE
+
+--- MSG_HAVEMORE -> Integer
+@todo
+Data ready to be read
+
+

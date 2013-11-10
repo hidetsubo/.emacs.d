@@ -1,0 +1,9 @@
+type=module
+library=drb
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+drb ライブラリの名前空間となるモジュール。

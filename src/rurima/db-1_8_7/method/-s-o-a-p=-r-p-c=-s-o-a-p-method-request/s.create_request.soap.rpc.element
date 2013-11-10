@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=create_request
+
+--- create_request(qname, *params)
+@todo
+

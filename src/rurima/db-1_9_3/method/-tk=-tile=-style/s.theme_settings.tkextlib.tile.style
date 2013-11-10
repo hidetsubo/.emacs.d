@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=theme_settings
+
+--- theme_settings(name, cmd = nil, &b)
+@todo
+

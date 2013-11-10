@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=new
+
+--- new(parent, mode = nil, *args)
+@todo
+
+
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=plot_filled_circle
+
+--- plot_filled_circle(*args)
+@todo
+

@@ -1,0 +1,8 @@
+params=(int sig)
+filename=eval.c
+name=catch_timer
+type=void
+macro=false
+private=true
+
+

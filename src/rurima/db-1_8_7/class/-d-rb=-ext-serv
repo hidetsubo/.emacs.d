@@ -1,0 +1,9 @@
+type=class
+library=drb.extserv
+extended=
+aliases=
+included=DRb=DRbUndumped
+superclass=Object
+aliasof=
+
+[[c:DRb::ExtServManager]] で使われるサービスを定義しているクラスです。

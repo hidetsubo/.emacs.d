@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=IPPROTO_BIP
+
+--- IPPROTO_BIP -> Integer
+@todo
+[[m:BasicSocket#getsockopt]], [[m:BasicSocket#setsockopt]] の 
+level 引数に使用します。
+
+また、[[m:Socket.open]] の protocol 引数に渡す利用法もあります。
+

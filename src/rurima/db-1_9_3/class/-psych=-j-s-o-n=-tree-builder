@@ -1,0 +1,10 @@
+library=psych.json.tree_builder
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+Psych::JSON::TreeBuilder is an event based AST builder.  Events are sent
+to an instance of Psych::JSON::TreeBuilder and a JSON AST is constructed.

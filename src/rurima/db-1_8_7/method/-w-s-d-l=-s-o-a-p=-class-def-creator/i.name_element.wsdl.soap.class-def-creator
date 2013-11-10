@@ -1,0 +1,7 @@
+visibility=private 
+kind=defined
+names=name_element
+
+--- name_element(element)
+@todo
+

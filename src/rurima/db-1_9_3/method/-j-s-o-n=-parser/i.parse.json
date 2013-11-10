@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=parse
+
+--- parse -> object
+
+現在のソースをパースして結果を Ruby のオブジェクトとして返します。
+
+@see [[m:JSON::Parser#source]]
+

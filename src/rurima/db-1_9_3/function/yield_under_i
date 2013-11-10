@@ -1,0 +1,9 @@
+private=true
+params=(VALUE self)
+type=VALUE
+name=yield_under_i
+filename=eval.c
+macro=false
+
+
+yield_under の補助関数です。

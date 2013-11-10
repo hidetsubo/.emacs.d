@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=exception
+
+--- exception -> Exception
+
+自身に対応する例外オブジェクトを返します。
+

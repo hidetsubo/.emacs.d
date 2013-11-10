@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=propagate_set
+
+--- propagate_set(src_win, first, last)
+@todo
+

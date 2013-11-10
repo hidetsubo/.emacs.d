@@ -1,0 +1,8 @@
+private=true
+params=(VALUE klass)
+type=VALUE
+name=thgroup_s_alloc
+filename=eval.c
+macro=false
+
+

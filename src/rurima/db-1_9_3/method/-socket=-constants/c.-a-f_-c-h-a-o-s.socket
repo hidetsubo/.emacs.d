@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=AF_CHAOS,PF_CHAOS
+
+--- AF_CHAOS -> Integer
+--- PF_CHAOS -> Integer
+@todo
+MIT CHAOS プロトコル。
+[[m:Socket.open]] の第一引数 domain に使用します。
+
+

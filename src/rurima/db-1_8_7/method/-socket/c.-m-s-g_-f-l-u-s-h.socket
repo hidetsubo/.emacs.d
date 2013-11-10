@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=MSG_FLUSH
+
+--- MSG_FLUSH -> Integer
+@todo
+Start of a hold sequence.  Dumps to so_temp
+
+

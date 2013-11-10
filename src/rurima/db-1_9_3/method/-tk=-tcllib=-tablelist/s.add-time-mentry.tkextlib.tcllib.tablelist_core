@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=addTimeMentry
+
+--- addTimeMentry(format, separator, gmt = false, name = None)
+@todo
+

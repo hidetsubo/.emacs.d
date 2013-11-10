@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=do_rubygems_update
+
+--- do_rubygems_update(version)
+
+RubyGems 自体を更新します。
+

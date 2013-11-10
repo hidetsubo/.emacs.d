@@ -1,0 +1,9 @@
+library=tk.canvas
+aliasof=Oval
+type=class
+included=
+aliases=
+superclass=TkcItem
+extended=
+
+

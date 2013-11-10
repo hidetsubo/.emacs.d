@@ -1,0 +1,14 @@
+kind=defined
+visibility=public
+names=bind
+
+--- bind(seq, *args)
+@todo
+
+  def bind(seq, cmd=Proc.new, *args)
+  
+    @c.itembind(@id, seq, cmd, *args)
+    self
+  
+  end
+

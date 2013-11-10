@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=inspect_value
+
+--- inspect_value(v) -> ()
+
+ライブラリ内部で使用します。
+

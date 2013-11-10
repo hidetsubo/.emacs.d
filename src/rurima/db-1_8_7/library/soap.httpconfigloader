@@ -1,0 +1,8 @@
+requires=soap.property
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=SOAP=HTTPConfigLoader
+
+

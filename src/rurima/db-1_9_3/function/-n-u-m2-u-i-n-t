@@ -1,0 +1,8 @@
+private=false
+params=(VALUE x)
+type=unsigned int
+name=NUM2UINT
+filename=ruby.h
+macro=true
+
+

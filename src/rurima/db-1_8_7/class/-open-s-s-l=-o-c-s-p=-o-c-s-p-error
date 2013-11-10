@@ -1,0 +1,9 @@
+type=class
+library=openssl
+extended=
+aliases=
+included=
+superclass=OpenSSL=OpenSSLError
+aliasof=
+
+OCSP 関連のエラーが生じた場合に発生する例外です。

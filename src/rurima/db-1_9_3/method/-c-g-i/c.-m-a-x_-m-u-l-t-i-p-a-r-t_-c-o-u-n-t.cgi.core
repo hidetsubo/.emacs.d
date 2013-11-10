@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=MAX_MULTIPART_COUNT
+
+--- MAX_MULTIPART_COUNT -> Fixnum
+
+Maximum number of request parameters when multipart
+

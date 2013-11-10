@@ -1,0 +1,10 @@
+library=rubygems.commands.server_command
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Command
+extended=
+
+ローカルにインストールされている Gem パッケージとそのドキュメントを HTTP サーバに
+載せて公開するためのクラスです。

@@ -1,0 +1,8 @@
+requires=soap.rpc.element,xsd.codegen.gensupport,soap.soap,soap.mapping.typeMap,xsd.codegen,soap.baseData,soap.mapping.registry,wsdl.info,soap.mapping.factory,soap.mapping.mapping,wsdl.soap.methodDefCreator,soap.mapping.rubytypeFactory,soap.mapping,wsdl.soap.classDefCreatorSupport,wsdl.soap.mappingRegistryCreator
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=WSDL=SOAP=DriverCreator
+
+

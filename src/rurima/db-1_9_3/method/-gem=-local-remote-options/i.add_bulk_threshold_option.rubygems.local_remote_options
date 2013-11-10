@@ -1,0 +1,7 @@
+kind=defined
+visibility=public 
+names=add_bulk_threshold_option
+
+--- add_bulk_threshold_option
+オプション --bulk-threshold を追加します。
+

@@ -1,0 +1,8 @@
+requires=webrick.httpstatus,webrick.log,webrick.cookie,webrick.accesslog,webrick.httpservlet.cgihandler,webrick.httpservlet,webrick.httpservlet.filehandler,webrick.utils,webrick.htmlutils,webrick.httpresponse,webrick.httprequest,webrick.httputils,webrick.server,webrick.httpservlet.prochandler,webrick.httpservlet.abstract,webrick.config,webrick.httpservlet.erbhandler,webrick.httpversion
+category=
+methods=
+sublibraries=
+classes=WEBrick=HTTPServerError,WEBrick=HTTPServer,WEBrick=HTTPServer=MountTable
+is_sublibrary=true
+
+HTTP サーバの機能を提供するライブラリです。

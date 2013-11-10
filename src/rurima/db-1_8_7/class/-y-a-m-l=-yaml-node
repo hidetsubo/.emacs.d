@@ -1,0 +1,9 @@
+type=class
+library=yaml.yamlnode
+extended=
+aliases=
+included=YAML=BaseNode
+superclass=Object
+aliasof=
+
+YAML のノードを表現するためのクラスです。

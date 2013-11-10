@@ -1,0 +1,10 @@
+library=dl
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+UNIX の [[man:dlopen(3)]] や Windows の LoadLibrary() 
+などのダイナミックリンカへの低レベルなインターフェースを提供するモジュールです。

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=LF
+
+--- LF -> String
+
+ラインフィードを表す文字列です。
+

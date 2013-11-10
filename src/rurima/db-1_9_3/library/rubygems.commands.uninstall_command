@@ -1,0 +1,33 @@
+requires=rubygems.source_info_cache,rubygems.source_info_cache_entry,rubygems.builder,rubygems.dependency_list,rubygems.uninstaller,rubygems.source_index,rubygems.spec_fetcher,rubygems.gem_path_searcher,rubygems.requirement,rubygems.defaults,rubygems.remote_fetcher,rubygems.doc_manager,rubygems.specification,rubygems.version,rubygems.platform,rubygems.command,rubygems.exceptions,rubygems,rubygems.dependency,rubygems.digest.sha2,rubygems.version_option,rubygems.user_interaction
+category=
+methods=
+sublibraries=
+classes=Gem=Commands=UninstallCommand
+is_sublibrary=true
+
+Gem パッケージをアンインストールするためのライブラリです。
+
+Usage: gem uninstall GEMNAME [GEMNAME ...] [options]
+  Options:
+    -a, --[no-]all                   Uninstall all matching versions
+    -I, --[no-]ignore-dependencies   Ignore dependency requirements while
+                                     uninstalling
+    -x, --[no-]executables           Uninstall applicable executables without
+                                     confirmation
+    -i, --install-dir DIR            Directory to uninstall gem from
+    -n, --bindir DIR                 Directory to remove binaries from
+    -v, --version VERSION            Specify version of gem to uninstall
+        --platform PLATFORM          Specify the platform of gem to uninstall
+    Common Options:
+      -h, --help                       このコマンドのヘルプを表示します
+      -V, --[no-]verbose               表示を詳細にします
+      -q, --quiet                      静かに実行します
+          --config-file FILE           指定された設定ファイルを使用します
+          --backtrace                  バックトレースを表示します
+          --debug                      Ruby 自体のデバッグオプションを有効にします
+  Arguments:
+    GEMNAME       アンインストールする Gem パッケージ名を指定します。
+  Summary:
+    Gem パッケージをアンインストールします
+  Defaults:
+    --version '>= 0' --no-force --install-dir /usr/lib/ruby/gems/1.8

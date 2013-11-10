@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=version_requirements
+
+--- version_requirements -> Gem::Requirement
+
+依存しているバージョンを返します。
+

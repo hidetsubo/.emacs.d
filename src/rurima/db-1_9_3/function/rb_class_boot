@@ -1,0 +1,10 @@
+private=false
+params=(VALUE super)
+type=VALUE
+name=rb_class_boot
+filename=class.c
+macro=false
+
+
+スーパークラスを super とするクラスオブジェクトを作成し、返します。
+

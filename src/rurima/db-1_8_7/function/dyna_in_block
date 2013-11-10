@@ -1,0 +1,10 @@
+params=(void)
+filename=parse.y
+name=dyna_in_block
+type=int
+macro=false
+private=true
+
+
+ブロックにネストしているコードをパース中は真。
+

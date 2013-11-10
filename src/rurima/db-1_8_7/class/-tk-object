@@ -1,0 +1,9 @@
+type=class
+library=tkutil
+extended=TkCore
+aliases=
+included=Tk,TkConfigMethod,TkBindCore
+superclass=TkKernel
+aliasof=
+
+

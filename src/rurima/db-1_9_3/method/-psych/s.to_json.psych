@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=to_json
+
+--- to_json(o) -> String
+Ruby のオブジェクト o を JSON の文字列に変換します。
+
+@param 変換対象となるオブジェクト
+

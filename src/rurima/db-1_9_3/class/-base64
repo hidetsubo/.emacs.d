@@ -1,0 +1,9 @@
+library=base64
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+Base64 エンコード / デコードするためのメソッドを定義したモジュールです。

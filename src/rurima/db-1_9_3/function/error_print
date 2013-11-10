@@ -1,0 +1,8 @@
+private=true
+params=(void)
+type=void
+name=error_print
+filename=eval.c
+macro=false
+
+

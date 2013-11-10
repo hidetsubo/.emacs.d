@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpstatus
+extended=
+aliases=
+included=
+superclass=WEBrick=HTTPStatus=ClientError
+aliasof=
+
+HTTP のステータスコード 400 Bad Request を表すクラスです。

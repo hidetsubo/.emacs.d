@@ -1,0 +1,16 @@
+kind=defined
+visibility=public
+names=names
+
+--- names -> [Array]
+
+名前付きキャプチャの名前を文字列配列で返します。
+
+self.regexp.names と同じです。
+
+    /(?<foo>.)(?<bar>.)(?<baz>.)/.match("hoge").names
+    #=> ["foo", "bar", "baz"]
+
+    m = /(?<x>.)(?<y>.)?/.match("a") #=> #<MatchData "a" x:"a" y:nil>
+    m.names                          #=> ["x", "y"]
+

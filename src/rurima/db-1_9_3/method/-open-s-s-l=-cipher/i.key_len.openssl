@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=key_len
+
+--- key_len -> Integer
+暗号鍵の長さをバイト数で返します。
+

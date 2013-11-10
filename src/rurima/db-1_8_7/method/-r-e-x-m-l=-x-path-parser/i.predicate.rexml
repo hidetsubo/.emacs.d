@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=predicate
+
+--- predicate(path, nodeset)
+@todo
+

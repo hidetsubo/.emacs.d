@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=id
+
+--- id -> String
+セッション ID を返します。
+
+SSL/TLS はこのセッション ID でセッションを識別します。
+

@@ -1,0 +1,9 @@
+type=class
+library=strscan
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+スキャン中に発生したエラーをあらわす例外です。

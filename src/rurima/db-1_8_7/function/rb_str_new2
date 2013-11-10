@@ -1,0 +1,10 @@
+params=(const char *ptr)
+filename=string.c
+name=rb_str_new2
+type=VALUE
+macro=false
+private=false
+
+
+rb_str_new(ptr, strlen(ptr))
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public 
+names=flush
+
+--- flush
+自身に関連付けられた IO をフラッシュします。
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=after
+
+--- after(ms, cmd = Proc.new)
+@todo
+

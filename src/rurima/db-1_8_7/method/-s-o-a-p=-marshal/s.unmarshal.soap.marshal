@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=unmarshal
+
+--- unmarshal(stream, mapping_registry = SOAP::Marshal::MarshalMappingRegistry)
+@todo
+

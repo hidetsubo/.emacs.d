@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=to_s
+
+--- to_s -> String
+ドットで区切られた IPv4 アドレス文字列を返します。
+

@@ -1,0 +1,11 @@
+library=net.http
+aliasof=
+type=class
+included=
+aliases=
+superclass=Net=HTTPServerError
+extended=
+
+HTTP レスポンス 503 (Service Unavailable) を表現するクラスです。
+
+詳しくは [[RFC:2616]] を見てください。

@@ -1,0 +1,8 @@
+requires=
+category=
+methods=
+sublibraries=
+classes=RDoc=AnyMethod
+is_sublibrary=true
+
+[[c:RDoc::AnyMethod]] を定義するサブライブラリです。

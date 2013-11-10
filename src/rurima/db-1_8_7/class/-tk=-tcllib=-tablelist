@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tcllib.tablelist_tile
+extended=
+aliases=
+included=Tk=Tcllib=TablelistItemConfig,Tk=Scrollable
+superclass=TkWindow
+aliasof=Tk=Tcllib=TableList_Tile
+
+Alias of [[c:Tk::Tcllib::TableList_Tile]]

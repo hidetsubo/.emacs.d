@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=__setobj__
+
+--- __setobj__(obj)
+@todo
+

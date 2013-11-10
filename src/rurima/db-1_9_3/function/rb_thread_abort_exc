@@ -1,0 +1,8 @@
+private=true
+params=(VALUE thread)
+type=VALUE
+name=rb_thread_abort_exc
+filename=eval.c
+macro=false
+
+

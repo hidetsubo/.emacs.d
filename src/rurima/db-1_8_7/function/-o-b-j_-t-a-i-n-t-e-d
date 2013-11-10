@@ -1,0 +1,10 @@
+params=(VALUE x)
+filename=ruby.h
+name=OBJ_TAINTED
+type=int
+macro=true
+private=false
+
+
+x に汚染マークが付いていたら真。
+

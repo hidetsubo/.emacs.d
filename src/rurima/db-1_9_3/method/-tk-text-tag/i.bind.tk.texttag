@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=bind
+
+--- bind(seq, *args)
+@todo
+

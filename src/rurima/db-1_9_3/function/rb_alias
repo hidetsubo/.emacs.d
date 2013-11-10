@@ -1,0 +1,11 @@
+private=false
+params=(VALUE klass, ID name, ID def)
+type=void
+name=rb_alias
+filename=eval.c
+macro=false
+
+
+クラス klass に定義されたメソッド name の
+本体を実体とする新しいメソッド def を定義します。
+

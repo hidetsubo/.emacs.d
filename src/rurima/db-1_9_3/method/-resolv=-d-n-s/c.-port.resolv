@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=Port
+
+--- Port -> Integer
+
+デフォルトの DNS ポート番号です。
+

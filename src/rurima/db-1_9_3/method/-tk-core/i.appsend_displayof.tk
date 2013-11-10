@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=appsend_displayof
+
+--- appsend_displayof(interp, win, async, *args)
+@todo
+

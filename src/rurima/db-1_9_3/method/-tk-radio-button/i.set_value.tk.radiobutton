@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=set_value
+
+--- set_value(val)
+@todo
+
+ラジオボタンをチェックしたときの値をvalにします。
+

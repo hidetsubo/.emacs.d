@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=set_window_type,window_type=
+
+--- set_window_type(win)
+--- window_type=
+@todo
+

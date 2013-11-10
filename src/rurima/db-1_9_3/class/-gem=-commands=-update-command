@@ -1,0 +1,9 @@
+library=rubygems.commands.update_command
+aliasof=
+type=class
+included=Gem=InstallUpdateOptions,Gem=LocalRemoteOptions,Gem=VersionOption
+aliases=
+superclass=Gem=Command
+extended=
+
+ローカルリポジトリにインストールされている Gem パッケージを更新するためのクラスです。

@@ -1,0 +1,9 @@
+type=class
+library=drb
+extended=
+aliases=
+included=
+superclass=RuntimeError
+aliasof=
+
+drb ライブラリ固有の例外を表すクラス

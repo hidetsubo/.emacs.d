@@ -1,0 +1,9 @@
+type=class
+library=drb
+extended=
+aliases=
+included=
+superclass=DRb=DRbError
+aliasof=
+
+例外オブジェクトを wrap したクラス

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=request_uri
+
+--- request_uri        -> URI | nil
+リクエストの URI を返します。
+

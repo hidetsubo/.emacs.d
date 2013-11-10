@@ -1,0 +1,9 @@
+kind=defined
+visibility=protected 
+names=stopping
+
+--- stopping -> ()
+
+[[m:GServer#audit]] が真ならば、サーバ停止時に呼ばれます。
+サブクラスでオーバーライドします。
+

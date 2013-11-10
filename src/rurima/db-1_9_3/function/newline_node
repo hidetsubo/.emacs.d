@@ -1,0 +1,11 @@
+private=true
+params=(NODE *node)
+type=NODE *
+name=newline_node
+filename=parse.y
+macro=false
+
+
+nodeがNULLでなければ現在パース中の行番号を格納した
+NODE_NEWLINEをnodeの前に付加し、それを返す。
+

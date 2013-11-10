@@ -1,0 +1,11 @@
+params=(void)
+filename=eval.c
+name=ruby_init
+type=void
+macro=false
+private=false
+
+
+評価器を初期化します。Ruby C API を呼ぶプロセスでは
+前もって必ずこの関数を呼ばなければなりません。
+

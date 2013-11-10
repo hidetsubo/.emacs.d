@@ -1,0 +1,12 @@
+kind=defined
+visibility=public
+names=data
+
+--- data -> String
+自身が保持している cmsg data (データ) を返します。
+
+  p Socket::AncillaryData.new(:INET6, :IPV6, :PKTINFO, "").type
+  #=> ""
+
+@see [[m:Socket::AncillaryData.new]]
+

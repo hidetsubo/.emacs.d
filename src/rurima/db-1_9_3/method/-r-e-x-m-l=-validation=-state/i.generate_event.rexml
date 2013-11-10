@@ -1,0 +1,7 @@
+kind=defined
+visibility=protected 
+names=generate_event
+
+--- generate_event(event)
+@todo
+

@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=append
+
+--- append(to, filter) -> Shell::AppendFile | Shell::AppendIO
+@todo
+
+@param to 文字列か [[c:IO]] を指定します。
+
+@param filter [[c:Shell::Filter]] のインスタンスをしています。
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=new
+
+--- new(file_name, resource_name = nil, winico_id = nil)
+@todo
+

@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=closest,set_to_closest
+
+--- set_to_closest(x, y, halo = Tk::None, start = Tk::None)
+--- closest(x, y, halo = Tk::None, start = Tk::None)
+@todo
+
+
+

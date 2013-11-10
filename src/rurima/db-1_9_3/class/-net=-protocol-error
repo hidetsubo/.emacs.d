@@ -1,0 +1,10 @@
+library=net.protocol
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+ネットワークプロトコル上のエラーが起きた場合に
+発生する例外です。

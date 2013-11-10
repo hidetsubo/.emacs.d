@@ -1,0 +1,9 @@
+library=rubygems.builder
+aliasof=
+type=class
+included=Gem=UserInteraction
+aliases=
+superclass=Object
+extended=
+
+[[c:Gem::Specification]] のインスタンスから Gem パッケージを作成するためのクラスです。

@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=clrtoeol
+
+--- clrtoeol -> nil
+
+現在のカーソル位置からウィンドウの最後までをクリアします。
+

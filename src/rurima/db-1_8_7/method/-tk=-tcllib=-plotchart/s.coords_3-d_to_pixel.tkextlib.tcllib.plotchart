@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=coords_3D_to_pixel
+
+--- coords_3D_to_pixel(w, x, y, z)
+@todo
+

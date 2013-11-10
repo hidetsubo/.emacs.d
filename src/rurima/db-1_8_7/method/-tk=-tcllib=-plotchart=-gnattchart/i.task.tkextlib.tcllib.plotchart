@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=task
+
+--- task(txt, time_begin, time_end, completed = 0.0)
+@todo
+

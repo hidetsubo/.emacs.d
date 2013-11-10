@@ -1,0 +1,8 @@
+private=true
+params=(VALUE obj)
+type=VALUE
+name=rb_false
+filename=object.c
+macro=false
+
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=install_bind_for_event_class
+
+--- install_bind_for_event_class(klass, cmd, *args)
+@todo
+

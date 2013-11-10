@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=each_line
+
+--- each_line(*args){|line| ... } -> nil
+--- each_line(*args) -> Enumerator
+IO.foreach(self.to_s, *args, &block) と同じです。
+
+@see [[m:IO.foreach]]
+

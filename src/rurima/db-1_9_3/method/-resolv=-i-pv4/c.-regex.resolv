@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=Regex
+
+--- Regex -> Regexp
+IPv4 のアドレスの正規表現です。
+

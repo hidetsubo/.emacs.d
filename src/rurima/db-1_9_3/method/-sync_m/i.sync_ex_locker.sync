@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=sync_ex_locker
+
+--- sync_ex_locker -> Thread | nil
+@todo
+

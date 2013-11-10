@@ -1,0 +1,10 @@
+private=true
+params=(VALUE self, NODE *n)
+type=VALUE
+name=rb_eval
+filename=eval.c
+macro=false
+
+
+構文木 n を self = self のもとで評価します。
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_is_master_of?
+
+--- _is_master_of?(tcltkip_obj)
+@todo
+

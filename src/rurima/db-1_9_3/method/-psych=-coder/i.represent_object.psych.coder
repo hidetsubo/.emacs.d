@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=represent_object
+
+--- represent_object(tag, obj)
+@todo
+
+Emit an arbitrary object +obj+ and +tag+
+

@@ -1,0 +1,10 @@
+type=class
+library=rinda.tuplespace
+extended=
+aliases=
+included=MonitorMixin,DRb=DRbUndumped
+superclass=Object
+aliasof=
+
+Tuple Space のためのクラスです。
+普通は [[c:Rinda::TupleSpaceProxy]] を介して使います。

@@ -1,0 +1,12 @@
+private=false
+params=(dup, obj)
+type=void
+name=DUPSETUP
+filename=ruby.h
+macro=true
+
+
+OBJSETUP() の変種。
+dup を、obj から dup で作った
+オブジェクトとして初期化します。
+

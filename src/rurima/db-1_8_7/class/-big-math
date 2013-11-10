@@ -1,0 +1,9 @@
+type=module
+library=bigdecimal.math
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+BigDecimalを使った数学的な機能を提供するモジュールです。

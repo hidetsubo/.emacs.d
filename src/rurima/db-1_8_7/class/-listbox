@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkListbox
+included=
+superclass=Object
+aliasof=
+
+

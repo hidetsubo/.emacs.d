@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=fetcher
+
+--- fetcher -> Gem::RemoteFetcher
+
+このクラスの唯一のインスタンスを返します。
+

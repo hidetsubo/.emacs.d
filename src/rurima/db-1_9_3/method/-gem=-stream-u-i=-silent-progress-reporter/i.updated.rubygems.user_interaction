@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=updated
+
+--- updated(message) -> nil
+
+何もしません。
+
+@param message 指定しても意味がありません。
+

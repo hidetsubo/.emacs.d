@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=shared?,sync_shared?
+
+--- sync_shared? -> bool
+--- shared? -> bool
+共有ロックされているかどうかを返します。
+

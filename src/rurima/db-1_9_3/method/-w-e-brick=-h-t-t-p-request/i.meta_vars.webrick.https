@@ -1,0 +1,8 @@
+kind=redefined
+visibility=public
+names=meta_vars
+
+--- meta_vars -> Hash
+
+メタ変数を返します。
+

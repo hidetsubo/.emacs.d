@@ -1,0 +1,8 @@
+private=true
+params=(VALUE obj, VALUE arg)
+type=VALUE
+name=rb_f_float
+filename=object.c
+macro=false
+
+

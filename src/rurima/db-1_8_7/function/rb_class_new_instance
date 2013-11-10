@@ -1,0 +1,10 @@
+params=(int argc, VALUE *argv, VALUE klass)
+filename=object.c
+name=rb_class_new_instance
+type=VALUE
+macro=false
+private=false
+
+
+[[m:Class#new]] の実体。
+

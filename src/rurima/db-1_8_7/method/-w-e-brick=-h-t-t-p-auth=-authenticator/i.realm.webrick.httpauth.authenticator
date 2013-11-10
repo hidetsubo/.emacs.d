@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=realm
+
+--- realm -> String
+
+レルムを返します。
+

@@ -1,0 +1,11 @@
+library=thwait
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+nonblock がtrue でかつ、キューが空の時、発生します。
+
+@see [[m:ThreadsWait#next_wait]]

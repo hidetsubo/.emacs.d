@@ -1,0 +1,9 @@
+type=module
+library=tk.winfo
+extended=Tk
+aliases=
+included=Tk
+superclass=
+aliasof=Winfo
+
+

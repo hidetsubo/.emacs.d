@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=put
+
+--- put(data, *opts)
+@todo
+

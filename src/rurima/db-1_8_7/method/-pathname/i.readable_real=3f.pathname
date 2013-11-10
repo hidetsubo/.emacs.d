@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=readable_real?
+
+--- readable_real? -> bool
+FileTest.readable_real?(self.to_s) と同じです。
+
+@see [[m:FileTest.#readable_real?]]
+

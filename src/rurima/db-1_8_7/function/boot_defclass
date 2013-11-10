@@ -1,0 +1,12 @@
+params=(char *name, VALUE super)
+filename=object.c
+name=boot_defclass
+type=VALUE
+macro=false
+private=true
+
+
+(まだ) メタクラスを持たないクラスを作成します。
+三つのメタオブジェクト Object, Module, Class を
+作成するのに使います。
+

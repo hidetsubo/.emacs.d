@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=visit_Symbol
+
+--- visit_Symbol(o)
+@todo
+

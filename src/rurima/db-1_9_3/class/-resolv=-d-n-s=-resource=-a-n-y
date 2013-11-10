@@ -1,0 +1,13 @@
+library=resolv
+aliasof=
+type=class
+included=
+aliases=
+superclass=Resolv=DNS=Query
+extended=
+
+DNS のすべてのクラスに対するクエリーを表わす
+抽象クラスです。
+
+[[m:Resolv::DNS#getresource]] では
+[[c:Resolv::DNS::Resource::IN::ANY]] を使うべきです。

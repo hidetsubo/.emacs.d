@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=keyname
+
+--- keyname(c) -> String | nil
+@todo
+
+キー c に対応する文字列を返します。
+
+@param c キーの名前を指定します。
+

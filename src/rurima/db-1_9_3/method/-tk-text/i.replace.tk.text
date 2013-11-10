@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=replace
+
+--- replace(idx1, idx2, *opts)
+@todo
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=NOEXPLICIT
+
+--- NOEXPLICIT -> Integer
+証明書ストア内の Root CA を信用しないことを意味します。
+

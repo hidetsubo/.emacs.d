@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tframe
+extended=
+aliases=
+included=Tk=Tile=TileWidget
+superclass=TkFrame
+aliasof=Tk=Tile=Frame
+
+Alias of [[c:Tk::Tile::Frame]]

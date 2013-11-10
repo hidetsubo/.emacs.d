@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkcLine
+included=
+superclass=Object
+aliasof=
+
+

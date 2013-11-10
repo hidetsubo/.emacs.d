@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkMessage
+included=
+superclass=Object
+aliasof=
+
+

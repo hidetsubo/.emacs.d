@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=exception
+
+--- exception -> DRb::DRbUnknownError
+マーシャリングされたオブジェクトが元のオブジェクトに変換できなかった、
+ということを意味する例外オブジェクトを返します。
+
+この例外オブジェクトの [[m:DRb::DRbUnknownError#unknown]] を
+呼び出すと、 self が返されます。
+

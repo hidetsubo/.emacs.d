@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=default_value
+
+--- default_value(val = nil)
+--- default_value(val = nil) { .... }
+@todo
+

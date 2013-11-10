@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=debug,debug?
+
+--- debug -> bool | Integer
+--- debug? -> bool | Integer
+@todo
+

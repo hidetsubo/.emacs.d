@@ -1,0 +1,9 @@
+library=psych.visitors.depth_first
+aliasof=
+type=class
+included=
+aliases=
+superclass=Psych=Visitors=Visitor
+extended=
+
+

@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=AF_UNSPEC
+
+--- AF_UNSPEC -> Integer
+
+アドレスファミリー不定。
+
+@see [[m:Socket.open]], [[man:sys/socket.h(header)]]
+
+

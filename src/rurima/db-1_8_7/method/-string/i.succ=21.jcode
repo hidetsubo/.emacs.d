@@ -1,0 +1,9 @@
+visibility=public
+kind=redefined
+names=succ!
+
+--- succ! -> self | nil
+
+[[m:String#succ!]] の日本語対応版です。
+自身を「次の」文字列に置き換えます。
+

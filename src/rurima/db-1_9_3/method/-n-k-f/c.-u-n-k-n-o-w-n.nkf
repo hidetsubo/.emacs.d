@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=UNKNOWN
+
+--- UNKNOWN -> nil
+
+コード判定に失敗したことを表します。
+

@@ -1,0 +1,10 @@
+library=resolv
+aliasof=
+type=class
+included=
+aliases=
+superclass=Resolv=DNS=Resource=SOA
+extended=
+
+DNS リソースのクラス IN、タイプ SOA に対応する
+クラスです。

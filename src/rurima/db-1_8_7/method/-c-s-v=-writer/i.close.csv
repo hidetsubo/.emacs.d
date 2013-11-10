@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=close
+
+--- close -> nil
+privateのterminateメソッドを呼び出します。
+

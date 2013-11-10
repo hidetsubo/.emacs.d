@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=each_value
+
+--- each_value                -> Enumerator
+--- each_value {|value| ... } -> self
+value を引数としてブロックを評価します。
+

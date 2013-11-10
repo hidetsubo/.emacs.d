@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=V_ERR_INVALID_PURPOSE
+
+--- V_ERR_INVALID_PURPOSE -> Integer
+証明書が指定した目的で使えないことを意味します。
+
+@see [[m:OpenSSL::X509::Store#purpose=]]
+

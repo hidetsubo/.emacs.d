@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=scroll
+
+--- scroll -> bool
+
+現在のウィンドウを一行スクロールします。
+

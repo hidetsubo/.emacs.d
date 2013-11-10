@@ -1,0 +1,12 @@
+visibility=public
+kind=defined
+names=to_s
+
+--- to_s -> "HISTORY"
+
+文字列"HISTORY"を返します。
+
+例:
+
+  Readline::HISTORY.to_s #=> "HISTORY"
+

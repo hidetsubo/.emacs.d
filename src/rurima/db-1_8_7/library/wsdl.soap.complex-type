@@ -1,0 +1,8 @@
+requires=soap.soap,soap.mapping.typeMap,soap.baseData,soap.mapping.registry,xsd.namedelements,wsdl.xmlSchema.complexType,wsdl.info,soap.mapping.factory,soap.mapping.mapping,soap.mapping.rubytypeFactory,wsdl.xmlSchema.content,soap.mapping,wsdl.xmlSchema.element
+sublibraries=
+is_sublibrary=true
+category=
+methods=WSDL=XMLSchema=ComplexType/i.compoundtype.wsdl.soap.complexType,WSDL=XMLSchema=ComplexType/i.check_type.wsdl.soap.complexType,WSDL=XMLSchema=ComplexType/i.child_type.wsdl.soap.complexType,WSDL=XMLSchema=ComplexType/i.child_defined_complextype.wsdl.soap.complexType,WSDL=XMLSchema=ComplexType/i.find_arytype.wsdl.soap.complexType,WSDL=XMLSchema=ComplexType/i.find_aryelement.wsdl.soap.complexType,WSDL=XMLSchema=ComplexType/i.element_simpletype.wsdl.soap.complexType,WSDL=XMLSchema=ComplexType/i.check_array_content.wsdl.soap.complexType,WSDL=XMLSchema=ComplexType/i.content_arytype.wsdl.soap.complexType
+classes=
+
+

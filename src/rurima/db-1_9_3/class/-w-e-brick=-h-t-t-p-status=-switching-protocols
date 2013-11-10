@@ -1,0 +1,9 @@
+library=webrick.httpstatus
+aliasof=
+type=class
+included=
+aliases=
+superclass=WEBrick=HTTPStatus=Info
+extended=
+
+HTTP のステータスコード 101 Switching Protocols を表すクラスです。

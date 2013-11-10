@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpservlet.filehandler
+extended=
+aliases=
+included=
+superclass=WEBrick=HTTPServlet=AbstractServlet
+aliasof=
+
+通常のファイルサーバとしての機能を提供するためのサーブレット。

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=menucget
+
+--- menucget(key)
+@todo
+

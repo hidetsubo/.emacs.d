@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=parent
+
+--- parent(namespace = Tk::None)
+@todo
+

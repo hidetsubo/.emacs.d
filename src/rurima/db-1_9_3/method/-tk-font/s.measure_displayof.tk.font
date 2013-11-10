@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=measure_displayof
+
+--- measure_displayof(fnt, win, text)
+@todo
+

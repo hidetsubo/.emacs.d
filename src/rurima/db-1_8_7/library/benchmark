@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=Development
+methods=
+classes=Benchmark,Benchmark=Tms,Benchmark=Job,Benchmark=Report
+
+ベンチマークを取るためのライブラリです。

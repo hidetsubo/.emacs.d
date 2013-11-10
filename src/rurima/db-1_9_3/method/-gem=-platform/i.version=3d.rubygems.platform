@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=version=
+
+--- version=(version)
+
+プラットフォームのバージョンをセットします。
+
+@param version プラットフォームのバージョンを指定します。
+

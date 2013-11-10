@@ -1,0 +1,9 @@
+library=timeout
+aliasof=Timeout=Error
+type=class
+included=
+aliases=
+superclass=
+extended=
+
+Alias of [[c:Timeout::Error]]

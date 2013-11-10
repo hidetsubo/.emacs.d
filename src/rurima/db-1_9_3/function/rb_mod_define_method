@@ -1,0 +1,8 @@
+private=true
+params=(int argc, VALUE *argv, VALUE mod)
+type=VALUE
+name=rb_mod_define_method
+filename=eval.c
+macro=false
+
+

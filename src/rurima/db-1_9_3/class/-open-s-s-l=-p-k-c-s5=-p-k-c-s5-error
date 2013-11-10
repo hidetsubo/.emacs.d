@@ -1,0 +1,9 @@
+library=openssl
+aliasof=
+type=class
+included=
+aliases=
+superclass=OpenSSL=OpenSSLError
+extended=
+
+OpenSSL PKCS#5 関連のエラーが起きた場合に発生する例外

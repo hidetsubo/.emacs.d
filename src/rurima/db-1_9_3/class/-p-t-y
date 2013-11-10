@@ -1,0 +1,9 @@
+library=pty
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+疑似端末(Pseudo tTY)を扱うモジュールです。

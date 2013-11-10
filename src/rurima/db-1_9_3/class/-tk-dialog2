@@ -1,0 +1,9 @@
+library=tk.dialog
+aliasof=TkDialogObj
+type=class
+included=
+aliases=
+superclass=
+extended=
+
+Alias of [[c:TkDialogObj]]

@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=egid
+
+--- egid    -> Integer
+
+カレントプロセスの実効グループ ID を整数で返します。
+
+@see [[man:getegid(2)]]
+

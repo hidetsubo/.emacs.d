@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=Test=Unit=AssertionFailedError,Test=Unit=Assertions
+
+各種の assert メソッドを提供します。

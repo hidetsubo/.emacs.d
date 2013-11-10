@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=new
+
+--- new -> YAML::Syck::Resolver
+@todo
+
+自身を初期化します。
+

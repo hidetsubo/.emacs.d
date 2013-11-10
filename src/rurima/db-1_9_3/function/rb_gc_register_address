@@ -1,0 +1,12 @@
+private=false
+params=(VALUE *addr)
+type=void
+name=rb_gc_register_address
+filename=gc.c
+macro=false
+
+
+#@# 初出: [ruby-list:20488] 1.5 feature
+
+ポインタ addr が指す変数を GC の対象にします。
+

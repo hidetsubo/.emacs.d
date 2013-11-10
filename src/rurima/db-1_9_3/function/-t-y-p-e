@@ -1,0 +1,10 @@
+private=false
+params=(VALUE obj)
+type=int
+name=TYPE
+filename=ruby.h
+macro=true
+
+
+obj の構造体型 ID を返します。
+

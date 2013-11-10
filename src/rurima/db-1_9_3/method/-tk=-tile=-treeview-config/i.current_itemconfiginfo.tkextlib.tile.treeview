@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=current_itemconfiginfo
+
+--- current_itemconfiginfo(tagOrId, slot = nil)
+@todo
+

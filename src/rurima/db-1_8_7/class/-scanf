@@ -1,0 +1,11 @@
+type=module
+library=scanf
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+scanf ライブラリで使用する名前空間です。
+
+@see [[m:Kernel.#scanf]], [[m:String#scanf]], [[m:IO#scanf]], [[m:Stdin#scanf]]

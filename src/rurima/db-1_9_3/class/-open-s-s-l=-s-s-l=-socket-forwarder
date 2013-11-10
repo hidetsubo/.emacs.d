@@ -1,0 +1,14 @@
+library=openssl
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+to_io で返されるソケットオブジェクトにメソッドを
+フォワードするモジュールです。
+
+[[c:OpenSSL::SSL::SSLSocket]] や [[c:OpenSSL::SSL::SSLServer]] と
+いったソケットの SSL ラッパクラスにソケット関連のメソッドを定義するため
+に使われます。

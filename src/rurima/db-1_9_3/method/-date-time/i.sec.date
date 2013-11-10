@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=sec
+
+--- sec -> Integer
+秒を返します (0-59)。
+

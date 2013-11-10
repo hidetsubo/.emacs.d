@@ -1,0 +1,10 @@
+visibility=public
+kind=added
+names=server_cert
+
+--- server_cert -> OpenSSL::X509::Certificate
+
+サーバ証明書を表すオブジェクトを返します。
+
+@see [[c:OpenSSL::X509::Certificate]]
+

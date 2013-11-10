@@ -1,0 +1,9 @@
+type=class
+library=wsdl.xmlSchema.xsd2ruby
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+

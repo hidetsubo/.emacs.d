@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=wiredump_dev,wiredump_dev=
+
+--- wiredump_dev
+--- wiredump_dev=(value)
+@todo
+

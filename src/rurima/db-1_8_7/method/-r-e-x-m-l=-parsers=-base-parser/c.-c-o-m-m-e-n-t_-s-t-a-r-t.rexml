@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=COMMENT_START
+
+--- COMMENT_START
+@todo
+

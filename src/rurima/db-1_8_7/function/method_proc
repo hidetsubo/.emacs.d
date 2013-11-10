@@ -1,0 +1,8 @@
+params=(VALUE method)
+filename=eval.c
+name=method_proc
+type=VALUE
+macro=false
+private=true
+
+

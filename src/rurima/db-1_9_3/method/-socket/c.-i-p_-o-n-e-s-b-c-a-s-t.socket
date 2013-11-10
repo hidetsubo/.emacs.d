@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=IP_ONESBCAST
+
+--- IP_ONESBCAST -> Integer
+Force outgoing broadcast datagrams to have the undirected broadcast address。
+[[m:BasicSocket#getsockopt]], [[m:BasicSocket#setsockopt]]
+の第2引数(optname)に使用します。
+
+@see [[m:Socket::Constants::IPPROTO_IP]], [[man:ip(4freebsd)]]
+

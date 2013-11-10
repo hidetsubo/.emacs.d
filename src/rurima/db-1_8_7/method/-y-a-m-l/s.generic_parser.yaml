@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=generic_parser
+
+--- generic_parser -> YAML::Syck::Parser
+
+YAML パーサを返します。ただし、[[m:YAML.parser]] とは異なり、リゾルバに
+[[m:YAML::Syck::GenericResolver]] が指定されています。
+
+@see [[m:YAML.parser]]
+

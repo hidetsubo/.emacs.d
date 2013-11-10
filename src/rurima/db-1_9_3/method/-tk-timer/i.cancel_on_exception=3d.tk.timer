@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=cancel_on_exception=
+
+--- cancel_on_exception=(mode)
+@todo
+

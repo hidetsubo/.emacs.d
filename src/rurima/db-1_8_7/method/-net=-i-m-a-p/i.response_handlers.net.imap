@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=response_handlers
+
+--- response_handlers -> Array
+設定されているレスポンスハンドラ全てを
+配列で返します。
+
+@see [[m:Net::IMAP#add_response_handler]]
+
+

@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=DOT_DOC_FILENAME
+
+--- DOT_DOC_FILENAME -> ".document"
+
+rdoc コマンドが処理するファイル名の一覧が書かれたファイルの名前を返します。
+
+

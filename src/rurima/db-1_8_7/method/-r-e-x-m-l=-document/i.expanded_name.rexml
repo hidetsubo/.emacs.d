@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=expanded_name,name
+
+--- expanded_name
+--- name
+@todo
+

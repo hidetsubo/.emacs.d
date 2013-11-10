@@ -1,0 +1,15 @@
+kind=defined
+visibility=public
+names=color_pair
+
+--- color_pair(attrs) -> Integer
+@todo
+
+Sets the color pair attributes to +attrs+.
+
+以下のコードと同じです。
+
+  Curses.attrset(COLOR_PAIR(+attrs+))
+
+@param attr 
+

@@ -1,0 +1,26 @@
+visibility=public
+kind=added
+names=BigDecimal
+
+--- BigDecimal(s) -> BigDecimal
+--- BigDecimal(s, n) -> BigDecimal
+
+引数 s で指定した値を表す BigDecimal オブジェクトを生成します。
+
+詳しくは [[m:BigDecimal.new]] を参照してください。
+
+@param s 数値を文字列で指定します。
+
+@param n 有効桁数を整数で指定します。
+
+@raise TypeError s に 文字列以外のオブジェクトを指定した場合に発生しま
+                 す。
+
+@raise TypeError n に [[c:Fixnum]] 以外のオブジェクトを指定した場合に発
+                 生します。
+
+
+@raise ArgumentError n に負の数を指定した場合に発生します。
+
+@see [[m:BigDecimal.new]]
+

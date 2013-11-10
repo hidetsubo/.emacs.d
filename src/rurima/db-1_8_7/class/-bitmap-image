@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkBitmapImage
+included=
+superclass=Object
+aliasof=
+
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=cert_chain
+
+--- cert_chain -> Array
+@todo
+

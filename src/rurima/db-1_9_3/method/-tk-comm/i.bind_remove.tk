@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=bind_remove
+
+--- bind_remove(tag_or_class, context)
+@todo
+

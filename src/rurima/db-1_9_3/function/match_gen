@@ -1,0 +1,8 @@
+private=true
+params=(NODE *node1, NODE *node2)
+type=NODE *
+name=match_gen
+filename=parse.y
+macro=false
+
+

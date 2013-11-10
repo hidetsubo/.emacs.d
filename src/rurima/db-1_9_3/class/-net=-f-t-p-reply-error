@@ -1,0 +1,10 @@
+library=net.ftp
+aliasof=
+type=class
+included=
+aliases=
+superclass=Net=FTPError
+extended=
+
+FTPの応答が 1yz や 3yz であり、それが
+想定外であることを表わす例外クラスです。

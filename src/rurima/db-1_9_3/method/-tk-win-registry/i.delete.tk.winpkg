@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=delete
+
+--- delete(keynam, valnam = Tk::None)
+@todo
+
+

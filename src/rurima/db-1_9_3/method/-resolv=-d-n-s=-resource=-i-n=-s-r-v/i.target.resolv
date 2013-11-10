@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=target
+
+--- target -> Resolv::DNS::Name
+対象のホストのホスト名を返します。
+

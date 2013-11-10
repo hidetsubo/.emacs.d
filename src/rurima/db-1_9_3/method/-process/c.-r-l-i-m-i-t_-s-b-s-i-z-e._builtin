@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=RLIMIT_SBSIZE
+
+--- RLIMIT_SBSIZE -> Fixnum
+
+リソースの種類がソケットバッファのサイズであることを示す定数です。
+
+[[m:Process.#getrlimit]]、[[m:Process.#setrlimit]] で使われます。
+システムによっては定義されていません。
+

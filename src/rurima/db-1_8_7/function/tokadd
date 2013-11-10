@@ -1,0 +1,10 @@
+params=(char c)
+filename=parse.y
+name=tokadd
+type=void
+macro=false
+private=true
+
+
+トークンバッファに文字 c を追加します。
+

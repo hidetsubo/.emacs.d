@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=entryconfigure
+
+--- entryconfigure(tagorId, slot, value = Tk::None)
+@todo
+

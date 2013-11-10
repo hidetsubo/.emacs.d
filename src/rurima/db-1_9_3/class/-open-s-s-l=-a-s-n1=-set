@@ -1,0 +1,9 @@
+library=openssl
+aliasof=
+type=class
+included=
+aliases=
+superclass=OpenSSL=ASN1=Constructive
+extended=
+
+ASN.1 の Set 型(Universal タグのタグ番号17)を表すクラスです。

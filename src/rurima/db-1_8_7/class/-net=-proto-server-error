@@ -1,0 +1,10 @@
+type=class
+library=net.protocol
+extended=
+aliases=
+included=
+superclass=Net=ProtocolError
+aliasof=
+
+サーバー側の問題により要求が達成できない場合に
+発生する例外です。

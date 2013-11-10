@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=pos,tell
+
+--- pos    -> Integer
+--- tell   -> Integer
+
+[[m:IO#pos]], [[m:IO#tell]] に委譲します。
+

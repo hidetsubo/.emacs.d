@@ -1,0 +1,10 @@
+private=false
+params=(VALUE x)
+type=int
+name=FL_ABLE
+filename=ruby.h
+macro=true
+
+
+x が即値の VALUE でなければ真。
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=doctype
+
+--- doctype(name, pub_sys, long_name, uri)
+@todo
+

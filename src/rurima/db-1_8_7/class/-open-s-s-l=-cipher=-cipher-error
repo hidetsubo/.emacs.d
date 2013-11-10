@@ -1,0 +1,9 @@
+type=class
+library=openssl
+extended=
+aliases=
+included=
+superclass=OpenSSL=OpenSSLError
+aliasof=
+
+共通鍵暗号関連のエラーで発生する例外のクラス。

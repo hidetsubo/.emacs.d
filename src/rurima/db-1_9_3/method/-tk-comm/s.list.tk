@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=list
+
+--- list(val, depth = 0, enc = true)
+@todo
+

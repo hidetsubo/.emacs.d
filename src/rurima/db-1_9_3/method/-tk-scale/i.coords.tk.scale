@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=coords
+
+--- coords(value = Tk::None)
+@todo
+

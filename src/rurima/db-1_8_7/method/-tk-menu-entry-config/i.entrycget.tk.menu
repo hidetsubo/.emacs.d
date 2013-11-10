@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=entrycget
+
+--- entrycget(tagOrId, option)
+@todo
+

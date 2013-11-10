@@ -1,0 +1,10 @@
+private=false
+params=(void)
+type=VALUE
+name=rb_gc_disable
+filename=gc.c
+macro=false
+
+
+GC を禁止します。
+

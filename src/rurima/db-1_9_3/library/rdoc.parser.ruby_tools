@@ -1,0 +1,9 @@
+requires=
+category=
+methods=
+sublibraries=
+classes=RDoc=Parser=RubyTools
+is_sublibrary=true
+
+[[c:RDoc::RubyLex]] と [[c:RDoc::RubyToken]] を使って Ruby のソースコー
+ドのパーサを記述するためのモジュールを定義するサブライブラリです。

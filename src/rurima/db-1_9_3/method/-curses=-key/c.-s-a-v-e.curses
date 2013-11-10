@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=SAVE
+
+--- SAVE -> Integer
+
+Save キーを表す定数です。
+

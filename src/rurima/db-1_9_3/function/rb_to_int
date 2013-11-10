@@ -1,0 +1,10 @@
+private=false
+params=(VALUE val)
+type=VALUE
+name=rb_to_int
+filename=object.c
+macro=false
+
+
+val を to_int メソッドを使って Ruby の整数に変換します。
+

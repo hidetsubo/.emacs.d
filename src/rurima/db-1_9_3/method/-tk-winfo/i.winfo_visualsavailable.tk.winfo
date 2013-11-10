@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=winfo_visualsavailable
+
+--- winfo_visualsavailable(includeids = false)
+@todo
+

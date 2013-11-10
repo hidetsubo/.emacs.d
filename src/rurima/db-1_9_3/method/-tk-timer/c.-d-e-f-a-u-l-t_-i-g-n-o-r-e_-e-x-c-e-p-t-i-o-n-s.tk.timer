@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=DEFAULT_IGNORE_EXCEPTIONS
+
+--- DEFAULT_IGNORE_EXCEPTIONS
+@todo
+
+

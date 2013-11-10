@@ -1,0 +1,9 @@
+library=psych.json.stream
+aliasof=
+type=class
+included=Psych=Streaming
+aliases=
+superclass=Psych=Visitors=JSONTree
+extended=
+
+

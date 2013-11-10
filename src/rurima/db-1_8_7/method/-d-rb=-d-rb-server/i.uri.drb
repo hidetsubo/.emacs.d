@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=uri
+
+--- uri -> String|nil
+サーバに紐付けけられた URI を返します。
+

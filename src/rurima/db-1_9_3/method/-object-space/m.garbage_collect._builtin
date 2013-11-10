@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=garbage_collect
+
+--- garbage_collect    -> nil
+
+どこからも参照されなくなったオブジェクトを回収します。
+[[m:GC.start]] と同じです。
+

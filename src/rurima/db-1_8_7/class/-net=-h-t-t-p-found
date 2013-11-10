@@ -1,0 +1,10 @@
+type=class
+library=net.http
+extended=
+aliases=Net=HTTPMovedTemporarily
+included=
+superclass=Net=HTTPRedirection
+aliasof=
+
+HTTP レスポンス 302 (Found) を表現するクラスです。
+詳しくは [[RFC:2616]] を見てください。

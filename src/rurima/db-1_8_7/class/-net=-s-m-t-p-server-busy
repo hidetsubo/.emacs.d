@@ -1,0 +1,10 @@
+type=class
+library=net.smtp
+extended=
+aliases=
+included=Net=SMTPError
+superclass=Net=ProtoServerError
+aliasof=
+
+SMTP 一時エラーに対応する例外クラスです。
+SMTP エラーコード 420, 450 に対応します。

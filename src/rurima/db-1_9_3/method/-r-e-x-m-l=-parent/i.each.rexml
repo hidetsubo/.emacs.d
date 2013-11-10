@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=each,each_child
+
+--- each {|object| ... }
+--- each_child {|object| ... }
+@todo
+

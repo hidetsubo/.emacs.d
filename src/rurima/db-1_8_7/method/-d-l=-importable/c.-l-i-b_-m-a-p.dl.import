@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=LIB_MAP
+
+--- LIB_MAP
+@todo
+ロードされたライブラリを保持する[[c:Hash]]オブジェクトです。

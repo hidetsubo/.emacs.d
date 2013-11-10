@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=copy
+
+--- copy(other) -> self
+other の内容を自身にコピーします。
+
+@param other コピーする [[c:OpenSSL::BN]] のオブジェクト
+@raise OpenSSL::BNError コピーに失敗
+

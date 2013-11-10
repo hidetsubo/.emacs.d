@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=debug_level=
+
+--- debug_level=(val)
+
+irb のデバッグレベルを val に設定します。
+
+
+@see [[m:IRB::Context#debug_level]], [[m:IRB::Context#debug?]]
+

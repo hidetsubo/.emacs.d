@@ -1,0 +1,8 @@
+requires=
+category=
+methods=IO/s.default_console_size.io.console.size,IO/s.console_size.io.console.size
+sublibraries=
+classes=
+is_sublibrary=true
+
+端末のサイズを取得するための [[lib:io/console]] のサブライブラリです。

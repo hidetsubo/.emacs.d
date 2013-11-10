@@ -1,0 +1,11 @@
+kind=added
+visibility=public
+names=quof
+
+--- quof(other) -> Float | Complex
+
+self を other で割った商を返します。
+[[m:Fixnum#fdiv]] のエイリアスです。
+
+@param other 割る数
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=IDNAME_IVARS
+
+--- IDNAME_IVARS -> [String]
+
+ライブラリ内部で使用します。

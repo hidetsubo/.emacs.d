@@ -1,0 +1,11 @@
+private=true
+params=(void)
+type=void
+name=top_local_setup
+filename=parse.y
+macro=false
+
+
+パース中のプログラムのトップレベルのためのローカル変数テーブルをポップし、
+現在存在する SCOPE にそれを接ぎ足す。
+

@@ -1,0 +1,11 @@
+private=false
+params=(VALUE val)
+type=VALUE
+name=rb_String
+filename=object.c
+macro=false
+
+
+[[m:Kernel.#String]] の実体。
+val を文字列に変換します。
+

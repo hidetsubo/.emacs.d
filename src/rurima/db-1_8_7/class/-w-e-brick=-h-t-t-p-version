@@ -1,0 +1,10 @@
+type=class
+library=webrick.httpversion
+extended=
+aliases=
+included=Comparable
+superclass=Object
+aliasof=
+
+HTTP のバージョンのための小さなクラスです。
+バージョン同士の比較のために使います。

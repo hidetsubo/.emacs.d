@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=scaling_displayof
+
+--- scaling_displayof(win, scale=nil)
+@todo
+

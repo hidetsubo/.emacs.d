@@ -1,0 +1,9 @@
+library=webrick.utils
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+ライブラリ webrick のための小さなユーティリティ関数を提供するモジュールです。

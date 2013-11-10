@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=each
+
+--- each{|user, realm, pass| ... } -> Hash
+
+ユーザ名、レルム、パスワードをブロックに渡して評価します。
+

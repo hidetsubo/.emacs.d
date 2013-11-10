@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=KEY_COMMAND
+
+--- KEY_COMMAND -> Integer
+
+Command キーを表す定数です。
+

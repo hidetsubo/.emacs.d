@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=execute
+
+--- execute(service, topic, data)
+@todo
+

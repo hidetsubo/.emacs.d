@@ -1,0 +1,9 @@
+private=false
+params=(VALUE ary, VALUE x)
+type=VALUE
+name=rb_ary_concat
+filename=array.c
+macro=false
+
+
+ary.concat x

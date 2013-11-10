@@ -1,0 +1,8 @@
+params=(int argc, VALUE *argv, VALUE method)
+filename=eval.c
+name=method_call
+type=VALUE
+macro=false
+private=true
+
+

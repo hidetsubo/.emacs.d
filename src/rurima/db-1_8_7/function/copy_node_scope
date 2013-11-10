@@ -1,0 +1,12 @@
+params=(NODE *node, VALUE rval)
+filename=eval.c
+name=copy_node_scope
+type=NODE *
+macro=false
+private=true
+
+
+node の先頭についているはずの、
+ローカル変数スコープを積むための情報を格納したノード NODE_SCOPE を
+コピーして返します。そのとき nd_rval に rval を格納します。
+

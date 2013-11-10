@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=ip_invoke
+
+--- ip_invoke(*args)
+@todo
+

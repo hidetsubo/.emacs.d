@@ -1,0 +1,8 @@
+params=(VALUE v)
+filename=eval.c
+name=svalue_to_avalue
+type=VALUE
+macro=false
+private=true
+
+

@@ -1,0 +1,8 @@
+params=(const char *name, VALUE *var)
+filename=variable.c
+name=rb_define_readonly_variable
+type=void
+macro=false
+private=false
+
+

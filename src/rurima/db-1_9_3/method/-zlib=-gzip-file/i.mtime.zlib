@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=mtime
+
+--- mtime -> Time
+
+gzip ファイルのヘッダーに記録されている最終更新時間を返します。
+

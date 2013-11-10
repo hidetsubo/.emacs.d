@@ -1,0 +1,13 @@
+kind=defined
+visibility=public
+names=ord
+
+--- ord    -> Integer
+自身を返します。
+
+   10.ord    #=> 10
+   # String#ord
+   ?a.ord    #=> 97
+
+@see [[m:String#ord]]
+

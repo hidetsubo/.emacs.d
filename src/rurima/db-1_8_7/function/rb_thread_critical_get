@@ -1,0 +1,8 @@
+params=(void)
+filename=eval.c
+name=rb_thread_critical_get
+type=VALUE
+macro=false
+private=true
+
+

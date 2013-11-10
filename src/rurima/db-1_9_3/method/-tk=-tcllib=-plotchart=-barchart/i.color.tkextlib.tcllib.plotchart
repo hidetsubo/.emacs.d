@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=color,colors,colour,colours
+
+--- colours(*cols)
+--- colour(*cols)
+--- colors(*cols)
+--- color(*cols)
+@todo
+
+

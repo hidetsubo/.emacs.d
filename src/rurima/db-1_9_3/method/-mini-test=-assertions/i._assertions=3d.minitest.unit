@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=_assertions=
+
+--- _assertions=(count)
+
+アサーション数をセットします。
+
+@param count 件数を指定します。
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=option_methods
+
+--- option_methods(*opts)
+@todo
+
+

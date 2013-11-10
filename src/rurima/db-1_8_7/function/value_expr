@@ -1,0 +1,11 @@
+params=(NODE *node)
+filename=parse.y
+name=value_expr
+type=int
+macro=false
+private=true
+
+
+node を評価したときに、確実に値が得られない式が
+あるならば警告またはエラーにする。
+

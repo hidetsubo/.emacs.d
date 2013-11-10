@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=new
+
+--- new -> YAML::EngineManager
+
+自身を初期化します。
+

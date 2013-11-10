@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=SR
+
+--- SR -> Integer
+
+後に一行スクロールすることを表す定数です。
+

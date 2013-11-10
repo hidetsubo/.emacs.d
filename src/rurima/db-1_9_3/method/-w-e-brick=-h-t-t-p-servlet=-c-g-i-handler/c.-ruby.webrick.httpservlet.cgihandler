@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=Ruby
+
+--- Ruby -> String
+
+Ruby のパスを返します。
+

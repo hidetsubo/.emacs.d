@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=inch
+
+--- inch -> Integer
+
+stdscr のカーソル位置から 1 バイト読みとって返します。
+
+

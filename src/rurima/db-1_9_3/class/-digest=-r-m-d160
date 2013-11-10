@@ -1,0 +1,10 @@
+library=digest.rmd160
+aliasof=
+type=class
+included=
+aliases=
+superclass=Digest=Base
+extended=
+
+Hans Dobbertin, Antoon Bosselaers, Bart Preneel によって設計された
+RIPEMD-160 ハッシュ関数を実装するクラスです。

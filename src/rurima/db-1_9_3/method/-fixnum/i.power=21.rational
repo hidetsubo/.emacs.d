@@ -1,0 +1,12 @@
+kind=added
+visibility=public
+names=power!,rpower
+
+--- power!(other) -> Numeric
+--- rpower(other) -> Numeric
+
+冪(べき)乗を計算します。
+[[m:Fixnum#**]] のエイリアスです。
+
+@param other べき乗の指数
+

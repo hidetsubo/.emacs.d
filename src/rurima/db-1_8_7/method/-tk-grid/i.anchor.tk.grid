@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=anchor
+
+--- anchor(master, anchor = Tk::None)
+@todo
+

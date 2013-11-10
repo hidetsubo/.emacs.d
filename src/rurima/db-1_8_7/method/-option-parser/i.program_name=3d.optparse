@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=program_name=
+
+--- program_name=(name)
+
+プログラムの名前を文字列で指定します。
+
+@param name プログラムの名前を文字列で指定します。
+

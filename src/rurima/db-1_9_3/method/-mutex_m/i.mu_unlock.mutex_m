@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=mu_unlock,unlock
+
+--- mu_unlock -> ()
+--- unlock -> ()
+ロックを解放します。ロック待ちになっていたスレッドの実行は再開されます。
+
+@raise ThreadError ロックされていない場合に unlock を呼ぶと発生します
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=format
+
+--- format(clk, form = nil)
+@todo
+

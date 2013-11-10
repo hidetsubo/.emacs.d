@@ -1,0 +1,8 @@
+requires=webrick.httputils
+category=
+methods=
+sublibraries=
+classes=WEBrick=Cookie
+is_sublibrary=true
+
+

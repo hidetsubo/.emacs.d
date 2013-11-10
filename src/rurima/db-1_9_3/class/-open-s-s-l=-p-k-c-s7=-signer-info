@@ -1,0 +1,9 @@
+library=openssl
+aliasof=
+type=class
+included=
+aliases=OpenSSL=PKCS7=Signer
+superclass=Object
+extended=
+
+署名者の情報を表すクラスです。

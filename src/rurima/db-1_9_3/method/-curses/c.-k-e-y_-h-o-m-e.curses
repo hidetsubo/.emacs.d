@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=KEY_HOME
+
+--- KEY_HOME -> Integer
+
+Home キーを表す定数です。
+

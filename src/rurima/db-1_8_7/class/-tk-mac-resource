@@ -1,0 +1,9 @@
+type=module
+library=tk.macpkg
+extended=Tk,TkMacResource
+aliases=
+included=
+superclass=
+aliasof=
+
+

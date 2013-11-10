@@ -1,0 +1,9 @@
+type=class
+library=xsd.datatypes
+extended=
+aliases=
+included=XSD=XSDDateTimeImpl
+superclass=XSD=XSDAnySimpleType
+aliasof=
+
+

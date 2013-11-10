@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=new
+
+--- new(sh) -> Shell::Filter
+
+[[c:Shell::Filter]] クラスのインスタンスを返します。
+通常このメソッドを直接使う機会は少ないでしょう。
+

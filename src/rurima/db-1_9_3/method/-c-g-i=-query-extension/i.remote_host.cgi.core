@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=remote_host
+
+--- remote_host -> String
+
+ENV['REMOTE_HOST'] を返します。
+

@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=scale
+
+--- scale(tag, x, y, xs, ys)
+@todo
+
+
+

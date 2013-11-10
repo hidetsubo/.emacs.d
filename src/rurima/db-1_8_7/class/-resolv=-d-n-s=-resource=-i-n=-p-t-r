@@ -1,0 +1,10 @@
+type=class
+library=resolv
+extended=
+aliases=
+included=
+superclass=Resolv=DNS=Resource=PTR
+aliasof=
+
+DNS リソースのクラス IN、タイプ PTR に対応する
+クラスです。

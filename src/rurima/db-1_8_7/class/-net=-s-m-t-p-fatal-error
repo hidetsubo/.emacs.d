@@ -1,0 +1,10 @@
+type=class
+library=net.smtp
+extended=
+aliases=
+included=Net=SMTPError
+superclass=Net=ProtoFatalError
+aliasof=
+
+SMTP 致命的エラー(エラーコード 5xx、 ただし500除く)に対応する
+例外クラスです。

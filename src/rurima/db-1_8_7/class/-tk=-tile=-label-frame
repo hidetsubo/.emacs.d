@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tlabelframe
+extended=
+aliases=Tk=Tile=TLabelFrame
+included=
+superclass=Object
+aliasof=
+
+

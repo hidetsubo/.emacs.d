@@ -1,0 +1,11 @@
+params=(st_table *old_table)
+filename=st.c
+name=st_copy
+type=st_table *
+macro=false
+private=false
+
+
+[[m:Hash#dup]] の実体。
+old_table と同じ内容の st_table を新たに作成して返す。
+

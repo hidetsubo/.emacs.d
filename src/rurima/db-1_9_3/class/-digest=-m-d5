@@ -1,0 +1,10 @@
+library=digest.md5
+aliasof=
+type=class
+included=
+aliases=
+superclass=Digest=Base
+extended=
+
+[[RFC:1321]] に記述されている RSA Data Security, Inc. の MD5 Message-Digest
+Algorithmを実装するクラスです。

@@ -1,0 +1,10 @@
+requires=
+category=
+methods=
+sublibraries=
+classes=IRB=Frame
+is_sublibrary=true
+
+現在実行中のフレーム情報を取り扱うためのサブライブラリです。
+
+このライブラリで定義されているメソッドはユーザが直接使用するものではありません。

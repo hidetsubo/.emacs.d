@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=current_paneconfiginfo
+
+--- current_paneconfiginfo(win, key = nil)
+@todo
+

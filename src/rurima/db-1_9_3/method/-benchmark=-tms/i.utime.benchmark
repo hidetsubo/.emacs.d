@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=utime
+
+--- utime -> Float
+
+User CPU time
+

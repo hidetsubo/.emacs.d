@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=super_each
+
+--- super_each -> ()
+@todo
+
+[[m:Shell::Filter#each]] です。
+

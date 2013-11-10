@@ -1,0 +1,8 @@
+params=(int argc, VALUE *argv, VALUE module)
+filename=eval.c
+name=rb_mod_public
+type=VALUE
+macro=false
+private=true
+
+

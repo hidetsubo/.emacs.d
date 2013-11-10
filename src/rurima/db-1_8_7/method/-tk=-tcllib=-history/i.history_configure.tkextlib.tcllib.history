@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=history_configure
+
+--- history_configure(opt, value)
+@todo
+

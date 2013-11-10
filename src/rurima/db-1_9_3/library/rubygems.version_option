@@ -1,0 +1,9 @@
+requires=rubygems.source_info_cache,rubygems.source_info_cache_entry,rubygems.builder,rubygems.source_index,rubygems.spec_fetcher,rubygems.gem_path_searcher,rubygems.requirement,rubygems.defaults,rubygems.remote_fetcher,rubygems.specification,rubygems.version,rubygems.platform,rubygems.exceptions,rubygems,rubygems.digest.sha2,rubygems.dependency,rubygems.user_interaction
+category=
+methods=
+sublibraries=
+classes=Gem=VersionOption
+is_sublibrary=true
+
+[[c:Gem::Command]] の --version, --platform オプションのためのモジュールを
+定義したライブラリです。

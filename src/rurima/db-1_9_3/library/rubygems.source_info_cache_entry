@@ -1,0 +1,8 @@
+requires=rubygems.builder,rubygems.source_info_cache,rubygems.source_info_cache_entry,rubygems.source_index,rubygems.requirement,rubygems.spec_fetcher,rubygems.gem_path_searcher,rubygems.defaults,rubygems.remote_fetcher,rubygems.specification,rubygems.version,rubygems.platform,rubygems.exceptions,rubygems,rubygems.digest.sha2,rubygems.dependency,rubygems.user_interaction
+category=
+methods=
+sublibraries=
+classes=Gem=SourceInfoCacheEntry
+is_sublibrary=true
+
+[[c:Gem::SourceInfoCache]] が持つエントリを表すためのライブラリです。

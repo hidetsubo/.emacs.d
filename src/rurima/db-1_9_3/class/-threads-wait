@@ -1,0 +1,9 @@
+library=thwait
+aliasof=
+type=class
+included=
+aliases=ThWait
+superclass=Object
+extended=Exception2MessageMapper
+
+複数スレッドの終了を待つ機能を提供します。

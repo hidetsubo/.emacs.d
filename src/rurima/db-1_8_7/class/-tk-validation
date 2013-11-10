@@ -1,0 +1,9 @@
+type=module
+library=tk.validation
+extended=
+aliases=
+included=Tk=ValidateConfigure
+superclass=
+aliasof=
+
+

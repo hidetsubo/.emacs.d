@@ -1,0 +1,10 @@
+params=(int ex)
+filename=eval.c
+name=ruby_stop
+type=void
+macro=false
+private=false
+
+
+評価器プロセスを停止します。
+

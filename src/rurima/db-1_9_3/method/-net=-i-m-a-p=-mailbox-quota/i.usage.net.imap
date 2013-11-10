@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=usage
+
+--- usage -> Integer
+現在のメールボックス内の使用量を返します。
+

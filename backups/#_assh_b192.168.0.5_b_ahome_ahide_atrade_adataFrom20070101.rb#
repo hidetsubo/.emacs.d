@@ -1,0 +1,161 @@
+# -*- coding: utf-8 -*-
+require 'open-uri' 
+require 'timeout'
+require 'date'
+require 'kconv'
+require './holiday.rb'
+
+class GetFile
+   PATH = "/home/hide/trade/keep/"
+  
+  def set_date
+    day = Date::new(2013,4,1)# => #<Date: 2007-01-01 ((2454102j,0s,0n),+0s,2299161j)> # !> assigned but unused variable - day
+    files = Dir::glob(PATH + day.year.to_s + "all")
+    t = Time.now
+    d = day
+        
+    fs = 0
+    s = 1 # !> assigned but unused variable - s
+    h = Holiday.new
+    once = true
+    tday = Date.today
+    while d < tday do #２５日移動平均を得るため
+
+      while h.is_closed(d) == true do
+        p d = d + 1
+      end
+      g = true
+      #p d.to_s
+      files.each{ |f| 
+        #p f
+        md = f.match(/(.*)([0-9]{4}\-[0-9]{2}\-[0-9]{2})(.*)/)
+        #p md.inspect
+        if d.to_s == md[2].to_s
+          g = false
+        end
+      }
+      filename = d.strftime("%Y-%m-%d") #+ "-d_stock.csv"
+=begin
+      url = "http://k-db.com/site/download.aspx?date=" +filename + "&p=stockT&download=csv" # !> even though it seems like unary operator
+      if g == true
+        p "getfile:#{d.to_s}t"
+        GetFile.get_file(filename+"t",url,once)
+        csv_to_daydata(filename+"t")
+      end
+      url = "http://k-db.com/site/download.aspx?date=" +filename + "&p=stockOJ&download=csv" # !> even though it seems like unary operator
+      if g == true
+        p "getfile:#{d.to_s}oj"
+        GetFile.get_file(filename+"oj",url,once)
+        csv_to_daydata(filename+"oj")
+      end
+      url = "http://k-db.com/site/download.aspx?date=" +filename + "&p=stockSF&download=csv" # !> even though it seems like unary operator
+      if g == true
+        p "getfile:#{d.to_s}sf"
+        GetFile.get_file(filename+"sf",url,once)
+        csv_to_daydata(filename+"sf")
+      end
+=end
+      url = "http://k-db.com/site/download.aspx?date=" +filename + "&p=all&download=csv" # !> even though it seems like unary operator
+      if g == true
+        p "getfile:#{d.to_s}all"
+        GetFile.get_file(filename+"all",url,once)
+        csv_to_daydata(filename+"all")
+      end
+      once = false
+      fs = fs + 1
+      d = d + 1
+    end
+  end
+  
+  def self.get_file(filename,url,once)
+    begin
+      timeout(10) {
+        begin
+          open(url) do |source|
+            open(PATH+filename,"w") do |o|
+              o.print source.read.toutf8
+            end
+          end
+          #if once == true
+            #open("http://ichart.finance.yahoo.com/table.csv?s=%5EN225&a=00&b=4&c=1984&d=11&e=31&f=2050&g=d&ignore=.csv") do |source|
+              #open("/home/hide/trade/nikkei.csv","w") do |o|
+                #o.print source.read.toutf8
+              #end
+            #end
+          #end
+        rescue => exception
+            puts exception.to_s + "(#{exception.class})"
+        end
+      }
+    rescue TimeoutError
+      # Timeout時の処理
+      puts "読み込みに時間がかかりすぎたため、処理を終了しました。"
+    end
+  end  
+  
+  def csv_to_daydata(filename)
+    i = 0
+    f=open(PATH + filename)
+    f.each { |ln| # !> even though it seems like unary operator
+      i = i + 1
+    }
+    f.close
+    data = Array.new(i-1).map!{ Array.new }
+    md = /(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*)/
+    first = 0
+    i = 0
+    f = open(PATH + filename)
+    f.each { |line|
+      if first != 0
+        line1=line.toutf8
+        d=line1.match(md)
+        if d != nil
+          if data[i-1][0] == d[1].to_i
+            if data[i-1][6] <= d[9].to_f/1000
+              #p "#{d[1]} id same: #{d[9]}" 
+              i = i - 1
+            end
+          end
+          data[i][0]=d[0].to_i
+          data[i][1]=d[1]
+          data[i][2]=d[2]
+          data[i][3]=d[3]
+          data[i][4]=d[4]
+          data[i][5]=d[5].to_i
+          data[i][6]=d[6].to_i
+          data[i][7]=d[7].to_i
+          data[i][8]=d[8].to_i
+          data[i][9]=d[9].to_i
+          data[i][10]=d[10].to_i
+          i=i+1
+        end
+      end
+      first = 1
+    }
+    f.close
+    f=open(PATH + filename,"w")
+    f.puts filename[0..3]+filename[5..6]+filename[8..9]
+    data.each_index { |i| # !> shadowing outer local variable - i
+      k = false
+      (0..10).each { |j|
+        if data[i][j] != nil
+          k = true
+        end
+      }
+      if k == true
+        (0..9).each{ |j|
+          f.write data[i][j].to_s + ","
+        }
+        f.puts data[i][10].to_s 
+      else
+ #       p data[i][1] + ";" + i.to_s + ";" + j.to_s
+      end
+    } 
+    f.close
+  end
+end
+
+GetFile.new.set_date
+# ~> -:13:in `set_date': undefined local variable or method `today' for #<GetFile:0x8e76ff0> (NameError)
+# ~> 	from -:148:in `<main>'
+hide@192.168.0.5's password: 

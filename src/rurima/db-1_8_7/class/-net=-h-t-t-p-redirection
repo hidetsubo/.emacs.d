@@ -1,0 +1,12 @@
+type=class
+library=net.http
+extended=
+aliases=
+included=
+superclass=Net=HTTPResponse
+aliasof=
+
+HTTP レスポンス 3xx (Redirection) を表現するクラスです。
+
+リクエストが正常に受信しましたが、処理を完了するためには
+さらなる動作が必要なことを表します。

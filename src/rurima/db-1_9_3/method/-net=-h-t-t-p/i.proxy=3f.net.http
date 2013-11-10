@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=proxy?
+
+--- proxy? -> bool
+
+プロクシを介して接続するなら真を返します。
+
+@see [[m:Net::HTTP.Proxy]]
+

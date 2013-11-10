@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=setPalette
+
+--- setPalette(*args)
+@todo
+

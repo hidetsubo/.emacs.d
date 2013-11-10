@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=retry
+
+--- retry -> Integer
+セカンダリサーバがプライマリサーバからの情報更新に失敗した場合に
+何秒後にリトライするかを返します。
+

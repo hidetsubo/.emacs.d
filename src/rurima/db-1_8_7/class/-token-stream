@@ -1,0 +1,9 @@
+type=module
+library=rdoc.tokenstream
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+ライブラリの内部で使用します。

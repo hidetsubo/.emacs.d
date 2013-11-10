@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=block_length
+
+--- block_length -> Integer
+
+ダイジェストのブロック長を返します。
+

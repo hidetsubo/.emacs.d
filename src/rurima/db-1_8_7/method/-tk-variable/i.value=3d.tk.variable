@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=value=
+
+--- value=(val)
+@todo
+
+値をvalに設定します。
+

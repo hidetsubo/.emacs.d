@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tcllib.panelframe
+extended=
+aliases=
+included=
+superclass=TkWindow
+aliasof=Tk=Tcllib=Panelframe
+
+Alias of [[c:Tk::Tcllib::Panelframe]]

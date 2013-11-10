@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=plot_function
+
+--- plot_function(cmd = Proc.new)
+@todo
+

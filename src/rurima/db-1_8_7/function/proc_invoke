@@ -1,0 +1,11 @@
+params=(VALUE proc, VALUE args, int pcall, VALUE self)
+filename=eval.c
+name=proc_invoke
+type=VALUE
+macro=false
+private=true
+
+
+Proc オブジェクト proc を起動します。そのとき
+引数を args とし、self を self にします。
+

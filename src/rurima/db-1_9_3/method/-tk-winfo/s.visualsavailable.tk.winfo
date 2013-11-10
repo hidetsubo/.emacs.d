@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=visualsavailable
+
+--- visualsavailable(win, includeids = false)
+@todo
+

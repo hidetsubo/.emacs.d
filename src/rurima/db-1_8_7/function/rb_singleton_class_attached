@@ -1,0 +1,10 @@
+params=(VALUE klass, VALUE obj)
+filename=class.c
+name=rb_singleton_class_attached
+type=void
+macro=false
+private=false
+
+
+特異クラス klass にその唯一のインスタンス obj を結びつけます。
+

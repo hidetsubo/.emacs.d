@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=template=
+
+--- template=(template)
+
+使用するテンプレートをセットします。
+
+@param template 使用するテンプレートを指定します。
+

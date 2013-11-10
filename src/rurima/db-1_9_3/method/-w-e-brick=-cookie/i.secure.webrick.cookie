@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=secure,secure=
+
+--- secure         -> bool
+--- secure=(value)
+
+クッキーのSecure属性を真偽値で表すアクセサです。
+
+@param value クッキーのSecure属性を真偽値で指定します。
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=serial
+
+--- serial -> OpenSSL::BN
+失効した証明書のシリアルを返します。
+

@@ -1,0 +1,10 @@
+kind=added
+visibility=public
+names=client_cert
+
+--- client_cert -> OpenSSL::X509::Certificate
+
+クライアント証明書を表すオブジェクトを返します。
+
+@see [[m:OpenSSL::X509::Certificate]]
+

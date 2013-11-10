@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=Development
+methods=
+classes=Config,RbConfig
+
+Ruby インタプリタ作成時に設定された情報を格納したライブラリです。

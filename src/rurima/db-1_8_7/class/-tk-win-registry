@@ -1,0 +1,9 @@
+type=module
+library=tk.winpkg
+extended=Tk,TkWinRegistry
+aliases=
+included=
+superclass=
+aliasof=
+
+

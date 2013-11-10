@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=add_to_taskbar,taskbar_add
+
+--- add_to_taskbar(keys = {})
+--- taskbar_add(keys = {})
+@todo
+

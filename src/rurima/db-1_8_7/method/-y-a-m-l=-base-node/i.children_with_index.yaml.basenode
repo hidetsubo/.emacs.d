@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=children_with_index
+
+--- children_with_index -> [[object, Integer]]
+
+自身が持つ値とインデックス(もしくはキー)の配列の配列を返します。
+

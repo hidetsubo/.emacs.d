@@ -1,0 +1,8 @@
+params=(VALUE self, NODE *node)
+filename=eval.c
+name=eval_node
+type=VALUE
+macro=false
+private=true
+
+

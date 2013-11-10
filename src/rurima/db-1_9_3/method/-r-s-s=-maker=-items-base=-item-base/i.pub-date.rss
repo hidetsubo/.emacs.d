@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=pubDate
+
+--- pubDate
+@todo
+item.dateの別名です．
+

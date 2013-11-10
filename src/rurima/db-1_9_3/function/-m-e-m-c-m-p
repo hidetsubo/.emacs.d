@@ -1,0 +1,12 @@
+private=false
+params=(p1, p2, type, n)
+type=int
+name=MEMCMP
+filename=ruby.h
+macro=true
+
+
+type 型のメモリ領域 p1 と p2 の先頭 n 個を比較する。
+p1 が p2 の最初の n 個より小さい、等しい、大きいとき、そ
+れぞれ正、0、負の値を返す。
+

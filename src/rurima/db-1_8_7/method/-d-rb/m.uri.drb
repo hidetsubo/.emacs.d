@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=uri
+
+--- uri -> String
+カレントサーバに紐付けられた URI を返します。
+
+@see [[m:DRb.#current_server]]
+
+

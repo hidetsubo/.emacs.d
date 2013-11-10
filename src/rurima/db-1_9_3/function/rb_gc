@@ -1,0 +1,11 @@
+private=false
+params=(void)
+type=VALUE
+name=rb_gc
+filename=gc.c
+macro=false
+
+
+明示的に GC を開始します。rb_gc_disable() で禁止中のときおよび
+すでに GC が実行中のときは実際には行われません。
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=wrap
+
+--- wrap(string, width, addnewline = false)
+@todo
+

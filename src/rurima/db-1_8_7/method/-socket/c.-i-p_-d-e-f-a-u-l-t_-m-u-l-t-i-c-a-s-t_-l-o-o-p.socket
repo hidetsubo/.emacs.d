@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=IP_DEFAULT_MULTICAST_LOOP
+
+--- IP_DEFAULT_MULTICAST_LOOP -> Integer
+@todo
+Default multicast loopback
+
+

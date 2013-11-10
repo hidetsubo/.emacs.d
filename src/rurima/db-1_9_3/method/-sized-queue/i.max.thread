@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=max
+
+--- max -> Fixnum
+キューの最大サイズを返します。
+

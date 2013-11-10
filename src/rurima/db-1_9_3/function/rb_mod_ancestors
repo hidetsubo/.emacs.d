@@ -1,0 +1,13 @@
+private=false
+params=(VALUE mod)
+type=VALUE
+name=rb_mod_ancestors
+filename=class.c
+macro=false
+
+
+モジュール mod にインクルードされているモジュール、
+さらに mod がクラスならばスーパークラスとそれに
+インクルードされているモジュールを再帰的に集めて
+メソッド探索優先順位順に並べて返します (早く探索されるほうが前)。
+

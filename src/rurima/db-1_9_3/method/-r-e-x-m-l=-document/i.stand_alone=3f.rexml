@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=stand_alone?
+
+--- stand_alone?
+@todo
+

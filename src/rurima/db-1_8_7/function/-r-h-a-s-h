@@ -1,0 +1,8 @@
+params=(VALUE obj)
+filename=ruby.h
+name=RHASH
+type=struct RHash *
+macro=true
+private=false
+
+

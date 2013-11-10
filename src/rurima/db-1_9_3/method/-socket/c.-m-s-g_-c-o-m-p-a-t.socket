@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=MSG_COMPAT
+
+--- MSG_COMPAT -> Integer
+@todo
+End of record
+

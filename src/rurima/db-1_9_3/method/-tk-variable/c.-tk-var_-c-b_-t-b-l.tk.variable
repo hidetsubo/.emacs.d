@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=TkVar_CB_TBL
+
+--- TkVar_CB_TBL
+@todo
+
+コールバック関数を記録するハッシュです。内部で利用しています。
+

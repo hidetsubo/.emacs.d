@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=start_time
+
+--- start_time -> Time
+
+テストの実行開始時刻を返します。
+

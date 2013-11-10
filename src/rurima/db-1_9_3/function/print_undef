@@ -1,0 +1,11 @@
+private=true
+params=(VALUE klass, ID id)
+type=void
+name=print_undef
+filename=eval.c
+macro=false
+
+
+クラス klass にメソッド id が見付からない (undefined) ことに
+対するエラーメッセージを stderr に出力します。
+

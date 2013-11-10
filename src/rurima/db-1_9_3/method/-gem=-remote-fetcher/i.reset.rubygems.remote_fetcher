@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=reset
+
+--- reset(connection) -> Net::HTTP
+
+与えられたコネクションをリセットします。
+
+@param connection コネクションを指定します。
+
+

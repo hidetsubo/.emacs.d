@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=KEY_DL
+
+--- KEY_DL -> Integer
+
+行を削除するキーを表す定数です。
+

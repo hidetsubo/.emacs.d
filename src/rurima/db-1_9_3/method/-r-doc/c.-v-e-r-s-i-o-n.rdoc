@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=VERSION
+
+--- VERSION -> String
+
+RDoc のバージョンを表す文字列を返します。
+

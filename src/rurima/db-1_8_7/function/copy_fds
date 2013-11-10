@@ -1,0 +1,11 @@
+params=(fd_set *dst, fd_set *src, int max)
+filename=eval.c
+name=copy_fds
+type=void
+macro=false
+private=true
+
+
+fd_set src を dst にコピーします。
+max は select(2) の第一引数と同じ意味です。
+

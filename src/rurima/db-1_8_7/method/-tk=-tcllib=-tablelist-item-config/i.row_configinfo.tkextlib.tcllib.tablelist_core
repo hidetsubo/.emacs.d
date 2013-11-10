@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=row_configinfo
+
+--- row_configinfo(tagOrId, slot = nil)
+@todo
+

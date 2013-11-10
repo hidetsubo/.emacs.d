@@ -1,0 +1,9 @@
+library=tkextlib.tile.tcombobox
+aliasof=Tk=Tile=Combobox
+type=class
+included=Tk=Tile=TileWidget
+aliases=
+superclass=Tk=Tile=TEntry
+extended=
+
+Alias of [[c:Tk::Tile::Combobox]]

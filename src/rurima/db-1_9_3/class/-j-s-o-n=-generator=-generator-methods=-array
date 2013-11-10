@@ -1,0 +1,9 @@
+library=json
+aliasof=
+type=module
+included=
+aliases=JSON=Ext=Generator=GeneratorMethods=Array
+superclass=
+extended=
+
+[[c:Array]] に JSON で使用するインスタンスメソッドを追加するためのモジュールです。

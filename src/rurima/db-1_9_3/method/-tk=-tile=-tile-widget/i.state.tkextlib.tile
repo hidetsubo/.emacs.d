@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=state
+
+--- state(state = nil)
+@todo
+
+

@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=log=
+
+--- log=(logdev)
+
+ログの出力先をセットします。
+
+@param logdev ログファイル名か IO オブジェクトを指定します。
+

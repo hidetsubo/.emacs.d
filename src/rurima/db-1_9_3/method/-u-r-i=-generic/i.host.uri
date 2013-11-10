@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=host
+
+--- host    -> String | nil
+
+自身の host を文字列で返します。設定されていない場合は nil を返します。
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=EPSILON
+
+--- EPSILON -> Float
+
+1.0 + Float::EPSILON != 1.0 となる最小の値
+

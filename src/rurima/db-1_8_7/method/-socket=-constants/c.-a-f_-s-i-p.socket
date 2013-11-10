@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=AF_SIP,PF_SIP
+
+--- AF_SIP -> Integer
+--- PF_SIP -> Integer
+@todo
+Simple Internet Protocol。
+[[m:Socket.open]] の第一引数 domain に使用します。
+
+

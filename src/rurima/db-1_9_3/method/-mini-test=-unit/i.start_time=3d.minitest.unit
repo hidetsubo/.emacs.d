@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=start_time=
+
+--- start_time=(time)
+
+テストの実行開始時刻をセットします。
+
+@param time [[c:Time]] オブジェクトを指定します。
+

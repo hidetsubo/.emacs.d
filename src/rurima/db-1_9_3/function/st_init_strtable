@@ -1,0 +1,10 @@
+private=false
+params=(void)
+type=st_table *
+name=st_init_strtable
+filename=st.c
+macro=false
+
+
+キーが char* 型であるハッシュテーブルを作成する。
+

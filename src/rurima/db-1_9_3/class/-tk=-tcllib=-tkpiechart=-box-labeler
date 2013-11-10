@@ -1,0 +1,9 @@
+library=tkextlib.tcllib.tkpiechart
+aliasof=
+type=class
+included=Tk=Tcllib=Tkpiechart=ConfigMethod
+aliases=
+superclass=TkcItem
+extended=
+
+

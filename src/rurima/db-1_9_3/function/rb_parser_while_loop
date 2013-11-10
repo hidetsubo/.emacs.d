@@ -1,0 +1,11 @@
+private=false
+params=(int chop, int split)
+type=void
+name=rb_parser_while_loop
+filename=parse.y
+macro=false
+
+
+ruby の -n オプションの実装。
+ループと print のノードを ruby_eval_tree に加えます。
+

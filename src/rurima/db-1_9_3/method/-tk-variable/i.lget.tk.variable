@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=lget,lindex
+
+--- lindex(idx)
+--- lget(idx)
+@todo
+

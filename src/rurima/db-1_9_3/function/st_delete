@@ -1,0 +1,11 @@
+private=false
+params=(register st_table *table, register char **key, char **value)
+type=int
+name=st_delete
+filename=st.c
+macro=false
+
+
+*key に対応する値をテーブルから削除し、*key、*value に登録時のキーと
+値を書きこむ。返り値は削除したかどうか。
+

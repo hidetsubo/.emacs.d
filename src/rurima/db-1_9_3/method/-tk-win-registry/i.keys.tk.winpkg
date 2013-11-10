@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=keys
+
+--- keys(keynam, pattern = nil)
+@todo
+
+

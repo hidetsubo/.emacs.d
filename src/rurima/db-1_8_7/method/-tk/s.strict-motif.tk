@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=strictMotif
+
+--- strictMotif(mode = Tk::None)
+@todo
+

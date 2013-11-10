@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=userdb
+
+--- userdb -> WEBrick::HTTPAuth::Htpasswd | WEBrick::HTTPAuth::Htdigest
+
+認証のためのユーザデータベースを返します。
+
+@see [[c:WEBrick::HTTPAuth::BasicAuth]], [[c:WEBrick::HTTPAuth::Htdigest]]
+

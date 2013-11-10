@@ -1,0 +1,9 @@
+type=class
+library=openssl
+extended=
+aliases=
+included=
+superclass=OpenSSL=OpenSSLError
+aliasof=
+
+OpenSSL のハッシュ関数関連のエラーが起きたときに発生する例外のクラスです。

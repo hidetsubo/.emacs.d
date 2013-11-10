@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=has_rdoc=
+
+--- has_rdoc=(flag)
+
+RDoc を生成するかどうかをセットします。デフォルトは偽です。
+

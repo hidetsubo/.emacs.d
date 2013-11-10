@@ -1,0 +1,10 @@
+type=class
+library=net.pop
+extended=
+aliases=Net=APOPSession
+included=
+superclass=Net=POP3
+aliasof=
+
+このクラスでは新しいメソッドは導入していません。
+認証方式が APOP に変わるだけです。

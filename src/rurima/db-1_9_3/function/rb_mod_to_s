@@ -1,0 +1,8 @@
+private=true
+params=(VALUE klass)
+type=VALUE
+name=rb_mod_to_s
+filename=object.c
+macro=false
+
+

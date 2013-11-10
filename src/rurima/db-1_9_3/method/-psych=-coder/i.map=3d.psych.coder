@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=map=
+
+--- map=(map)
+@todo
+
+Emit a map with +value+
+

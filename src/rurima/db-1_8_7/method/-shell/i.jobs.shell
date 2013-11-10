@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=jobs
+
+--- jobs -> Array
+
+スケジューリングされているjobの一覧を返します。
+

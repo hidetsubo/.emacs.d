@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=cache_dir
+
+--- cache_dir(uri) -> String
+
+uri の内容を書き込むローカルのディレクトリ名を返します。
+
+@param uri 
+

@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=asciitagfont_copy
+
+--- asciitagfont_copy(tagOrId, win, wintag = nil, winkey = nil, targetkey = nil)
+@todo
+
+Alias for #latintagfont_copy
+

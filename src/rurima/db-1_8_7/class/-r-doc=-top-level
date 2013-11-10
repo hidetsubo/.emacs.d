@@ -1,0 +1,9 @@
+type=class
+library=rdoc.code_objects
+extended=
+aliases=
+included=
+superclass=RDoc=Context
+aliasof=
+
+最上位のコンテキスト(ソースファイル)を表現するクラスです。

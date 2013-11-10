@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=set_current_section
+
+--- set_current_section(title, comment) -> ()
+
+Handle sections
+

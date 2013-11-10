@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=tar_gz_file
+
+--- tar_gz_file -> String
+
+tar.gz 用のファイル名を返します。
+

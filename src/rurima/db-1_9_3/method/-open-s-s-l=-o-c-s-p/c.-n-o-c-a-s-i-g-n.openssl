@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=NOCASIGN
+
+--- NOCASIGN -> Integer
+このフラグ定数は使われていません。
+
+

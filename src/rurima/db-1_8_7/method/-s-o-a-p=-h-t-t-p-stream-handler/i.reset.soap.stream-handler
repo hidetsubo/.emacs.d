@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=reset
+
+--- reset(endpoint_url = nil)
+@todo
+

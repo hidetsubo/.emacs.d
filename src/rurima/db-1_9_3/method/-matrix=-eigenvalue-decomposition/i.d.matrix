@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=d,eigenvalue_matrix
+
+--- eigenvalue_matrix -> Matrix
+--- d -> Matrix
+固有値を対角成分に並べた行列を返します。
+

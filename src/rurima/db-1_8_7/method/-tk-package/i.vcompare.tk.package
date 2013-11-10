@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=vcompare
+
+--- vcompare(version1, version2)
+@todo
+

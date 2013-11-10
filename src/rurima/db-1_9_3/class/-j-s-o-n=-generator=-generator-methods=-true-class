@@ -1,0 +1,9 @@
+library=json
+aliasof=
+type=module
+included=
+aliases=JSON=Ext=Generator=GeneratorMethods=TrueClass
+superclass=
+extended=
+
+[[c:TrueClass]] に JSON で使用するインスタンスメソッドを追加するためのモジュールです。

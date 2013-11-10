@@ -1,0 +1,11 @@
+requires=e2mmap,irb.output=2dmethod,irb.notifier
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=
+
+Ruby のソースコードを字句解析するためのサブライブラリです。
+[[lib:irb/ruby-lex]] から使用されます。
+
+このライブラリで定義されているメソッドはユーザが直接使用するものではありません。

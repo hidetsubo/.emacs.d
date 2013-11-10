@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=add_attribute
+
+--- add_attribute(key, value = nil)
+@todo
+

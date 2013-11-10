@@ -1,0 +1,11 @@
+private=false
+params=(VALUE obj1, VALUE obj2)
+type=VALUE
+name=rb_eql
+filename=object.c
+macro=false
+
+
+obj1.equal?(obj2) ならば Qtrue、
+そうでないならば Qfalse。
+

@@ -1,0 +1,9 @@
+type=class
+library=tk.dialog
+extended=
+aliases=TkWarning2
+included=
+superclass=TkDialogObj
+aliasof=
+
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=column_size
+
+--- column_size -> Fixnum
+
+行列の列数を返します。
+

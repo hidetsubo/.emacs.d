@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=debug_output_unlock
+
+--- debug_output_unlock -> Mutex | nil
+@todo
+
+@see [[m:Mutex#unlock]]
+
+

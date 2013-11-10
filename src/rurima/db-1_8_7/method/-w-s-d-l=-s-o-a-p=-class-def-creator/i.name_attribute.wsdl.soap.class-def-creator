@@ -1,0 +1,7 @@
+visibility=private 
+kind=defined
+names=name_attribute
+
+--- name_attribute(attribute)
+@todo
+

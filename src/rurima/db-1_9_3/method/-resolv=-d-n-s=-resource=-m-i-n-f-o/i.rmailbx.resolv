@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=rmailbx
+
+--- rmailbx -> String
+メーリングリストもしくはメールボックスの
+責任者のドメイン名を返します。
+

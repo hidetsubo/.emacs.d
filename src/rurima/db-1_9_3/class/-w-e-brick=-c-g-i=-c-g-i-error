@@ -1,0 +1,9 @@
+library=webrick.cgi
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+CGI に関係する例外クラスです。

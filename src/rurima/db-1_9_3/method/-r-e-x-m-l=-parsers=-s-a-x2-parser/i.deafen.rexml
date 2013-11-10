@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=deafen
+
+--- deafen(listener)
+--- deafen { ... }
+@todo
+

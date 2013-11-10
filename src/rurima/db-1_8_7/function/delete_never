@@ -1,0 +1,10 @@
+params=(char *key, char *value, char *never)
+filename=st.c
+name=delete_never
+type=int
+macro=false
+private=true
+
+
+st_cleanup_safe() のイテレータブロック。
+

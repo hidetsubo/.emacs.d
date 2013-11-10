@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=find_symbol
+
+--- find_symbol(symbol, method=nil)
+
+Look up the given symbol. If method is non-nil, then we assume
+the symbol references a module that contains that method
+

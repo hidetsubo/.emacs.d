@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=spec=
+
+--- spec=(spec)
+
+Gem の [[c:Gem::Specification]] をセットします。
+
+@param spec Gem の [[c:Gem::Specification]] をセットします。
+

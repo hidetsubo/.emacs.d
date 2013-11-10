@@ -1,0 +1,13 @@
+kind=defined
+visibility=public
+names=inspect,to_s
+
+--- inspect -> String
+--- to_s    -> String
+
+self を読みやすい文字列として返します。
+
+詳しくは [[m:Method#inspect]] を参照してください。
+
+@see [[m:Method#inspect]]
+

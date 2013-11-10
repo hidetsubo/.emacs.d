@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=unused_bits
+
+--- unused_bits -> Integer | nil
+Bit Stringに設定されたフラグを返します。
+
+@see [[m:OpenSSL::ASN1::BitString#unused_bits=]]

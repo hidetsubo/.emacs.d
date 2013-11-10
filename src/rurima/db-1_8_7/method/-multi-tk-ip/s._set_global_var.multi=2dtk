@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=_set_global_var
+
+--- _set_global_var(var, value)
+@todo
+

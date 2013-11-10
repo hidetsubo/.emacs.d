@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=update
+
+--- update -> ()
+
+セッションの状態を保存します。
+このクラスでは何もしません。
+

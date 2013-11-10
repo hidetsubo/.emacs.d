@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=name
+
+--- name -> Resolv::DNS::Name
+ドメイン名を返します。
+
+

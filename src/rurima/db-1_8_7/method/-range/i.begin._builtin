@@ -1,0 +1,14 @@
+visibility=public
+kind=defined
+names=begin,first
+
+--- begin -> object
+--- first -> object
+
+始端の要素を返します。範囲オブジェクトが始端を含むかどうかは関係ありま
+せん。
+
+  p (1..5).begin # => 1
+  p (1..0).begin # => 1
+
+

@@ -1,0 +1,9 @@
+type=class
+library=mathn
+extended=
+aliases=
+included=Enumerable
+superclass=Object
+aliasof=
+
+

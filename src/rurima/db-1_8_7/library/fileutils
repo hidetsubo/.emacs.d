@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=File
+methods=
+classes=FileUtils,FileUtils=Verbose,FileUtils=NoWrite,FileUtils=DryRun
+
+再帰的な削除などの基本的なファイル操作を行うためのライブラリです。

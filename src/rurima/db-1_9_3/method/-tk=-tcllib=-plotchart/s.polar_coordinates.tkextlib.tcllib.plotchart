@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=polar_coordinates
+
+--- polar_coordinates(w, radmax)
+@todo
+

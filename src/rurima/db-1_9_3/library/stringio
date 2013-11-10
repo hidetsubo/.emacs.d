@@ -1,0 +1,8 @@
+requires=
+category=Text
+methods=
+sublibraries=
+classes=StringIO
+is_sublibrary=false
+
+文字列に [[c:IO]] と同じインタフェースを持たせるためのライブラリです。

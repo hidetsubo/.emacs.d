@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=containing_cell,containingcell
+
+--- containing_cell(x, y)
+--- containingcell(x, y)
+@todo
+

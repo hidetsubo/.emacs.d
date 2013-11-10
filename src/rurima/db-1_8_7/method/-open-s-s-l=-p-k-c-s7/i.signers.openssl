@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=signers
+
+--- signers -> [OpenSSL::PKCS7::SignerInfo]
+
+メッセージの署名者を表す [[c:OpenSSL::PKCS7::SignerInfo]] オブジェクトの
+配列を返します。
+
+これはメッセージを署名した場合にのみ意味があります。
+

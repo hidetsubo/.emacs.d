@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=clear_widgets
+
+--- clear_widgets(*args)
+@todo
+

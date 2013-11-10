@@ -1,0 +1,11 @@
+private=false
+params=(VALUE x)
+type=unsigned long
+name=FIX2ULONG
+filename=ruby.h
+macro=true
+
+
+Fixnum を unsigned long に変換します。
+Fixnum は常に unsigned long に収まります。
+

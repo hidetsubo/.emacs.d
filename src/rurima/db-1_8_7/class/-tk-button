@@ -1,0 +1,9 @@
+type=class
+library=tk.button
+extended=
+aliases=
+included=
+superclass=TkLabel
+aliasof=Button
+
+

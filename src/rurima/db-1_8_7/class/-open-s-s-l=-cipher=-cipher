@@ -1,0 +1,11 @@
+type=class
+library=openssl
+extended=
+aliases=
+included=
+superclass=OpenSSL=Cipher
+aliasof=
+
+このクラスは互換性のために存在します。
+
+[[c:OpenSSL::Cipher]] をかわりに利用してください。

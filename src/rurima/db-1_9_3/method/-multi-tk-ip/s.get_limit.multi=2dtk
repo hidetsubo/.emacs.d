@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=get_limit
+
+--- get_limit(limit_type, slave = '', slot = nil)
+@todo
+

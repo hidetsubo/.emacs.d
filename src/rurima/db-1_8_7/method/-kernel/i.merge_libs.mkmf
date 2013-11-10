@@ -1,0 +1,9 @@
+visibility=private 
+kind=added
+names=merge_libs
+
+--- merge_libs(*libs) -> [String]
+@todo 使われてない
+
+@param libs ???
+

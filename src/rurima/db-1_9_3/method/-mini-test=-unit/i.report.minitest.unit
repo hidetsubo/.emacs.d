@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=report
+
+--- report -> Array
+
+テストメソッドの実行結果のリストを返します。
+

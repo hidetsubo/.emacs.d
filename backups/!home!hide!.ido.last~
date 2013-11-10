@@ -1,0 +1,40 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/" . "hide/")
+ ("/home/hide/.emacs.d/" . "sampleinit/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/hide/trade/"
+ "/home/hide/.emacs.d/"
+ "/home/hide/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "dc.rb"
+ "getfiles.rb"
+ "init.el"
+ "dataFrom20070101.rb"
+ "getfiles_dataonly.rb"
+ "dbtest.rb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/hide/trade/" (20721 25243) "test.rb" "old/" "vsystrade.rb" "conf/" "barchart.rb" "nikkei.csv" "systrade.rb" "s_pattern.ods" "calcdetails.rb" "shitetrade.rb" "keep/" ".git/" "analysis.rb" "getfiles_dataonly.rb" "datacalc.rb" "xmptmp-in2392mcX.rb" "filesave.rb" "buytosell.rb" "../" "holiday.rb" "b_pattern.ods" "holdingstock.rb" "dataFrom20070101.rb" "kkk" "dc.rb" "results/" "daydata/" "xmptmp-out2392zmd.rb" "tangen.csv" "result.csv" "getfiles.rb" "./")
+
+ ("/home/hide/" (20721 24990) ".gnome2_private/" ".cache/" ".xsession-errors" ".bash_profile" ".bash_history" ".macromedia/" "workspace_old/" "デスクトップ/" ".bash_logout" "ミュージック/" ".eclipse/" ".icons/" "android/" ".#.ido.last" "dbtest.rb" "ピクチャ/" "Ubuntu One/" ".bashrc" "公開/" ".ssh/" ".gstreamer-0.10/" ".fontconfig/" ".qt/" "fontconfig/" ".gnome2/" ".dbus/" ".local/" ".nvidia-settings-rc" ".compiz/" ".thumbnails/" ".pki/" "ビデオ/" ".emacs.d/" ".mission-control/" ".stellarium/" "ダウンロード/" ".xscreensaver" ".gconf/" ".gtk-bookmarks" ".gconfd/" ".anthy/" ".rvmrc" ".ICEauthority" ".zshenv" ".zprofile" ".FontForge/" ".xsession-errors.old" ".android/" "migu-1m-20121030/" "examples.desktop" "テンプレート/" "workspace/" ".config/" "2012_ptn.ods" ".sudo_as_admin_successful" ".autotest" "../" ".thunderbird/" ".esd_auth" ".profile" ".ido.last" ".adobe/" ".qtstalker/" ".dmrc" ".gvfs/" ".mozilla/" ".icedtea/" ".Scilab/" "ドキュメント/" ".pulse/" "project/" ".rvm/" "dual.sh" ".pulse-cookie" "data.db" ".gksu.lock" "trade/" ".compiz-1/" ".Xauthority" ".libreoffice/" "WhyObject/" "Mail/" "./" ".swt/" ".gem/")
+
+ ("/home/hide/.emacs.d/" (20703 56577) "public_repos/" "src/" "conf/" "opt/" "elpa/" "auto-save-list/" "backups/" "init.el" "ac-comphist.dat" "undohist/" "ac-dict/" "../" "url/" "sampleinit/" "tutorial/" "ede-projects.el" "elisp/" "./")
+
+ ("/home/" (20362 35446) "hide/" "../" "./")
+
+ ("/home/hide/.emacs.d/sampleinit/" (20698 62037) "init.el" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

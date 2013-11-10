@@ -1,0 +1,10 @@
+params=(VALUE proc)
+filename=eval.c
+name=rb_obj_is_proc
+type=VALUE
+macro=false
+private=true
+
+
+proc が Proc のインスタンスであれば真。
+

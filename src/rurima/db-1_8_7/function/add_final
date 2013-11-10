@@ -1,0 +1,8 @@
+params=(VALUE os, VALUE proc)
+filename=gc.c
+name=add_final
+type=VALUE
+macro=false
+private=true
+
+

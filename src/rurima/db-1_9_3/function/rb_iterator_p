@@ -1,0 +1,10 @@
+private=false
+params=()
+type=int
+name=rb_iterator_p
+filename=eval.c
+macro=false
+
+
+この関数はobsoleteです。[[f:rb_block_given_p]] を使用してください。
+

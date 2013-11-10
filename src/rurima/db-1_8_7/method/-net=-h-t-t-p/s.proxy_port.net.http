@@ -1,0 +1,12 @@
+visibility=public
+kind=defined
+names=proxy_port
+
+--- proxy_port -> Integer|nil
+自身が ([[m:Net::HTTP.Proxy]] によって作成された) 
+プロクシ用のクラスならばプロクシのポート番号を返します。
+
+そうでなければ nil を返します。
+
+@see [[m:Net::HTTP.Proxy]]
+

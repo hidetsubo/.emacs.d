@@ -1,0 +1,18 @@
+visibility=public
+kind=defined
+names=to_i,truncate
+
+--- truncate -> Integer
+--- to_i -> Integer
+
+小数点以下を切り捨てて値を整数に変換します。
+
+例:
+
+  Rational(2, 3).to_i   # => 0
+  Rational(3).to_i      # => 3
+  Rational(98, 71).to_i # => 1
+  Rational(-30, 2).to_i # => -15
+
+@see [[m:Rational#ceil]], [[m:Rational#floor]]
+

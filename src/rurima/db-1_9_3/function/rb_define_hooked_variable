@@ -1,0 +1,9 @@
+private=false
+params=(const char *name, VALUE *var, VALUE (*getter)(), VALUE (*setter)())
+type=void
+name=rb_define_hooked_variable
+filename=variable.c
+macro=false
+
+
+

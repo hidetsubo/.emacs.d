@@ -1,0 +1,11 @@
+library=rdoc.ghost_method
+aliasof=
+type=class
+included=
+aliases=
+superclass=RDoc=AnyMethod
+extended=
+
+コメントでのみ参照されるメソッドを表現します。
+
+ライブラリの内部で使用します。

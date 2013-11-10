@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=SOPRI_NORMAL
+
+--- SOPRI_NORMAL -> Integer
+Normal socket priority
+@todo
+

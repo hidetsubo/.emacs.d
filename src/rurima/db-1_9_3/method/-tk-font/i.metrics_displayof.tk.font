@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=metrics_displayof
+
+--- metrics_displayof(win, option = nil)
+@todo
+

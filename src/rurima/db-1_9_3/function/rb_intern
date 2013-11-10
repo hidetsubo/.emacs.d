@@ -1,0 +1,10 @@
+private=false
+params=(const char *name)
+type=ID
+name=rb_intern
+filename=parse.y
+macro=false
+
+
+任意の char* と一対一に対応する整数 ID を返す。
+

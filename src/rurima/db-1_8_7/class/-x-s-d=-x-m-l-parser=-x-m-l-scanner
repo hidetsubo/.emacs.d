@@ -1,0 +1,11 @@
+type=class
+library=xsd.xmlparser
+extended=
+aliases=
+included=
+superclass=XSD=XMLParser=Parser
+aliasof=
+
+require 'xmlscan/scanner'
+
+include XMLScan::Visitor

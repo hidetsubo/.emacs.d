@@ -1,0 +1,13 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=Database
+methods=
+classes=GDBM,GDBMError,GDBMFatalError
+
+GDBM(GNU データベース・マネージャ) を Ruby スクリプトから扱うためのライブラリです。
+
+GDBM は dbm および ndbm 互換機能を含んでいます。
+扱えるキーや値のサイズに制限はありません。
+
+@see [[lib:dbm]], [[lib:sdbm]], [[man:gdbm(3)]]

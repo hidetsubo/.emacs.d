@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=F21
+
+--- F21 -> Integer
+
+F21 キーを表す定数です。
+

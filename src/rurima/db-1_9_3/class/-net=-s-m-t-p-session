@@ -1,0 +1,9 @@
+library=net.smtp
+aliasof=Net=SMTP
+type=class
+included=
+aliases=
+superclass=
+extended=
+
+Alias of [[c:Net::SMTP]]

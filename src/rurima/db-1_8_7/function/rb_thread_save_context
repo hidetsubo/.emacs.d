@@ -1,0 +1,11 @@
+params=(rb_thread_t th)
+filename=eval.c
+name=rb_thread_save_context
+type=void
+macro=false
+private=true
+
+
+スレッドを切り替えるにあたって、現在実行中のスレッド th の
+コンテキストを評価器から th に退避します。
+

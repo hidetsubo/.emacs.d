@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=OP_RE
+
+--- OP_RE
+
+比較演算子のいずれかにマッチする正規表現です。
+

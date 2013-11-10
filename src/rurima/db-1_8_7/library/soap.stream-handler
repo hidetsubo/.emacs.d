@@ -1,0 +1,8 @@
+requires=soap.soap,soap.property,soap.httpconfigloader
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=SOAP=StreamHandler,SOAP=StreamHandler=ConnectionData,SOAP=HTTPStreamHandler
+
+

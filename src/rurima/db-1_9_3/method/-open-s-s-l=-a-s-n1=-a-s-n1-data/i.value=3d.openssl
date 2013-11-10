@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=value=
+
+--- value=(value)
+ASN.1 値に対応するRubyのオブジェクトを変更します。
+
+@param value 設定するオブジェクト
+@see [[m:OpenSSL::ASN1::ASN1Data#value]]

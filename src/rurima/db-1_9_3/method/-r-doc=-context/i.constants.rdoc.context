@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=constants
+
+--- constants -> [RDoc::Constant]
+
+追加された [[c:RDoc::Constant]] の配列を返します。
+

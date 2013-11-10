@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=filename
+
+--- filename -> String
+
+Ruby プログラムのファイル名を文字列で返します。
+

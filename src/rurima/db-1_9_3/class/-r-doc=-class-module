@@ -1,0 +1,11 @@
+library=rdoc.class_module
+aliasof=
+type=class
+included=
+aliases=
+superclass=RDoc=Context
+extended=
+
+クラスやモジュールを表現するための基本クラスです。
+
+ライブラリの内部で使用します。

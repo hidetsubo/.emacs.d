@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=envelope
+
+--- envelope -> Net::IMAP::Envelpe | nil
+メッセージのエンベロープを返します。
+

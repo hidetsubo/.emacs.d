@@ -1,0 +1,11 @@
+params=(VALUE obj)
+filename=object.c
+name=rb_Integer
+type=VALUE
+macro=false
+private=false
+
+
+obj が Ruby の整数でない場合は to_i を使って
+Integer に変換します。
+

@@ -1,0 +1,12 @@
+kind=defined
+visibility=public
+names=fdiv
+
+--- fdiv(other) -> Float
+
+self を other で割った実数の商を返します。
+
+@param other self を割る数を指定します。
+
+@see [[m:Numeric#quo]]
+

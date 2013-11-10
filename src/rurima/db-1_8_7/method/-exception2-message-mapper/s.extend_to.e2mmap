@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=extend_to
+
+--- extend_to(b) -> Class
+
+このメソッドは後方互換性のために用意されています。
+
+@param b [[c:Binding]] オブジェクト。
+
+

@@ -1,0 +1,13 @@
+visibility=public
+kind=defined
+names=each
+
+--- each {|o| ... } -> self
+
+集合の各要素についてブロックを実行します。
+
+  s = Set[10, 20]
+  ary = []
+  s.each {|num| ary << num + 1}
+  p ary #=> [21, 11]
+

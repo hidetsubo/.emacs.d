@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=AF_COIP,PF_COIP
+
+--- AF_COIP -> Integer
+--- PF_COIP -> Integer
+@todo
+connection-oriented IP。
+[[m:Socket.open]] の第一引数 domain に使用します。
+
+

@@ -1,0 +1,11 @@
+library=rubygems.requirement
+aliasof=
+type=class
+included=Comparable
+aliases=Gem=Version=Requirement
+superclass=Object
+extended=
+
+Gem の必要条件を扱うクラスです。
+
+このクラスのインスタンスには複数の必要条件を含めることができます。

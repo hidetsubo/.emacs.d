@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=column_configure
+
+--- column_configure(tagOrId, slot, value = None)
+@todo
+

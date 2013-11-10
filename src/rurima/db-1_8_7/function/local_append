@@ -1,0 +1,10 @@
+params=(ID id)
+filename=parse.y
+name=local_append
+type=int
+macro=false
+private=true
+
+
+新しいローカル変数 id をテーブルに追加します。
+

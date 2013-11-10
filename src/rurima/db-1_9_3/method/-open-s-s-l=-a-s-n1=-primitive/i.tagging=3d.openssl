@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=tagging=
+
+--- tagging=(tagging)
+タグ付けの方式を設定します。
+
+@param tagging タグ付けの方式(:IMPLICIT または :EXPLICIT)
+@see [[m:OpenSSL::ASN1::Primitive#tagging=]]
+

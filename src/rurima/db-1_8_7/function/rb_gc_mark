@@ -1,0 +1,10 @@
+params=(VALUE v)
+filename=gc.c
+name=rb_gc_mark
+type=void
+macro=false
+private=false
+
+
+v をマークします。
+

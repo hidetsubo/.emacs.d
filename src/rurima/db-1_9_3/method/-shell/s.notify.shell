@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=notify
+
+--- notify(*opts){|message| ... } -> String
+@todo
+
+

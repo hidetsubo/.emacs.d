@@ -1,0 +1,10 @@
+private=false
+params=(void)
+type=void
+name=Init_sym
+filename=parse.y
+macro=false
+
+
+シンボル関係の変数を初期化します。
+

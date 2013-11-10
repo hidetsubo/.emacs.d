@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=Inflate
+
+--- Inflate(string) -> String
+@todo
+
+string を展開します。
+
+@see [[m:Zlib::Inflate.inflate]]
+

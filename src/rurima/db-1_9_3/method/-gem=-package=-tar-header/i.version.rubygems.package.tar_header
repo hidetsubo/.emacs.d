@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=version
+
+--- version -> Integer
+
+tar のヘッダに含まれる version を返します。
+

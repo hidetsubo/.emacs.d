@@ -1,0 +1,9 @@
+type=class
+library=soap.rpc.cgistub
+extended=
+aliases=
+included=
+superclass=SOAP=RPC=CGIStub=SOAPRequest
+aliasof=
+
+

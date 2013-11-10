@@ -1,0 +1,7 @@
+kind=added
+visibility=public
+names=to_date
+
+--- to_date -> Date
+対応する [[c:Date]] オブジェクトを返します。
+

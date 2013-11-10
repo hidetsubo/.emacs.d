@@ -1,0 +1,8 @@
+params=(void)
+filename=variable.c
+name=rb_gc_mark_global_tbl
+type=void
+macro=false
+private=false
+
+

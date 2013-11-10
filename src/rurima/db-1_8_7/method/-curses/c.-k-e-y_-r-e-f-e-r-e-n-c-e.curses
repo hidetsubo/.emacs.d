@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=KEY_REFERENCE
+
+--- KEY_REFERENCE -> Integer
+
+Reference キーを表す定数です。
+

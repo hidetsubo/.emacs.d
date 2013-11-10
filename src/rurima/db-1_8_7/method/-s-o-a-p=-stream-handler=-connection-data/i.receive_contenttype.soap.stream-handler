@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=receive_contenttype,receive_contenttype=
+
+--- receive_contenttype
+--- receive_contenttype=(value)
+@todo
+

@@ -1,0 +1,9 @@
+type=module
+library=timeout
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+タイムアウトを行うためのモジュールです。

@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=VERSION
+
+--- VERSION -> "0.1"
+
+[[lib:yaml/dbm]] のバージョンを文字列で返します。
+

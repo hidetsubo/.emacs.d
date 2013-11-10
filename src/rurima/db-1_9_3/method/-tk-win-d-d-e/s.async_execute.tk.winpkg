@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=async_execute
+
+--- async_execute(service, topic, data)
+@todo
+

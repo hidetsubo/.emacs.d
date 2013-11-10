@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=array_nl=
+
+--- array_nl=(str)
+
+JSON の配列の後に出力する文字列をセットします。
+

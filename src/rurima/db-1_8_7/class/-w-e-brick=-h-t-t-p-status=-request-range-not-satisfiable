@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpstatus
+extended=
+aliases=
+included=
+superclass=WEBrick=HTTPStatus=ClientError
+aliasof=
+
+HTTP のステータスコード 416 Requested Range Not Satisfiable を表すクラスです。

@@ -1,0 +1,10 @@
+library=webrick.httpservlet.abstract
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+ユーザが作成したサーブレット内で例外を発生させるときに使うと便利かもし
+れません。

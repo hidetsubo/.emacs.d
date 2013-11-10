@@ -1,0 +1,9 @@
+library=minitest.mock
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+モックの検証に失敗した場合に発生する例外です。

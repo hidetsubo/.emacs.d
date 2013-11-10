@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=DEFAULT_PARAMS
+
+--- DEFAULT_PARAMS -> { Symbol -> object }
+[[m:OpenSSL::SSL::SSLContext#set_params]] でデフォルト値として使われる
+パラメータです。
+

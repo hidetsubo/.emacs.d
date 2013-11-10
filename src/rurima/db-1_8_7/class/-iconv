@@ -1,0 +1,9 @@
+type=class
+library=iconv
+extended=
+aliases=
+included=
+superclass=Data
+aliasof=
+
+iconv 関数のラッパークラスです。

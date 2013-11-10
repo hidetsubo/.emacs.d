@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=VT_DISPATCH
+
+--- VT_DISPATCH -> Integer
+OLEオートメーションオブジェクトを示します（9）。
+
+RubyのオブジェクトをOLEオートメーションサーバへ与える場合に利用します。
+

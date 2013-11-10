@@ -1,0 +1,8 @@
+private=false
+params=(char c)
+type=int
+name=ISDIGIT
+filename=ruby.h
+macro=true
+
+

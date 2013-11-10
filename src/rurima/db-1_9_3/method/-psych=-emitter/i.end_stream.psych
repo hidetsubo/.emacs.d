@@ -1,0 +1,13 @@
+kind=defined
+visibility=public
+names=end_stream
+
+--- end_stream -> Psych::Emitter
+@todo
+
+End a stream emission
+
+自身を返します。
+
+@see [[m:Psych::Handler#end_stream]]
+

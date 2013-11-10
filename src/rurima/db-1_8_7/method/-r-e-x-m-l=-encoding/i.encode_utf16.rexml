@@ -1,0 +1,7 @@
+visibility=public
+kind=added
+names=encode_utf16
+
+--- encode_utf16(content)
+@todo
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=name
+
+--- name    -> Symbol
+
+このメソッドの名前を返します。
+

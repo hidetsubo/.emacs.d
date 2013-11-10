@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=OPENSSL_VERSION
+
+--- OPENSSL_VERSION -> String
+
+システムにインストールされている OpenSSL 本体のバージョンを表した文字列です。
+

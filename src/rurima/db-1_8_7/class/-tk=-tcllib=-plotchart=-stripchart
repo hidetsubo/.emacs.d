@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tcllib.plotchart
+extended=
+aliases=
+included=
+superclass=Tk=Tcllib=Plotchart=XYPlot
+aliasof=
+
+

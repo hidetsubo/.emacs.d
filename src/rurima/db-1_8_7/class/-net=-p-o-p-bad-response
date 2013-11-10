@@ -1,0 +1,9 @@
+type=class
+library=net.pop
+extended=
+aliases=
+included=
+superclass=Net=POPError
+aliasof=
+
+サーバから予期しないレスポンスが帰ってきたときに発生します。

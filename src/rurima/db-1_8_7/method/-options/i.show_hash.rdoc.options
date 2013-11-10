@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=show_hash
+
+--- show_hash -> bool
+
+コマンドライン引数の --show-hash オプションを指定していた場合、true を
+返します。そうでない場合は false を返します。
+

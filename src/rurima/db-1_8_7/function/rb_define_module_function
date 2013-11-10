@@ -1,0 +1,11 @@
+params=(VALUE module, const char *name, VALUE (*func)(), int argc)
+filename=class.c
+name=rb_define_module_function
+type=void
+macro=false
+private=false
+
+
+モジュール module にモジュール関数 name を定義します。
+func と argc は rb_define_method と同じです。
+

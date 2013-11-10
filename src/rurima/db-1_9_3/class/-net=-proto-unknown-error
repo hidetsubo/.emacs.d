@@ -1,0 +1,10 @@
+library=net.protocol
+aliasof=
+type=class
+included=
+aliases=
+superclass=Net=ProtocolError
+extended=
+
+サーバからのレスポンスが解釈できないなど、不明のエラーが
+出た場合に発生する例外です。

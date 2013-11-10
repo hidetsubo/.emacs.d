@@ -1,0 +1,9 @@
+library=openssl
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+公開鍵暗号関連を集めたモジュールです。

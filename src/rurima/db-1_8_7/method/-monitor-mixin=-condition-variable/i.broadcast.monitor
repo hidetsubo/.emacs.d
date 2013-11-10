@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=broadcast
+
+--- broadcast -> ()
+その条件変数で
+待っている全てのスレッドの実行を再開します。
+
+@see [[m:MonitorMixin::ConditionVariable#signal]]
+

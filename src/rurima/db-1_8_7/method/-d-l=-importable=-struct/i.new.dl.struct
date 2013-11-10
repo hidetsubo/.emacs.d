@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=new
+
+--- new(ptr)
+@todo
+
+[[c:DL::PtrData]] オブジェクト ptr を保持する Memory オブジェクトを返します。
+

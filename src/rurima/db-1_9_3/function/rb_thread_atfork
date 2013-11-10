@@ -1,0 +1,8 @@
+private=false
+params=(void)
+type=void
+name=rb_thread_atfork
+filename=eval.c
+macro=false
+
+

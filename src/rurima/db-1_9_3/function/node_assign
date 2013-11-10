@@ -1,0 +1,8 @@
+private=true
+params=(NODE *lhs, NODE *rhs)
+type=NODE *
+name=node_assign
+filename=parse.y
+macro=false
+
+

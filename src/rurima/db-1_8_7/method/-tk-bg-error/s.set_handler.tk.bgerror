@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=set_handler
+
+--- set_handler(hdlr = Proc.new)
+@todo
+

@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=pfamily
+
+--- pfamily -> Integer
+プロトコルファミリーを整数で返します。
+
+  Addrinfo.tcp("localhost", 80).pfamily == Socket::PF_INET #=> true
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=kinput_attribute_config
+
+--- kinput_attribute_config(slot, value = Tk::None)
+@todo
+

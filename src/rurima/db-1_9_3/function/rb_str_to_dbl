@@ -1,0 +1,8 @@
+private=false
+params=(VALUE str, int badcheck)
+type=double
+name=rb_str_to_dbl
+filename=object.c
+macro=false
+
+

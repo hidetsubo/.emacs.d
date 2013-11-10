@@ -1,0 +1,11 @@
+private=true
+params=(VALUE module, VALUE super)
+type=VALUE
+name=include_class_new
+filename=class.c
+macro=false
+
+
+super をスーパークラスとして
+モジュールの「化身」クラスを作成し返します。
+

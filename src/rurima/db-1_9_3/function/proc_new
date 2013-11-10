@@ -1,0 +1,11 @@
+private=true
+params=(VALUE klass)
+type=VALUE
+name=proc_new
+filename=eval.c
+macro=false
+
+
+評価器のその時点でのスナップショットを保存する
+Proc オブジェクトを生成します。クラスを klass にします。
+

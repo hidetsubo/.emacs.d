@@ -1,0 +1,9 @@
+library=irb.input=2dmethod
+aliasof=
+type=class
+included=
+aliases=
+superclass=IRB=InputMethod
+extended=
+
+ファイルからの入力を表すクラスです。ライブラリ内部で使用します。

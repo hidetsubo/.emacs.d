@@ -1,0 +1,10 @@
+private=false
+params=(p, type, n)
+type=void
+name=MEMZERO
+filename=ruby.h
+macro=true
+
+
+type 型のメモリ領域 p をゼロクリアする。 n は要素数。
+

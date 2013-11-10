@@ -1,0 +1,9 @@
+kind=defined
+visibility=public 
+names=each,each_entry
+
+--- each{|entry| ... }
+--- each_entry{|entry| ... }
+
+ブロックに一つずつエントリを渡して評価します。
+

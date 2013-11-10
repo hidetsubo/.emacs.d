@@ -1,0 +1,8 @@
+params=(VALUE klass)
+filename=variable.c
+name=classname
+type=VALUE
+macro=false
+private=true
+
+

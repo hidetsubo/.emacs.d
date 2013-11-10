@@ -1,0 +1,8 @@
+params=(void *ptr)
+filename=gc.c
+name=is_pointer_to_heap
+type=inline int
+macro=false
+private=true
+
+

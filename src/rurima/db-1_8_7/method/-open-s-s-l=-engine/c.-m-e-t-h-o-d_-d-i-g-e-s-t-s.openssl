@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=METHOD_DIGESTS
+
+--- METHOD_DIGESTS -> Integer
+デフォルトのダイジェストのための engine に設定することを意味します。
+
+[[m:OpenSSL::Engine#set_default]] のフラグとして使います。
+

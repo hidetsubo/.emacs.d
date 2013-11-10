@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=plot_funcont
+
+--- plot_funcont(conts, cmd = Proc.new)
+@todo
+

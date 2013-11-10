@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=save_history
+
+--- save_history -> ()
+
+irb のヒストリを履歴ファイルに保存します。
+
+@see [[ref:lib:irb#history]]

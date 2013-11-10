@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=transient
+
+--- transient(master = nil)
+@todo
+

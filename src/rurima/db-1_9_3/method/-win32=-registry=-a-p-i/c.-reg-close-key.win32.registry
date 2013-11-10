@@ -1,0 +1,17 @@
+kind=defined
+visibility=public
+names=RegCloseKey,RegCreateKeyExA,RegDeleteKey,RegDeleteValue,RegEnumKeyExA,RegEnumValueA,RegFlushKey,RegOpenKeyExA,RegQueryInfoKey,RegQueryValueExA,RegSetValueExA
+
+--- RegCloseKey
+--- RegCreateKeyExA
+--- RegDeleteKey
+--- RegDeleteValue
+--- RegEnumKeyExA
+--- RegEnumValueA
+--- RegFlushKey
+--- RegOpenKeyExA
+--- RegQueryInfoKey
+--- RegQueryValueExA
+--- RegSetValueExA
+@todo
+

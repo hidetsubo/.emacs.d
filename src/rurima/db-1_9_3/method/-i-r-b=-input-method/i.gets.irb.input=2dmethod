@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=gets
+
+--- gets
+
+[[c:NotImplementedError]] が発生します。
+
+@raise NotImplementedError 必ず発生します。
+

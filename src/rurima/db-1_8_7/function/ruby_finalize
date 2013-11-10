@@ -1,0 +1,10 @@
+params=(void)
+filename=eval.c
+name=ruby_finalize
+type=void
+macro=false
+private=false
+
+
+評価器プロセスの終了処理を行います。
+

@@ -1,0 +1,9 @@
+library=_builtin
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+UNIX のシグナル関連の操作を行うモジュールです。

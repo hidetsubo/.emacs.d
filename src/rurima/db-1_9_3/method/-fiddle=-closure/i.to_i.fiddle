@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=to_i
+
+--- to_i -> Integer
+
+C の関数ポインタのアドレスを返します。
+

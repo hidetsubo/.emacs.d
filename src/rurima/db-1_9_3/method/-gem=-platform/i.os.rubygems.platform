@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=os
+
+--- os -> String
+
+OS の種類を返します。
+

@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=stop_service
+
+--- stop_service -> ()
+ローカルプロセス内の dRuby サーバ(プライマリサーバ)を停止します。
+
+サーバが動いていない場合は何もしません。
+

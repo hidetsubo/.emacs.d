@@ -1,0 +1,8 @@
+params=(VALUE (*func)(), VALUE under, VALUE cbase, void *args)
+filename=eval.c
+name=exec_under
+type=VALUE
+macro=false
+private=true
+
+

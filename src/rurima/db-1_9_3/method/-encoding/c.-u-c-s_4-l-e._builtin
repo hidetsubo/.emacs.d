@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=UCS_4LE,UTF_32LE
+
+--- UTF_32LE -> Encoding
+--- UCS_4LE -> Encoding
+UTF-32LE (リトルエンディアン) です。
+
+BOM を含みません。
+

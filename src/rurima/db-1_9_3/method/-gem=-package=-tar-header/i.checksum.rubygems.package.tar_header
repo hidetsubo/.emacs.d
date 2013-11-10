@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=checksum
+
+--- checksum -> Integer
+
+tar のヘッダに含まれるチェックサムを返します。
+

@@ -1,0 +1,19 @@
+visibility=public
+kind=defined
+names=det,determinant
+
+--- determinant -> Fixnum | Float
+--- det -> Fixnum | Float
+
+行列式 (determinant) の値を返します。
+
+self が正方行列ではない場合は0を返します。
+
+===== 注意
+
+要素に整数を含む場合、正しい答を返さないかも知れません。
+
+ p Matrix[[2, 1], [-1, 2]].det #=> 6
+ 
+ p Matrix[[2.0, 1.0], [-1.0, 2.0]].det #=> 5.0
+

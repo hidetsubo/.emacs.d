@@ -1,0 +1,9 @@
+kind=added
+visibility=private 
+names=TkPack
+
+--- TkPack(*args)
+@todo
+
+[[m:TkPack.#configure]] と同じ
+

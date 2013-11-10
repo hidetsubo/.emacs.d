@@ -1,0 +1,8 @@
+private=true
+params=(int state)
+type=void
+name=jump_tag_but_local_jump
+filename=eval.c
+macro=false
+
+

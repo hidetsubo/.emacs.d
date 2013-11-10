@@ -1,0 +1,12 @@
+library=rdoc.markup.formatter
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+RDoc 形式のドキュメントを整形するための基本クラスです。
+
+実際にドキュメントを整形するには、[[c:RDoc::Markup::ToHtml]] のような、
+継承したクラスで convert メソッドを実行してください。

@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=address
+
+--- address -> Resolv::IPv6
+IPv6アドレスを返します。
+
+
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=require_exact
+
+--- require_exact(package, version)
+@todo
+

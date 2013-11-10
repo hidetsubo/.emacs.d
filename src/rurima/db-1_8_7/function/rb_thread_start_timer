@@ -1,0 +1,13 @@
+params=(void)
+filename=eval.c
+name=rb_thread_start_timer
+type=void
+macro=false
+private=false
+
+
+setitimer(2) が存在する場合のみ定義されます。
+
+Ruby のスレッドスケジューリングに使用している
+インターバルタイマーを開始します。
+

@@ -1,0 +1,8 @@
+private=true
+params=(VALUE method, VALUE other)
+type=VALUE
+name=method_eq
+filename=eval.c
+macro=false
+
+

@@ -1,0 +1,12 @@
+kind=defined
+visibility=public
+names=level=
+
+--- level=(level)
+
+ログのログレベルをセットします。
+
+@param level ログのログレベル。
+
+@see [[c:Logger::Severity]]
+

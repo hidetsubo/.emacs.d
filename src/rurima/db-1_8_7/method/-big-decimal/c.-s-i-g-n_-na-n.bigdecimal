@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=SIGN_NaN
+
+--- SIGN_NaN -> Fixnum
+
+NaN に対応する [[m:BigDecimal#sign]] の値を返します。
+

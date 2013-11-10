@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=SOPTIONS
+
+--- SOPTIONS -> Integer
+
+Shift + Options キーを表す定数です。
+

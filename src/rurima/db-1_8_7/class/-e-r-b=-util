@@ -1,0 +1,9 @@
+type=module
+library=erb
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+eRubyスクリプトのためのユーティリティを提供するモジュールです。

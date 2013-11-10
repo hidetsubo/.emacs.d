@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=source_index
+
+--- source_index -> Gem::SourceIndex
+
+[[m:Gem.#path]] にある [[c:Gem::Specification]] のキャッシュを返します。
+インストールされている [[c:Gem::Specification]] のインデックスを返します
+
+@see [[c:Gem::SourceIndex]], [[c:Gem::Specification]]
+

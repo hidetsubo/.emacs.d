@@ -1,0 +1,9 @@
+type=module
+library=rbconfig
+extended=
+aliases=
+included=
+superclass=
+aliasof=Config
+
+Alias of [[c:Config]]

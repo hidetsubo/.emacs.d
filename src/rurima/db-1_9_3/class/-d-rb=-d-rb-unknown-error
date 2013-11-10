@@ -1,0 +1,11 @@
+library=drb
+aliasof=
+type=class
+included=
+aliases=
+superclass=DRb=DRbError
+extended=
+
+[[c:DRb::DRbUnknown]] をラップする例外クラスです。
+
+@see [[m:DRb::DRbUnknown#exception]]

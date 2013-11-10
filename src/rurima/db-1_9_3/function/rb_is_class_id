@@ -1,0 +1,10 @@
+private=false
+params=(ID id)
+type=int
+name=rb_is_class_id
+filename=parse.y
+macro=false
+
+
+クラス変数名として有効な ID ならば真。
+

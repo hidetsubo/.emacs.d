@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=on_charref
+
+--- on_charref(code)
+@todo
+

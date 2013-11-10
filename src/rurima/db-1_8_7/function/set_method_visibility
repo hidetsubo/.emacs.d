@@ -1,0 +1,8 @@
+params=(VALUE self, int argc, VALUE *argv, ID ex)
+filename=eval.c
+name=set_method_visibility
+type=void
+macro=false
+private=true
+
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=lset
+
+--- lset(idx, val)
+@todo
+

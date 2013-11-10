@@ -1,0 +1,9 @@
+library=tk.root
+aliasof=
+type=class
+included=Tk=Wm,TkMenuSpec
+aliases=
+superclass=TkWindow
+extended=
+
+

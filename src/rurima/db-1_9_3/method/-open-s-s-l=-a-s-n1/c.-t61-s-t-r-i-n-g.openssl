@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=T61STRING
+
+--- T61STRING -> Integer
+
+ASN.1 UNIVERSAL タグの、
+T61STRING のタグ番号 20 を表す定数です。
+

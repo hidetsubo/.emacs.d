@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=really_verbose
+
+--- really_verbose -> bool
+
+このメソッドの返り値が真の場合は verbose モードよりも多くの情報を表示します。
+

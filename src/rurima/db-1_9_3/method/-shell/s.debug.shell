@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=debug,debug?
+
+--- debug -> bool | Integer
+--- debug? -> bool | Integer
+@todo
+
+デバッグ用フラグを参照します。
+

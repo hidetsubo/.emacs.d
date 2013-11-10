@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=KEY_MOUSE
+
+--- KEY_MOUSE -> Integer
+@todo
+Mouse event read
+

@@ -1,0 +1,12 @@
+kind=defined
+visibility=public
+names=IPV6_NEXTHOP
+
+--- IPV6_NEXTHOP -> Integer
+Next hop address。
+[[m:BasicSocket#getsockopt]], [[m:BasicSocket#setsockopt]]
+の第2引数(optname)に使用します。
+
+@see [[m:Socket::Constants::IPPROTO_IPV6]],
+     [[RFC:3542]]
+

@@ -1,0 +1,8 @@
+private=true
+params=(NODE *head, NODE *tail)
+type=NODE *
+name=literal_append
+filename=parse.y
+macro=false
+
+

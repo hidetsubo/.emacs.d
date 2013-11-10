@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=NO_INSPECTING_IVARS
+
+--- NO_INSPECTING_IVARS -> [String]
+
+ライブラリ内部で使用します。
+

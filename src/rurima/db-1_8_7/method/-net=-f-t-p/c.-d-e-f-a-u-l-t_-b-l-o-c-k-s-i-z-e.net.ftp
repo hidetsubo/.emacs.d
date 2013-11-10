@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=DEFAULT_BLOCKSIZE
+
+--- DEFAULT_BLOCKSIZE -> Integer
+get, put をするときのデフォルトのブロックサイズです。
+

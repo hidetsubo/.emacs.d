@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=KEY_REFRESH
+
+--- KEY_REFRESH -> Integer
+
+Refresh キーを表す定数です。
+

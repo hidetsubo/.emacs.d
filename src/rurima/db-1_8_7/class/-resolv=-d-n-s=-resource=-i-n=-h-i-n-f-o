@@ -1,0 +1,10 @@
+type=class
+library=resolv
+extended=
+aliases=
+included=
+superclass=Resolv=DNS=Resource=HINFO
+aliasof=
+
+DNS リソースのクラス IN、タイプ HINFO に対応する
+クラスです。

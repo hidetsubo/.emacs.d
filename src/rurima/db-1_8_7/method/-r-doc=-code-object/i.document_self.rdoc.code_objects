@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=document_self
+
+--- document_self -> bool
+
+自身をドキュメントに含めるかどうかを返します。
+
+@see [[m:RDoc::CodeObject#document_children]]
+

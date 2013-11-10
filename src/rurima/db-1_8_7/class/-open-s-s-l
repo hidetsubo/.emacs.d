@@ -1,0 +1,10 @@
+type=module
+library=openssl
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+OpenSSL のすべてのクラス、モジュール、メソッド、定数を
+保持しているモジュールです。

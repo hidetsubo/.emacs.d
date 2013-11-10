@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_addcmd
+
+--- _addcmd(cmd)
+@todo
+

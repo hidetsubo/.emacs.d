@@ -1,0 +1,10 @@
+library=fileutils
+aliasof=
+type=module
+included=FileUtils
+aliases=
+superclass=
+extended=
+
+FileUtils と同じメソッドが定義されており全く同じ動作をしますが、
+しようとしていることを実行前に表示します。

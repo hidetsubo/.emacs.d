@@ -1,0 +1,9 @@
+type=class
+library=resolv
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+名前解決に失敗したときに発生する例外のクラスです。

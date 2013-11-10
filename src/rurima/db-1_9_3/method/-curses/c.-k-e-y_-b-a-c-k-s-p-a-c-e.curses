@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=KEY_BACKSPACE
+
+--- KEY_BACKSPACE -> Integer
+
+バックスペースキーを表す定数です。
+

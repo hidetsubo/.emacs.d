@@ -1,0 +1,10 @@
+private=true
+params=(VALUE obj)
+type=VALUE
+name=rb_true
+filename=object.c
+macro=false
+
+
+Qtrue を返します。
+

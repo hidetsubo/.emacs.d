@@ -1,0 +1,10 @@
+type=class
+library=net.protocol
+extended=
+aliases=Net=ProtocRetryError
+included=
+superclass=Net=ProtocolError
+aliasof=
+
+なんらかの再試行をすることで、処理の継続が可能であるような
+エラーが発生した場合に発生する例外です。

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=version,version=
+
+--- version
+--- version=(value)
+@todo
+

@@ -1,0 +1,11 @@
+private=false
+params=(VALUE symbol)
+type=int
+name=SYM2ID
+filename=ruby.h
+macro=true
+
+
+Symbol symbol を数値に変換します。
+1.4では、[[f:FIX2INT]](symbol)と同じです。
+

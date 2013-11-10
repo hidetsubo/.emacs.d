@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=update
+
+--- update -> ()
+
+セッションの状態をファイルに保存します。
+

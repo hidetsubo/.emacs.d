@@ -1,0 +1,11 @@
+private=true
+params=(char *msg)
+type=int
+name=yyerror
+filename=parse.y
+macro=false
+
+
+パースエラーを報告するときに yyparse から呼び出されます。
+エラーメッセージ msg とエラーになった場所を出力して 0 を返します。
+

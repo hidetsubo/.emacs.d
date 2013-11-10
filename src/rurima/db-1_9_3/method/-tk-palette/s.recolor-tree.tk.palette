@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=recolorTree
+
+--- recolorTree(win, colors)
+@todo
+

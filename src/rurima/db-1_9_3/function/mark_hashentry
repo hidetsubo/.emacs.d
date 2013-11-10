@@ -1,0 +1,8 @@
+private=true
+params=(VALUE key, VALUE value)
+type=int
+name=mark_hashentry
+filename=gc.c
+macro=false
+
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=visit_Regexp
+
+--- visit_Regexp(o)
+@todo
+

@@ -1,0 +1,45 @@
+requires=webrick.httpauth.digestauth,webrick.httpauth.htpasswd,webrick.httpauth,webrick.httpservlet.cgihandler,webrick.config,webrick.httpservlet.erbhandler,webrick.httpservlet.abstract,webrick.httpauth.htgroup,webrick.httpauth.authenticator,webrick.httprequest,webrick.server,webrick.utils,webrick.httpresponse,webrick.httpservlet,webrick.httpservlet.filehandler,webrick.httpstatus,webrick.cookie,webrick.htmlutils,webrick.httpserver,webrick.log,webrick.httpversion,webrick.httputils,webrick.httpauth.userdb,webrick.accesslog,webrick.httpauth.basicauth,webrick.compat,webrick.httpauth.htdigest,webrick.httpservlet.prochandler
+sublibraries=webrick.httpauth.htgroup,webrick.httpservlet.filehandler,webrick.httpauth.digestauth,webrick.httputils,webrick.httpservlet.prochandler,webrick.httpservlet,webrick.compat,webrick.httpauth.htdigest,webrick.utils,webrick.httprequest,webrick.httpauth.authenticator,webrick.httpserver,webrick.ssl,webrick.httpservlet.erbhandler,webrick.cookie,webrick.log,webrick.httpauth.htpasswd,webrick.httpauth,webrick.cgi,webrick.httpauth.basicauth,webrick.httpresponse,webrick.https,webrick.config,webrick.httpstatus,webrick.httpversion,webrick.accesslog,webrick.server,webrick.httpauth.userdb,webrick.httpproxy,webrick.httpservlet.abstract,webrick.htmlutils,webrick.httpservlet.cgihandler
+is_sublibrary=false
+category=Network
+methods=
+classes=WEBrick
+
+汎用HTTPサーバーフレームワークです。HTTPサーバが簡単に作れます。
+
+WEBrick はサーブレットによって機能します。サーブレットとは
+サーバの機能をオブジェクト化したものです。
+ファイルを読み込んで返す・forkしてスクリプトを実行する・テンプレートを適用する 
+など、「サーバが行なっている様々なこと」を抽象化しオブジェクトにしたものが
+サーブレットです。サーブレットは [[c:WEBrick::HTTPServlet::AbstractServlet]] の
+サブクラスのインスタンスとして実装されます。
+
+WEBrick はセッション管理の機能を提供しません。
+
+=== WEBrick の概要
+
+以下は Web サーバとして完全に動作するスクリプトです。
+
+ require 'webrick'
+ srv = WEBrick::HTTPServer.new({ :DocumentRoot => './',
+                                 :BindAddress => '127.0.0.1',
+                                 :Port => 20080})
+ srv.mount('/view.cgi', WEBrick::HTTPServlet::CGIHandler, 'view.rb')
+ srv.mount('/foo.html', WEBrick::HTTPServlet::FileHandler, 'hoge.html')
+ trap("INT"){ srv.shutdown }
+ srv.start
+
+ブラウザで http://127.0.0.1:20080/ にアクセスすることによって確認できます。
+また http://127.0.0.1:20080/view.cgi にアクセスするとカレントディレクトリに置かれている
+view.rb がCGIスクリプトとして実行されます。http://127.0.0.1:20080/foo.html にアクセスすると
+カレントディレクトリ下の hoge.html の内容が表示されます。 
+
+上のスクリプトでは以下のような流れで view.rb は実行されます。
+
+ (1) サーバのパス /view.cgi と CGIHandler がマウントにより結びつけられます。
+ (2) パス /view.cgi にアクセスがあるたびにサーバは 'view.rb' を引数として CGIHandler オブジェクトを生成します。
+ (3) サーバはリクエストオブジェクトを引数として CGIHandler#service メソッドを呼びます。
+ (4) CGIHandler オブジェクトは view.rb を CGI スクリプトとして実行します。
+
+このように WEBrick では Web サーバの機能の大部分がサーブレットの形で提供されています。
+またサーブレットを作成することにより新たな機能を Web サーバに追加することもできます。

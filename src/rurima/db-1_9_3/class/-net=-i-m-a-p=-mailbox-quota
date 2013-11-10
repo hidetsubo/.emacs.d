@@ -1,0 +1,12 @@
+library=net.imap
+aliasof=
+type=class
+included=
+aliases=
+superclass=Struct
+extended=
+
+[[m:Net::IMAP#getquota]] や [[m:Net::IMAP#getquotaroot]] で得られる
+quota の情報を表すオブジェクトです。
+
+詳しくは [[RFC:2087]] を参照してください。

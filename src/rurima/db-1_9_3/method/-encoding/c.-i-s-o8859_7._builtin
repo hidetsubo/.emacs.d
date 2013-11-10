@@ -1,0 +1,15 @@
+kind=defined
+visibility=public
+names=ISO8859_7,ISO_8859_7
+
+--- ISO_8859_7 -> Encoding
+--- ISO8859_7 -> Encoding
+
+ISO8859-7 エンコーディング。
+
+ギリシャ語を扱う 8bit single-byte エンコーディングです。
+
+@see [[m:Encoding::Windows_1253]]
+
+
+

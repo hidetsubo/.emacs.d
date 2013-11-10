@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=chunked?
+
+--- chunked?     -> bool
+真であればクライアントに返す内容(エンティティボディ)を chunk に分けます。
+

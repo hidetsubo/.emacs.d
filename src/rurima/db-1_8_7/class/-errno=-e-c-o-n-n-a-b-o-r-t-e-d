@@ -1,0 +1,9 @@
+type=class
+library=webrick.compat
+extended=
+aliases=
+included=
+superclass=SystemCallError
+aliasof=
+
+接続が中止された (POSIX.1)

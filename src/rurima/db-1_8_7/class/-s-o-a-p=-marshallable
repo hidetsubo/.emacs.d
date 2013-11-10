@@ -1,0 +1,9 @@
+type=module
+library=soap.mapping.registry
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+

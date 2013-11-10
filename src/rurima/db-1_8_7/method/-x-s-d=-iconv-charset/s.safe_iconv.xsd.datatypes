@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=safe_iconv
+
+--- safe_iconv(to, from, str)
+@todo
+

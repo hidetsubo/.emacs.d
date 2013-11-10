@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=num_modules
+
+--- num_modules -> Integer
+
+解析したモジュールの数を返します。
+

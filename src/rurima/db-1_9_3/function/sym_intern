@@ -1,0 +1,8 @@
+private=true
+params=(VALUE sym)
+type=VALUE
+name=sym_intern
+filename=object.c
+macro=false
+
+

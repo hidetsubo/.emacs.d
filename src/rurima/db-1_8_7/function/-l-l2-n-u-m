@@ -1,0 +1,8 @@
+params=(long long v)
+filename=ruby.h
+name=LL2NUM
+type=VALUE
+macro=true
+private=false
+
+

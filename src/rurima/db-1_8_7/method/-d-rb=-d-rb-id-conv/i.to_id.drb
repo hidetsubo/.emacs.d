@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=to_id
+
+--- to_id(obj) -> Integer
+
+オブジェクトを識別子に変換します。
+

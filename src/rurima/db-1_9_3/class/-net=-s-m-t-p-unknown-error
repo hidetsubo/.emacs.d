@@ -1,0 +1,11 @@
+library=net.smtp
+aliasof=
+type=class
+included=Net=SMTPError
+aliases=
+superclass=Net=ProtoUnknownError
+extended=
+
+サーバからの応答コードが予期されていない値であった場合に
+対応する例外クラスです。サーバもしくはクライアントに何らかの
+バグがあった場合に発生します。

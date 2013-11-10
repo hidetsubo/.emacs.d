@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=NOVERIFY
+
+--- NOVERIFY -> Integer
+署名に使った鍵の証明書の検証を行わないことを意味します。
+

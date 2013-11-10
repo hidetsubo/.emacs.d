@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=datetime_format
+
+--- datetime_format -> String
+
+ログの日時フォーマットを取得します。
+
+@see [[m:Time#strftime]]
+

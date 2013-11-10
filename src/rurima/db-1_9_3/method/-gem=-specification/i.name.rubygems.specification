@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=name
+
+--- name -> String
+
+この Gem パッケージの名前を返します。
+

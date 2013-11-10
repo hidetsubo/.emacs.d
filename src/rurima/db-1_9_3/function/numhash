@@ -1,0 +1,11 @@
+private=true
+params=(long n)
+type=int
+name=numhash
+filename=st.c
+macro=false
+
+
+int用のハッシュ関数。
+n に対するハッシュ値を計算する。
+

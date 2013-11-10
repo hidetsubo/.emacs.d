@@ -1,0 +1,8 @@
+params=(const char *path)
+filename=variable.c
+name=rb_path2class
+type=VALUE
+macro=false
+private=false
+
+

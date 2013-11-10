@@ -1,0 +1,9 @@
+type=class
+library=net.imap
+extended=
+aliases=
+included=
+superclass=Struct
+aliasof=
+
+メールアドレスを表すクラスです。

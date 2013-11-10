@@ -1,0 +1,11 @@
+params=(VALUE obj, VALUE fname)
+filename=eval.c
+name=rb_f_require
+type=VALUE
+macro=false
+private=false
+
+
+require の実体。
+self == obj として fname を require します。
+

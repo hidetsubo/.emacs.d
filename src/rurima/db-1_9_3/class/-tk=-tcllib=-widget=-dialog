@@ -1,0 +1,9 @@
+library=tkextlib.tcllib.dialog
+aliasof=
+type=class
+included=
+aliases=
+superclass=TkWindow
+extended=
+
+

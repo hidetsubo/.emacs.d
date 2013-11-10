@@ -1,0 +1,9 @@
+library=rss
+aliasof=
+type=class
+included=RSS=RootElementMixin,RSS=XMLStyleSheetMixin
+aliases=
+superclass=RSS=Element
+extended=
+
+

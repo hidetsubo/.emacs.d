@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=continue
+
+--- continue(wait = nil)
+@todo
+

@@ -1,0 +1,14 @@
+requires=
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=DRb=ExtServ
+
+[[c:DRb::ExtServ]] を定義しているライブラリ。
+
+[[lib:drb/extservm]] で定義されている [[c:DRb::ExtServManager]] 
+によって管理されるサービスを実現する [[c:DRb::ExtServ]] を
+定義しています。
+
+詳しくは [[lib:drb/extservm]] を見てください。

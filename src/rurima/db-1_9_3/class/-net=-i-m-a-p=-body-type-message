@@ -1,0 +1,12 @@
+library=net.imap
+aliasof=
+type=class
+included=
+aliases=
+superclass=Struct
+extended=
+
+Content-Type が "message" であるメッセージを表すクラスです。
+
+メールをメールに添付した場合などに使われます。
+詳しくは [[RFC:2045]], [[RFC:822]] を参照してください。

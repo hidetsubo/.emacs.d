@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=skip_blanks?
+
+--- skip_blanks? -> bool
+
+真である場合は、空行を読み飛ばします。
+
+@see [[m:CSV.new]]
+

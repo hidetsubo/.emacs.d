@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=each
+
+--- each(element, path = nil, namespaces = {}, variables = {}) {|e| ... }
+@todo
+

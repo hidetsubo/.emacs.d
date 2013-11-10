@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=legacy_repos
+
+--- legacy_repos -> Array
+
+RubyGems 1.2 未満で作成されたリポジトリの配列を返します。
+

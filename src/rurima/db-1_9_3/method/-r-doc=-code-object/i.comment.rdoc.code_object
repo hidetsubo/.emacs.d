@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=comment
+
+--- comment -> String
+
+自身のコメントを返します。
+

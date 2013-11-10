@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=get_first
+
+--- get_first(path, nodeset)
+@todo
+

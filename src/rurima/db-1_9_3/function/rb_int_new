@@ -1,0 +1,8 @@
+private=false
+params=(long v)
+type=VALUE
+name=rb_int_new
+filename=ruby.h
+macro=false
+
+

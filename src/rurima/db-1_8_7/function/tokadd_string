@@ -1,0 +1,8 @@
+params=(int func, int term, int paren)
+filename=parse.y
+name=tokadd_string
+type=int
+macro=false
+private=true
+
+

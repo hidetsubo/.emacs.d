@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=disable_C_comments
+
+--- disable_C_comments
+@todo
+

@@ -1,0 +1,8 @@
+private=true
+params=(void)
+type=void
+name=rb_thread_deadlock
+filename=eval.c
+macro=false
+
+

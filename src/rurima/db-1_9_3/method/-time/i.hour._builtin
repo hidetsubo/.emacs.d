@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=hour
+
+--- hour    -> Integer
+
+時を整数で返します。
+

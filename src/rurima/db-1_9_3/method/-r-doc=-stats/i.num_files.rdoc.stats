@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=num_files
+
+--- num_files -> Integer
+
+解析したファイルの数を返します。
+

@@ -1,0 +1,10 @@
+kind=added
+visibility=public
+names=oflush
+
+--- oflush -> self
+
+カーネルの出力バッファをフラッシュします。
+
+@return 自身を返します。
+

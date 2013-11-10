@@ -1,0 +1,9 @@
+requires=rubygems.source_info_cache,rubygems.builder,rubygems.source_info_cache_entry,rubygems.source_index,rubygems.gem_path_searcher,rubygems.requirement,rubygems.spec_fetcher,rubygems.defaults,rubygems.remote_fetcher,rubygems.specification,rubygems.version,rubygems.platform,rubygems.exceptions,rubygems,rubygems.user_interaction,rubygems.digest.sha2,rubygems.dependency
+category=
+methods=
+sublibraries=
+classes=Gem=ConfigFile
+is_sublibrary=true
+
+設定ファイルに書かれている gem コマンドのオプションを
+オブジェクトに保存するためのライブラリです。

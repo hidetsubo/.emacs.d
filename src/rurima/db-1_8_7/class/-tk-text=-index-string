@@ -1,0 +1,9 @@
+type=class
+library=tk.text
+extended=
+aliases=
+included=TkText=IndexModMethods
+superclass=String
+aliasof=
+
+

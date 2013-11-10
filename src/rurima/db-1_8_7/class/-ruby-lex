@@ -1,0 +1,9 @@
+type=class
+library=rdoc.parsers.parse_rb
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+ライブラリの内部で使用します。

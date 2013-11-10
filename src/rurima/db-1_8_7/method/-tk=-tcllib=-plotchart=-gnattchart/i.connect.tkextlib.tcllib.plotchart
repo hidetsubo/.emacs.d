@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=connect
+
+--- connect(from_task, to_task)
+@todo
+

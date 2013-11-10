@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=mailbox
+
+--- mailbox -> String
+quota が設定されているメールボックスの名前を返します。
+

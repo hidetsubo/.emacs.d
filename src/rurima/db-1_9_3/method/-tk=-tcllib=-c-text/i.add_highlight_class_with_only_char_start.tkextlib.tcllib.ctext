@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=add_highlight_class_with_only_char_start
+
+--- add_highlight_class_with_only_char_start(klass, col, chr)
+@todo
+

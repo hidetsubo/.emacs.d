@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=close
+
+--- close
+@todo
+
+開かれているキーを閉じます。
+
+閉じられた後では，多くのメソッドは例外を発生します。
+

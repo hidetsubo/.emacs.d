@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=Thread
+methods=Kernel/i.timeout.timeout
+classes=Timeout,Timeout=Error,TimeoutError
+
+タイムアウトを行うライブラリです。

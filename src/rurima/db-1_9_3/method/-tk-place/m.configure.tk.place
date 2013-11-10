@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=configure,place
+
+--- configure(win, slot, value = Tk::None)
+--- place(win, slot, value = Tk::None)
+@todo
+

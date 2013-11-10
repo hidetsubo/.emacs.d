@@ -1,0 +1,9 @@
+library=rss
+aliasof=
+type=class
+included=RSS=TaxonomyTopicsModel,RSS=TrackBackModel10,RSS=ImageItemModel,RSS=ImageModelUtils,RSS=DublinCoreModel,RSS=ContentModel
+aliases=
+superclass=RSS=Element
+extended=
+
+

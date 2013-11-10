@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=directory
+
+--- directory -> String
+
+インデックスをビルドするための一時的なディレクトリを返します。
+

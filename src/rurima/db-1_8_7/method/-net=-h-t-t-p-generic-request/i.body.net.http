@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=body
+
+--- body -> String
+サーバに送るリクエストのエンティティボディを返します。
+
+@see [[m:Net::HTTPGenericRequest#body=]]
+

@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=F_GETFL
+
+--- F_GETFL -> Integer
+ファイル状態フラグを読み出します。
+
+@see [[man:open(2)]]
+

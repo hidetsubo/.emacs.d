@@ -1,0 +1,12 @@
+library=net.http
+aliasof=
+type=class
+included=Net=HTTPExceptions
+aliases=
+superclass=Net=ProtoFatalError
+extended=
+
+HTTP ステータスコード 4xx を受け取ったという例外です。
+
+クライアントのリクエストに誤りがあるか、サーバにリクエストを拒否さ
+れた(認証が必要、リソースが存在しないなどで)ことを示します。

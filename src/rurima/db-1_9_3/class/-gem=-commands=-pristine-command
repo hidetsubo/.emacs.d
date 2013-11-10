@@ -1,0 +1,9 @@
+library=rubygems.commands.pristine_command
+aliasof=
+type=class
+included=Gem=VersionOption
+aliases=
+superclass=Gem=Command
+extended=
+
+インストールされている Gem パッケージを初期状態にするためのクラスです。

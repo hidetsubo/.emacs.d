@@ -1,0 +1,10 @@
+library=openssl
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+Netscape SPKI、もしくは SPKAC(Signed Public Key And Challenge) と呼ばれる
+データフォーマットを扱うためのクラスです。

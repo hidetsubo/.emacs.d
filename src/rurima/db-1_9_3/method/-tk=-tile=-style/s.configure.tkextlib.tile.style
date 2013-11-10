@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=configure,default
+
+--- default(style, keys = nil)
+--- configure(style, keys = nil)
+@todo
+

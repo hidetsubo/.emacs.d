@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=get_instance
+
+--- get_instance(config, *options)
+@todo
+

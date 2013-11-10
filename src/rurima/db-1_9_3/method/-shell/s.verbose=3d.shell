@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=verbose=
+
+--- verbose=(flag)
+
+true ならば冗長な出力の設定を行います。
+
+@param flag true ならば冗長な出力の設定を行います。
+
+

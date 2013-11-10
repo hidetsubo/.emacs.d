@@ -1,0 +1,8 @@
+private=true
+params=(VALUE module)
+type=VALUE
+name=rb_mod_initialize
+filename=object.c
+macro=false
+
+

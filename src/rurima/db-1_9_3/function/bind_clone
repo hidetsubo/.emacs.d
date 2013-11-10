@@ -1,0 +1,8 @@
+private=true
+params=(VALUE self)
+type=VALUE
+name=bind_clone
+filename=eval.c
+macro=false
+
+

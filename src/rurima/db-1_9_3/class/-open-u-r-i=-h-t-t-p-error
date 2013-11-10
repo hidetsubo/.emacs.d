@@ -1,0 +1,9 @@
+library=open=2duri
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+リソースの取得に失敗した時に投げられます。

@@ -1,0 +1,8 @@
+params=(VALUE mod, VALUE name)
+filename=eval.c
+name=rb_mod_undef_method
+type=VALUE
+macro=false
+private=true
+
+

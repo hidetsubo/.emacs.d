@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=tk_send_to_list
+
+--- tk_send_to_list(cmd, *rest)
+@todo
+

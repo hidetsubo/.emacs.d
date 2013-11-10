@@ -1,0 +1,11 @@
+private=true
+params=(ID id, VALUE value)
+type=inline void
+name=dvar_asgn_curr
+filename=eval.c
+macro=false
+
+
+現在のブロックローカル変数スコープに存在するはずの
+ブロックローカル変数 id に value を代入します。
+

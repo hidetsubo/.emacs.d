@@ -1,0 +1,11 @@
+private=false
+params=(VALUE obj)
+type=VALUE
+name=rb_Array
+filename=object.c
+macro=false
+
+
+obj が Array でない場合は to_a を使って
+Array に変換します。
+

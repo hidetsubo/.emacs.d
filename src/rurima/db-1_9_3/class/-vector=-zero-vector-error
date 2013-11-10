@@ -1,0 +1,10 @@
+library=matrix
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+ベクトルが 0 でエラーとなる([[m:Vector#normalize]] など)場合に
+発生する例外です。

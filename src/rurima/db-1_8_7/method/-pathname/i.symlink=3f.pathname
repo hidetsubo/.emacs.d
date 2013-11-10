@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=symlink?
+
+--- symlink? -> bool
+FileTest.symlink?(self.to_s) と同じです。
+
+@see [[m:FileTest.#symlink?]]
+
+

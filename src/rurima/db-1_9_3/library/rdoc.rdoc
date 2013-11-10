@@ -1,0 +1,8 @@
+requires=rdoc.constant,rdoc.context,fileutils,rdoc.token_stream,rdoc,rdoc.parser.ruby,rdoc.anon_class,rdoc.stats,irb.slex,rdoc.alias,rdoc.normal_class,rdoc.top_level,time,find,rdoc.known_classes,irb.notifier,rdoc.any_method,rdoc.normal_module,rdoc.options,e2mmap,rdoc.meta_method,rdoc.code_object,optparse,irb.output=2dmethod,rdoc.code_objects,rdoc.require,rdoc.attr,rdoc.ghost_method,rdoc.single_class,rdoc.class_module,rdoc.parser.c,rdoc.parser,rdoc.include,rdoc.parser.simple
+category=
+methods=
+sublibraries=
+classes=RDoc=RDoc
+is_sublibrary=true
+
+rdoc コマンドのためのサブライブラリです。

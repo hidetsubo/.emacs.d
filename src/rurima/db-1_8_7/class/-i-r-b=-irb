@@ -1,0 +1,11 @@
+type=class
+library=irb
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+irb インタプリタのメインルーチンです。
+
+ユーザが直接使用するものではありません。

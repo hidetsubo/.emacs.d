@@ -1,0 +1,8 @@
+private=true
+params=(VALUE klass, VALUE obj, ID id, VALUE mklass)
+type=VALUE
+name=mnew
+filename=eval.c
+macro=false
+
+

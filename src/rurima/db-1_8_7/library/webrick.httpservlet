@@ -1,0 +1,13 @@
+requires=webrick.config,webrick.httpservlet.cgihandler,webrick.httpservlet.erbhandler,webrick.httpservlet.abstract,webrick.utils,webrick.htmlutils,webrick.httpservlet.filehandler,webrick.httpstatus,webrick.log,webrick.httpversion,webrick.httputils,webrick.httpservlet.prochandler
+sublibraries=webrick.httpservlet.filehandler,webrick.httpservlet.prochandler,webrick.httpservlet.erbhandler,webrick.httpservlet.abstract,webrick.httpservlet.cgihandler
+is_sublibrary=true
+category=
+methods=
+classes=
+
+このファイルを [[m:Kernel.#require]] すると、
+[[c:WEBrick::HTTPServlet::FileHandler]] に対して
+拡張子 .cgi と .rhtml のためのハンドラを設定します。
+
+[[lib:webrick]] や [[lib:webrick/httpserver]] を [[m:Kernel.#require]] すると
+このライブラリも一緒に [[m:Kernel.#require]] されます。

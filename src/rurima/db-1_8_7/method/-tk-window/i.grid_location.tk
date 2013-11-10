@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=grid_location
+
+--- grid_location(x, y)
+@todo
+

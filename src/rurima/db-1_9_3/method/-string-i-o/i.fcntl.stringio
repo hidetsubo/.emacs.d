@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=fcntl
+
+--- fcntl    -> ()
+
+例外 [[c:NotImplementedError]] が常に発生します。
+

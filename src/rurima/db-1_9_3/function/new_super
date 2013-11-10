@@ -1,0 +1,8 @@
+private=true
+params=(NODE *a)
+type=NODE *
+name=new_super
+filename=parse.y
+macro=false
+
+

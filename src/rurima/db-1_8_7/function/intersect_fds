@@ -1,0 +1,8 @@
+params=(fd_set *src, fd_set *dst, int max)
+filename=eval.c
+name=intersect_fds
+type=int
+macro=false
+private=true
+
+

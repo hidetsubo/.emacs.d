@@ -1,0 +1,9 @@
+library=rubygems.security
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Exception
+extended=
+
+セキュリティ関連のエラーを表します。

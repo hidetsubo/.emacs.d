@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=add
+
+--- add(pat, value, pri = Tk::None)
+@todo
+

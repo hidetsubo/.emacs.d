@@ -1,0 +1,11 @@
+params=(int c)
+filename=parse.y
+name=pushback
+type=void
+macro=false
+private=true
+
+
+入力に一文字戻します。
+c が EOF (-1) のときはなにもしません。
+

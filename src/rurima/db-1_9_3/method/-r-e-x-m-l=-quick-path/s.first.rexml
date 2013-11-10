@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=first
+
+--- first(element, path, namespaces = EMPTY_HASH)
+@todo
+

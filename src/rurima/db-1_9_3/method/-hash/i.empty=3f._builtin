@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=empty?
+
+--- empty? -> bool
+
+ハッシュが空の時真を返します。
+
+  puts({}.empty?) #=> true
+

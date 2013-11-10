@@ -1,0 +1,10 @@
+requires=e2mmap,rdoc.code_objects,irb.output=2dmethod,rdoc.parsers.parse_simple,rdoc.parsers.parserfactory,rdoc.tokenstream,irb.slex,irb.notifier
+sublibraries=
+is_sublibrary=true
+category=
+methods=RDoc/c.GENERAL_MODIFIERS.rdoc.parsers.parse_rb,RDoc/c.CLASS_MODIFIERS.rdoc.parsers.parse_rb,RDoc/c.ATTR_MODIFIERS.rdoc.parsers.parse_rb,RDoc/c.CONSTANT_MODIFIERS.rdoc.parsers.parse_rb,RDoc/c.METHOD_MODIFIERS.rdoc.parsers.parse_rb
+classes=RubyToken,RubyLex,RDoc=RubyParser
+
+Ruby のソースコードを解析するためのサブライブラリです。
+
+拡張子が .rb、.rbw のファイルを解析する事ができます。

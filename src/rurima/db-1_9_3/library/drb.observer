@@ -1,0 +1,10 @@
+requires=
+category=
+methods=
+sublibraries=
+classes=DRb=DRbObservable
+is_sublibrary=true
+
+DRb 用の修正をした [[c:Observable]] 
+([[c:DRb::DRbObservable]])
+を定義するライブラリ。

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=has_name?
+
+--- has_name?(other, ns = nil)
+@todo
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=JIS
+
+--- JIS -> Integer
+JIS コードを表します。
+

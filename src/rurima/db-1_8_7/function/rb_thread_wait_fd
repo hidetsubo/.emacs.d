@@ -1,0 +1,11 @@
+params=(int fd)
+filename=eval.c
+name=rb_thread_wait_fd
+type=void
+macro=false
+private=false
+
+
+ファイルディスクリプタ fd を読み込めるようになるまで
+カレントスレッドを停止します。
+

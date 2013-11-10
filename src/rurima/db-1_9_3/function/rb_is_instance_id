@@ -1,0 +1,10 @@
+private=false
+params=(ID id)
+type=int
+name=rb_is_instance_id
+filename=parse.y
+macro=false
+
+
+インスタンス変数名として有効な ID ならば真。
+

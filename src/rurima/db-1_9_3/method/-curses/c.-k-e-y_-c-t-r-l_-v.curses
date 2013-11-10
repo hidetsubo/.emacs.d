@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=KEY_CTRL_V
+
+--- KEY_CTRL_V -> Integer
+
+Ctrl + V を表す定数です。
+

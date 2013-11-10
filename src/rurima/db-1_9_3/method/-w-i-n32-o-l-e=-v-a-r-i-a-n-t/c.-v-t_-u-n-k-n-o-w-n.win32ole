@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=VT_UNKNOWN
+
+--- VT_UNKNOWN -> Integer
+COMインターフェイスを示します（13）。
+

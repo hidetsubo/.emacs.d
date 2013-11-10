@@ -1,0 +1,13 @@
+kind=defined
+visibility=public
+names=CP865,IBM865
+
+--- IBM865 -> Encoding
+--- CP865 -> Encoding
+CP865 エンコーディング。
+
+北欧の諸言語に用いられる、
+8bit single-byte エンコーディングです。
+
+@see [[url:http://en.wikipedia.org/wiki/Code_page_865]]
+

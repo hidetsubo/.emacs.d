@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=do_not_reverse_lookup=
+
+--- do_not_reverse_lookup=(bool)
+真を渡すとアドレスからホスト名への逆引きを行わなくなります。
+
+[[m:BasicSocket#do_not_reverse_lookup]] と同様です。
+
+@param bool 真で逆引きを抑制します
+

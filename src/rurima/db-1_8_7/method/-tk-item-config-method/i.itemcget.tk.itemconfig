@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=itemcget
+
+--- itemcget(tagOrId, option)
+@todo
+
+
+

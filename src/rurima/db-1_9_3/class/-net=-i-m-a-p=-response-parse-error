@@ -1,0 +1,10 @@
+library=net.imap
+aliasof=
+type=class
+included=
+aliases=
+superclass=Net=IMAP=Error
+extended=
+
+サーバからのレスポンスが正しくパースできない場合に発生する
+例外のクラスです。

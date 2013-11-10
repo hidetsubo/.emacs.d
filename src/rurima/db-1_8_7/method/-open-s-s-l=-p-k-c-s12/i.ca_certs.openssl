@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=ca_certs
+
+--- ca_certs -> [OpenSSL::X509::Certificate]
+自身が保持しているCA証明書を配列で返します。
+

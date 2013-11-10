@@ -1,0 +1,11 @@
+library=net.http
+aliasof=
+type=class
+included=
+aliases=
+superclass=Net=HTTPInformation
+extended=
+
+HTTP レスポンス 101 (Switching Protocols) を表現するクラスです。
+
+詳しくは [[RFC:2616]] を見てください。

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=stime=
+
+--- stime=(n)
+システム CPU 時間をセットします。
+

@@ -1,0 +1,8 @@
+kind=added
+visibility=public
+names=taguri
+
+--- taguri -> String
+
+自身のタグ URI を返します。
+

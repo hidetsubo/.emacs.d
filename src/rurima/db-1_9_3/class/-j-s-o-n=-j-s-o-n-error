@@ -1,0 +1,9 @@
+library=json
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+JSON のエラーのための基底クラスです。

@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=addtag_closest
+
+--- addtag_closest(tagOrId, x, y, halo = Tk::None, start = Tk::None)
+@todo
+
+
+

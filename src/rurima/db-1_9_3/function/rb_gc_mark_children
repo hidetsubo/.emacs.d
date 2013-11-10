@@ -1,0 +1,10 @@
+private=false
+params=(VALUE ptr)
+type=void
+name=rb_gc_mark_children
+filename=gc.c
+macro=false
+
+
+v から指されているオブジェクトを全てマークします。
+

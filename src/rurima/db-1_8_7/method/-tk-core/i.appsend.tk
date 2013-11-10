@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=appsend
+
+--- appsend(interp, async, *args)
+@todo
+

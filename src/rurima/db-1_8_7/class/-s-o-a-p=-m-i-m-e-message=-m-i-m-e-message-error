@@ -1,0 +1,9 @@
+type=class
+library=soap.mimemessage
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+

@@ -1,0 +1,8 @@
+private=true
+params=(void)
+type=VALUE
+name=finals
+filename=gc.c
+macro=false
+
+

@@ -1,0 +1,7 @@
+kind=added
+visibility=public
+names=read_type_class
+
+--- read_type_class(type, reference)
+@todo
+

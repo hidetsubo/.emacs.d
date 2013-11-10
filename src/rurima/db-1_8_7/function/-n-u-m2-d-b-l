@@ -1,0 +1,8 @@
+params=(VALUE x)
+filename=ruby.h
+name=NUM2DBL
+type=double
+macro=true
+private=false
+
+

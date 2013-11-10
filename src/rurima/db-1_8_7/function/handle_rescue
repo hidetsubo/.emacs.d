@@ -1,0 +1,8 @@
+params=(VALUE self, NODE *node)
+filename=eval.c
+name=handle_rescue
+type=int
+macro=false
+private=true
+
+

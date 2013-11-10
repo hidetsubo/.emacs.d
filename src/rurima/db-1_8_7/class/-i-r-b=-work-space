@@ -1,0 +1,9 @@
+type=class
+library=irb.workspace
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+irb 中で self を表すためのクラスです。

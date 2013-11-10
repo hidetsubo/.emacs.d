@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=umask=
+
+--- umask=(umask)
+@todo
+

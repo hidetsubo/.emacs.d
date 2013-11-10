@@ -1,0 +1,7 @@
+visibility=public
+kind=added
+names=encode_ascii
+
+--- encode_ascii(content)
+@todo
+

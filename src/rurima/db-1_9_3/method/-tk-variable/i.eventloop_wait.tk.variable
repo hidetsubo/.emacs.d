@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=eventloop_wait
+
+--- eventloop_wait(check_root = false)
+@todo
+

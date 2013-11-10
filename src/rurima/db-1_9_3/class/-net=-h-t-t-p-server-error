@@ -1,0 +1,12 @@
+library=net.http
+aliasof=
+type=class
+included=
+aliases=
+superclass=Net=HTTPResponse
+extended=
+
+HTTP レスポンス 5xx (Server Error) を表現するクラスです。
+
+サーバがエラーを起こしているなど、サーバ側で処理
+を完了することができないことを表しています。

@@ -1,0 +1,10 @@
+params=(NODE *node)
+filename=parse.y
+name=assign_in_cond
+type=int
+macro=false
+private=true
+
+
+条件式中の代入に警告を出します。
+

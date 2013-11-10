@@ -1,0 +1,8 @@
+params=(int argc, VALUE *argv)
+filename=eval.c
+name=top_private
+type=VALUE
+macro=false
+private=true
+
+

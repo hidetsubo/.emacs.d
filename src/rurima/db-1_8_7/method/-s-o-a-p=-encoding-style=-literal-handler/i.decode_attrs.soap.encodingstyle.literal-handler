@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=decode_attrs
+
+--- decode_attrs(ns, attrs)
+@todo
+

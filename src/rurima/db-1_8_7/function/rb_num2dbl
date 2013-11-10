@@ -1,0 +1,10 @@
+params=(VALUE val)
+filename=object.c
+name=rb_num2dbl
+type=double
+macro=false
+private=false
+
+
+任意の Numeric のオブジェクトを double に変換します。
+

@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=MIN
+
+--- MIN -> Float
+
+Float が取り得る最小値
+

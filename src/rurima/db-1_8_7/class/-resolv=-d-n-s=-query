@@ -1,0 +1,9 @@
+type=class
+library=resolv
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+DNSクエリを表す抽象クラスです。

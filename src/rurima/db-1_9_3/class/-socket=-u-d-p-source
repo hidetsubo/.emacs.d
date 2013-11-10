@@ -1,0 +1,9 @@
+library=socket
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+[[m:Socket.udp_server_loop]] で使われるアドレス情報を保持するクラスです。

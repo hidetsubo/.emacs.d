@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=imconfigure
+
+--- imconfigure(slot, value = Tk::None)
+@todo
+

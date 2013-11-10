@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=DesignPattern
+methods=
+classes=Singleton
+
+Singleton パターンを扱うためのライブラリです。

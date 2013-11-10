@@ -1,0 +1,37 @@
+requires=rubygems.package.f_sync_dir,rubygems.package.tar_reader,rubygems.source_info_cache_entry,rubygems.builder,rubygems.source_info_cache,rubygems.package.tar_reader.entry,rubygems.source_index,rubygems.digest.md5,rubygems.gem_path_searcher,rubygems.requirement,rubygems.spec_fetcher,rubygems.local_remote_options,rubygems.defaults,rubygems.remote_fetcher,rubygems.package.tar_header,rubygems.package.tar_writer,rubygems.specification,rubygems.format,rubygems.version,rubygems.package,rubygems.security,rubygems.gem_openssl,rubygems.platform,rubygems.command,rubygems.package.tar_input,rubygems,rubygems.exceptions,rubygems.package.tar_output,rubygems.version_option,rubygems.dependency,rubygems.digest.sha2,rubygems.user_interaction
+category=
+methods=
+sublibraries=
+classes=Gem=Commands=SpecificationCommand
+is_sublibrary=true
+
+指定された Gem パッケージの gemspec の情報を YAML 形式で表示するためのライブラリです。
+
+  Usage: gem specification [GEMFILE] [options]
+    Options:
+      -v, --version VERSION            Specify version of gem to examine
+          --platform PLATFORM          Specify the platform of gem to specification
+          --all                        Output specifications for all versions of
+                                       the gem
+    Local/Remote Options:
+      -l, --local                      操作をローカルに限定します
+      -r, --remote                     操作をリモートに限定します
+      -b, --both                       ローカルとリモートの両方の操作を許可します
+      -B, --bulk-threshold COUNT       Threshold for switching to bulk
+                                       synchronization (default 1000)
+          --source URL                 Gem パッケージのリモートリポジトリの URL を指定します
+          --[no-]http-proxy [URL]      リモートの操作に HTTP プロクシを使用します
+      -u, --[no-]update-sources        ローカルソースキャッシュを更新します
+    Common Options:
+      -h, --help                       このコマンドのヘルプを表示します
+      -V, --[no-]verbose               表示を詳細にします
+      -q, --quiet                      静かに実行します
+          --config-file FILE           指定された設定ファイルを使用します
+          --backtrace                  バックトレースを表示します
+          --debug                      Ruby 自体のデバッグオプションを有効にします
+    Arguments:
+      GEMFILE       gemspec を表示する Gem パッケージ名を指定します
+    Summary:
+      Gem パッケージの仕様を YAML 形式で表示します
+    Defaults:
+      --local --version '>= 0'

@@ -1,0 +1,9 @@
+type=class
+library=tk.textimage
+extended=
+aliases=
+included=TkText=IndexModMethods
+superclass=TkObject
+aliasof=
+
+

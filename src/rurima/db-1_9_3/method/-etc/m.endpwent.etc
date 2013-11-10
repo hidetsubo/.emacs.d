@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=endpwent
+
+--- endpwent -> nil
+
+[[m:Etc.#getpwent]] によって開始された /etc/passwdファイルを読む
+プロセスを終了させファイルを閉じます。
+
+@see [[man:getpwent(3)]]
+

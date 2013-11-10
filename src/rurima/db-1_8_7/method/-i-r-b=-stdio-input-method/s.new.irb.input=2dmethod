@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=new
+
+--- new -> IRB::StdioInputMethod
+
+自身を初期化します。
+

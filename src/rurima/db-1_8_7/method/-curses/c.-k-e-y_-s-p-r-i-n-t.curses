@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=KEY_SPRINT
+
+--- KEY_SPRINT -> Integer
+
+Shift + Print キーを表す定数です。
+

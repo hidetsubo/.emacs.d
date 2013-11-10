@@ -1,0 +1,9 @@
+type=class
+library=tk.spinbox
+extended=
+aliases=
+included=
+superclass=TkUtil=CallbackSubst
+aliasof=
+
+

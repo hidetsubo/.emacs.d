@@ -1,0 +1,9 @@
+library=rubygems.commands.outdated_command
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Command
+extended=
+
+更新が必要な Gem パッケージの一覧を出力するためのクラスです。

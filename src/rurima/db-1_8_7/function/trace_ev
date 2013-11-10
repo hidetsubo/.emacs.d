@@ -1,0 +1,8 @@
+params=(struct trace_data *data)
+filename=variable.c
+name=trace_ev
+type=VALUE
+macro=false
+private=true
+
+

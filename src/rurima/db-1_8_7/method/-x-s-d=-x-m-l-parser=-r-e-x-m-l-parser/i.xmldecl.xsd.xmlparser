@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=xmldecl
+
+--- xmldecl(version, encoding, standalone)
+@todo
+

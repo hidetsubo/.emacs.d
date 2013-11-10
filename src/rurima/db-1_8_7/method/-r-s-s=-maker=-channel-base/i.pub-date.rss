@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=pubDate
+
+--- pubDate
+@todo
+maker.channel.dateの別名です．
+

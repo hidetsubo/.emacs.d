@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=irb_path
+
+--- irb_path -> String
+
+ライブラリ内部で使用します。
+

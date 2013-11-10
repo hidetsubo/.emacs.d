@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=TCP_MD5SIG
+
+--- TCP_MD5SIG -> Integer
+Use MD5 digests (RFC2385)。
+[[m:BasicSocket#getsockopt]], [[m:BasicSocket#setsockopt]]
+の第2引数(optname)に使用します。
+
+@see [[man:tcp(4freebsd)]], [[RFC:2385]]
+

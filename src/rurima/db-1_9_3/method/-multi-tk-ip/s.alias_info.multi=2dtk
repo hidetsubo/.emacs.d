@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=alias_info
+
+--- alias_info(slave, cmd_name)
+@todo
+

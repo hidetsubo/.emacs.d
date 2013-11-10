@@ -1,0 +1,10 @@
+private=true
+params=(VALUE obj)
+type=void
+name=run_final
+filename=gc.c
+macro=false
+
+
+obj のファイナライズを行います。
+

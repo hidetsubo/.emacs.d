@@ -1,0 +1,8 @@
+params=(ID key, VALUE value, struct fc_result *res)
+filename=variable.c
+name=fc_i
+type=int
+macro=false
+private=true
+
+

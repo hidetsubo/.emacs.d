@@ -1,0 +1,12 @@
+params=(VALUE klass, ID mid)
+filename=eval.c
+name=remove_method
+type=void
+macro=false
+private=true
+
+
+クラス klass 自体に登録されている mid という名前のメソッドを
+検索し、エントリを削除します。見付からなかったときは例外 [[c:NameError]]
+を発生します。
+

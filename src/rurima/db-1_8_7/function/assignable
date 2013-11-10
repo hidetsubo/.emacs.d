@@ -1,0 +1,8 @@
+params=(ID id, NODE *val)
+filename=parse.y
+name=assignable
+type=NODE *
+macro=false
+private=true
+
+

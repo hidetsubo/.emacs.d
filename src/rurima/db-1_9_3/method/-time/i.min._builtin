@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=min
+
+--- min    -> Integer
+
+分を整数で返します。
+

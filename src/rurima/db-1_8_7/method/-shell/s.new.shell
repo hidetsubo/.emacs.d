@@ -1,0 +1,15 @@
+visibility=public
+kind=defined
+names=new
+
+--- new -> Shell
+
+プロセスのカレントディレクトリをカレントディレクトリとするShellオ
+ブジェクトを生成します.
+
+使用例：カレントディレクトリを表示
+
+  sh = Shell.new
+  puts sh.pwd.to_s
+
+

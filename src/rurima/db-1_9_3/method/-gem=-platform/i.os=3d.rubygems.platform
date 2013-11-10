@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=os=
+
+--- os=(os)
+
+OS の種類をセットします。
+
+@param os OS の種類を指定します。
+

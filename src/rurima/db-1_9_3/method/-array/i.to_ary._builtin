@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=to_ary
+
+--- to_ary  -> self
+
+self をそのまま返します。
+

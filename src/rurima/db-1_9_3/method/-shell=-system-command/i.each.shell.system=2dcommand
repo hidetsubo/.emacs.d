@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=each
+
+--- each(rs = nil){|line| ... }
+@todo
+
+@param rs
+

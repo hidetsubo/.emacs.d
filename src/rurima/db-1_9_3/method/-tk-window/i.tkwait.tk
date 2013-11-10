@@ -1,0 +1,13 @@
+kind=defined
+visibility=public
+names=tkwait,wait,wait_visibility
+
+--- wait_visibility(on_thread = true)
+--- wait(on_thread = true)
+--- tkwait(on_thread = true)
+@todo
+
+
+
+
+

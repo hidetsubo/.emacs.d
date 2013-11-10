@@ -1,0 +1,8 @@
+requires=webrick.httpstatus,webrick.httputils
+category=
+methods=
+sublibraries=
+classes=WEBrick=HTTPServlet=HTTPServletError,WEBrick=HTTPServlet=AbstractServlet
+is_sublibrary=true
+
+

@@ -1,0 +1,10 @@
+private=true
+params=(void)
+type=void
+name=tokfix
+filename=parse.y
+macro=true
+
+
+トークンバッファを NUL で終端します。
+

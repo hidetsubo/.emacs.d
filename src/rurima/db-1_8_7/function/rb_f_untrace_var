@@ -1,0 +1,8 @@
+params=(int argc, VALUE *argv)
+filename=variable.c
+name=rb_f_untrace_var
+type=VALUE
+macro=false
+private=false
+
+

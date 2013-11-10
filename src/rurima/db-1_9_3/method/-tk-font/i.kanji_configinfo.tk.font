@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=kanji_configinfo
+
+--- kanji_configinfo(slot = nil)
+@todo
+

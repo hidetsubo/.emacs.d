@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tbutton
+extended=
+aliases=
+included=Tk=Tile=TileWidget
+superclass=TkButton
+aliasof=
+
+

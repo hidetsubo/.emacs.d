@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=start
+
+--- start   -> Test::Unit::TestResult
+
+テストを実行します。
+
+テスト結果を保持した [[c:Test::Unit::TestResult]] オブジェクトを返します。

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=bufsize
+
+--- bufsize(val)
+@todo
+

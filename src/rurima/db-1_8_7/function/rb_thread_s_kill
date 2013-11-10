@@ -1,0 +1,8 @@
+params=(VALUE obj, VALUE th)
+filename=eval.c
+name=rb_thread_s_kill
+type=VALUE
+macro=false
+private=true
+
+

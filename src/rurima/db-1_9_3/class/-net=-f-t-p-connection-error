@@ -1,0 +1,10 @@
+library=net.ftp
+aliasof=
+type=class
+included=
+aliases=
+superclass=Net=FTPError
+extended=
+
+コネクションを確立する前に通信しようとした場合に
+発生する例外のクラスです。

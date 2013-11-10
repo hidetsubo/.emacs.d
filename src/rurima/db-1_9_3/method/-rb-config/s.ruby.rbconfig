@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=ruby
+
+--- ruby -> String
+
+ruby コマンドのフルパスを返します。
+

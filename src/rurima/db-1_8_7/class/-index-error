@@ -1,0 +1,9 @@
+type=class
+library=_builtin
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+添字が範囲外のときに発生します。

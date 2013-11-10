@@ -1,0 +1,11 @@
+library=webrick.log
+aliasof=
+type=class
+included=
+aliases=
+superclass=WEBrick=BasicLog
+extended=
+
+ログを取る機能を提供するクラスです。
+[[c:WEBrick::BasicLog]] との違いはログの各行の先頭に
+現在時刻が自動で挿入される点です。

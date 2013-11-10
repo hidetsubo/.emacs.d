@@ -1,0 +1,12 @@
+requires=
+category=Math
+methods=Fixnum/i.power=21.rational,Fixnum/i.quof.rational,Fixnum/i.rdiv.rational,Bignum/i.power=21.rational,Bignum/i.quof.rational,Bignum/i.rdiv.rational
+sublibraries=
+classes=
+is_sublibrary=false
+
+有理数を扱うためのライブラリです。
+
+
+1.9系では [[c:Rational]] クラスは組み込みクラスになりました。rational ラ
+イブラリは互換性のために残されています。

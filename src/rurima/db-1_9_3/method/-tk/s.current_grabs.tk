@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=current_grabs
+
+--- current_grabs(win = nil)
+@todo
+

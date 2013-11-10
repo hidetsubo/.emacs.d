@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=server_name
+
+--- server_name -> String
+
+ENV['SERVER_NAME'] を返します。
+

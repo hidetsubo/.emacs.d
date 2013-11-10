@@ -1,0 +1,7 @@
+kind=added
+visibility=public
+names=detect_implicit
+
+--- detect_implicit(thing)
+@todo
+

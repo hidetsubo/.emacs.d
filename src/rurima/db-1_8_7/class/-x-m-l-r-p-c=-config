@@ -1,0 +1,9 @@
+type=module
+library=xmlrpc.config
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+Configuration file for XML-RPC for Ruby

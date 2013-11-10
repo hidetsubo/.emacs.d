@@ -1,0 +1,10 @@
+private=false
+params=(struct FRAME *frame)
+type=void
+name=rb_gc_mark_frame
+filename=gc.c
+macro=false
+
+
+frame をマークします。
+

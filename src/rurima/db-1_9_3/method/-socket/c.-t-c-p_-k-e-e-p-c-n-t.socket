@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=TCP_KEEPCNT
+
+--- TCP_KEEPCNT -> Integer
+Maximum number of keepalive probes allowed before dropping a connection。
+[[m:BasicSocket#getsockopt]], [[m:BasicSocket#setsockopt]]
+の第2引数(optname)に使用します。
+
+@see [[man:tcp(7linux)]]
+

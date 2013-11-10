@@ -1,0 +1,9 @@
+library=tk.image
+aliasof=
+type=class
+included=Tk
+aliases=
+superclass=TkObject
+extended=
+
+

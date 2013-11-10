@@ -1,0 +1,10 @@
+private=false
+params=(unsigned int i)
+type=VALUE
+name=UINT2NUM
+filename=ruby.h
+macro=true
+
+
+任意の整数を Fixnum か Bignum に変換します。
+

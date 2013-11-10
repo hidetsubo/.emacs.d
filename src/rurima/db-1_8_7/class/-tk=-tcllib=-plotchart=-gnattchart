@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tcllib.plotchart
+extended=
+aliases=
+included=Tk=Tcllib=Plotchart=ChartMethod
+superclass=TkCanvas
+aliasof=
+
+

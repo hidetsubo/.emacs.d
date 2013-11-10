@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=close
+
+--- close -> ()
+データベースクラスの close メソッドを呼び出して、
+セッション情報をサーバに保存し、セッションストレージをクローズします。
+

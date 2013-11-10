@@ -1,0 +1,7 @@
+kind=defined
+visibility=private 
+names=EMPTY_STRING
+
+--- EMPTY_STRING -> String
+内部で利用する定数です。
+

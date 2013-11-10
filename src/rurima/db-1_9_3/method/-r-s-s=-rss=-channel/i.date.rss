@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=date,date=,pubDate,pubDate=
+
+--- date
+--- pubDate
+--- date=
+--- pubDate=
+@todo
+

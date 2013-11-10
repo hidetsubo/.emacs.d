@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=release=
+
+--- release=(rel)
+
+プログラムのリリースを文字列で指定します。
+
+@param rel プログラムのリリースを文字列で指定します。
+

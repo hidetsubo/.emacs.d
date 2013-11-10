@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=selection_set
+
+--- selection_set(first, last = nil)
+@todo
+

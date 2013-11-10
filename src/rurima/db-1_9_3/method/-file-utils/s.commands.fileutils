@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=commands
+
+--- commands -> Array
+
+何らかのオプションを持つメソッド名の配列を返します。
+
+  FileUtils.commands  # => ["chmod", "cp", "cp_r", "install", ...]
+

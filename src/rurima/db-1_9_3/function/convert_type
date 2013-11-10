@@ -1,0 +1,8 @@
+private=true
+params=(VALUE val, const char *tname, const char *method, int raise)
+type=VALUE
+name=convert_type
+filename=object.c
+macro=false
+
+

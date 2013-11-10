@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=get_obj
+
+--- get_obj(name)
+@todo
+

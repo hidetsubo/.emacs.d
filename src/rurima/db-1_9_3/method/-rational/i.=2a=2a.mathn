@@ -1,0 +1,9 @@
+kind=redefined
+visibility=public
+names=**
+
+--- **(rhs) -> Numeric
+@todo
+
+self のべき乗を返します。 Rational になるようであれば Rational で返します。
+

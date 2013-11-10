@@ -1,0 +1,9 @@
+type=class
+library=soap.rpc.standaloneServer
+extended=
+aliases=
+included=
+superclass=SOAP=RPC=HTTPServer
+aliasof=
+
+

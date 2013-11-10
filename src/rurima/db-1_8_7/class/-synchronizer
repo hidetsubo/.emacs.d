@@ -1,0 +1,9 @@
+type=class
+library=sync
+extended=
+aliases=
+included=
+superclass=
+aliasof=Sync
+
+Alias of [[c:Sync]]

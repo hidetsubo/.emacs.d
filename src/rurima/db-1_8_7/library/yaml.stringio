@@ -1,0 +1,11 @@
+requires=
+sublibraries=
+is_sublibrary=true
+category=
+methods=YAML/s.make_stream.yaml.stringio
+classes=
+
+[[lib:stringio]] ライブラリが使用できない環境を補助するためのサブライブ
+ラリです。
+
+ライブラリ内部で使用する [[c:StringIO]] と同名のクラスを定義します。

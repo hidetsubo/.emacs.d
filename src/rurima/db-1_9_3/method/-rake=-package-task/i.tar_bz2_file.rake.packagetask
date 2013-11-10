@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=tar_bz2_file
+
+--- tar_bz2_file -> String
+
+tar.bz2 用のファイル名を返します。
+

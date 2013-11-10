@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=match_to_consume
+
+--- match_to_consume(char, pattern)
+@todo
+

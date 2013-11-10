@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=irb_name
+
+--- irb_name -> String
+
+起動しているコマンド名を文字列で返します。
+
+
+@see [[m:IRB::Context#irb_name=]]
+

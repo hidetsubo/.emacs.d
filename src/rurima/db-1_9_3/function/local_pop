@@ -1,0 +1,12 @@
+private=true
+params=(void)
+type=void
+name=local_pop
+filename=parse.y
+macro=false
+
+
+ローカル変数テーブルをポップします。
+テーブルが参照されていない場合、
+テーブルは自動的に開放されます。
+

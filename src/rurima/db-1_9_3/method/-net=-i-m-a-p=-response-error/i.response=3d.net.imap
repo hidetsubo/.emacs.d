@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=response=
+
+--- response=(resp)
+エラーとなったレスポンスを表すオブジェクトを設定します。
+
+@param resp 設定するレスポンスオブジェクト
+

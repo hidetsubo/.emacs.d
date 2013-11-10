@@ -1,0 +1,10 @@
+library=dl
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+ダイナミックライブラリの関数を表すクラスです。通常、このクラスを直接使わずに
+ラッパークラスである [[c:DL::Function]] を使います。

@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=version=
+
+--- version=()
+@todo
+作成するXMLのバージョンを設定します．
+

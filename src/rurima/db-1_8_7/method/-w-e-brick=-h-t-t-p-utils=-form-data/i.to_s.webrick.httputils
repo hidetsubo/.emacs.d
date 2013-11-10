@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=to_s
+
+--- to_s      -> String
+
+自身が表すフォームデータのうちのひとつを文字列として返します。

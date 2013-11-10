@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=maxlen
+
+--- maxlen(*src_strings)
+@todo
+

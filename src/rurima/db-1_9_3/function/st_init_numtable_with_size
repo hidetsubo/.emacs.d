@@ -1,0 +1,11 @@
+private=false
+params=(int size)
+type=st_table *
+name=st_init_numtable_with_size
+filename=st.c
+macro=false
+
+
+キーが int 型であるハッシュテーブルを作成する。
+st_init_table() に int 用の操作関数を渡しているだけ。
+

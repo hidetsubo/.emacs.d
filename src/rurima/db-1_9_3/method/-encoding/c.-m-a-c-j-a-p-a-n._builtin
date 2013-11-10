@@ -1,0 +1,17 @@
+kind=defined
+visibility=public
+names=MACJAPAN,MACJAPANESE,MacJapan,MacJapanese
+
+--- MacJapanese -> Encoding
+--- MACJAPAN -> Encoding
+--- MACJAPANESE -> Encoding
+--- MacJapan -> Encoding
+
+MacJapanese エンコーディング。
+
+Mac OS の 9.x までで用いられていた Shift_JIS 亜種です。
+
+@see [[url:http://unicode.org/Public/MAPPINGS/VENDORS/APPLE/JAPANESE.TXT]],
+     [[url:http://ja.wikipedia.org/wiki/MacJapanese]]
+
+

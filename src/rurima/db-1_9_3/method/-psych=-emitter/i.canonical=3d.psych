@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=canonical=
+
+--- canonical=(bool)
+@todo
+
+Set the output style to canonical, or not.
+

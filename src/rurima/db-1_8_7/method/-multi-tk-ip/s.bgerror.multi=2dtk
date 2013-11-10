@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=bgerror
+
+--- bgerror(cmd = Proc.new, slave = nil, &block)
+@todo
+

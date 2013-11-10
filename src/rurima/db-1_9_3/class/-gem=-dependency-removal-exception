@@ -1,0 +1,9 @@
+library=rubygems.exceptions
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Exception
+extended=
+
+Gem を削除出来なかった場合に使用する例外です。

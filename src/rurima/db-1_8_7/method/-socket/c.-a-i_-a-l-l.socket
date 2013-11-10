@@ -1,0 +1,12 @@
+visibility=public
+kind=defined
+names=AI_ALL
+
+--- AI_ALL -> Integer
+Allow all addresses。
+
+[[m:Socket.getaddrinfo]], [[m:Addrinfo.getaddrinfo]] の引数 flags に渡す
+定数です。
+
+@see [[man:getaddrinfo(3)]]
+

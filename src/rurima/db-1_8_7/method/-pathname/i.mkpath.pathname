@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=mkpath
+
+--- mkpath -> nil
+FileUtils.mkpath(self.to_s) と同じです。
+
+@see [[m:FileUtils.#mkpath]]
+

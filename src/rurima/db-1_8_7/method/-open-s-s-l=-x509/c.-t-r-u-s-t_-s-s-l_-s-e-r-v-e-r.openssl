@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=TRUST_SSL_SERVER
+
+--- TRUST_SSL_SERVER -> Integer
+@todo
+

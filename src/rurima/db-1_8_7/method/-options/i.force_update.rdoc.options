@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=force_update
+
+--- force_update -> bool
+
+コマンドライン引数の --force_update を指定していた場合に true を返しま
+す。そうでない場合は false を返します。
+

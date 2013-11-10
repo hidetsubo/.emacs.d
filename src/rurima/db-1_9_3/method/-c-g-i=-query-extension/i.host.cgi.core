@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=host
+
+--- host -> String
+
+ENV['HTTP_HOST'] を返します。
+

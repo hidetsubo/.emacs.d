@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=normalize
+
+--- normalize(input, entities = nil, entity_filter = nil)
+@todo
+

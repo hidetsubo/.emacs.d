@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=actual_displayof
+
+--- actual_displayof(fnt, win, option = nil)
+@todo
+

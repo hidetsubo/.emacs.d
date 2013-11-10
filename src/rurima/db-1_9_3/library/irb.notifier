@@ -1,0 +1,10 @@
+requires=e2mmap,irb.output=2dmethod
+category=
+methods=
+sublibraries=
+classes=
+is_sublibrary=true
+
+ライブラリ内部で使用します。
+
+このライブラリで定義されているメソッドはユーザが直接使用するものではありません。

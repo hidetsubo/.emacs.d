@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=set_owner
+
+--- set_owner(win, keys = nil)
+@todo
+

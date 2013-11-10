@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=instate
+
+--- instate(spec, cmd = Proc.new)
+@todo
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=args
+
+--- args -> [Integer]
+引数の型を表す配列を返します。
+

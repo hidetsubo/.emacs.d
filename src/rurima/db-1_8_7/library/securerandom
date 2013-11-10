@@ -1,0 +1,9 @@
+requires=
+sublibraries=
+is_sublibrary=false
+category=
+methods=
+classes=SecureRandom
+
+安全な乱数発生器のためのインターフェースを提供するライブラリです。
+HTTP のセッションキーなどに適しています。

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=public_key
+
+--- public_key -> OpenSSL::PKey::DSA
+公開鍵を複製して DSA オブジェクトとして返します。
+

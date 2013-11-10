@@ -1,0 +1,11 @@
+params=(int level)
+filename=eval.c
+name=rb_secure
+type=void
+macro=false
+private=false
+
+
+現在のセーフレベルが level 以上のとき、
+例外 SecurityError を発生します。
+

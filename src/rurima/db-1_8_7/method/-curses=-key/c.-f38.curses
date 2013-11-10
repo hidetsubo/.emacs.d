@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=F38
+
+--- F38 -> Integer
+
+F38 キーを表す定数です。
+

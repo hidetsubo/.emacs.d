@@ -1,0 +1,9 @@
+kind=defined
+visibility=public 
+names=bytes_read
+
+--- bytes_read -> Integer
+
+自身から読み込んだバイト数を返します。
+
+

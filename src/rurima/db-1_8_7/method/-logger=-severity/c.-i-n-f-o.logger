@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=INFO
+
+--- INFO  -> Integer
+ログレベル:情報を表す定数です。
+

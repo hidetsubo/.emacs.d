@@ -1,0 +1,9 @@
+requires=rdoc.constant,rdoc.context,rdoc.anon_class,rdoc.alias,rdoc.normal_class,rdoc.top_level,rdoc.any_method,rdoc.normal_module,rdoc.meta_method,rdoc.code_object,rdoc.require,rdoc.attr,rdoc.ghost_method,rdoc.single_class,rdoc.class_module,rdoc.include
+category=
+methods=
+sublibraries=
+classes=
+is_sublibrary=true
+
+Ruby のソースコード中にあるクラス、モジュール、メソッドなどの構成要素を
+表現するためのサブライブラリです。

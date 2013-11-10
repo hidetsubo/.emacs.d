@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=dir_stack,dirs
+
+--- dirs -> [String]
+--- dir_stack -> [String]
+@todo
+

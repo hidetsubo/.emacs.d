@@ -1,0 +1,8 @@
+private=true
+params=(VALUE proc)
+type=VALUE
+name=proc_binding
+filename=eval.c
+macro=false
+
+

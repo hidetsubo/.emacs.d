@@ -1,0 +1,11 @@
+private=true
+params=(void)
+type=void
+name=stat_col
+filename=st.c
+macro=false
+
+
+ハッシュの衝突に関する統計を /tmp/col に出力する。
+#ifdef HASH_LOG のときだけ定義される、開発者用関数。
+

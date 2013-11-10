@@ -1,0 +1,8 @@
+private=true
+params=(int tag, VALUE mesg)
+type=void
+name=rb_longjmp
+filename=eval.c
+macro=false
+
+

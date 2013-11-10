@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=predicates
+
+--- predicates -> [String]
+
+self.segments の同じ位置に対応する検索条件を文字列の配列で返します。
+

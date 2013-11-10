@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=field_row?
+
+--- field_row? -> bool
+フィールド行であれば真を返します。そうでなければ偽を返します。
+

@@ -1,0 +1,9 @@
+library=rubygems.version_option
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+[[c:Gem::Command]] の --version, --platform オプションのためのモジュールです。

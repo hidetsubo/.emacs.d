@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=traverse
+
+--- traverse {|v, *rank| ... }
+@todo
+

@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=return_format
+
+--- return_format -> String
+
+irb のプロンプトでの評価結果を表示する際のフォーマットを文字列で返します。
+
+@see [[m:IRB::Context#return_format=]], [[d:print_format]]
+

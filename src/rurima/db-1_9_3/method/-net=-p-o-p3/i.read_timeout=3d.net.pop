@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=read_timeout=
+
+--- read_timeout=(n)
+読み込みでブロックしてよい最大秒数を設定します。
+
+@see [[m:Net::POP3#read_timeout]]
+

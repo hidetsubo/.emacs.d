@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=test_suites
+
+--- test_suites -> Array
+
+テストクラス名のリストを返します。
+
+

@@ -1,0 +1,8 @@
+params=(ID id, VALUE *var)
+filename=variable.c
+name=var_getter
+type=VALUE
+macro=false
+private=true
+
+

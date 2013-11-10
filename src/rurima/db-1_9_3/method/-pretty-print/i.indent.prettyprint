@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=indent
+
+--- indent    -> Integer
+
+現在のインデントの深さを返します。

@@ -1,0 +1,11 @@
+params=(VALUE self, NODE *node, char *buf)
+filename=eval.c
+name=is_defined
+type=char *
+macro=false
+private=true
+
+
+node を self = self で評価したとき値が得られそうな
+式であれば、node の種別を表す文字列を返します。
+

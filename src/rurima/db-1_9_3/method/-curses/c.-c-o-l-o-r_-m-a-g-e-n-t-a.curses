@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=COLOR_MAGENTA
+
+--- COLOR_MAGENTA -> Integer
+
+マゼンタを表す定数です。
+

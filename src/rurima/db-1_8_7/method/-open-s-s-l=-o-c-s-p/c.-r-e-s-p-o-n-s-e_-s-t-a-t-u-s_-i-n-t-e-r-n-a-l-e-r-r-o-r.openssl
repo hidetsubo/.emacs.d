@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=RESPONSE_STATUS_INTERNALERROR
+
+--- RESPONSE_STATUS_INTERNALERROR -> Integer
+[[m:OpenSSL::OCSP::Response#status]] のステータスコードで 、
+OCSP レスポンダの内部エラーにより妥当な応答を返せないことを意味します。
+
+詳しくは [[RFC:2560]] 2.3 を見てください。
+
+

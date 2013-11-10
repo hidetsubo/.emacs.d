@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=PRIO_PROCESS
+
+--- PRIO_PROCESS -> Fixnum
+
+対象とするプライオリティがプロセスプライオリティであることを表す定数です。
+
+[[m:Process.#getpriority]] または [[m:Process.#setpriority]] で使われます。
+

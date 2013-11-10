@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=parser
+
+--- parser -> JSON::Ext::Parser
+
+JSON ライブラリがパーサとして使用するクラスを返します。
+
+

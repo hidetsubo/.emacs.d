@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=bind_append
+
+--- bind_append(seq, *args)
+@todo
+

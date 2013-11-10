@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=INSECURE_METHOD
+
+--- INSECURE_METHOD -> [Symbol]
+セキュアでないメソッドのリスト。
+
+これに含まれるメソッドは dRuby 経由では呼び出せません。

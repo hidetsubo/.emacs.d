@@ -1,0 +1,17 @@
+visibility=public
+kind=defined
+names=V_ERR_APPLICATION_VERIFICATION
+
+--- V_ERR_APPLICATION_VERIFICATION -> Integer
+アプリケーションが利用するエラーコードです。
+
+OpenSSL のライブラリでは使われないので、
+アプリケーションプログラマが自由に利用することが可能です。
+
+[[m:OpenSSL::X509::Store#error]] や
+[[m:OpenSSL::X509::StoreContext#error]] のエラーコードとして
+使われます。
+
+@see [[m:OpenSSL::X509::Store#verify_callback=]],
+     [[m:OpenSSL::X509::StoreContext#error=]]
+

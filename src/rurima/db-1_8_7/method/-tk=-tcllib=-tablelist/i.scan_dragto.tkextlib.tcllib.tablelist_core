@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=scan_dragto
+
+--- scan_dragto(x, y)
+@todo
+

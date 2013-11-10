@@ -1,0 +1,13 @@
+kind=defined
+visibility=public
+names=to_s
+
+--- to_s   -> String
+パス名を文字列で返します。
+
+
+    require 'pathname'
+    
+    path = Pathname.new("/tmp/hogehoge")
+    File.open(path)
+

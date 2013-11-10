@@ -1,0 +1,10 @@
+kind=added
+visibility=public
+names=new
+
+--- new(handler = Handler.new) -> Psych::Parser
+@todo
+
+Creates a new Psych::Parser instance with +handler+.  YAML events will
+be called on +handler+.  See Psych::Parser for more details.
+

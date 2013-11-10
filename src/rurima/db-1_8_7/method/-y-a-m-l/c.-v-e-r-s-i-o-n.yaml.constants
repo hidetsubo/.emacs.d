@@ -1,0 +1,8 @@
+visibility=public
+kind=added
+names=VERSION
+
+--- VERSION -> "0.60"
+
+このライブラリのバージョンを文字列で返します。
+

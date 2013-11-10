@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=close,end
+
+--- close -> nil
+--- end -> nil
+
+ストリームを閉じます。
+以後、このストリームにアクセスすることはできなくなります。
+

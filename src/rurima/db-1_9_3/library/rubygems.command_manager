@@ -1,0 +1,23 @@
+requires=rubygems.command_manager,rubygems.uninstaller,rubygems.user_interaction,rubygems.security,rubygems.commands.fetch_command,rubygems.commands.update_command,rubygems.commands.uninstall_command,rubygems.commands.specification_command,rubygems.exceptions,rubygems.commands.check_command,rubygems.ext.configure_builder,rubygems.ext,rubygems.dependency_installer,rubygems.spec_fetcher,rubygems.source_info_cache_entry,rubygems.commands.outdated_command,rubygems.package.tar_output,rubygems.ext.ext_conf_builder,rubygems.version,rubygems.dependency,rubygems.indexer,rubygems.commands.lock_command,rubygems.commands.help_command,rubygems.commands.cert_command,rubygems.source_index,rubygems.builder,rubygems.source_info_cache,rubygems.commands.unpack_command,rubygems.package,rubygems.commands.mirror_command,rubygems.package.tar_header,rubygems.commands.which_command,rubygems.ext.builder,rubygems.package.tar_input,rubygems.gem_openssl,rubygems.commands.dependency_command,rubygems.installer,rubygems.defaults,rubygems.commands.stale_command,rubygems.digest.sha2,rubygems.version_option,rubygems,rubygems.commands.query_command,rubygems.commands.cleanup_command,rubygems.doc_manager,rubygems.ext.rake_builder,rubygems.commands.search_command,rubygems.commands.rdoc_command,rubygems.package.tar_reader.entry,rubygems.commands.build_command,rubygems.dependency_list,rubygems.commands.sources_command,rubygems.commands.list_command,rubygems.validator,rubygems.format,rubygems.digest.md5,rubygems.commands.pristine_command,rubygems.commands.contents_command,rubygems.install_update_options,rubygems.command,rubygems.commands.generate_index_command,rubygems.specification,rubygems.package.tar_reader,rubygems.commands.environment_command,rubygems.platform,rubygems.package.tar_writer,rubygems.remote_fetcher,rubygems.require_paths_builder,rubygems.gem_path_searcher,rubygems.commands.server_command,rubygems.server,rubygems.package.f_sync_dir,rubygems.requirement,rubygems.local_remote_options,rubygems.commands.install_command
+category=
+methods=
+sublibraries=
+classes=Gem=CommandManager
+is_sublibrary=true
+
+gem コマンドによってサポートされているサブコマンドを管理するライブラリです。
+
+Extra commands can be provided by writing a rubygems_plugin.rb
+file in an installed gem.  You should register your command against the
+Gem::CommandManager instance, like this:
+
+  # file rubygems_plugin.rb
+  require 'rubygems/command_manager'
+
+  class Gem::Commands::EditCommand < Gem::Command
+    # ...
+  end
+
+  Gem::CommandManager.instance.register_command :edit
+
+See Gem::Command for instructions on writing gem commands.

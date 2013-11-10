@@ -1,0 +1,10 @@
+type=class
+library=net.protocol
+extended=
+aliases=
+included=
+superclass=Net=ProtocolError
+aliasof=
+
+サーバへのリクエストが間違っているなど、致命的エラーの
+場合に発生するエラーです。

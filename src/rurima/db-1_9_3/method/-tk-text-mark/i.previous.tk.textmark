@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=previous
+
+--- previous(index = nil)
+@todo
+
+

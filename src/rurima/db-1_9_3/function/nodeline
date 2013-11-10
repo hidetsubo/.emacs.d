@@ -1,0 +1,11 @@
+private=true
+params=(NODE *node)
+type=int
+name=nodeline
+filename=parse.y
+macro=false
+
+
+node に埋め込まれている行番号を返します。
+デバッグ用です。
+

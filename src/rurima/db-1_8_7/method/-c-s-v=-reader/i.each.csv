@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=each
+
+--- each {|row| ... } -> nil
+自身から 1 行ずつ読み込み、それを引数として与えられたブロックを実行します。
+

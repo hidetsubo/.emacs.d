@@ -1,0 +1,9 @@
+type=module
+library=rdoc.rdoc
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+rdoc ドキュメントを扱うためのモジュールです。

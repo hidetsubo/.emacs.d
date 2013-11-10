@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=content_type
+
+--- content_type -> String
+
+ENV['CONTENT_TYPE'] を返します。
+

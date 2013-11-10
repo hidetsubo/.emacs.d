@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=SOPRI_BACKGROUND
+
+--- SOPRI_BACKGROUND -> Integer
+@todo
+Background socket priority
+

@@ -1,0 +1,9 @@
+type=class
+library=wsdl.port_type
+extended=
+aliases=
+included=
+superclass=WSDL=Info
+aliasof=
+
+

@@ -1,0 +1,9 @@
+type=class
+library=logger
+extended=
+aliases=
+included=Logger=Severity
+superclass=Object
+aliasof=
+
+ログを記録するためのクラスです。

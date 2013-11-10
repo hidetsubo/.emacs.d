@@ -1,0 +1,10 @@
+params=(VALUE x, int f)
+filename=ruby.h
+name=FL_REVERSE
+type=void
+macro=true
+private=false
+
+
+x のフラグ f を反転する。
+

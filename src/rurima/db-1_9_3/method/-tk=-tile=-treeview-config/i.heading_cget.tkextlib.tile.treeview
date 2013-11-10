@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=heading_cget,headingcget
+
+--- headingcget(tagOrId, option)
+--- heading_cget(tagOrId, option)
+@todo
+

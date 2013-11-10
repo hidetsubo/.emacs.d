@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=new
+
+--- new(max) -> SizedQueue
+SizedQueue オブジェクトを生成します。
+
+@param max キューのサイズの最大値です。
+

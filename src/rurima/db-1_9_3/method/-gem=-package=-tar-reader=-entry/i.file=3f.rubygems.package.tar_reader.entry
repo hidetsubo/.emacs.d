@@ -1,0 +1,9 @@
+kind=defined
+visibility=public 
+names=file?
+
+--- file? -> bool
+
+自身がファイルであれば、真を返します。
+そうでない場合は、偽を返します。
+

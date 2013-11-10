@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=delch
+
+--- delch -> nil
+
+カーソルの下の文字を削除します。
+

@@ -1,0 +1,11 @@
+params=(const char *str)
+filename=parse.y
+name=warning_unless_e_option
+type=void
+macro=false
+private=true
+
+
+ruby -e で与えたプログラムの評価中ではなく、
+しかも $VERBOSE が真ならば、警告メッセージ str を出力する。
+

@@ -1,0 +1,8 @@
+private=true
+params=(VALUE id, VALUE a)
+type=void
+name=cvar_override_check
+filename=variable.c
+macro=false
+
+

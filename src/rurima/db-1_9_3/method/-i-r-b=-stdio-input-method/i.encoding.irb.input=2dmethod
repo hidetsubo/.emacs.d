@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=encoding
+
+--- encoding -> Encoding
+
+自身の文字エンコーディングを返します。
+

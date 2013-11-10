@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=server_protocol
+
+--- server_protocol -> String
+
+ENV['SERVER_PROTOCOL'] を返します。
+

@@ -1,0 +1,8 @@
+private=true
+params=(NODE *recv, ID id, int narg, NODE *arg1)
+type=NODE *
+name=call_op
+filename=parse.y
+macro=false
+
+

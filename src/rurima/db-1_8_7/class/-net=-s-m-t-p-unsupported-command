@@ -1,0 +1,10 @@
+type=class
+library=net.smtp
+extended=
+aliases=
+included=Net=SMTPError
+superclass=Net=ProtocolError
+aliasof=
+
+サーバで利用できないコマンドを送ろうとした時に発生する
+例外のクラスです。

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=alias_delete
+
+--- alias_delete(slave, cmd_name)
+@todo
+

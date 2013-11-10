@@ -1,0 +1,11 @@
+params=(VALUE obj, ID id)
+filename=variable.c
+name=rb_ivar_defined
+type=VALUE
+macro=false
+private=false
+
+
+オブジェクト obj のインスタンス変数 name が
+定義されていれば真。
+

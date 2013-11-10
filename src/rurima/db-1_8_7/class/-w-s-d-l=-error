@@ -1,0 +1,9 @@
+type=class
+library=wsdl.wsdl
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+

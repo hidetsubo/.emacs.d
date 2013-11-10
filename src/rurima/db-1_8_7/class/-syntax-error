@@ -1,0 +1,9 @@
+type=class
+library=_builtin
+extended=
+aliases=
+included=
+superclass=ScriptError
+aliasof=
+
+ソースコードに文法エラーがあったときに発生します。

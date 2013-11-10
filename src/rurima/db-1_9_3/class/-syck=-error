@@ -1,0 +1,9 @@
+library=syck.error
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+意図しない入力がメソッドに与えられた時などに発生します。

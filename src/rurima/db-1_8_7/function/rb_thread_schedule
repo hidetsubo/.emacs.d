@@ -1,0 +1,13 @@
+params=(void)
+filename=eval.c
+name=rb_thread_schedule
+type=void
+macro=false
+private=false
+
+
+他のスレッドに実行権を渡します。
+対象の特定はできません。
+
+see also: [[f:rb_thread_wait_fd]], [[f:rb_thread_wait_for]]
+

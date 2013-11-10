@@ -1,0 +1,9 @@
+library=rubygems.user_interaction
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+このモジュールはデフォルトの [[c:Gem::UserInteraction]] を定義しています。

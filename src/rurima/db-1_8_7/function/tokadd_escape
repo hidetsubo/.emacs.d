@@ -1,0 +1,13 @@
+params=(int term)
+filename=parse.y
+name=tokadd_escape
+type=int
+macro=false
+private=true
+
+
+文字列・正規表現中で許されるバックスラッシュ記法を
+入力バッファから読みとり、トークンバッファに追加します。
+先頭のバックスラッシュはすでに読みこんでいるものと仮定します。
+不正な記法に対しては yyerror を呼び出し 0 を返します。
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=ensemble_configinfo
+
+--- ensemble_configinfo(cmd, slot = nil))
+@todo
+

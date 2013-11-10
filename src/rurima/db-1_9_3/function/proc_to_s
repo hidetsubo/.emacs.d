@@ -1,0 +1,8 @@
+private=true
+params=(VALUE self, VALUE other)
+type=VALUE
+name=proc_to_s
+filename=eval.c
+macro=false
+
+

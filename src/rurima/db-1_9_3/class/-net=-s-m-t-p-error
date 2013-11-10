@@ -1,0 +1,9 @@
+library=net.smtp
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+SMTP 関連の例外に include されるモジュールです。

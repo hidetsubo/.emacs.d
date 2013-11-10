@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=F50
+
+--- F50 -> Integer
+
+F50 キーを表す定数です。
+

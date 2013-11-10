@@ -1,0 +1,8 @@
+params=(VALUE exc)
+filename=eval.c
+name=localjump_exitstatus
+type=VALUE
+macro=false
+private=true
+
+

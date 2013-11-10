@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=unit_test
+
+--- unit_test(gem_spec)
+
+与えられた Gem スペックにしたがってユニットテストを実行します。
+
+@param gem_spec [[c:Gem::Specification]] のインスタンスを指定します。
+

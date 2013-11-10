@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=RUBY
+
+--- RUBY -> String
+
+Pure Ruby の Gem はバイナリファイルをビルドするために [[m:Gem::Specification#extensions]]
+を使用する可能性があります。

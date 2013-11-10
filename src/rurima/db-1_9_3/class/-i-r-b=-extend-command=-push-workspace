@@ -1,0 +1,9 @@
+library=irb.cmd.pushws
+aliasof=
+type=class
+included=
+aliases=
+superclass=IRB=ExtendCommand=Nop
+extended=
+
+irb 中の irb_push_workspace コマンドのための拡張を定義したクラスです。

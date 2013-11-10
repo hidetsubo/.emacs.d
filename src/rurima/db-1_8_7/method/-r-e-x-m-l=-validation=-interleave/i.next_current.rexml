@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=next_current
+
+--- next_current(event)
+@todo
+

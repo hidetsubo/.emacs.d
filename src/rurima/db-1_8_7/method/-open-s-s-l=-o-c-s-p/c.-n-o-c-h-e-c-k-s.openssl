@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=NOCHECKS
+
+--- NOCHECKS -> Integer
+署名の検証における追加的なチェックを省略することを意味します。
+

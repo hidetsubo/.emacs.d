@@ -1,0 +1,9 @@
+library=openssl
+aliasof=
+type=class
+included=
+aliases=
+superclass=OpenSSL=PKCS7
+extended=
+
+このクラスは 1.8.6 以前との互換性のために存在します。

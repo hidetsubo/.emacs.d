@@ -1,0 +1,9 @@
+type=class
+library=tk.scrollbar
+extended=
+aliases=
+included=
+superclass=TkWindow
+aliasof=Scrollbar
+
+

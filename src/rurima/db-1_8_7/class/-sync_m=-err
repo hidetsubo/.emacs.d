@@ -1,0 +1,9 @@
+type=class
+library=sync
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+このライブラリで使用する例外の基底クラスです。

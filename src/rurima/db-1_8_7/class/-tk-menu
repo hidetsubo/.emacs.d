@@ -1,0 +1,9 @@
+type=class
+library=tk.menu
+extended=TkMenuSpec
+aliases=
+included=TkMenuEntryConfig,Tk=Wm
+superclass=TkWindow
+aliasof=Menu
+
+

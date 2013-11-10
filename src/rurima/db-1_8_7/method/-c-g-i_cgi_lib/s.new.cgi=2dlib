@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=new
+
+--- new(input = $stdin) -> CGI_cgi_lib
+
+自身を初期化します。
+

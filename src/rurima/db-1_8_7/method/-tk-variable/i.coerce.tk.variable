@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=coerce
+
+--- coerce(other)
+@todo
+

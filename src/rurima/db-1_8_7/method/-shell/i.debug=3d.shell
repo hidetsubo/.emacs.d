@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=debug=
+
+--- debug=(flag)
+@todo
+

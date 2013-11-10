@@ -1,0 +1,9 @@
+type=class
+library=runit.error
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+[[c:Test::Unit::AssertionFailedError]] の別名です。

@@ -1,0 +1,8 @@
+requires=tkextlib.treectrl.tktreectrl,tkextlib.treectrl.setup,tkextlib.setup
+sublibraries=tkextlib.treectrl.tktreectrl,tkextlib.treectrl.setup
+is_sublibrary=true
+category=
+methods=
+classes=
+
+

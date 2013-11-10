@@ -1,0 +1,11 @@
+private=false
+params=(VALUE obj, VALUE klass)
+type=VALUE
+name=rb_make_metaclass
+filename=class.c
+macro=false
+
+
+クラス klass のインスタンス obj に特異クラスを導入し
+特異クラスと obj を結びつけます。
+

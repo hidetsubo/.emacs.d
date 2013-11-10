@@ -1,0 +1,8 @@
+params=(VALUE obj)
+filename=ruby.h
+name=RFILE
+type=struct RFile *
+macro=true
+private=false
+
+

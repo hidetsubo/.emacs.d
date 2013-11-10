@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=stop_service
+
+--- stop_service -> ()
+サーバを停止します。
+
+@see [[m:DRb::DRbServer#alive?]]
+
+

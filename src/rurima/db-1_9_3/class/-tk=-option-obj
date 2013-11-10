@@ -1,0 +1,9 @@
+library=tk.optionobj
+aliasof=
+type=class
+included=TkUtil
+aliases=
+superclass=Hash
+extended=
+
+

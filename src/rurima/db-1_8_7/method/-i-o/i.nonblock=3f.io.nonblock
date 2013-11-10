@@ -1,0 +1,8 @@
+visibility=public
+kind=added
+names=nonblock?
+
+--- nonblock? -> bool
+self がノンブロックモードならば true を、
+ブロックモードなら false を返します。
+

@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=move
+
+--- move(port, tuple, sec = nil)
+@todo
+
+Moves +tuple+ to +port+.
+

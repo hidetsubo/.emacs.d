@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=KEY_CTAB
+
+--- KEY_CTAB -> Integer
+@todo
+Clear tab
+

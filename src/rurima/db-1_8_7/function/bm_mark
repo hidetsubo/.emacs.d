@@ -1,0 +1,8 @@
+params=(struct METHOD *data)
+filename=eval.c
+name=bm_mark
+type=void
+macro=false
+private=true
+
+

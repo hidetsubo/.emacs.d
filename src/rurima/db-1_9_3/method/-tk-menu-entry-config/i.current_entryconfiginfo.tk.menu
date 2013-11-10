@@ -1,0 +1,6 @@
+kind=defined
+visibility=public
+names=current_entryconfiginfo
+
+--- current_entryconfiginfo(tagOrId, slot = nil)
+@todo

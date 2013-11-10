@@ -1,0 +1,9 @@
+library=pty
+aliasof=
+type=class
+included=
+aliases=
+superclass=RuntimeError
+extended=
+
+子プロセスが終了したり停止した場合に発生する例外です。

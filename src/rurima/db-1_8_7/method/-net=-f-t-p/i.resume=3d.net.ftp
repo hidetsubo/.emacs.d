@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=resume=
+
+--- resume=(boolean)
+現在のリジュームモードを設定します。
+
+@param boolean trueならばリジュームモードを on にします。
+@see [[m:Net::FTP#resume]]
+

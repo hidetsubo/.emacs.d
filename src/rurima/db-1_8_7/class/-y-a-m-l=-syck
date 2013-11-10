@@ -1,0 +1,9 @@
+type=module
+library=syck
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+[[lib:yaml]] のバックエンドのためのモジュールです。

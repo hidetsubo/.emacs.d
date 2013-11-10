@@ -1,0 +1,8 @@
+params=(rb_thread_t th)
+filename=eval.c
+name=thread_free
+type=void
+macro=false
+private=true
+
+

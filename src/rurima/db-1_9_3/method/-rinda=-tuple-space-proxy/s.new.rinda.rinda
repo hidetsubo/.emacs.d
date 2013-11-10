@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=new
+
+--- new(ts)
+@todo
+
+Creates a new TupleSpaceProxy to wrap +ts+.
+

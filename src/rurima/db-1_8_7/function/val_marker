@@ -1,0 +1,8 @@
+params=(VALUE data)
+filename=variable.c
+name=val_marker
+type=void
+macro=false
+private=true
+
+

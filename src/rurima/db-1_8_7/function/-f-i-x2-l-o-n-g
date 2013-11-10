@@ -1,0 +1,11 @@
+params=(VALUE x)
+filename=ruby.h
+name=FIX2LONG
+type=long
+macro=true
+private=false
+
+
+Fixnum を long に変換します。
+Fixnum は常に long に収まります。
+

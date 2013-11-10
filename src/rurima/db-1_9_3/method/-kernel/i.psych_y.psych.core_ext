@@ -1,0 +1,7 @@
+kind=added
+visibility=public
+names=psych_y,y
+
+--- y(*objects) -> String
+--- psych_y(*objects) -> String
+@todo

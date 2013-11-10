@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=EMPTY_MARSHAL_CHECKSUM
+
+--- EMPTY_MARSHAL_CHECKSUM -> String
+
+内部で使用します。
+

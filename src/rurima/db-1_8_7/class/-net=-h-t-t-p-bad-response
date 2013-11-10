@@ -1,0 +1,9 @@
+type=class
+library=net.http
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+HTTP のレスポンスが不正であった場合に発生する例外です。

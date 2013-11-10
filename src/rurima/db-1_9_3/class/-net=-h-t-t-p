@@ -1,0 +1,9 @@
+library=net.http
+aliasof=
+type=class
+included=
+aliases=HTTPSession
+superclass=Object
+extended=
+
+HTTP のクライアントのためのクラスです。

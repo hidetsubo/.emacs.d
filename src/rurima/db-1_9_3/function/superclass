@@ -1,0 +1,11 @@
+private=true
+params=(VALUE self, NODE *node)
+type=VALUE
+name=superclass
+filename=eval.c
+macro=false
+
+
+クラス文のスーパークラスを表すノード node を
+評価してクラスを得ます。
+

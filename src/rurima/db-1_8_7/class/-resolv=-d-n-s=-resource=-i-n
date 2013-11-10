@@ -1,0 +1,12 @@
+type=module
+library=resolv
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+DNS のインターネットクラスリソースを表すモジュールです。
+
+インターネットクラスリソースを利用する class に
+mixinして利用します。

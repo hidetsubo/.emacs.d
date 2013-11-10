@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=SO_DONTTRUNC
+
+--- SO_DONTTRUNC -> Integer
+@todo
+Retain unread data
+

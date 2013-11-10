@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=expires
+
+--- expires -> Time
+
+クッキーの有効期限を返します。
+

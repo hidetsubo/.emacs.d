@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=SO_SECURITY_AUTHENTICATION
+
+--- SO_SECURITY_AUTHENTICATION -> Integer
+@todo
+

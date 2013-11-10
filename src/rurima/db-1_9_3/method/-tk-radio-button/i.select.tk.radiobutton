@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=select
+
+--- select
+@todo
+
+ラジオボタンをチェックした状態にします。
+
+

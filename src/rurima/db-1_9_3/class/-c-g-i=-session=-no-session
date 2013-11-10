@@ -1,0 +1,9 @@
+library=cgi.session
+aliasof=
+type=class
+included=
+aliases=
+superclass=RuntimeError
+extended=
+
+セッションが初期化されていない場合に発生する例外です。

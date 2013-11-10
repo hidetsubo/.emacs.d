@@ -1,0 +1,9 @@
+type=class
+library=wsdl.soap.standaloneServerStubCreator
+extended=
+aliases=
+included=WSDL=SOAP=ClassDefCreatorSupport
+superclass=Object
+aliasof=
+
+

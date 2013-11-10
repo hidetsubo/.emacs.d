@@ -1,0 +1,8 @@
+private=false
+params=(void)
+type=void
+name=Init_heap
+filename=gc.c
+macro=false
+
+

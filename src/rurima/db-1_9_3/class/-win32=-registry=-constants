@@ -1,0 +1,11 @@
+library=win32.registry
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+詳細は以下の MSDN Library を参照してください。
+
+ * Registry: [[url:http://msdn.microsoft.com/library/en-us/sysinfo/base/registry.asp]]

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=default_internal=
+
+--- default_internal=(encoding)
+規定の内部エンコーディングを設定します。
+

@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=initialize_classes_and_modules
+
+--- initialize_classes_and_modules -> ()
+
+追加されたクラスやモジュールをクリアします。
+

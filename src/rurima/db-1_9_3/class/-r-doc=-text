@@ -1,0 +1,9 @@
+library=rdoc.text
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+コメントテキストを処理するためのクラスです。

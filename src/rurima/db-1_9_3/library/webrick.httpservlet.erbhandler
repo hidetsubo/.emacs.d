@@ -1,0 +1,8 @@
+requires=webrick.httpstatus,webrick.httputils,webrick.httpservlet.abstract
+category=
+methods=
+sublibraries=
+classes=WEBrick=HTTPServlet=ERBHandler
+is_sublibrary=true
+
+ERB を扱うためのサーブレットを提供するライブラリです。

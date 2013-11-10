@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=tkwait
+
+--- tkwait(on_thread = true)
+@todo
+

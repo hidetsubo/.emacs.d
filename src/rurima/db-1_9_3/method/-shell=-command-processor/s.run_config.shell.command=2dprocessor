@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=run_config
+
+--- run_config -> ()
+
+ユーザのホームディレクトリに "~/.rb_shell" というファイルが存在すれば、それを [[m:Kernel.#load]] します。
+
+存在しない時は何もしません。
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=tk_call_with_enc
+
+--- tk_call_with_enc(*args)
+@todo
+
+

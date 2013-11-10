@@ -1,0 +1,11 @@
+library=thwait
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+終了を待つスレッドが存在しない時、発生します。
+
+@see [[m:ThreadsWait#next_wait]]

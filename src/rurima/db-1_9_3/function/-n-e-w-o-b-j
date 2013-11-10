@@ -1,0 +1,8 @@
+private=false
+params=(obj, int typeflag)
+type=void
+name=NEWOBJ
+filename=ruby.h
+macro=true
+
+

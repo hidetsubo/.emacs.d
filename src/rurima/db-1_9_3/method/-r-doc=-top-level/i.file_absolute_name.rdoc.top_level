@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=file_absolute_name
+
+--- file_absolute_name -> String
+
+自身が管理するファイルに関する絶対パスを文字列で返します。
+

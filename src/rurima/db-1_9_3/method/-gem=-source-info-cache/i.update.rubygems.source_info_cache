@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=update
+
+--- update -> true
+
+キャッシュが更新されたことをマークします。更新自体は行いません。
+

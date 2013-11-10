@@ -1,0 +1,9 @@
+type=class
+library=tk.checkbutton
+extended=
+aliases=
+included=
+superclass=TkRadioButton
+aliasof=TkCheckbutton
+
+Alias of [[c:TkCheckbutton]]

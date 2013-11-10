@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=detect_implicit
+
+--- detect_implicit(val)
+@todo
+

@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=to_a
+
+--- to_a
+@todo
+
+値を配列([[c:Array]])として返します。
+

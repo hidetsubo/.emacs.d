@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=file_input?
+
+--- file_input? -> bool
+
+ライブラリ内部で使用します。
+

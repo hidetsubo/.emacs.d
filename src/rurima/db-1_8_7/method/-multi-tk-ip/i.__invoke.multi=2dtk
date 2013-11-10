@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=__invoke
+
+--- __invoke(*args)
+@todo
+

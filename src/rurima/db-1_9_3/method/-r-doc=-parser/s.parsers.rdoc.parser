@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=parsers
+
+--- parsers -> [[Regexp, RDoc::Parser]]
+
+[[m:RDoc::Parser#parse_files_matching]] で登録した正規表現とパーサクラ
+スの配列の配列を返します。
+

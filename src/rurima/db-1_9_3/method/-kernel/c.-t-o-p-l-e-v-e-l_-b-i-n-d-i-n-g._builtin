@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=TOPLEVEL_BINDING
+
+--- TOPLEVEL_BINDING -> Binding
+
+トップレベルでの [[c:Binding]] オブジェクト。
+
+詳細は [[c:Binding]] を参照してください。
+

@@ -1,0 +1,9 @@
+type=class
+library=weakref
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+GC されたオブジェクトを参照しようとしたときに発生する例外です。

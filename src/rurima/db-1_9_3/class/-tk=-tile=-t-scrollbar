@@ -1,0 +1,9 @@
+library=tkextlib.tile.tscrollbar
+aliasof=Tk=Tile=Scrollbar
+type=class
+included=Tk=Tile=TileWidget,Tk=Tile=TileWidget
+aliases=
+superclass=TkWindow
+extended=
+
+Alias of [[c:Tk::Tile::Scrollbar]]

@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=section=
+
+--- section=(val)
+
+所属する section を設定します。
+
+@param val [[c:RDoc::Context::Section]] オブジェクトを指定します。
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=ConverterEncoding
+
+--- ConverterEncoding -> Encoding
+
+すべての変換器で使用するエンコーディングです。
+

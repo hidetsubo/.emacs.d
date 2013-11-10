@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=transparent_color
+
+--- transparent_color(image, color)
+@todo
+

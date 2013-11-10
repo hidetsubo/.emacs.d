@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=rowconfiginfo
+
+--- rowconfiginfo(master, index, slot=nil)
+@todo
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=uninstall_cmd
+
+--- uninstall_cmd(id)
+@todo
+
+

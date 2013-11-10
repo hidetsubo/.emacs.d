@@ -1,0 +1,18 @@
+visibility=public
+kind=defined
+names=/,div,quo
+
+--- div(other) -> BigDecimal | Float
+--- quo(other) -> BigDecimal | Float
+--- /(other)   -> BigDecimal | Float
+
+商を計算します。
+
+@param other self を割る数を指定します。
+             [[c:Float]] オブジェクトを指定した場合、[[c:Float]] オブジェ
+             クトを返します。
+
+詳細は [[m:Float#quo]] を参照して下さい。
+
+計算結果の精度については[[ref:lib:bigdecimal#precision]]を参照してください。
+

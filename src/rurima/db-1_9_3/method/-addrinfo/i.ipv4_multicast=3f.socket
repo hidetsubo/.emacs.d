@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=ipv4_multicast?
+
+--- ipv4_multicast? -> bool
+
+IPv4 のマルチキャストアドレス(224.0.0.0/4)であれば真を返します。
+

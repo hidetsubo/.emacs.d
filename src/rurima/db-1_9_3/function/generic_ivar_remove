@@ -1,0 +1,8 @@
+private=true
+params=(VALUE obj, ID id, VALUE *valp)
+type=int
+name=generic_ivar_remove
+filename=variable.c
+macro=false
+
+

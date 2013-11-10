@@ -1,0 +1,9 @@
+library=rss
+aliasof=
+type=class
+included=Enumerable
+aliases=RSS=Maker=ItemsBase=ItemBase=CategoriesBase
+superclass=Object
+extended=
+
+

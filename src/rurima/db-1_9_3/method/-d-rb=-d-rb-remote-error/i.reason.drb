@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=reason
+
+--- reason -> String
+wrapされている例外クラスの名前を返します。
+

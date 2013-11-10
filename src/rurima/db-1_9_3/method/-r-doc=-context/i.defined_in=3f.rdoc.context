@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=defined_in?
+
+--- defined_in?(file)
+
+Return true if at least part of this thing was defined in file
+

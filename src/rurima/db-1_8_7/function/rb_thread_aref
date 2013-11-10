@@ -1,0 +1,8 @@
+params=(VALUE thread, VALUE id)
+filename=eval.c
+name=rb_thread_aref
+type=VALUE
+macro=false
+private=true
+
+

@@ -1,0 +1,9 @@
+type=class
+library=wsdl.parser
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+[[c:WSDL::Parser]] 内部でのみ使用するクラス

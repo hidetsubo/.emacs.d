@@ -1,0 +1,9 @@
+type=class
+library=multi=2dtk
+extended=
+aliases=
+included=
+superclass=Exception
+aliasof=
+
+

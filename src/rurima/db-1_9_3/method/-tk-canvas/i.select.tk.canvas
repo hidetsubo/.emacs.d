@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=select
+
+--- select(mode, *args)
+@todo
+
+
+

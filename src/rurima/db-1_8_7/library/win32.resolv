@@ -1,0 +1,9 @@
+requires=win32.registry
+sublibraries=
+is_sublibrary=false
+category=Windows
+methods=
+classes=Win32=Resolv
+
+win32/resolv は Win32 プラットフォームで名前解決に関する情報を取得する
+ためのライブラリです。

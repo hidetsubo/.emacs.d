@@ -1,0 +1,9 @@
+type=class
+library=net.pop
+extended=
+aliases=
+included=
+superclass=
+aliasof=Net=POP3
+
+Alias of [[c:Net::POP3]]

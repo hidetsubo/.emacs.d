@@ -1,0 +1,14 @@
+kind=defined
+visibility=public
+names=primary_server
+
+--- primary_server -> DRb::DRbServer|nil
+ローカルプロセスのプライマリサーバーを返します。
+
+プライマリサーバとは [[m:DRb.#start_service]] によって
+起動されるサーバです。
+
+サーバが動いていない場合は nil を返します。
+
+@see [[m:DRb.#stop_service]]
+

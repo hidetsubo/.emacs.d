@@ -1,0 +1,19 @@
+library=webrick.httpserver
+aliasof=
+type=class
+included=
+aliases=
+superclass=WEBrick=GenericServer
+extended=
+
+HTTP サーバの機能を提供するクラスです。
+
+以下は HTTP サーバとしてちゃんと動作する例です。
+
+ require 'webrick'
+ srv = WEBrick::HTTPServer.new({:DocumentRoot => '/home/username/public_html/',
+                                :BindAddress => '127.0.0.1',
+                                :Port => 10080})
+ srv.mount('/hoge.pl', WEBrick::HTTPServlet::CGIHandler, 'really_executed_script.rb')
+ Signal.trap(:INT){ srv.shutdown }
+ srv.start

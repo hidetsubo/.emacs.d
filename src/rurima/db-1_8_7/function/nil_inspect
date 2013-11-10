@@ -1,0 +1,8 @@
+params=(VALUE obj)
+filename=object.c
+name=nil_inspect
+type=VALUE
+macro=false
+private=true
+
+

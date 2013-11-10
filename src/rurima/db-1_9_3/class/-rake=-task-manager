@@ -1,0 +1,9 @@
+library=rake
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+タスクを管理するためのモジュールです。

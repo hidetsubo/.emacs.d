@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=to_der
+
+--- to_der -> String
+Request オブジェクトを DER 形式の文字列に変換します。
+

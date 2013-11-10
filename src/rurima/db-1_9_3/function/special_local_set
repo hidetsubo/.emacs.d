@@ -1,0 +1,11 @@
+private=true
+params=(char c, VALUE val)
+type=void
+name=special_local_set
+filename=parse.y
+macro=false
+
+
+$~ と $_ をセットします。
+現在は c=0 が $_ で c=1 が $~ です。
+

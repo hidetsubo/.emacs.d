@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=window_configinfo
+
+--- window_configinfo(tagOrId, slot = nil)
+@todo
+

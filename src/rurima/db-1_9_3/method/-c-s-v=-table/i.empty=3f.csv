@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=empty?
+
+--- empty? -> bool
+
+[[m:Array#empty?]] に委譲します。
+

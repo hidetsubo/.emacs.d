@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=bind_all
+
+--- bind_all(context, *args)
+@todo
+

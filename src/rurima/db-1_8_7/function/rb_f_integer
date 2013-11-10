@@ -1,0 +1,8 @@
+params=(VALUE obj, VALUE arg)
+filename=object.c
+name=rb_f_integer
+type=VALUE
+macro=false
+private=true
+
+

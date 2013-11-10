@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=user
+
+--- user          -> String
+
+REMOTE_USER を文字列として返します。
+

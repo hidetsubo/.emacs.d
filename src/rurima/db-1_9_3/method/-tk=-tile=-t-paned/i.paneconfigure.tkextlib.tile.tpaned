@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=paneconfigure
+
+--- paneconfigure(pane, key, value = nil)
+@todo
+

@@ -1,0 +1,8 @@
+params=(VALUE os, VALUE obj)
+filename=gc.c
+name=call_final
+type=VALUE
+macro=false
+private=true
+
+

@@ -1,0 +1,10 @@
+type=class
+library=md5
+extended=
+aliases=
+included=
+superclass=Digest=MD5
+aliasof=
+
+MD5 ハッシュを生成するためのクラスです。
+[[c:Digest::MD5]] を使ってください。

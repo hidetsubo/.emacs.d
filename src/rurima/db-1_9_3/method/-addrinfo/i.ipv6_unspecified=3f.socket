@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=ipv6_unspecified?
+
+--- ipv6_unspecified? -> bool
+
+IPv6 の不特定アドレス(unspecified address)(::)であれば真を返します。
+

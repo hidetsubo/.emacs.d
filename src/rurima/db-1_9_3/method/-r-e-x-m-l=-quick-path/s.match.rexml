@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=match
+
+--- match(element, path, namespaces = EMPTY_HASH)
+@todo
+

@@ -1,0 +1,9 @@
+library=net.http
+aliasof=
+type=class
+included=
+aliases=
+superclass=Net=HTTPRequest
+extended=
+
+HTTP の LOCK リクエストを表すクラスです。

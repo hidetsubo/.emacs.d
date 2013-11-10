@@ -1,0 +1,11 @@
+private=false
+params=(void *x)
+type=void
+name=ruby_xfree
+filename=gc.c
+macro=false
+
+
+以前 malloc/calloc/realloc して free していないポインタ x を
+開放します。ruby のシグナル機構とコンフリクトしません。
+

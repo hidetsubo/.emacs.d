@@ -1,0 +1,11 @@
+library=digest.sha2
+aliasof=
+type=class
+included=
+aliases=
+superclass=Digest=Base
+extended=
+
+FIPS PUB 180-2に記述されているNIST (the US' National Institute of
+Standards and Technology) の SHA-256 Secure Hash Algorithmを
+実装するクラスです。

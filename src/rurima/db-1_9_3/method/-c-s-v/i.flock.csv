@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=flock
+
+--- flock(operation)    -> 0 | false
+
+[[m:File#flock]] に委譲します。
+

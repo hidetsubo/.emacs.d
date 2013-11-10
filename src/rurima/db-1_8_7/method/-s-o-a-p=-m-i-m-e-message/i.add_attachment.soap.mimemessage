@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=add_attachment
+
+--- add_attachment(attach)
+@todo
+

@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=serve
+
+--- serve(io) -> nil
+
+何もしません。サブクラスでオーバーライドします。
+
+@param io クライアントと接続している [[c:TCPSocket]] を指定します。
+

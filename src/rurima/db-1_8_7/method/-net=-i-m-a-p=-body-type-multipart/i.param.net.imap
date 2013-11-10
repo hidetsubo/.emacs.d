@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=param
+
+--- param -> { String => String }
+MIME のボディパラメータをハッシュテーブルで返します。
+
+ハッシュテーブルのキーがパラメータ名となります。
+
+@see [[RFC:2045]]
+

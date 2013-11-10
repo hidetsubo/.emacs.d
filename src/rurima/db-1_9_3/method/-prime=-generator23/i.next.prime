@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=next,succ
+
+--- next -> Integer
+--- succ -> Integer
+
+次の疑似素数を返します。
+
+また内部的な列挙位置を進めます。
+

@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=read_all
+
+--- read_all(tuple)
+@todo
+
+Returns all tuples matching +tuple+. Does not remove the found
+tuples.
+
+

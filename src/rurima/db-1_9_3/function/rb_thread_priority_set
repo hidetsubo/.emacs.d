@@ -1,0 +1,8 @@
+private=true
+params=(VALUE thread, VALUE prio)
+type=VALUE
+name=rb_thread_priority_set
+filename=eval.c
+macro=false
+
+

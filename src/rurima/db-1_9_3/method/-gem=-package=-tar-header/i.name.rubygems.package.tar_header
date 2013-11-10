@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=name
+
+--- name -> String
+
+tar のヘッダに含まれる name を返します。
+

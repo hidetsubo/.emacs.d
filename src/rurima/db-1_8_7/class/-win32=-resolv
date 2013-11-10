@@ -1,0 +1,9 @@
+type=class
+library=win32.resolv
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+名前解決に関する情報を取得するためのクラスです。

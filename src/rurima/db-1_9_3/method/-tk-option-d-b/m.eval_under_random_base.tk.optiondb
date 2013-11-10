@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=eval_under_random_base
+
+--- eval_under_random_base(parent = nil, &block)
+@todo
+

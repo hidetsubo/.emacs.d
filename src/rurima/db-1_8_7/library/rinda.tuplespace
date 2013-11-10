@@ -1,0 +1,8 @@
+requires=rinda.rinda
+sublibraries=
+is_sublibrary=false
+category=
+methods=
+classes=Rinda=TupleSpace,Rinda=TupleEntry
+
+Rubyによるタプル空間(Tuple Space)の実装です。

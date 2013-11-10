@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=hexdigest,inspect,to_s
+
+--- hexdigest -> String
+--- to_s -> String
+--- inspect -> String
+オブジェクトの内部状態から算出された HMAC を
+16進の文字列で返します。
+
+

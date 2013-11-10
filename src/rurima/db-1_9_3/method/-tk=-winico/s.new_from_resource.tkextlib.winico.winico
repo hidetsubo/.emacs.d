@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=new_from_resource
+
+--- new_from_resource(resource_name, file_name = nil)
+@todo
+

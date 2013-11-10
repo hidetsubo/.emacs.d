@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=FATAL
+
+--- FATAL -> Integer
+ログレベル:致命的なエラーを表す定数です。
+

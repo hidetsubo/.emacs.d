@@ -1,0 +1,9 @@
+type=class
+library=pp
+extended=
+aliases=
+included=
+superclass=PrettyPrint
+aliasof=
+
+オブジェクトなどを見やすく出力するためのクラスです。

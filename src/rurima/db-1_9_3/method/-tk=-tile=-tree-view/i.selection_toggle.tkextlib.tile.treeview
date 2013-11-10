@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=selection_toggle
+
+--- selection_toggle(*items)
+@todo
+

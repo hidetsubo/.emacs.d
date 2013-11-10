@@ -1,0 +1,8 @@
+private=true
+params=(VALUE dmy, VALUE tag)
+type=VALUE
+name=rb_f_catch
+filename=eval.c
+macro=false
+
+

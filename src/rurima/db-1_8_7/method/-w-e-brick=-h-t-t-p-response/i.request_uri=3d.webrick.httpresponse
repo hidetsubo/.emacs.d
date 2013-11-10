@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=request_uri=
+
+--- request_uri=(uri)
+
+リクエストの URI をセットします。
+デフォルトは nil です。
+
+@param uri リクエストの URI を [[c:URI]] オブジェクトで指定します。
+

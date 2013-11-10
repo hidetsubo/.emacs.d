@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=TO_PATH
+
+--- TO_PATH -> Symbol
+内部的に使っている定数です。利用者が使うことはありません。
+
+

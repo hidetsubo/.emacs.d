@@ -1,0 +1,9 @@
+library=webrick.accesslog
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+指定されたアクセスログの形式が正しくない場合に発生します。

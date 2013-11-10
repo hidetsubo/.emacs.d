@@ -1,0 +1,12 @@
+params=(void)
+filename=parse.y
+name=heredoc_identifier
+type=int
+macro=false
+private=true
+
+
+ヒアドキュメントの「<<」を既に読みこんだものと仮定して
+開始記号を読みこみ、lex_strterm をセットします。
+返り値は、読み込みに成功したときはシンボル、解析できないときは 0 です。
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=listeners
+
+--- listeners    -> [TCPServer]
+
+listen している [[c:TCPServer]] オブジェクトの配列を返します。
+

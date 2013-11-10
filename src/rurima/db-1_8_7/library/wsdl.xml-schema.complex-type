@@ -1,0 +1,8 @@
+requires=xsd.namedelements,wsdl.info,wsdl.xmlSchema.content,wsdl.xmlSchema.element
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=WSDL=XMLSchema=ComplexType
+
+

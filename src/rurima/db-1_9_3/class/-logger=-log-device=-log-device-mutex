@@ -1,0 +1,11 @@
+library=logger
+aliasof=
+type=class
+included=MonitorMixin
+aliases=
+superclass=Object
+extended=
+
+ログの出力先ファイルを同期するためのクラスです。
+
+@see [[c:MonitorMixin]]

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=sort_by_column_decreasing
+
+--- sort_by_column_decreasing(idx)
+@todo
+

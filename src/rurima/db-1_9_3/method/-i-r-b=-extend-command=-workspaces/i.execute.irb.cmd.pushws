@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=execute
+
+--- execute(*obj) -> [IRB::WorkSpace]
+
+現在のワークスペースの一覧を返します。
+
+@param obj 使用しません。
+

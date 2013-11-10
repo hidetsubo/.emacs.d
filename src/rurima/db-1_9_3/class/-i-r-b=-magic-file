@@ -1,0 +1,9 @@
+library=irb.magic=2dfile
+aliasof=
+type=object
+included=
+aliases=
+superclass=
+extended=
+
+irb が扱う入力やファイル中のマジックコメントを正しく扱うためのクラスです。

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=JIS
+
+--- JIS -> Encoding
+
+ISO-2022-JP を表します。
+

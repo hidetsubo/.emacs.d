@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=V_ERR_PATH_LENGTH_EXCEEDED
+
+--- V_ERR_PATH_LENGTH_EXCEEDED -> Integer
+CA 証明書の basicConstraints 拡張領域の pathlen を
+越えている場合に発生します。
+
+

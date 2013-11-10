@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=index
+
+--- index -> Fixnum
+
+行内で何番目のフィールドかわかるゼロベースのインデックスを返します。
+

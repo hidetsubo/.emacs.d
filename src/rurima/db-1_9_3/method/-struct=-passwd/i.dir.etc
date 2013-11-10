@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=dir
+
+--- dir -> String
+
+このユーザのホームディレクトリを表すパスを返します。
+

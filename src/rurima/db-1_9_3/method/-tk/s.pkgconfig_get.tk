@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=pkgconfig_get
+
+--- pkgconfig_get(mod, key)
+@todo
+

@@ -1,0 +1,7 @@
+kind=added
+visibility=public
+names=object_maker
+
+--- object_maker(klass, hash)
+@todo
+

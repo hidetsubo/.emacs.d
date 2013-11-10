@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=fetch_spec
+
+--- fetch_spec(spec, source_uri) -> object
+@todo
+
+@param spec 
+@param source_uri
+

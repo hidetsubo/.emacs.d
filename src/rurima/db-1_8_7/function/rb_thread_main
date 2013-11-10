@@ -1,0 +1,10 @@
+params=(void)
+filename=eval.c
+name=rb_thread_main
+type=VALUE
+macro=false
+private=false
+
+
+メインスレッド (プロセスの一番最初に存在するスレッド) を返します。
+

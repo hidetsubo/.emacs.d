@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=new
+
+--- new -> Psych::TreeBuilder
+@todo
+
+自身を初期化します。
+

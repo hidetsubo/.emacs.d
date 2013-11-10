@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tprogressbar
+extended=
+aliases=
+included=Tk=Tile=TileWidget
+superclass=TkWindow
+aliasof=Tk=Tile=Progressbar
+
+Alias of [[c:Tk::Tile::Progressbar]]

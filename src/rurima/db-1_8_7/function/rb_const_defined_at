@@ -1,0 +1,10 @@
+params=(VALUE klass, ID id)
+filename=variable.c
+name=rb_const_defined_at
+type=int
+macro=false
+private=false
+
+
+klass 自体に定数 id が定義されていれば真。
+

@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=create_mediator
+
+--- create_mediator(suite)
+
+与えられたテストスイートを使ってテストの仲介者を作成します。
+
+@param suite テストスイートを指定します。
+

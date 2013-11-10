@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=grab
+
+--- grab(opt = nil)
+@todo
+

@@ -1,0 +1,20 @@
+visibility=public
+kind=defined
+names=escape8bit
+
+--- escape8bit(str) -> String
+
+与えられた文字列を数値参照文字列に変換します。
+
+@param str 文字列を指定します。
+
+
+
+
+
+
+
+
+
+
+

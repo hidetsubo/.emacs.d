@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=<<,add
+
+--- add(attribute)
+--- <<(attribute)
+@todo
+

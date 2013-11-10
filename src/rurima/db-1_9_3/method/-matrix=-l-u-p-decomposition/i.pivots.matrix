@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=pivots
+
+--- pivots -> [Integer]
+ピボッティングを表す配列を返します。
+
+
+

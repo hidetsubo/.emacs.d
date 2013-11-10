@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_receiver_mainloop
+
+--- _receiver_mainloop(check_root)
+@todo
+

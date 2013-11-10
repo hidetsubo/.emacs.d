@@ -1,0 +1,9 @@
+type=class
+library=wsdl.soap.binding
+extended=
+aliases=
+included=
+superclass=WSDL=Info
+aliasof=
+
+

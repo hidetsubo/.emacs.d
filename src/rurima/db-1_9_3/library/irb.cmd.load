@@ -1,0 +1,12 @@
+requires=irb.cmd.nop,irb.ext.loader
+category=
+methods=
+sublibraries=
+classes=IRB=ExtendCommand=Load,IRB=ExtendCommand=Require,IRB=ExtendCommand=Source
+is_sublibrary=true
+
+irb 中の irb_load、irb_require、irb_source コマンドのための拡張を定義し
+たサブライブラリです。
+
+このライブラリで定義されているメソッドはユーザが直接使用するものではあ
+りません。

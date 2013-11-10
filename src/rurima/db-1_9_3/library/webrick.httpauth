@@ -1,0 +1,8 @@
+requires=webrick.httpstatus,webrick.httpauth.htdigest,webrick.log,webrick.httpauth.authenticator,webrick.httpauth.basicauth,webrick.httpauth.htpasswd,webrick.httpauth.htgroup,webrick.httpauth.userdb,webrick.utils,webrick.httpauth.digestauth,webrick.httputils,webrick.config,webrick.httpversion
+category=
+methods=
+sublibraries=webrick.httpauth.authenticator,webrick.httpauth.basicauth,webrick.httpauth.htgroup,webrick.httpauth.digestauth,webrick.httpauth.htdigest,webrick.httpauth.userdb,webrick.httpauth.htpasswd
+classes=WEBrick=HTTPAuth
+is_sublibrary=true
+
+ユーザ認証の機能を提供するライブラリです。

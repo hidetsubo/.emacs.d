@@ -1,0 +1,11 @@
+private=false
+params=(func)
+type=MACRO
+name=RUBY_DATA_FUNC
+filename=ruby.h
+macro=false
+
+
+任意の関数へのポインタ func を struct RData の dmark/dfree の
+値として適する型に強制キャストします。
+

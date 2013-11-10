@@ -1,0 +1,11 @@
+private=true
+params=(void)
+type=char *
+name=tok
+filename=parse.y
+macro=true
+
+
+現在のトークンの先頭へのポインタ。
+free してはならない。
+

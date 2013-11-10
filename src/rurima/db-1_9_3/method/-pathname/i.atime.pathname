@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=atime
+
+--- atime -> Time
+File.atime(self.to_s) を渡したものと同じです。
+
+@see [[m:File.atime]]
+

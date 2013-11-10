@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=on_inbound_headeritem
+
+--- on_inbound_headeritem(header)
+@todo
+

@@ -1,0 +1,10 @@
+private=false
+params=(VALUE obj)
+type=VALUE
+name=rb_obj_class
+filename=object.c
+macro=false
+
+
+[[m:Object#class]] の実体です。
+

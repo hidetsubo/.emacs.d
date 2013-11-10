@@ -1,0 +1,10 @@
+type=module
+library=bigdecimal.newton
+extended=
+aliases=
+included=LUSolve,Jacobian
+superclass=
+aliasof=
+
+ニュートン法を用いて非線形方程式 f の解 x を求める機能を提供するモジュー
+ルです。

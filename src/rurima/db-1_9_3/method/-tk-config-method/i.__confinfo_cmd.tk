@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=__confinfo_cmd
+
+--- __confinfo_cmd
+@todo
+
+本来 private のハズ。
+

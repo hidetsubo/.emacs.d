@@ -1,0 +1,10 @@
+params=(st_table *table)
+filename=st.c
+name=st_free_table
+type=void
+macro=false
+private=false
+
+
+table を解放する。キー、値は解放されない。
+

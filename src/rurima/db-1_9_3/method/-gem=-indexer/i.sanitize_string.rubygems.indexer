@@ -1,0 +1,12 @@
+kind=defined
+visibility=public 
+names=sanitize_string
+
+--- sanitize_string(string) -> String
+
+与えられた文字列をサニタイズします。
+
+@param string サニタイズ対象の文字列を指定します。
+
+@see [[m:Gem::Indexer#sanitize]]
+

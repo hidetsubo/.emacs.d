@@ -1,0 +1,12 @@
+params=(VALUE klass, ID name, VALUE (*func)(), int argc)
+filename=class.c
+name=rb_define_method_id
+type=void
+macro=false
+private=false
+
+
+klass に public メソッド name を定義します。
+その実体は関数 func です。また argc の意味は
+rb_define_method と同じです。
+

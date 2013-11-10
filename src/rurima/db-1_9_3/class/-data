@@ -1,0 +1,11 @@
+library=_builtin
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+拡張ライブラリを書く時に new が定義されているとまずい場合が
+あるため、[[c:Object]] から new と allocate を undef したクラスです。
+Ruby スクリプトレベルでは気にする必要は全くありません。

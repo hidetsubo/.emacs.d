@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=spec
+
+--- spec -> Gem::Specification
+
+インストールしようとしている Gem に対応する [[c:Gem::Specification]] のインスタンスを返します。
+

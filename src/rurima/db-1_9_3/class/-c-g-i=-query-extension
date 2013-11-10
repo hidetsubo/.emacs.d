@@ -1,0 +1,9 @@
+library=cgi.core
+aliasof=
+type=module
+included=
+aliases=
+superclass=
+extended=
+
+クエリ文字列を扱うためのメソッドを定義しているモジュールです。

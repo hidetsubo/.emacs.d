@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=F_DUPFD
+
+--- F_DUPFD -> Integer
+ファイルディスクリプタを複製します。
+
+ただし、 close-on-exec はオフになります。
+
+@see [[man:dup(2)]]
+

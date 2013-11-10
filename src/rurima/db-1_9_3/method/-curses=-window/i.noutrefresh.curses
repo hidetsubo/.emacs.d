@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=noutrefresh
+
+--- noutrefresh -> nil
+@todo
+Refreshes the windows and lines.
+
+Curses::Window.noutrefresh allows multiple updates with
+more efficiency than Curses::Window.refresh alone.
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=new
+
+--- new -> OpenSSL::X509::Revoked
+空の Revoked オブジェクトを生成し、返します。
+

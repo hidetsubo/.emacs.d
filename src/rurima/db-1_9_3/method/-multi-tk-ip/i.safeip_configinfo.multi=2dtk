@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=safeip_configinfo
+
+--- safeip_configinfo(slot = nil)
+@todo
+

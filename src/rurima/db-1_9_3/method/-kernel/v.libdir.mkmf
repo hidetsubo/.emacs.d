@@ -1,0 +1,9 @@
+kind=added
+visibility=private 
+names=libdir
+
+--- $libdir -> String
+
+Ruby のライブラリを置くディレクトリです。
+通常は "/usr/local/lib/ruby/バージョン" です。
+

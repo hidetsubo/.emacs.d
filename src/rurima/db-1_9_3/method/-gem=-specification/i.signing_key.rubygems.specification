@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=signing_key
+
+--- signing_key -> String
+
+この Gem パッケージの署名に使用するキーを返します。
+

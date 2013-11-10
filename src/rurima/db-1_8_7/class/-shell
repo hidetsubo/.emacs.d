@@ -1,0 +1,10 @@
+type=class
+library=shell
+extended=Exception2MessageMapper
+aliases=
+included=Shell=Error
+superclass=Object
+aliasof=
+
+Shell オブジェクトはカレントディレクトリを持ち, 
+コマンド実行はそこからの相対パスになります.

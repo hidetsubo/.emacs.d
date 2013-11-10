@@ -1,0 +1,13 @@
+private=false
+params=(VALUE klass, const char *name, VALUE(*func)(), int argc)
+type=void
+name=rb_define_private_method
+filename=class.c
+macro=false
+
+
+クラス klass にプライベートインスタンスメソッド name を
+定義します。その実体は関数 func であり、その関数がとる
+引数のタイプを argc で指定します。argc のフォーマットに
+ついては rb_define_method の項を参照してください。
+

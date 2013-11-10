@@ -1,0 +1,9 @@
+type=module
+library=tkextlib.tcllib.style
+extended=TkCore
+aliases=
+included=
+superclass=
+aliasof=
+
+

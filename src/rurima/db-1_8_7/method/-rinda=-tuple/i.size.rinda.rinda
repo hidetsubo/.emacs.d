@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=size
+
+--- size
+@todo
+
+サイズを整数で返します。
+

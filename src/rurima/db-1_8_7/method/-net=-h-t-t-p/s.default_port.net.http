@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=default_port,http_default_port
+
+--- http_default_port -> Integer
+--- default_port -> Integer
+HTTP のデフォルトポート (80) を返します。
+

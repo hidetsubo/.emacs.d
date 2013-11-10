@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=line,lines
+
+--- lines(mod)
+--- line(mod)
+@todo
+

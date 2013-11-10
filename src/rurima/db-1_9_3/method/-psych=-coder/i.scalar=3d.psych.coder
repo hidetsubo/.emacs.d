@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=scalar=
+
+--- scalar=(value)
+@todo
+
+Emit a scalar with +value+
+

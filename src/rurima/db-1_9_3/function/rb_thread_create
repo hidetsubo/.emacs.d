@@ -1,0 +1,11 @@
+private=false
+params=(fn, arg)
+type=VALUE
+name=rb_thread_create
+filename=eval.c
+macro=false
+
+
+VALUE (*fn)();
+void *arg;
+

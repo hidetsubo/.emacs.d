@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=scalar
+
+--- scalar(value, anchor, tag, plain, quoted, style)
+@todo
+

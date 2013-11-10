@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=NOSIGS
+
+--- NOSIGS -> Integer
+署名の検証を行わないことを意味します。
+

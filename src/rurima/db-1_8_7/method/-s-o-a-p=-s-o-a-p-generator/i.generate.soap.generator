@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=generate
+
+--- generate(obj, io = nil)
+@todo
+

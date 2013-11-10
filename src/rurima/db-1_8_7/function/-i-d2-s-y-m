@@ -1,0 +1,10 @@
+params=(ID id)
+filename=ruby.h
+name=ID2SYM
+type=VALUE
+macro=true
+private=false
+
+
+id を Symbol に変換します。
+

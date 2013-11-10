@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=color_of_part
+
+--- color_of_part(keyword, newcolor)
+@todo
+

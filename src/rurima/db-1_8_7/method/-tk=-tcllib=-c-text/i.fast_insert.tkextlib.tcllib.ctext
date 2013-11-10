@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=fast_insert
+
+--- fast_insert(*args)
+@todo
+

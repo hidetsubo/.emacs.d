@@ -1,0 +1,9 @@
+library=irb.cmd.load
+aliasof=
+type=class
+included=IRB=IrbLoader
+aliases=
+superclass=IRB=ExtendCommand=Nop
+extended=
+
+irb 中の irb_source コマンドのための拡張を定義したクラスです。

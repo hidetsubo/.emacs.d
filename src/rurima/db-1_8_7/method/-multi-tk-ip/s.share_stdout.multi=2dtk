@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=share_stdout
+
+--- share_stdout(dist, src = '')
+@todo
+

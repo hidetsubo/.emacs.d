@@ -1,0 +1,40 @@
+kind=defined
+visibility=public
+names=dump
+
+--- dump(o, options = {}) -> String
+--- dump(o, io, options = {}) -> ()
+Ruby のオブジェクト o を YAML ドキュメントに変換します。
+
+io に IO オブジェクトを指定した場合は、変換されたドキュメントが
+その IO に書き込まれます。
+指定しなかった場合は変換されたドキュメントが文字列としてメソッドの返り値と
+なります。
+
+options で出力に関するオプションを以下の指定できます。
+
+@todo
+: :version
+: :header
+: :indentation
+: :canonical
+: :line_width
+
+@param o 変換するオブジェクト
+@param io 出力先
+@param options 出力オプション
+
+==== 例
+
+  # Dump an array, get back a YAML string
+  Psych.dump(['a', 'b'])  # => "---\n- a\n- b\n"
+
+  # Dump an array to an IO object
+  Psych.dump(['a', 'b'], StringIO.new)  # => #<StringIO:0x000001009d0890>
+
+  # Dump an array with indentation set
+  Psych.dump(['a', ['b']], :indentation => 3) # => "---\n- a\n-  - b\n"
+
+  # Dump an array to an IO with indentation set
+  Psych.dump(['a', ['b']], StringIO.new, :indentation => 3)
+

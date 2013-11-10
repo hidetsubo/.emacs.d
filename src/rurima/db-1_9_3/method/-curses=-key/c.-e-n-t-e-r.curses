@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=ENTER
+
+--- ENTER -> Integer
+
+Enter キーを表す定数です。
+

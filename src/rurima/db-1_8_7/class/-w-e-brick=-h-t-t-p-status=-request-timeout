@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpstatus
+extended=
+aliases=
+included=
+superclass=WEBrick=HTTPStatus=ClientError
+aliasof=
+
+HTTP のステータスコード 408 Request Timeout を表すクラスです。

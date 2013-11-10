@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=world_readable?
+
+--- world_readable?
+@todo
+

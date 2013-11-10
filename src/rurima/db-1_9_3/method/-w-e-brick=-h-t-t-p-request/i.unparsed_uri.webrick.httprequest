@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=unparsed_uri
+
+--- unparsed_uri    -> String
+
+リクエストの URI を文字列で返します。
+

@@ -1,0 +1,16 @@
+visibility=public
+kind=defined
+names=TOPDIR
+
+--- TOPDIR -> String
+
+Ruby がインストールされているディレクトリです。
+
+  TOPDIR
+  ├── bin
+  │   ├── ...
+  │   └── ruby
+  ├── include
+  ├── lib
+  └── share
+  

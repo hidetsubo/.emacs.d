@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=tkwait_destroy,wait_destroy
+
+--- wait_destroy(on_thread = true)
+--- tkwait_destroy(on_thread = true)
+@todo

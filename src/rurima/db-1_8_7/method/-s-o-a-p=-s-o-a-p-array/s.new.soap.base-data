@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=new
+
+--- new(type = nil, rank = 1, arytype = nil)
+@todo
+

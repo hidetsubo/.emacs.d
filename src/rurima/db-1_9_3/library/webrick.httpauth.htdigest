@@ -1,0 +1,8 @@
+requires=webrick.httpstatus,webrick.log,webrick.httpauth.authenticator,webrick.httpauth.userdb,webrick.utils,webrick.httputils,webrick.httpauth.digestauth,webrick.config,webrick.httpversion
+category=
+methods=
+sublibraries=
+classes=WEBrick=HTTPAuth=Htdigest
+is_sublibrary=true
+
+Apache の htdigest 互換機能を提供するライブラリです。

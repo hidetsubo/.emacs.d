@@ -1,0 +1,19 @@
+type=module
+library=parsedate
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+日時を表す文字列を解析するためのモジュールです。
+
+解析した結果の各要素を配列 (年、月、日、時、分、秒、タイムゾーン、曜日)に
+して返す [[m:ParseDate.#parsedate]] を提供します。
+
+例:
+
+  require 'parsedate'
+
+  ParseDate.parsedate "Tuesday, July 6th, 2007, 18:35:20 UTC"
+  # => [2007, 7, 6, 18, 35, 20, "UTC", 2]

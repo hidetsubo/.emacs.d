@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=level
+
+--- level -> Integer
+ソケットオプションレベルを表す整数を返します。
+

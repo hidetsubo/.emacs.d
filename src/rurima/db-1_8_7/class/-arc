@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkcArc
+included=
+superclass=Object
+aliasof=
+
+

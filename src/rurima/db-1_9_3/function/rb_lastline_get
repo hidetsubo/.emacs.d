@@ -1,0 +1,10 @@
+private=false
+params=(void)
+type=VALUE
+name=rb_lastline_get
+filename=parse.y
+macro=false
+
+
+現在評価中の SCOPE の $_ の値を取得します。
+

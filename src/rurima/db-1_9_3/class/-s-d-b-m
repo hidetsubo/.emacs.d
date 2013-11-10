@@ -1,0 +1,15 @@
+library=sdbm
+aliasof=
+type=class
+included=Enumerable
+aliases=
+superclass=Object
+extended=
+
+SDBM ファイルをアクセスするクラス。
+
+キー、データともに文字列でなければならないという制限と、
+データがファイルに保存されるという点を除いては [[c:Hash]] クラスと
+全く同様に扱うことができます。
+
+@see [[c:Hash]]

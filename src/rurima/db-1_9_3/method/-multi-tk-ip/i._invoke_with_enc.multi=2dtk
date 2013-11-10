@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_invoke_with_enc
+
+--- _invoke_with_enc(*args)
+@todo
+

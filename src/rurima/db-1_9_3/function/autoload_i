@@ -1,0 +1,8 @@
+private=true
+params=(ID key, const char *name, st_table *tbl)
+type=int
+name=autoload_i
+filename=variable.c
+macro=false
+
+

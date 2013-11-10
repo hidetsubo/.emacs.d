@@ -1,0 +1,10 @@
+private=false
+params=(void)
+type=VALUE
+name=rb_module_new
+filename=class.c
+macro=false
+
+
+新しいモジュールオブジェクトを作成し、返します。
+

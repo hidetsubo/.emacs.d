@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=image_configinfo
+
+--- image_configinfo(index, slot = nil)
+@todo
+

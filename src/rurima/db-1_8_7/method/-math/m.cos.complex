@@ -1,0 +1,13 @@
+visibility=public
+kind=redefined
+names=cos
+
+--- cos(z) -> Complex
+複素関数としてのcos関数の結果を返します。
+
+cos関数は以下で定義されます。
+
+  cos(z)  = (exp(i * z) + exp(-i * z)) / 2
+
+@param z 複素数
+

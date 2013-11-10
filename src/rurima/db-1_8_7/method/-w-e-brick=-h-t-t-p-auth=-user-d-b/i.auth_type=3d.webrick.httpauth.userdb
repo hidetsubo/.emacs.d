@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=auth_type=
+
+--- auth_type=(type)
+
+認証のタイプをセットします。
+
+@param type [[c:WEBrick::HTTPAuth::BasicAuth]], [[c:WEBrick::HTTPAuth::DigestAuth]] のいずれかを指定します。
+

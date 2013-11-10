@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=new
+
+--- new(faultcode = nil, faultstring = nil, faultactor = nil, detail = nil)
+@todo
+

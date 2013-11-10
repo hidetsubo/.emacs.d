@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=accept
+
+--- accept -> String
+
+ENV['HTTP_ACCEPT'] を返します。
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=private 
+names=yyparse
+
+--- yyparse(recv, mid)
+@todo
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=new
+
+--- new            -> Digest::Base
+新しいダイジェストオブジェクトを生成します。
+

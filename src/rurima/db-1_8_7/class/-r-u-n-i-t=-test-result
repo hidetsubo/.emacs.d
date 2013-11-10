@@ -1,0 +1,9 @@
+type=class
+library=runit.testresult
+extended=
+aliases=
+included=
+superclass=Test=Unit=TestResult
+aliasof=
+
+テストの実行結果を格納するクラスです。

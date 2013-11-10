@@ -1,0 +1,9 @@
+library=e2mmap
+aliasof=
+type=module
+included=
+aliases=Exception2MessageMapper=E2MM
+superclass=
+extended=
+
+例外クラスに特定のエラーメッセージ用フォーマットを関連づけるためのモジュールです。

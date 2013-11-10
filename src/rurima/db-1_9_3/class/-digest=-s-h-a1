@@ -1,0 +1,11 @@
+library=digest.sha1
+aliasof=
+type=class
+included=
+aliases=
+superclass=Digest=Base
+extended=
+
+NIST (the US' National Institute of Standards and Technology) の
+SHA-1 Secure Hash Algorithmを実装するクラスです。
+FIPS PUB 180-1に記述されています。

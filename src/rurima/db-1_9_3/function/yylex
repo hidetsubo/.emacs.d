@@ -1,0 +1,11 @@
+private=true
+params=(void)
+type=int
+name=yylex
+filename=parse.y
+macro=false
+
+
+yyparse から呼び出されるスキャンルーチンです。
+次のトークンを読み込み、そのシンボルを返します。
+

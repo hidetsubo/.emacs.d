@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=flags
+
+--- flags -> nil
+
+使用されていません。常に nil を返します。
+

@@ -1,0 +1,8 @@
+requires=webrick.httpstatus,webrick.httpauth.authenticator,webrick.log,webrick.utils,webrick.httputils,webrick.config,webrick.httpversion
+category=
+methods=
+sublibraries=
+classes=WEBrick=HTTPAuth=DigestAuth,WEBrick=HTTPAuth=ProxyDigestAuth
+is_sublibrary=true
+
+HTTP の Digest 認証のためのライブラリです。

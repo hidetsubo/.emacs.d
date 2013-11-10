@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkFont
+included=
+superclass=Object
+aliasof=
+
+

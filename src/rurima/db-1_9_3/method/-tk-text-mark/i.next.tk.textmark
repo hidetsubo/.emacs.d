@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=next
+
+--- next(index = nil)
+@todo
+

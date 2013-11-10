@@ -1,0 +1,8 @@
+params=(VALUE obj)
+filename=object.c
+name=nil_to_a
+type=VALUE
+macro=false
+private=true
+
+

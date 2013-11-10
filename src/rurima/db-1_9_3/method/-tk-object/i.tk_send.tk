@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=tk_send
+
+--- tk_send(cmd, *rest)
+@todo
+
+

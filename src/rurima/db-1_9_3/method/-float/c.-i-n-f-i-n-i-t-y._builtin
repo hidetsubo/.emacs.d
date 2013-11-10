@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=INFINITY
+
+--- INFINITY -> Float
+
+浮動小数点数における正の無限大
+
+@see [[m:Float#finite?]], [[m:Float#infinite?]]
+

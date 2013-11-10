@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=abi
+
+--- abi -> Integer
+呼出規約を返します。
+
+@see [[m:Fiddle::Function.new]]
+

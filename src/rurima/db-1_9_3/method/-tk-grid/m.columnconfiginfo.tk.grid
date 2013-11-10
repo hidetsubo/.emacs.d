@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=columnconfiginfo
+
+--- columnconfiginfo(master, index, slot=nil)
+@todo
+

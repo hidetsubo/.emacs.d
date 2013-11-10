@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=rehash
+
+--- rehash -> nil
+
+何もしません。nilを返します。
+

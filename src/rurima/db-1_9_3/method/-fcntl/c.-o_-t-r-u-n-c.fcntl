@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=O_TRUNC
+
+--- O_TRUNC -> Integer
+ファイルを開くときに中身を切り捨てます。
+

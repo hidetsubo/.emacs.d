@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=move
+
+--- move(item, parent, idx)
+@todo
+

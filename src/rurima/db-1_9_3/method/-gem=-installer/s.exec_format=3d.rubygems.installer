@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=exec_format=
+
+--- exec_format=(format)
+
+実行ファイル名のフォーマットをセットします。
+
+@param format 実行ファイル名のフォーマットを指定します。
+

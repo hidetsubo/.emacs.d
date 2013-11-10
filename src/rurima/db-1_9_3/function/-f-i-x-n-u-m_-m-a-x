@@ -1,0 +1,10 @@
+private=false
+params=
+type=long
+name=FIXNUM_MAX
+filename=ruby.h
+macro=true
+
+
+Fixnum にできる整数の上限値。
+

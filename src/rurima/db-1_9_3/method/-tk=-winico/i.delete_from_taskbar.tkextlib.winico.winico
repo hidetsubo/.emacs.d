@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=delete_from_taskbar,taskbar_delete
+
+--- delete_from_taskbar
+--- taskbar_delete
+@todo
+

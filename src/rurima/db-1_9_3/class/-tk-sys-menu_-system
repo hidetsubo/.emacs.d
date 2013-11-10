@@ -1,0 +1,9 @@
+library=tk.menu
+aliasof=
+type=class
+included=TkSystemMenu
+aliases=
+superclass=TkMenu
+extended=
+
+

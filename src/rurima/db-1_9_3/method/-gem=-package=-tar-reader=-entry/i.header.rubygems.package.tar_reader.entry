@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=header
+
+--- header -> Gem::Package::TarHeader
+
+自身のヘッダを返します。
+

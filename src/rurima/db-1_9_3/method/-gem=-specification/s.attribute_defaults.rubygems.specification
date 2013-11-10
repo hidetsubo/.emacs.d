@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=attribute_defaults
+
+--- attribute_defaults -> Array
+@todo
+
+@@attributes の複製を返します。
+

@@ -1,0 +1,11 @@
+params=(VALUE obj, VALUE klass)
+filename=object.c
+name=rb_obj_is_kind_of
+type=VALUE
+macro=false
+private=false
+
+
+obj がクラス klass およびそのサブクラスの
+インスタンスのとき真。
+

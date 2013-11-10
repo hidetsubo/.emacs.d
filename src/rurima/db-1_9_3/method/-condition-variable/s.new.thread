@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=new
+
+--- new -> ConditionVariable
+状態変数を生成して返します。
+

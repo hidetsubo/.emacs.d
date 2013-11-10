@@ -1,0 +1,12 @@
+private=false
+params=(int argc, VALUE *argv, VALUE mod)
+type=VALUE
+name=rb_class_private_instance_methods
+filename=class.c
+macro=false
+
+
+Module#private_instance_methods の実体。
+モジュール mod に定義されている private メソッド名の
+リストを文字列の配列で返します。
+

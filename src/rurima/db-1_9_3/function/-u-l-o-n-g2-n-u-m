@@ -1,0 +1,8 @@
+private=false
+params=(unsigned long n)
+type=VALUE
+name=ULONG2NUM
+filename=ruby.h
+macro=true
+
+

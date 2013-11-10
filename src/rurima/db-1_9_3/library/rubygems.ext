@@ -1,0 +1,8 @@
+requires=rubygems.source_info_cache,rubygems.builder,rubygems.source_info_cache_entry,rubygems.source_index,rubygems.gem_path_searcher,rubygems.requirement,rubygems.spec_fetcher,rubygems.defaults,rubygems.ext,rubygems.remote_fetcher,rubygems.specification,rubygems.version,rubygems.ext.configure_builder,rubygems.ext.builder,rubygems.platform,rubygems.exceptions,rubygems,rubygems.ext.ext_conf_builder,rubygems.ext.rake_builder,rubygems.user_interaction,rubygems.digest.sha2,rubygems.dependency
+category=
+methods=
+sublibraries=rubygems.ext.configure_builder,rubygems.ext.ext_conf_builder,rubygems.ext.rake_builder,rubygems.ext.builder
+classes=Gem=Ext
+is_sublibrary=true
+
+拡張ライブラリをビルドするためのライブラリです。

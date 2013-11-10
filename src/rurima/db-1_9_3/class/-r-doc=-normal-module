@@ -1,0 +1,11 @@
+library=rdoc.normal_module
+aliasof=
+type=class
+included=
+aliases=
+superclass=RDoc=ClassModule
+extended=
+
+モジュールを表現するクラスです。
+
+ライブラリの内部で使用します。

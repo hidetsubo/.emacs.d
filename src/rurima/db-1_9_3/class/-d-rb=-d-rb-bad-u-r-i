@@ -1,0 +1,10 @@
+library=drb
+aliasof=
+type=class
+included=
+aliases=
+superclass=DRb=DRbError
+extended=
+
+URI に含まれている schema をサポートしているプロトコルが見付からない
+ことを意味する例外クラス。

@@ -1,0 +1,11 @@
+type=class
+library=net.http
+extended=
+aliases=
+included=
+superclass=Net=HTTPClientError
+aliasof=
+
+HTTP レスポンス 408 (Request Time-out) を表現するクラスです。
+
+詳しくは [[RFC:2616]] を見てください。

@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=value
+
+--- value
+@todo
+
+Return the object which makes up the tuple itself: the Array or
+Hash.
+
+

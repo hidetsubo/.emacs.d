@@ -1,0 +1,11 @@
+private=false
+params=(VALUE super)
+type=VALUE
+name=rb_class_new
+filename=class.c
+macro=false
+
+
+super をスーパークラスとして
+新しいクラスオブジェクトを生成し、返します。
+

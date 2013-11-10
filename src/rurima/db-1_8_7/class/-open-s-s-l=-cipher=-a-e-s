@@ -1,0 +1,9 @@
+type=class
+library=openssl
+extended=
+aliases=
+included=
+superclass=OpenSSL=Cipher
+aliasof=
+
+AES 暗号を表すクラス

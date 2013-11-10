@@ -1,0 +1,10 @@
+library=rdoc.context
+aliasof=
+type=class
+included=Comparable
+aliases=
+superclass=RDoc=CodeObject
+extended=
+
+モジュール、クラス、メソッドなどの、[[lib:rdoc/code_objects]] が定義す
+るクラスを管理するクラスです。

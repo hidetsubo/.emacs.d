@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=realloc
+
+--- realloc(addr, size)   -> Integer
+@todo
+

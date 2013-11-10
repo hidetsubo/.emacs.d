@@ -1,0 +1,9 @@
+type=class
+library=resolv
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+IPv6 のアドレスを表すクラスです。

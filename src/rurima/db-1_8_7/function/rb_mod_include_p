@@ -1,0 +1,10 @@
+params=(VALUE mod, VALUE mod2)
+filename=class.c
+name=rb_mod_include_p
+type=VALUE
+macro=false
+private=false
+
+
+モジュール mod が mod2 をインクルードしていれば真。
+

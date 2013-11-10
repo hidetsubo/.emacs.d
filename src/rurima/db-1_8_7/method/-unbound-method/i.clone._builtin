@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=clone
+
+--- clone -> Method
+
+自身を複製した [[c:UnboundMethod]] オブジェクトを作成して返します。
+

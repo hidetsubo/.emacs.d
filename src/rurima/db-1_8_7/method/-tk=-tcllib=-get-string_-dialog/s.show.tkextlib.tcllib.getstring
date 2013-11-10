@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=show
+
+--- show(*args)
+@todo
+

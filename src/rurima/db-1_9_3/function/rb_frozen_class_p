@@ -1,0 +1,8 @@
+private=false
+params=(VALUE klass)
+type=void
+name=rb_frozen_class_p
+filename=eval.c
+macro=false
+
+

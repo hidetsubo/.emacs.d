@@ -1,0 +1,11 @@
+requires=
+category=
+methods=
+sublibraries=
+classes=
+is_sublibrary=true
+
+irb の初期化をするためのライブラリです。
+
+このライブラリで定義されているメソッドはユーザが直接使用するものではあ
+りません。

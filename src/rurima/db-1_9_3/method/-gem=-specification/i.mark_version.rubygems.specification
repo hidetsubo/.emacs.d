@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=mark_version
+
+--- mark_version -> String
+
+RubyGems のバージョンを内部にセットします。
+

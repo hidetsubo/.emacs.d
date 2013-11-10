@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=grid_columnconfiginfo
+
+--- grid_columnconfiginfo(index, slot = nil)
+@todo
+
+

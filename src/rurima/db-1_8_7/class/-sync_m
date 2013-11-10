@@ -1,0 +1,11 @@
+type=module
+library=sync
+extended=
+aliases=Synchronizer_m
+included=
+superclass=
+aliasof=
+
+スレッド同期機構である再入可能な reader/writer ロック機能を Mix-in により提供します。
+
+includeしたクラスではinitializeでsuperを呼び出しておく必要があります。

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=event_generate
+
+--- event_generate(context, keys = nil)
+@todo
+

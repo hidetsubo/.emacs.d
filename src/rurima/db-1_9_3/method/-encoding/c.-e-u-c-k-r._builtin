@@ -1,0 +1,12 @@
+kind=defined
+visibility=public
+names=EUCKR,EUC_KR,EucKR
+
+--- EUC_KR -> Encoding
+--- EUCKR -> Encoding
+--- EucKR -> Encoding
+
+EUC-KR エンコーディングです。
+
+韓国語 EUC のエンコーディングです。
+

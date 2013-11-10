@@ -1,0 +1,9 @@
+visibility=private 
+kind=added
+names=TkGrid
+
+--- TkGrid(*args)
+@todo
+
+[[m:TkGrid.#configure]] と同じ
+

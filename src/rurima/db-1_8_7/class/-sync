@@ -1,0 +1,10 @@
+type=class
+library=sync
+extended=
+aliases=Synchronizer
+included=Sync_m
+superclass=Object
+aliasof=
+
+[[c:Sync_m]] を include したクラスで Synchronizer の別名です。
+使い方は [[c:Sync_m]] を参照してください。

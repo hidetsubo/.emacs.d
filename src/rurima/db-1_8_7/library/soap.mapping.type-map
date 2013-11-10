@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=true
+category=
+methods=SOAP/c.TypeMap.soap.mapping.typeMap
+classes=
+
+

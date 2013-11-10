@@ -1,0 +1,11 @@
+private=true
+params=(void)
+type=VALUE
+name=lex_getline
+filename=parse.y
+macro=false
+
+
+関数 lex_gets を使って lex_input から
+Ruby プログラムを一行読みこみます。
+

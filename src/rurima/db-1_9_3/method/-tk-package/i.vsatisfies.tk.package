@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=vsatisfies
+
+--- vsatisfies(version1, version2)
+@todo
+

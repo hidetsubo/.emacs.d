@@ -1,0 +1,9 @@
+library=iconv
+aliasof=
+type=class
+included=Iconv=Failure
+aliases=
+superclass=RuntimeError
+extended=
+
+Iconv ライブラリの内部エラーです。この例外は起こらないはずです。

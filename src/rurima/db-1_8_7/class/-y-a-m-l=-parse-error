@@ -1,0 +1,9 @@
+type=class
+library=yaml.error
+extended=
+aliases=
+included=
+superclass=YAML=Error
+aliasof=
+
+将来のために予約されています。現在は発生しません。

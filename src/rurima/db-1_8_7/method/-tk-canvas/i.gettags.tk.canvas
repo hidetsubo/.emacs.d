@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=gettags
+
+--- gettags(tagOrId)
+@todo
+
+
+

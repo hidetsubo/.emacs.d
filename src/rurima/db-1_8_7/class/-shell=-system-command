@@ -1,0 +1,9 @@
+type=class
+library=shell.system=2dcommand
+extended=
+aliases=
+included=
+superclass=Shell=Filter
+aliasof=
+
+

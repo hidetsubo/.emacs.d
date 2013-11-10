@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=remote_user
+
+--- remote_user -> String
+
+ENV['REMOTE_USER'] を返します。
+

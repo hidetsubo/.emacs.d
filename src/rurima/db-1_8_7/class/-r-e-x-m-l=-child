@@ -1,0 +1,9 @@
+type=class
+library=rexml
+extended=
+aliases=
+included=REXML=Node
+superclass=Object
+aliasof=
+
+

@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=A_ALTCHARSET
+
+--- A_ALTCHARSET -> Integer
+
+代替文字セットを表す属性のマスク用定数です。
+
+@see [[m:Curses.attrset]]
+

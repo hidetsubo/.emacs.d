@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=dchars
+
+--- dchars(first, last = Tk::None)
+@todo
+
+
+
+

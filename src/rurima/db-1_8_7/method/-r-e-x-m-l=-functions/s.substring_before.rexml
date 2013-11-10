@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=substring_before
+
+--- substring_before(string, test)
+@todo
+

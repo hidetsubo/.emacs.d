@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=A_RIGHT
+
+--- A_RIGHT -> Integer
+@todo
+???を表す属性マスク用の定数です。
+
+@see [[man:curs_attr(3x)]]
+

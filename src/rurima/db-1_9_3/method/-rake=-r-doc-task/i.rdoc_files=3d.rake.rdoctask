@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=rdoc_files=
+
+--- rdoc_files=(filelist)
+
+RDoc の生成に使用するファイルリストをセットします。
+
+@param filelist ファイルリストを指定します。
+

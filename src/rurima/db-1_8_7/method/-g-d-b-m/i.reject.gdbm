@@ -1,0 +1,14 @@
+visibility=public
+kind=defined
+names=reject
+
+--- reject {|key, value| ... } -> Hash
+
+ブロックを評価した値が真であれば該当する要素を削除します。
+
+  self.to_hash.reject{|key, value| ... }
+
+と同じです。
+
+@see [[m:Hash#reject]]
+

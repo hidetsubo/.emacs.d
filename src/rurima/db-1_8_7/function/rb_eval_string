@@ -1,0 +1,11 @@
+params=(const char *str)
+filename=eval.c
+name=rb_eval_string
+type=VALUE
+macro=false
+private=false
+
+
+str を Ruby プログラムとしてコンパイル・評価し、
+その値を返します。
+

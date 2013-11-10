@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=Revision
+
+--- Revision -> String
+ライブラリ(ファイル)のリビジョンです。
+使わないでください。
+
+
+

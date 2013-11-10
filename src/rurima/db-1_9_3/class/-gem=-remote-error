@@ -1,0 +1,9 @@
+library=rubygems.exceptions
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Exception
+extended=
+
+リモートで問題が発生した場合に使用する例外です。

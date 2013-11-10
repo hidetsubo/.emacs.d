@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=IP_RECVIF
+
+--- IP_RECVIF -> Integer
+Receive interface information with datagrams。
+[[m:BasicSocket#getsockopt]], [[m:BasicSocket#setsockopt]]
+の第2引数(optname)に使用します。
+
+@see [[m:Socket::Constants::IPPROTO_IP]], [[man:ip(4freebsd)]]
+

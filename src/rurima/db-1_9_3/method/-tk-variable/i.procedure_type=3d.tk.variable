@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=procedure_type=,set_procedure_type
+
+--- procedure_type=
+--- set_procedure_type(cmd)
+@todo
+

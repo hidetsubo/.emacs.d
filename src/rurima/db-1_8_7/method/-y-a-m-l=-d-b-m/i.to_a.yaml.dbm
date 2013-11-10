@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=to_a
+
+--- to_a -> [[String, object]]
+
+キーと値のペアを配列に変換して返します。
+

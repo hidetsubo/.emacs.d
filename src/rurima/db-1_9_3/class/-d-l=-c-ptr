@@ -1,0 +1,9 @@
+library=dl
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+メモリ領域を表すクラスです。C 言語のポインタに相当します。

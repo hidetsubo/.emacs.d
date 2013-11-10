@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=add_menu
+
+--- add_menu(menu_info, tearoff = false, opts = nil)
+@todo
+

@@ -1,0 +1,8 @@
+private=true
+params=(ID id)
+type=VALUE
+name=undef_getter
+filename=variable.c
+macro=false
+
+

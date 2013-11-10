@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpserver
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+サーバ上のパスとサーブレットの対応関係を管理するためのクラスです。

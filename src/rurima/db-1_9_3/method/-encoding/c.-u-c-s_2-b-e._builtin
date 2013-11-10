@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=UCS_2BE,UTF_16BE
+
+--- UTF_16BE -> Encoding
+--- UCS_2BE -> Encoding
+UTF-16BE (ビッグエンディアン) です。
+
+BOM を含みません。
+

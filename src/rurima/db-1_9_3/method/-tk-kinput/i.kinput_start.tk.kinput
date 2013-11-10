@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=kinput_start
+
+--- kinput_start(style = Tk::None)
+@todo
+

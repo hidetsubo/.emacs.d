@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=alias_target
+
+--- alias_target(aliascmd, slave = '')
+@todo
+

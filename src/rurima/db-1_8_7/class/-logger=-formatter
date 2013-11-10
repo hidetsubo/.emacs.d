@@ -1,0 +1,11 @@
+type=class
+library=logger
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+ロガーのフォーマット文字列を扱うクラス。
+
+[[c:Logger]] のデフォルトのフォーマッターです。

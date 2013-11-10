@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=local
+
+--- local -> Gem::Platform
+@todo ???
+

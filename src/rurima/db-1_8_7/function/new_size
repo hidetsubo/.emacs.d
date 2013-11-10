@@ -1,0 +1,11 @@
+params=(int size)
+filename=st.c
+name=new_size
+type=int
+macro=false
+private=true
+
+
+必要なサイズ size から、最適なハッシュエントリの
+サイズを返す。
+

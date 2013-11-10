@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=darken
+
+--- darken(color, percent)
+@todo
+

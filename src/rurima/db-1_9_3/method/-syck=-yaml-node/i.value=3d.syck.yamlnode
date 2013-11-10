@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=value=
+
+--- value=(val)
+
+自身の値に val を設定します。
+
+ユーザが直接使用する事はありません。

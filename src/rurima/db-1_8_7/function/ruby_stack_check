@@ -1,0 +1,8 @@
+params=(void)
+filename=gc.c
+name=ruby_stack_check
+type=int
+macro=false
+private=false
+
+

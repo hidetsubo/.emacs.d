@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkLabel
+included=
+superclass=Object
+aliasof=
+
+

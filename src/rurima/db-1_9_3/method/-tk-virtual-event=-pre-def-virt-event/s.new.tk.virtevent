@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=new
+
+--- new(event, *sequences)
+@todo
+
+

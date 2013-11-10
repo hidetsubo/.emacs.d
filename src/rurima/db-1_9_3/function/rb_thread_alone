@@ -1,0 +1,10 @@
+private=false
+params=(void)
+type=int
+name=rb_thread_alone
+filename=eval.c
+macro=false
+
+
+評価器にスレッドが一つしか存在しないとき真。
+

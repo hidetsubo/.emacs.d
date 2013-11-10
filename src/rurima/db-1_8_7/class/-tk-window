@@ -1,0 +1,9 @@
+type=class
+library=tk
+extended=
+aliases=
+included=
+superclass=TkObject
+aliasof=
+
+

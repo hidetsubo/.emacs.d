@@ -1,0 +1,8 @@
+private=false
+params=(struct st_hash_type *type)
+type=st_table *
+name=st_init_table
+filename=st.c
+macro=false
+
+

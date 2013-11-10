@@ -1,0 +1,8 @@
+params=(const char *klass, const char *filename)
+filename=variable.c
+name=rb_autoload
+type=void
+macro=false
+private=false
+
+

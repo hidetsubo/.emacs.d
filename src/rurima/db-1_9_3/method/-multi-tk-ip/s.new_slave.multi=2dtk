@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=new_slave,new_trusted_slave
+
+--- new_slave(safe = nil, keys = {})
+--- new_trusted_slave(safe = nil, keys = {})
+@todo
+
+

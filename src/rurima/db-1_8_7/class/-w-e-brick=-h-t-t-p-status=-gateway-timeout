@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpstatus
+extended=
+aliases=
+included=
+superclass=WEBrick=HTTPStatus=ServerError
+aliasof=
+
+HTTP のステータスコード 504 Gateway Timeout を表すクラスです。

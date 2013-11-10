@@ -1,0 +1,9 @@
+type=class
+library=soap.baseData
+extended=
+aliases=
+included=SOAP=SOAPCompoundtype,Enumerable
+superclass=XSD=NSDBase
+aliasof=
+
+

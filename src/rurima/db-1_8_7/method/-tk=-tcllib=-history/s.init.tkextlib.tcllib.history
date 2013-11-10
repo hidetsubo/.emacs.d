@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=init
+
+--- init(entry, length = None)
+@todo
+

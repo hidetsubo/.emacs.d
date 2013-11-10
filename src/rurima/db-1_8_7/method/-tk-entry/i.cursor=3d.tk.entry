@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=cursor=,icursor=
+
+--- cursor=(index)
+--- icursor=(index)
+@todo
+
+

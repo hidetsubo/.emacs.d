@@ -1,0 +1,9 @@
+library=rubygems.commands.check_command
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Command
+extended=
+
+インストールされている Gem パッケージを検証するためのクラスです。

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=F63
+
+--- F63 -> Integer
+
+F63 キーを表す定数です。
+

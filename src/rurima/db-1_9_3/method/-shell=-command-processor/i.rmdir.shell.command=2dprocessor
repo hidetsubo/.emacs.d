@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=rmdir
+
+--- rmdir(*path) -> ()
+
+Dir.rmdirと同じです。 (複数可)
+
+@param path 削除するディレクトリ名を文字列で指定します。
+

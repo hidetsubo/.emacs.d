@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=locked?,sync_locked?
+
+--- sync_locked? -> bool
+--- locked? -> bool
+ロックされているかどうかを返します。
+

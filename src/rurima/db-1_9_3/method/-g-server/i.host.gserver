@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=host
+
+--- host -> String
+
+ホストを文字列で返します。
+

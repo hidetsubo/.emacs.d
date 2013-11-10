@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=RFC822_MONTHS
+
+--- RFC822_MONTHS -> [String]
+
+[[rfc:822]] で定められている月の略称です。

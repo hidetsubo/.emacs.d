@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=ENGINE
+
+--- ENGINE -> YAML::EngineManager
+
+[[c:YAML::EngineManager]] を返します。
+
+@see [[m:YAML::EngineManager#yamler]], [[m:YAML::EngineManager#yamler=]]
+

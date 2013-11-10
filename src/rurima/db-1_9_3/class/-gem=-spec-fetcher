@@ -1,0 +1,9 @@
+library=rubygems.spec_fetcher
+aliasof=
+type=class
+included=Gem=UserInteraction
+aliases=
+superclass=Object
+extended=
+
+リモートリポジトリから Gem のメタデータを取得して更新するためのクラスです。

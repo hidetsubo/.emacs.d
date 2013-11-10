@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=to_i
+
+--- to_i
+@todo
+
+値を数値([[c:Fixnum]])として返します。(現状のTkVariableは、
+Bignumを値にすることはできません)
+

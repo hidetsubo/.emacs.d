@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=protect_signal
+
+--- protect_signal{ ... } -> self
+このメソッドは何もしません。
+このメソッドは obsolete です。
+

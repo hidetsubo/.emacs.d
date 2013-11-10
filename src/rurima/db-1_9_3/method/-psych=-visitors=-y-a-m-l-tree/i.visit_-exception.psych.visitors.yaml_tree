@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=visit_Exception
+
+--- visit_Exception(o)
+@todo
+

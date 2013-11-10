@@ -1,0 +1,14 @@
+visibility=public
+kind=defined
+names=bkgd
+
+--- bkgd(ch) -> bool
+@todo
+
+Set the background of the current window
+and apply character Integer +ch+ to every character.
+
+@param ch ...
+
+@see [[m:Curses.bkgd]]
+

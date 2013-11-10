@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=beep
+
+--- beep(percent = 50)
+@todo
+
+
+

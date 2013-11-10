@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkFrame
+included=
+superclass=Object
+aliasof=
+
+

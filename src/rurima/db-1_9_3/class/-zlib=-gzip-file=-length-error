@@ -1,0 +1,10 @@
+library=zlib
+aliasof=
+type=class
+included=
+aliases=
+superclass=Zlib=GzipFile=Error
+extended=
+
+フッターに記録されているデータ長と実際に展開したデータの
+長さが異なる時に発生します。

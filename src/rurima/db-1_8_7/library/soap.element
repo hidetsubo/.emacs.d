@@ -1,0 +1,8 @@
+requires=soap.soap,soap.mapping.typeMap,soap.baseData
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=SOAP=SOAPEnvelopeElement,SOAP=SOAPFault,SOAP=SOAPBody,SOAP=SOAPHeaderItem,SOAP=SOAPHeader,SOAP=SOAPEnvelope
+
+

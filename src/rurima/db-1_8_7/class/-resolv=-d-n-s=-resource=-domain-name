@@ -1,0 +1,9 @@
+type=class
+library=resolv
+extended=
+aliases=
+included=
+superclass=Resolv=DNS=Resource
+aliasof=
+
+DNSリソースのドメイン名を表す抽象クラスです。

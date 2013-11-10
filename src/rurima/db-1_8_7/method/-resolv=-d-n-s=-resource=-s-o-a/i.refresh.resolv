@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=refresh
+
+--- refresh -> Integer
+プライマリサーバからの更新をセカンダリサーバがチェックする
+頻度を秒単位で返します。
+

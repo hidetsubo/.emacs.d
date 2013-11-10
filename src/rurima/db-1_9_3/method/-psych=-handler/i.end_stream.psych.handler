@@ -1,0 +1,9 @@
+kind=added
+visibility=public
+names=end_stream
+
+--- end_stream
+@todo
+
+Called when the YAML stream ends
+

@@ -1,0 +1,10 @@
+library=rubygems.commands.stale_command
+aliasof=
+type=class
+included=
+aliases=
+superclass=Gem=Command
+extended=
+
+インストールされている Gem パッケージの一覧をアクセス時刻とともに表示するための
+クラスです。

@@ -1,0 +1,9 @@
+type=class
+library=webrick.httpstatus
+extended=
+aliases=
+included=
+superclass=WEBrick=HTTPStatus=Error
+aliasof=
+
+HTTP のステータスコードサーバエラー 5XX の親クラスです。

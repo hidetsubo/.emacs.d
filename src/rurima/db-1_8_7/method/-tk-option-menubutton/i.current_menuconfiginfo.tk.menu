@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=current_menuconfiginfo
+
+--- current_menuconfiginfo(key = nil)
+@todo
+

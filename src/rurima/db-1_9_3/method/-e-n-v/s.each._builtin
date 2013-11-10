@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=each,each_pair
+
+--- each                          -> Enumerator
+--- each_pair                     -> Enumerator
+--- each {|key, value| ... }      -> self
+--- each_pair {|key, value| ... } -> self
+key と value を引数としてブロックを評価します。
+

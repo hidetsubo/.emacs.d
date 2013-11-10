@@ -1,0 +1,16 @@
+kind=defined
+visibility=public
+names=elements_to_f
+
+--- elements_to_f -> Vector
+ベクトルの各成分を[[c:Float]]に変換したベクトルを返します。
+
+このメソッドは deprecated です。 map(&:to_f) を使ってください。
+
+例:
+  require 'matrix'
+
+  v = Vector.elements([2, 3, 5, 7, 9])
+  vf = v.elements_to_f
+  p vf #=> "Vector[2.0, 3.0, 5.0, 7.0, 9.0]"
+

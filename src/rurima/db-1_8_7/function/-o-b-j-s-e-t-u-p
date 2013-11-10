@@ -1,0 +1,11 @@
+params=(obj, VALUE klass, int typeflag)
+filename=ruby.h
+name=OBJSETUP
+type=void
+macro=true
+private=false
+
+
+obj をクラス klass とフラグ typeflag で初期化する。
+$SAFE >= 3 のときは無条件で汚染する。
+

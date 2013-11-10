@@ -1,0 +1,12 @@
+library=uri
+aliasof=
+type=class
+included=URI
+aliases=
+superclass=Object
+extended=
+
+すべての URI クラスの基底クラスです。
+
+hash と eql? が再定義されているため、[[c:Hash]] のキーとして
+利用することができます。

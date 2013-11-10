@@ -1,0 +1,9 @@
+library=rubygems.command_manager
+aliasof=
+type=class
+included=Gem=UserInteraction
+aliases=
+superclass=Object
+extended=
+
+gem コマンドによってサポートされているサブコマンドを管理するクラスです。

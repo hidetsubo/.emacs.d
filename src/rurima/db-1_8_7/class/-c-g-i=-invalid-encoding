@@ -1,0 +1,9 @@
+type=class
+library=cgi
+extended=
+aliases=
+included=
+superclass=Exception
+aliasof=
+
+不正な文字エンコーディングが現れたときに発生する例外です。

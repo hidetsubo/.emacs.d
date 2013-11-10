@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tscale
+extended=
+aliases=Tk=Tile=TScale,Tk=Tile=TScale
+included=
+superclass=Object
+aliasof=
+
+

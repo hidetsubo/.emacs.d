@@ -1,0 +1,8 @@
+requires=tk.package,tk.autoload,tk.panedwindow,tk.itemconfig,tk.winfo,tk.composite,tk.encodedstr,tk.timer,tk.validation,tk.pack,tk.textwindow,tk.menu,tk.canvastag,tk.scrollbar,tk.xim,tkextlib.vu.bargraph,tkextlib.vu.setup,tk.image,tk.itemfont,tk.palette,tk.tagfont,tk.radiobutton,tkextlib.setup,tk.scrollbox,tk.mngfocus,tk.text,tk.font,tk.kinput,tk.event,tk.menuspec,tk.wm,tk.place,tk.menubar,tkutil,tk.bgerror,tk.toplevel,tk.virtevent,tk.bindtag,tk.winpkg,tk,tk.textimage,tk.clock,tk.clipboard,tkextlib.vu.dial,tk.macpkg,tk.texttag,tk.selection,tk.optiondb,tk.message,tk.msgcat,tk.scrollable,tk.entry,tk.labelframe,tkextlib.vu.spinbox,tkextlib.vu.pie,tk.dialog,tk.grid,tk.listbox,tk.label,tk.root,tk.canvas,tk.namespace,tk.spinbox,tk.txtwin_abst,tk.frame,tk.console,tk.scale,tcltklib,tk.variable,tk.button,tk.optionobj,tk.textmark,tk.checkbutton
+sublibraries=tkextlib.vu.bargraph,tkextlib.vu.setup,tkextlib.vu.pie,tkextlib.vu.dial,tkextlib.vu.spinbox
+is_sublibrary=true
+category=
+methods=
+classes=Tk=Vu
+
+

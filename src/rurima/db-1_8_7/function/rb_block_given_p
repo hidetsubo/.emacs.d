@@ -1,0 +1,10 @@
+params=(void)
+filename=eval.c
+name=rb_block_given_p
+type=int
+macro=false
+private=false
+
+
+メソッドがブロック付きで呼ばれていれば Qtrue を返します。
+

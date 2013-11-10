@@ -1,0 +1,9 @@
+type=class
+library=soap.netHttpClient
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+

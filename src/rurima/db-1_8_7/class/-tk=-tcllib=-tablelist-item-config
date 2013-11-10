@@ -1,0 +1,9 @@
+type=module
+library=tkextlib.tcllib.tablelist_core
+extended=
+aliases=
+included=TkItemConfigMethod
+superclass=
+aliasof=
+
+

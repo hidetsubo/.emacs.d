@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=UNPACK_FORMAT
+
+--- UNPACK_FORMAT -> String
+
+内部で使用します。
+

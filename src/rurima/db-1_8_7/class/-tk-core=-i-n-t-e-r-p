@@ -1,0 +1,9 @@
+type=object
+library=tk
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+INTERP は [[c:TclTkIp]] のインスタンス。

@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=SO_USELOOPBACK
+
+--- SO_USELOOPBACK -> Integer
+@todo
+Bypass hardware when possible。
+

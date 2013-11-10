@@ -1,0 +1,9 @@
+type=class
+library=xsd.codegen
+extended=
+aliases=
+included=XSD=CodeGen=GenSupport,XSD=CodeGen=CommentDef
+superclass=Object
+aliasof=
+
+

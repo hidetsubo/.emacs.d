@@ -1,0 +1,8 @@
+private=true
+params=(VALUE klass, ID name, ID noex)
+type=void
+name=rb_export_method
+filename=eval.c
+macro=false
+
+

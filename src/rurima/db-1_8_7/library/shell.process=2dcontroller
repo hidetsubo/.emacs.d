@@ -1,0 +1,8 @@
+requires=
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=Shell=ProcessController
+
+プロセスを制御するためのクラスを定義したライブラリです。

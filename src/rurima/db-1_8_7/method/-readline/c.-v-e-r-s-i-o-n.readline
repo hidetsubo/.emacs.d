@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=VERSION
+
+--- VERSION -> String
+
+Readlineモジュールが使用している GNU Readline や libedit のバージョンを
+示す文字列です。
+

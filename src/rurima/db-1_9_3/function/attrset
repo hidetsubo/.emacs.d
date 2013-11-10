@@ -1,0 +1,8 @@
+private=true
+params=(NODE *recv, ID id)
+type=NODE *
+name=attrset
+filename=parse.y
+macro=false
+
+

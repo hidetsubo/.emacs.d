@@ -1,0 +1,26 @@
+requires=rubygems.source_info_cache,rubygems.builder,rubygems.source_info_cache_entry,rubygems.dependency_list,rubygems.source_index,rubygems.gem_path_searcher,rubygems.spec_fetcher,rubygems.requirement,rubygems.defaults,rubygems.remote_fetcher,rubygems.specification,rubygems.version,rubygems.platform,rubygems.command,rubygems.exceptions,rubygems,rubygems.digest.sha2,rubygems.dependency,rubygems.user_interaction
+category=
+methods=
+sublibraries=
+classes=Gem=Commands=CleanupCommand
+is_sublibrary=true
+
+ローカルにインストールされている古い Gem を削除するライブラリです。
+
+  Usage: gem cleanup [GEMNAME ...] [options]
+    Options:
+      -d, --dryrun
+    Common Options:
+      -h, --help                       このコマンドのヘルプを表示します
+      -V, --[no-]verbose               表示を詳細にします
+      -q, --quiet                      静かに実行します
+          --config-file FILE           指定された設定ファイルを使用します
+          --backtrace                  バックトレースを表示します
+          --debug                      Ruby 自体のデバッグオプションを有効にします
+    Arguments:
+      GEMNAME       削除する Gem パッケージの名前を指定します
+    Summary:
+      ローカルリポジトリにインストールされている古いバージョンの
+      Gem パッケージを削除します
+    Defaults:
+      --no-dryrun

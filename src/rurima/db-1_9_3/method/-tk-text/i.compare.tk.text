@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=compare
+
+--- compare(idx1, op, idx2)
+@todo
+

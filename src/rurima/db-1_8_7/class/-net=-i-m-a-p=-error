@@ -1,0 +1,9 @@
+type=class
+library=net.imap
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+すべての IMAP 例外クラスのスーパークラス。

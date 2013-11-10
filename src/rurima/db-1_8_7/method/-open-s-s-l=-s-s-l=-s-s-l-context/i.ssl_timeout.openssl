@@ -1,0 +1,13 @@
+visibility=public
+kind=defined
+names=ssl_timeout,timeout
+
+--- timeout -> Integer | nil
+--- ssl_timeout -> Integer | nil
+
+このコンテキストから生成するセッションのタイムアウト秒数を返します。
+
+デフォルト値は nil です。
+
+@see [[m:OpenSSL::SSL::SSLContext#timeout=]]
+

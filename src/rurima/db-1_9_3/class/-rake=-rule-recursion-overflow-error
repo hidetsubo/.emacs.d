@@ -1,0 +1,9 @@
+library=rake
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+ルールのネストが多すぎる場合に発生する例外です。

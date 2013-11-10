@@ -1,0 +1,11 @@
+type=class
+library=socket
+extended=
+aliases=
+included=
+superclass=BasicSocket
+aliasof=
+
+UNIX ドメインのストリーム型ソケットのクラス。
+
+通常の [[c:IO]] クラスのサブクラスと同様の入出力ができます。

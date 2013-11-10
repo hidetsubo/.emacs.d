@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=parent_file_name
+
+--- parent_file_name -> String
+
+self.parent のファイル名を返します。
+
+@see [[m:RDoc::CodeObject#parent]]
+

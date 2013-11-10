@@ -1,0 +1,10 @@
+params=(void)
+filename=gc.c
+name=rb_gc_enable
+type=VALUE
+macro=false
+private=false
+
+
+GC を許可します。
+

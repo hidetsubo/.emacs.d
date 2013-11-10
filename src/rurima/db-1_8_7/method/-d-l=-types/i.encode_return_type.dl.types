@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=encode_return_type
+
+--- encode_return_type(ty)
+@todo
+

@@ -1,0 +1,10 @@
+private=false
+params=(st_table *table, char *never)
+type=void
+name=st_cleanup_safe
+filename=st.c
+macro=false
+
+
+never と同じ値を持つエントリーを削除する。
+

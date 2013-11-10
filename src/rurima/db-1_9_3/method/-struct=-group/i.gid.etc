@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=gid
+
+--- gid -> Integer
+
+グループ ID を返します。
+

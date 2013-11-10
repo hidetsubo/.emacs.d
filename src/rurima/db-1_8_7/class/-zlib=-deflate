@@ -1,0 +1,9 @@
+type=class
+library=zlib
+extended=
+aliases=
+included=
+superclass=Zlib=ZStream
+aliasof=
+
+入力データを圧縮するストリームのクラスです。

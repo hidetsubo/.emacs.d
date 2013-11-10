@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=string_length
+
+--- string_length(string)
+@todo
+

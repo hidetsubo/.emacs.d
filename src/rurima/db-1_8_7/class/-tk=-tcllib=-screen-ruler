@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tcllib.screenruler
+extended=
+aliases=
+included=
+superclass=TkWindow
+aliasof=Tk=Tcllib=Screenruler
+
+Alias of [[c:Tk::Tcllib::Screenruler]]

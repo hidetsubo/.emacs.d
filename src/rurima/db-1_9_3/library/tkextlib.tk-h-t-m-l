@@ -1,0 +1,8 @@
+requires=tkextlib.setup,tkextlib.tkHTML.setup,tkextlib.tkHTML.htmlwidget
+category=
+methods=
+sublibraries=tkextlib.tkHTML.htmlwidget,tkextlib.tkHTML.setup
+classes=
+is_sublibrary=true
+
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=new
+
+--- new -> RDoc::Markup::ToHtml
+
+自身を初期化します。

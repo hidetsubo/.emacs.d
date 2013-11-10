@@ -1,0 +1,9 @@
+type=module
+library=wsdl.soap.classDefCreatorSupport
+extended=
+aliases=
+included=XSD=CodeGen=GenSupport
+superclass=
+aliasof=
+
+

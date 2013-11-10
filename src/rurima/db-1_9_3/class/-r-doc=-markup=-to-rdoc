@@ -1,0 +1,10 @@
+library=rdoc.markup.to_rdoc
+aliasof=
+type=class
+included=
+aliases=
+superclass=RDoc=Markup=Formatter
+extended=
+
+RDoc 形式のドキュメントをマークアップ記法を保持したまま出力させるための
+クラスです。

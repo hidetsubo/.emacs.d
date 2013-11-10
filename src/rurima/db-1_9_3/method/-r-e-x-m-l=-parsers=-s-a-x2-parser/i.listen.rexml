@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=listen
+
+--- listen(sym, ary) { ... }
+--- listen(sym) { ... }
+--- listen(ary, listener)
+--- listen(ary) { ... }
+--- listen(listener)
+@todo
+

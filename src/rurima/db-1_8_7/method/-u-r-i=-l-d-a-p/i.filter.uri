@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=filter
+
+--- filter    -> String
+
+自身の filter を文字列で返します。
+

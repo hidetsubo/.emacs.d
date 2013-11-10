@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=scanGMT
+
+--- scanGMT(str, base = nil)
+@todo
+

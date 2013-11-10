@@ -1,0 +1,10 @@
+requires=
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=
+
+[[lib:irb]] ライブラリのバージョンを定義したサブライブラリです。
+
+このライブラリで定義されているメソッドはユーザが直接使用するものではありません。

@@ -1,0 +1,8 @@
+params=(int ex)
+filename=eval.c
+name=error_handle
+type=int
+macro=false
+private=true
+
+

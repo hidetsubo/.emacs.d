@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=AddressRegex
+
+--- AddressRegex -> Regexp
+IPアドレスにマッチする正規表現です。
+

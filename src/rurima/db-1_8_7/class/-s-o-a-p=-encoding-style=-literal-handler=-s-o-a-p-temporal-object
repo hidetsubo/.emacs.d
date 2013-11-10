@@ -1,0 +1,9 @@
+type=class
+library=soap.encodingstyle.literalHandler
+extended=
+aliases=
+included=
+superclass=Object
+aliasof=
+
+

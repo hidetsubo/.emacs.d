@@ -1,0 +1,8 @@
+private=false
+params=(ID id)
+type=void
+name=rb_autoload_load
+filename=variable.c
+macro=false
+
+

@@ -1,0 +1,13 @@
+visibility=public
+kind=defined
+names=pred
+
+--- pred    -> Integer
+
+self から -1 した値を返します。
+
+   1.pred      #=> 0
+   (-1).pred   #=> -2
+
+
+

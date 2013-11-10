@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=first,last
+
+--- first -> self
+--- last  -> self
+@todo
+

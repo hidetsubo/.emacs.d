@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=gems_to_install
+
+--- gems_to_install -> Array
+
+依存関係によりインストールされる予定の Gem のリストを返します。
+

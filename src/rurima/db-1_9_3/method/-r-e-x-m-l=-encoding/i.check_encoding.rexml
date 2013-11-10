@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=check_encoding
+
+--- check_encoding(str)
+@todo
+
+

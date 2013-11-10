@@ -1,0 +1,9 @@
+library=sdbm
+aliasof=
+type=class
+included=
+aliases=
+superclass=StandardError
+extended=
+
+SDBM 内部で使用する例外クラスです。

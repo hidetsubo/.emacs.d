@@ -1,0 +1,8 @@
+params=(void)
+filename=eval.c
+name=rb_thread_cleanup
+type=void
+macro=false
+private=true
+
+

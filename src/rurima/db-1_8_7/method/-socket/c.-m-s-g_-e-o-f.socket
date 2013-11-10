@@ -1,0 +1,13 @@
+visibility=public
+kind=defined
+names=MSG_EOF
+
+--- MSG_EOF -> Integer
+Data completes connection。
+
+[[m:BasicSocket#send]], [[m:BasicSocket#sendmsg]],
+[[m:BasicSocket#recv]], [[m:BasicSocket#recvmsg]] の
+flags 引数に用います。
+
+@see [[man:send(2freebsd)]]
+

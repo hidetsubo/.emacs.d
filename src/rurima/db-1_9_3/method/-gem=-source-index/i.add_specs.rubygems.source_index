@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=add_specs
+
+--- add_specs(*gem_specs) -> Hash
+
+自身に引数で与えられた [[c:Gem::Specification]] のインスタンスを全て追加します。
+
+@param gem_specs 複数の [[c:Gem::Specification]] のインスタンスを指定します。
+

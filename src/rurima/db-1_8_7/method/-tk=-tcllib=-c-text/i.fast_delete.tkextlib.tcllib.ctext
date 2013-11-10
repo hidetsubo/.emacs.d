@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=fast_delete
+
+--- fast_delete(*args)
+@todo
+

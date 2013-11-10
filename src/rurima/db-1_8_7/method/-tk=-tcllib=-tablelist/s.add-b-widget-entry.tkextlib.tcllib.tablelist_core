@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=addBWidgetEntry
+
+--- addBWidgetEntry(name = None)
+@todo
+

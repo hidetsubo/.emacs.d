@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=O_APPEND
+
+--- O_APPEND -> Integer
+ファイルを追記モードで開きます。
+

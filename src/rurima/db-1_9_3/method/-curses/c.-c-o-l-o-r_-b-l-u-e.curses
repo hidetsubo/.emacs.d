@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=COLOR_BLUE
+
+--- COLOR_BLUE -> Integer
+
+青を表す定数です。
+

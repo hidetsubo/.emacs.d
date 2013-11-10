@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=SOL_IPX
+
+--- SOL_IPX -> Integer
+@todo
+IPX socket options。
+[[m:BasicSocket#getsockopt]], [[m:BasicSocket#setsockopt]]
+の第一引数(level)に使用します。
+

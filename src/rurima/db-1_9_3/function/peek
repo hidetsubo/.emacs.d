@@ -1,0 +1,10 @@
+private=true
+params=(int c)
+type=int
+name=peek
+filename=parse.y
+macro=true
+
+
+現在読み込み中のプログラムの次の文字が c ならば真。
+

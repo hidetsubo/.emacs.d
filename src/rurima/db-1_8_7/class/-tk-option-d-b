@@ -1,0 +1,9 @@
+type=module
+library=tk.optiondb
+extended=Tk
+aliases=
+included=Tk
+superclass=
+aliasof=
+
+

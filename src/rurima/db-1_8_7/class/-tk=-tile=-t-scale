@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tscale
+extended=
+aliases=
+included=Tk=Tile=TileWidget,Tk=Tile=TileWidget
+superclass=TkScale
+aliasof=Tk=Tile=Scale
+
+Alias of [[c:Tk::Tile::Scale]]

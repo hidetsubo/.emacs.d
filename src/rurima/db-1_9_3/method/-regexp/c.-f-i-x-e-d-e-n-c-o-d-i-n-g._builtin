@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=FIXEDENCODING
+
+--- FIXEDENCODING -> Fixnum
+
+正規表現が特定のエンコーディングの文字列にしかマッチしないことを意味します。
+
+@see [[m:Regexp#fixed_encoding?]]
+
+

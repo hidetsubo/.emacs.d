@@ -1,0 +1,11 @@
+private=false
+params=(VALUE klass, const char *new, const char *old)
+type=void
+name=rb_define_alias
+filename=class.c
+macro=false
+
+
+クラス klass のインスタンスメソッド old の
+別名 new を定義します。
+

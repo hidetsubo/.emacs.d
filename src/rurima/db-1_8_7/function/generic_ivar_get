@@ -1,0 +1,8 @@
+params=(VALUE obj, ID id)
+filename=variable.c
+name=generic_ivar_get
+type=VALUE
+macro=false
+private=true
+
+

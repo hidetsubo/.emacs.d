@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=extensions
+
+--- extensions    -> String
+
+自身の extensions を文字列で返します。
+

@@ -1,0 +1,10 @@
+private=false
+params=(VALUE thread)
+type=VALUE
+name=rb_thread_run
+filename=eval.c
+macro=false
+
+
+スレッド thread に実行権を渡します。
+

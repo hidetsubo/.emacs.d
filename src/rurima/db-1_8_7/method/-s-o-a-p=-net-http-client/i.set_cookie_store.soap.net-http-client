@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=set_cookie_store
+
+--- set_cookie_store(filename)
+@todo
+

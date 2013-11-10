@@ -1,0 +1,10 @@
+library=json
+aliasof=
+type=class
+included=
+aliases=
+superclass=JSON=JSONError
+extended=
+
+要求されたユニコードサポートがシステムにインストールされていない場合に発生する例外です。
+通常、これは [[lib:iconv]] がインストールされていないことを意味します。

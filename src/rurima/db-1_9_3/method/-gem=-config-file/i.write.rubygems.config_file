@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=write
+
+--- write
+
+自身を読み込んだ設定ファイルを書き換えます。
+

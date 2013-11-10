@@ -1,0 +1,8 @@
+requires=rubygems.source_info_cache,rubygems.source_info_cache_entry,rubygems.builder,rubygems.source_index,rubygems.spec_fetcher,rubygems.gem_path_searcher,rubygems.requirement,rubygems.defaults,rubygems.remote_fetcher,rubygems.specification,rubygems.version,rubygems.platform,rubygems.exceptions,rubygems,rubygems.digest.sha2,rubygems.dependency,rubygems.user_interaction
+category=
+methods=
+sublibraries=
+classes=Gem=RemoteFetcher,Gem=RemoteFetcher=FetchError
+is_sublibrary=true
+
+リモートソースから Gem パッケージや Gem パッケージの情報を取得するためのライブラリです。

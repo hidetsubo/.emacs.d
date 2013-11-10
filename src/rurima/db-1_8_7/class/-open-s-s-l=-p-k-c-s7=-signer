@@ -1,0 +1,9 @@
+type=class
+library=openssl
+extended=
+aliases=
+included=
+superclass=
+aliasof=OpenSSL=PKCS7=SignerInfo
+
+Alias of [[c:OpenSSL::PKCS7::SignerInfo]]

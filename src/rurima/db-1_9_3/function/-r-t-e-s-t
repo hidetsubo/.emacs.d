@@ -1,0 +1,10 @@
+private=false
+params=(VALUE obj)
+type=int
+name=RTEST
+filename=ruby.h
+macro=true
+
+
+obj が Qfalse でも Qnil でもないとき真。
+

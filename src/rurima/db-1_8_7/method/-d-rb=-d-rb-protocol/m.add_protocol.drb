@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=add_protocol
+
+--- add_protocol(prot) -> ()
+新たなプロトコルを DRbProtocol モジュールに登録します。
+
+@param prot プロトコル定義クラス
+
+
+

@@ -1,0 +1,12 @@
+kind=defined
+visibility=public
+names=[]=
+
+--- []=(dir, val)
+
+与えられたディレクトリに対応するサーブレットを登録します。
+
+@param dir ディレクトリを指定します。
+
+@param val サーブレットを指定します。
+

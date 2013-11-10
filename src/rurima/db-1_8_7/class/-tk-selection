@@ -1,0 +1,9 @@
+type=module
+library=tk.selection
+extended=Tk
+aliases=
+included=Tk
+superclass=
+aliasof=Selection
+
+

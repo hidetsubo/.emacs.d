@@ -1,0 +1,14 @@
+visibility=public
+kind=defined
+names=type
+
+--- type -> Symbol
+PKCS7 オブジェクトのタイプを [[c:Symbol]] オブジェクトで返します。
+
+次のうちのいずれかの値をとります。
+  * :signed
+  * :encrypted
+  * :enveloped
+  * :signedAndEnveloped
+  * :data
+

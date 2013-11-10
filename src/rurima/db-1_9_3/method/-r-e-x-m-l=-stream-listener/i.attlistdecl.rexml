@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=attlistdecl
+
+--- attlistdecl(element_name, attributes, raw_content)
+@todo
+

@@ -1,0 +1,9 @@
+library=tkextlib.tcllib.datefield
+aliasof=
+type=class
+included=
+aliases=Tk=Tcllib=Datefield
+superclass=Object
+extended=
+
+

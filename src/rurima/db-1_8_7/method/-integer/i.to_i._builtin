@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=to_i,to_int
+
+--- to_i   -> self
+--- to_int -> self
+
+self を返します。
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=io
+
+--- io -> IRB::InputMethod
+
+ライブラリ内部で使用します。
+

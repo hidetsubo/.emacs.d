@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=mark_unmarshalled_obj
+
+--- mark_unmarshalled_obj(node, obj)
+@todo
+

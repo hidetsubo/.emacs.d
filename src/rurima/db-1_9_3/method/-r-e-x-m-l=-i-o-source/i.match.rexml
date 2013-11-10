@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=match
+
+--- match(pattern, cons = false)
+@todo
+

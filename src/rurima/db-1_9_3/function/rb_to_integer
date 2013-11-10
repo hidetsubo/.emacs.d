@@ -1,0 +1,8 @@
+private=true
+params=(VALUE val, char *method)
+type=VALUE
+name=rb_to_integer
+filename=object.c
+macro=false
+
+

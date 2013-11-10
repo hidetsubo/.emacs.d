@@ -1,0 +1,10 @@
+params=(ary, item)
+filename=array.c
+name=rb_ary_includes
+type=VALUE
+macro=false
+private=false
+
+
+ary.include? item
+

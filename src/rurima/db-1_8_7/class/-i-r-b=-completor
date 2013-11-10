@@ -1,0 +1,10 @@
+type=module
+library=irb.completion
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+irb の completion 機能を提供するモジュールです。
+ユーザがこのモジュールを直接使用することはありません。

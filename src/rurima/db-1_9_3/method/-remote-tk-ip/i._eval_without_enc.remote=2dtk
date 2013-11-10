@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_eval_without_enc
+
+--- _eval_without_enc(str)
+@todo
+

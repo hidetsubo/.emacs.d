@@ -1,0 +1,7 @@
+kind=defined
+visibility=private 
+names=RDWR_ACCESS
+
+--- RDWR_ACCESS -> Fixnum
+内部で利用する定数です。
+

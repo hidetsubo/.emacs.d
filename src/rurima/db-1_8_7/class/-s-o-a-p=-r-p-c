@@ -1,0 +1,9 @@
+type=module
+library=soap.rpc.rpc
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+

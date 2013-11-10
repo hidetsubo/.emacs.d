@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=bin_dir
+
+--- bin_dir -> String
+
+実行ファイルをインストールするディレクトリを返します。
+

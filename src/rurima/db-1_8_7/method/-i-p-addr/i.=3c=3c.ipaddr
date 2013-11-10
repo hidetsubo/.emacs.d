@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=<<
+
+--- <<(num) -> IPAddr
+
+ビットごとの左シフト演算により、新しい IPAddr オブジェクトを生成します。
+
+@param num 左シフトする桁数。
+
+

@@ -1,0 +1,10 @@
+params=(ID key, NODE *body, VALUE ary)
+filename=class.c
+name=ins_methods_i
+type=int
+macro=false
+private=true
+
+
+rb_class_instance_methods() のイテレータブロック (通常版)。
+

@@ -1,0 +1,9 @@
+type=module
+library=tkextlib.tcllib.widget
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+

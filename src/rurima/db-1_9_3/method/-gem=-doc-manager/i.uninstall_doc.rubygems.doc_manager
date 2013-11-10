@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=uninstall_doc
+
+--- uninstall_doc
+
+RDoc と RI 用のデータを削除します。
+

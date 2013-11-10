@@ -1,0 +1,8 @@
+params=(VALUE fname, int wrap, int *state)
+filename=eval.c
+name=rb_load_protect
+type=void
+macro=false
+private=false
+
+

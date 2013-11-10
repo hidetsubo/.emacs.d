@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=progname
+
+--- progname -> String
+
+ログに出力するプログラム名を取得します。
+

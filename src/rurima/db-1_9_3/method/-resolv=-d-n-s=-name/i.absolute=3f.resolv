@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=absolute?
+
+--- absolute? -> bool
+絶対パス形式であるかどうかを返します。
+
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=new_from_file
+
+--- new_from_file(file_name)
+@todo
+

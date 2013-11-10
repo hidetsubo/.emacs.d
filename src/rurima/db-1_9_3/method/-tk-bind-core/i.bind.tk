@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=bind
+
+--- bind(context, *args)
+@todo
+
+
+

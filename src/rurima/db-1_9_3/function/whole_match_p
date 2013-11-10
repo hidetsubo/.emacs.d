@@ -1,0 +1,10 @@
+private=true
+params=(char *eos, int len, int indent)
+type=int
+name=whole_match_p
+filename=parse.y
+macro=false
+
+
+現在の入力行がヒアドキュメントの終端記号であれば真。
+

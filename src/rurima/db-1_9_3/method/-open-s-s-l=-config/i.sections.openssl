@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=sections
+
+--- sections -> [String]
+オブジェクトに含まれる全てのセクション名の配列を返します。
+

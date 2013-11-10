@@ -1,0 +1,10 @@
+params=(VALUE method, VALUE recv)
+filename=eval.c
+name=umethod_bind
+type=VALUE
+macro=false
+private=true
+
+
+UnboundMethod method を recv に束縛します。
+

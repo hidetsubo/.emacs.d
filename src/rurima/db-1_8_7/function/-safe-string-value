@@ -1,0 +1,12 @@
+params=(v)
+filename=ruby.h
+name=SafeStringValue
+type=MACRO
+macro=false
+private=false
+
+
+[[f:StringValue]] と同じく、val が String でなければ to_str メソッドを
+使って String に変換します。同時に rb_check_safe_str() によるチェックも
+行います。
+

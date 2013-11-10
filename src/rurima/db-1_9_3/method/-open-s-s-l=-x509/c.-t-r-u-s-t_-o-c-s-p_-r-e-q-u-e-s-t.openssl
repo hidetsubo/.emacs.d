@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=TRUST_OCSP_REQUEST
+
+--- TRUST_OCSP_REQUEST -> Integer
+@todo
+

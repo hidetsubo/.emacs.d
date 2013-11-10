@@ -1,0 +1,8 @@
+params=(VALUE self, NODE *node, VALUE val, int pcall)
+filename=eval.c
+name=massign
+type=VALUE
+macro=false
+private=true
+
+

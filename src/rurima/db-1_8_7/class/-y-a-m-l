@@ -1,0 +1,9 @@
+type=module
+library=yaml
+extended=
+aliases=
+included=
+superclass=
+aliasof=
+
+YAML (YAML Ain't Markup Language) を扱うモジュールです。

@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=WRITER
+
+--- WRITER -> Fixnum
+
+書き込みモードでオープンします．
+
+@see [[m:DBM.open]]
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=add_type
+
+--- add_type(taguri, cls)
+@todo
+

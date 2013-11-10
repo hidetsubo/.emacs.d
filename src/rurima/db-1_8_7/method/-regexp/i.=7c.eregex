@@ -1,0 +1,10 @@
+visibility=public
+kind=added
+names=|
+
+--- |(other) -> RegOr
+
+[[m:RegOr.new]](self, other) を返します。
+
+@param other 正規表現オブジェクト。
+

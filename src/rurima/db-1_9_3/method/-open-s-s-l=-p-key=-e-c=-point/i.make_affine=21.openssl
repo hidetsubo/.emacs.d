@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=make_affine!
+
+--- make_affine! -> self
+@todo
+@raise OpenSSL::PKey::EC::Point::Error エラーが生じた場合に発生します
+

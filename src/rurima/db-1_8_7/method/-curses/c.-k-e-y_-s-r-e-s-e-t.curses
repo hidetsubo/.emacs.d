@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=KEY_SRESET
+
+--- KEY_SRESET -> Integer
+
+Shift + Reset キーを表す定数です。
+

@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=display_process_id=
+
+--- display_process_id=(flag)
+
+プロセス ID を表示するかどうかを設定します。
+
+@param flag プロセス ID を表示するならば、真を指定します。
+

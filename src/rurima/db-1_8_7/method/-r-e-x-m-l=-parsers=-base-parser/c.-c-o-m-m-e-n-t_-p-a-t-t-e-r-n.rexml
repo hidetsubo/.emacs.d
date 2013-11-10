@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=COMMENT_PATTERN
+
+--- COMMENT_PATTERN
+@todo
+

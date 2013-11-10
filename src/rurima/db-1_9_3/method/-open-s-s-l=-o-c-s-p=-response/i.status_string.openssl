@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=status_string
+
+--- status_string -> String
+レスポンスステータスを human-readable な文字列で返します。
+
+@see [[m:OpenSSL::OCSP::Response#status]]
+

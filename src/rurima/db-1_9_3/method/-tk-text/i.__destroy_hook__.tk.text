@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=__destroy_hook__
+
+--- __destroy_hook__
+@todo
+

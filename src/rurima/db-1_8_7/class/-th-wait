@@ -1,0 +1,9 @@
+type=class
+library=thwait
+extended=
+aliases=
+included=
+superclass=
+aliasof=ThreadsWait
+
+Alias of [[c:ThreadsWait]]

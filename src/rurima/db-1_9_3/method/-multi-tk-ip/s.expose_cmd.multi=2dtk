@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=expose_cmd
+
+--- expose_cmd(slave, cmd, aliasname = nil)
+@todo
+

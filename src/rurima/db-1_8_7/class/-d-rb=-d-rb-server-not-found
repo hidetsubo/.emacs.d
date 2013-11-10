@@ -1,0 +1,11 @@
+type=class
+library=drb
+extended=
+aliases=
+included=
+superclass=DRb=DRbError
+aliasof=
+
+カレントサーバが見付からない場合に発生する例外のクラス
+
+@see [[m:DRb.#current_server]]

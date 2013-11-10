@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=COLOR_BLACK
+
+--- COLOR_BLACK -> Integer
+
+黒を表す定数です。
+

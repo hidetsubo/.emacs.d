@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=default_proc
+
+--- default_proc(cmd = Proc.new)
+@todo
+

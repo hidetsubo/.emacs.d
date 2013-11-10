@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=SJIS
+
+--- SJIS -> Integer
+
+Shift_JIS を表します。
+cp932ではないことに注意してください。
+

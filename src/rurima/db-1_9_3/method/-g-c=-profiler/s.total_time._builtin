@@ -1,0 +1,6 @@
+kind=defined
+visibility=public
+names=total_time
+
+--- total_time -> Float
+GC のプロファイル情報から GC の総計時間を計算し、msec 単位で返します。

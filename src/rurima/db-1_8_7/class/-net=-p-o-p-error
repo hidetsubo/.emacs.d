@@ -1,0 +1,10 @@
+type=class
+library=net.pop
+extended=
+aliases=
+included=
+superclass=Net=ProtocolError
+aliasof=
+
+POP3 の、認証以外のエラーが起きたときに発生します。
+サーバからの "-ERR" 応答コードに対応します。

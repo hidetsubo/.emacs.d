@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=readlines
+
+--- readlines(*args) -> [String]
+IO.readlines(self.to_s, *args)と同じです。
+
+@see [[m:IO.readlines]]
+

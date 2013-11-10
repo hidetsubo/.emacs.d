@@ -1,0 +1,12 @@
+visibility=public
+kind=defined
+names=debug=
+
+--- debug=(val)
+デバッグモードの on/off をします。
+
+真を渡すと on になります。
+
+@param val 設定するデバッグモードの on/off の真偽値
+@see [[m:Net::IMAP#debug]]
+

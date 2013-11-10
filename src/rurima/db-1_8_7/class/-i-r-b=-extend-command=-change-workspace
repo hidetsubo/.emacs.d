@@ -1,0 +1,9 @@
+type=class
+library=irb.cmd.chws
+extended=
+aliases=
+included=
+superclass=IRB=ExtendCommand=Nop
+aliasof=
+
+irb 中の irb_change_workspace コマンドのための拡張を定義したクラスです。

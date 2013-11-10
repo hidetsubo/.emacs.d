@@ -1,0 +1,9 @@
+type=class
+library=tkextlib.tile.tseparator
+extended=
+aliases=
+included=Tk=Tile=TileWidget,Tk=Tile=TileWidget
+superclass=TkWindow
+aliasof=Tk=Tile=Separator
+
+Alias of [[c:Tk::Tile::Separator]]

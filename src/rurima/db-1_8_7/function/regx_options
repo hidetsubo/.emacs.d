@@ -1,0 +1,11 @@
+params=(void)
+filename=parse.y
+name=regx_options
+type=int
+macro=false
+private=true
+
+
+正規表現のオプション (ixmo nesu) を読み込み
+フラグ (ビットマスク) を返します。
+

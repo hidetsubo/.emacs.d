@@ -1,0 +1,9 @@
+type=class
+library=matrix
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+逆行列計算時に行列が正則でない場合に発生する例外です。

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=encoding
+
+--- encoding -> Encoding
+
+読み書きするときに使用するエンコーディングを返します。
+

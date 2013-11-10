@@ -1,0 +1,7 @@
+kind=defined
+visibility=public 
+names=to_yaml_properties
+
+--- to_yaml_properties -> [String]
+@todo
+

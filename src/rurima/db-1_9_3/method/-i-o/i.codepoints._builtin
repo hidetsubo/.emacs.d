@@ -1,0 +1,15 @@
+kind=defined
+visibility=public
+names=codepoints,each_codepoint
+
+--- each_codepoint{|c| ... }     -> self
+--- codepoints{|c| ... }         -> self
+--- each_codepoint               -> Enumerator
+--- codepoints                   -> Enumerator
+
+IO の各コードポイントに対して繰り返しブロックを呼びだします。
+
+ブロックの引数にはコードポイントを表す整数が渡されます。
+
+ブロックを省略した場合には、[[c:Enumerator]] を返します。
+

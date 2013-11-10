@@ -1,0 +1,8 @@
+kind=defined
+visibility=public 
+names=source_index
+
+--- source_index -> Gem::SourceIndex
+
+このキャッシュエントリに対するソースインデックスです。
+

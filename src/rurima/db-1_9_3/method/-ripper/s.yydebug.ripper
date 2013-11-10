@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=yydebug
+
+--- yydebug -> bool
+
+yydebugの構文解析器の追跡機能が有効か無効かを返します。
+

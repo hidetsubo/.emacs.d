@@ -1,0 +1,11 @@
+params=(VALUE klass, const char *name, VALUE val)
+filename=variable.c
+name=rb_define_class_variable
+type=void
+macro=false
+private=false
+
+
+クラス klass のクラス変数 name を初期値 val で
+定義します。既に同名の変数が定義されていたら警告します。
+

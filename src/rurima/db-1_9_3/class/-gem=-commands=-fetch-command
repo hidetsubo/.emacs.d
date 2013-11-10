@@ -1,0 +1,9 @@
+library=rubygems.commands.fetch_command
+aliasof=
+type=class
+included=Gem=LocalRemoteOptions,Gem=VersionOption
+aliases=
+superclass=Gem=Command
+extended=
+
+Gem パッケージをダウンロードしてカレントディレクトリに保存するためのクラスです。

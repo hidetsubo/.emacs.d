@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=sync_upgrade_waiting
+
+--- sync_upgrade_waiting -> [Thread]
+@todo
+

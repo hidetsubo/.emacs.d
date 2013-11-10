@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=gateway_interface
+
+--- gateway_interface -> String
+
+ENV['GATEWAY_INTERFACE'] を返します。
+

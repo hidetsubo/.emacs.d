@@ -1,0 +1,8 @@
+params=(long f)
+filename=ruby.h
+name=NEGFIXABLE
+type=int
+macro=true
+private=false
+
+

@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=verbose,verbose?
+
+--- verbose -> bool  
+--- verbose? -> bool
+@todo
+

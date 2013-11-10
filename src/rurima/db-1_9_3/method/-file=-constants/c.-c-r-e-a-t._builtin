@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=CREAT
+
+--- CREAT -> Integer
+ファイルがなければ作成するよう指定します。
+[[m:File.open]]で使用します。
+

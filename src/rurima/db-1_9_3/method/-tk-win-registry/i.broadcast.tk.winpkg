@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=broadcast
+
+--- broadcast(keynam, timeout = nil)
+@todo
+
+

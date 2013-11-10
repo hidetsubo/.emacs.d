@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=runtime_dependencies
+
+--- runtime_dependencies -> Array
+
+この Gem パッケージが依存している Gem パッケージのリストを返します。
+

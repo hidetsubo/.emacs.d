@@ -1,0 +1,9 @@
+library=tk.xim
+aliasof=
+type=module
+included=Tk
+aliases=
+superclass=
+extended=Tk
+
+

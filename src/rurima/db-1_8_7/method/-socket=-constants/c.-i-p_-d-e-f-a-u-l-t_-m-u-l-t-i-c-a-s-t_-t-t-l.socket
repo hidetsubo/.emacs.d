@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=IP_DEFAULT_MULTICAST_TTL
+
+--- IP_DEFAULT_MULTICAST_TTL -> Integer
+@todo
+Default multicast TTL
+
+

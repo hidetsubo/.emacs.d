@@ -1,0 +1,9 @@
+type=class
+library=socket
+extended=
+aliases=
+included=
+superclass=IPSocket
+aliasof=
+
+UDP/IPデータグラム型ソケットのクラス。

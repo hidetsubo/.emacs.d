@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=row_cget
+
+--- row_cget(tagOrId, option)
+@todo
+

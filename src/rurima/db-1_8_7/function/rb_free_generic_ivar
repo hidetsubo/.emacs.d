@@ -1,0 +1,8 @@
+params=(VALUE obj)
+filename=variable.c
+name=rb_free_generic_ivar
+type=void
+macro=false
+private=false
+
+

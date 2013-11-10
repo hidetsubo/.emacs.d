@@ -1,0 +1,9 @@
+library=rdoc.stats
+aliasof=
+type=class
+included=
+aliases=
+superclass=Object
+extended=
+
+RDoc のステータスを管理するクラスです。

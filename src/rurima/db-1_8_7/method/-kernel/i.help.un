@@ -1,0 +1,10 @@
+visibility=private 
+kind=added
+names=help
+
+--- help -> ()
+ヘルプメッセージを表示します。
+
+
+  ruby -run -e help [COMMAND]
+

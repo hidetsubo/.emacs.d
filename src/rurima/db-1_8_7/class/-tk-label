@@ -1,0 +1,9 @@
+type=class
+library=tk.label
+extended=
+aliases=
+included=
+superclass=TkWindow
+aliasof=Label
+
+

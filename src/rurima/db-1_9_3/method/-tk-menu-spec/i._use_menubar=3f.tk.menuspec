@@ -1,0 +1,7 @@
+kind=defined
+visibility=private 
+names=_use_menubar?
+
+--- _use_menubar?(parent)
+@todo
+

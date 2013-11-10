@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=request_time
+
+--- request_time    -> Time
+
+リクエストされた時刻を [[c:Time]] オブジェクトで返します。
+

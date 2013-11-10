@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=normalize_yaml_input
+
+--- normalize_yaml_input(input) -> String
+
+YAML 形式の gemspec を正しくフォーマットします。
+
+@param input 文字列か [[c:IO]] オブジェクトを指定します。
+

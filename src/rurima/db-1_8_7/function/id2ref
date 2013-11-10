@@ -1,0 +1,12 @@
+params=(VALUE obj, VALUE id)
+filename=gc.c
+name=id2ref
+type=VALUE
+macro=false
+private=true
+
+
+ObjectSpace#_id2ref の実体。
+Ruby の整数で表されたオブジェクト ID id から
+オブジェクトを返します。
+

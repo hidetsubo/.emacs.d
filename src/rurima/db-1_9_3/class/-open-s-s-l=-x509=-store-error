@@ -1,0 +1,9 @@
+library=openssl
+aliasof=
+type=class
+included=
+aliases=
+superclass=OpenSSL=OpenSSLError
+extended=
+
+[[c:OpenSSL::X509::Store]] 関連のエラーを表す例外クラスです。

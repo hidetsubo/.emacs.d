@@ -1,0 +1,9 @@
+type=class
+library=soap.soap
+extended=
+aliases=
+included=
+superclass=StandardError
+aliasof=
+
+

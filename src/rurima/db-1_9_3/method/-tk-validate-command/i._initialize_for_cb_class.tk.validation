@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=_initialize_for_cb_class
+
+--- _initialize_for_cb_class(klass, cmd = Proc.new, *args)
+@todo
+
+
+

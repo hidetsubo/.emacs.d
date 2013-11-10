@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=default_port
+
+--- default_port     -> Integer | nil
+
+self.class.default_port を返します。
+
+@see [[m:URI::Generic.default_port]]
+

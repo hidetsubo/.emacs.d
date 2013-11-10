@@ -1,0 +1,8 @@
+kind=defined
+visibility=protected 
+names=OPTIONAL_ARGUMENT
+
+--- OPTIONAL_ARGUMENT -> 2
+
+オプションにはオプショナル引数があることを表す定数です。
+

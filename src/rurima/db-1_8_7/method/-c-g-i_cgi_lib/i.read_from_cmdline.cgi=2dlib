@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=read_from_cmdline
+
+--- read_from_cmdline
+
+オフラインモード。
+
+コマンドライン引数か、標準入力からクエリパラメータを読み込みます。
+

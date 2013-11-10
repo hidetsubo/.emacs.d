@@ -1,0 +1,8 @@
+params=(VALUE obj)
+filename=ruby.h
+name=RSTRUCT
+type=struct RStruct *
+macro=true
+private=false
+
+

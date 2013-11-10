@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=clrtoeol
+
+--- clrtoeol -> nil
+
+カーソルの位置はそのままで、ウィンドウの内容をクリアします。
+

@@ -1,0 +1,10 @@
+private=false
+params=(void)
+type=int
+name=rb_safe_level
+filename=ruby.h
+macro=false
+
+
+現在のセーフレベルを返します。
+

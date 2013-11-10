@@ -1,0 +1,9 @@
+type=class
+library=tkclass
+extended=
+aliases=TkSpinbox
+included=
+superclass=Object
+aliasof=
+
+

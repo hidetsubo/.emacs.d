@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=default_port
+
+--- default_port -> Integer
+SMTPのデフォルトのポート番号(25)を返します。
+

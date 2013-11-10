@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=Fail
+
+--- Fail(*options) -> ()
+
+自身に定義されているメッセージをセットして例外を発生させます。
+

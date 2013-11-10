@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=SOL_AX25
+
+--- SOL_AX25 -> Integer
+@todo
+AX.25 socket options。
+[[m:BasicSocket#getsockopt]], [[m:BasicSocket#setsockopt]]
+の第一引数(level)に使用します。
+

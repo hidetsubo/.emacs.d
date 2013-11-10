@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=_get_variable2
+
+--- _get_variable2(var, idx, flag)
+@todo
+

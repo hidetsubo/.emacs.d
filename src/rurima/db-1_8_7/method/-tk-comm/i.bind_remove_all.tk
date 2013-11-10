@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=bind_remove_all
+
+--- bind_remove_all(context)
+@todo
+

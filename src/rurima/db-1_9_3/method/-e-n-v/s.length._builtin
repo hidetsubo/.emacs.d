@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=length,size
+
+--- length -> Fixnum
+--- size   -> Fixnum
+
+環境変数の数を返します。
+

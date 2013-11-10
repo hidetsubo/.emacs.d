@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=code
+
+--- code -> Net::IMAP::ResponseCode | nil
+レスポンスコードを返します。
+
+応答がレスポンスコードを含んでいない場合は nil を返します。
+
+@see [[c:Net::IMAP::ResponseCode]]
+

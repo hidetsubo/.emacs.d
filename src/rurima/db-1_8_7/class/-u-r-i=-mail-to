@@ -1,0 +1,9 @@
+type=class
+library=uri
+extended=
+aliases=
+included=
+superclass=URI=Generic
+aliasof=
+
+mailto URI を表すクラスです。[[RFC:2368]]。

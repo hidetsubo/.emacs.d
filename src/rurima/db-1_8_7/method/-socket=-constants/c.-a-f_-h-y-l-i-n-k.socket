@@ -1,0 +1,11 @@
+visibility=public
+kind=defined
+names=AF_HYLINK,PF_HYLINK
+
+--- AF_HYLINK -> Integer
+--- PF_HYLINK -> Integer
+@todo
+NSC Hyperchannel。
+[[m:Socket.open]] の第一引数 domain に使用します。
+
+

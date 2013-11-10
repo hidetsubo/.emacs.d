@@ -1,0 +1,11 @@
+params=(enum node_type type, NODE *a0, NODE *a1, NODE *a2)
+filename=parse.y
+name=rb_node_newnode
+type=NODE *
+macro=false
+private=false
+
+
+ノードタイプが type で a0 a1 a2 を
+要素に持つノードを生成し、返します。
+

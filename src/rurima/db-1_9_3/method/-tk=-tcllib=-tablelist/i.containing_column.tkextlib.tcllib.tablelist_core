@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=containing_column,containingcolumn
+
+--- containing_column(x)
+--- containingcolumn(x)
+@todo
+

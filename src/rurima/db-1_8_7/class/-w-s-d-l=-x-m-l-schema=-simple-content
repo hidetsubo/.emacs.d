@@ -1,0 +1,9 @@
+type=class
+library=wsdl.xmlSchema.simpleContent
+extended=
+aliases=
+included=
+superclass=WSDL=Info
+aliasof=
+
+

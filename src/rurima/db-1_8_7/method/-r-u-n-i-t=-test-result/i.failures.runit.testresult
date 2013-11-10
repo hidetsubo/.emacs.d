@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=failures
+
+--- failures -> Array
+
+失敗したテストケースの配列を返します。
+

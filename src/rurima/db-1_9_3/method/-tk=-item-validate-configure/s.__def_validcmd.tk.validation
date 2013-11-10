@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=__def_validcmd
+
+--- __def_validcmd(scope, klass, keys = nil)
+@todo
+
+
+

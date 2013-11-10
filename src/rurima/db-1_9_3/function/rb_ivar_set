@@ -1,0 +1,11 @@
+private=false
+params=(VALUE obj, ID name, VALUE val)
+type=VALUE
+name=rb_ivar_set
+filename=variable.c
+macro=false
+
+
+オブジェクト obj のインスタンス変数 name に
+val を代入します。
+

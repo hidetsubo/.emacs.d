@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=disable_close,enable_close
+
+--- enable_close     -> nil
+--- disable_close    -> nil
+
+GC によるオブジェクトの回収時に自身をクローズするかどうかを指定します。
+

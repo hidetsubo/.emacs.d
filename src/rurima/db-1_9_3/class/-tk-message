@@ -1,0 +1,9 @@
+library=tk.message
+aliasof=Message
+type=class
+included=
+aliases=
+superclass=TkLabel
+extended=
+
+

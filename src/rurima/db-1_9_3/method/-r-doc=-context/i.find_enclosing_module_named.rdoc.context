@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=find_enclosing_module_named
+
+--- find_enclosing_module_named(name) -> RDoc::NormalModule | nil
+
+find a module at a higher scope
+

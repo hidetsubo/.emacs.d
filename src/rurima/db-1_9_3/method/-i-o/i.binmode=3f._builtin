@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=binmode?
+
+--- binmode? -> bool
+
+自身がバイナリモードなら true を返します。そうでない場合、false を返します。
+

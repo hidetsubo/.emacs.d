@@ -1,0 +1,10 @@
+private=false
+params=(VALUE ary, VALUE item)
+type=VALUE
+name=rb_ary_unshift
+filename=array.c
+macro=false
+
+
+配列 ary の先頭に item を挿入します。
+

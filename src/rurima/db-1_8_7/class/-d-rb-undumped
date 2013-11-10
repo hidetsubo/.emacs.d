@@ -1,0 +1,9 @@
+type=module
+library=drb
+extended=
+aliases=
+included=
+superclass=
+aliasof=DRb=DRbUndumped
+
+Alias of [[c:DRb::DRbUndumped]]

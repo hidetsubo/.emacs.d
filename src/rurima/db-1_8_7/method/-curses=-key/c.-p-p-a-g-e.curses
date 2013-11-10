@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=PPAGE
+
+--- PPAGE -> Integer
+
+Previous Page キーを表す定数です。
+

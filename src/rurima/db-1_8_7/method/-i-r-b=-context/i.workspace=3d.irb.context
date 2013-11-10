@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=workspace=
+
+--- workspace=(val)
+
+ライブラリ内部で使用します。
+
+

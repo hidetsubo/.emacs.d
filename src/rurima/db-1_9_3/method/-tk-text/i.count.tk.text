@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=count
+
+--- count(idx1, idx2, *opts)
+@todo
+

@@ -1,0 +1,12 @@
+visibility=public
+kind=defined
+names=print
+
+--- print(*objs)
+
+[[c:NotImplementedError]] が発生します。
+
+@param objs 任意のオブジェクトを指定します。
+
+@raise NotImplementedError 必ず発生します。
+

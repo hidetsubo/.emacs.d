@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=dir
+
+--- dir -> String
+
+このクラスが使用するキャッシュ用ディレクトリの名前を返します。
+

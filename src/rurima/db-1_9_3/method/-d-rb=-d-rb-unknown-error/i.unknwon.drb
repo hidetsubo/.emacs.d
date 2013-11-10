@@ -1,0 +1,6 @@
+kind=defined
+visibility=public
+names=unknwon
+
+--- unknwon -> DRb::DRbUnknown
+ラップしているオブジェクトを返します。

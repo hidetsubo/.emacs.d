@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=children
+
+--- children -> [object]
+
+自身が持つ値の配列を返します。
+

@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=resize
+
+--- resize(lines, cols) -> bool | nil
+@todo
+Resize the current window to Fixnum +lines+ and Fixnum +cols+
+
+@param lines
+@param cols
+

@@ -1,0 +1,12 @@
+visibility=public
+kind=defined
+names=program_name
+
+--- program_name           -> String
+
+プログラムの名前を文字列で返します。
+
+デフォルトは $0 が使われます。
+
+@return プログラムの名前を文字列で返します。
+

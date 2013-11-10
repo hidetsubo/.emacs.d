@@ -1,0 +1,11 @@
+library=openssl
+aliasof=
+type=class
+included=Comparable
+aliases=
+superclass=Object
+extended=
+
+OpenSSL内で利用される多倍長整数クラスです。
+
+通常多倍長整数を利用するには [[c:Bignum]] を用いてください。

@@ -1,0 +1,8 @@
+params=(int argc, VALUE *argv, rb_thread_t th)
+filename=eval.c
+name=rb_thread_raise
+type=VALUE
+macro=false
+private=true
+
+

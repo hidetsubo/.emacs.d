@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=euid
+
+--- euid        -> Integer
+
+カレントプロセスの実効ユーザ ID を整数で返します。
+
+@see [[man:geteuid(2)]]
+

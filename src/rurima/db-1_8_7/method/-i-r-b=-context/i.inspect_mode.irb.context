@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=inspect_mode
+
+--- inspect_mode -> bool | nil
+
+実行結果の出力方式を返します。
+
+@see [[m:IRB::Context#inspect_mode=]]
+

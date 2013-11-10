@@ -1,0 +1,12 @@
+type=class
+library=resolv
+extended=
+aliases=
+included=
+superclass=Resolv=DNS=Resource
+aliasof=
+
+DNS リソースのクラス IN、タイプ AAAA に対応する
+クラスです。
+
+IPv6アドレスリソースを表します。

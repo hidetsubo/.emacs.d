@@ -1,0 +1,8 @@
+private=true
+params=(VALUE *args)
+type=VALUE
+name=run_single_final
+filename=gc.c
+macro=false
+
+

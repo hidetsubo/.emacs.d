@@ -1,0 +1,11 @@
+params=(func)
+filename=ruby.h
+name=RUBY_METHOD_FUNC
+type=MACRO
+macro=false
+private=false
+
+
+任意の関数へのポインタ func を Ruby のメソッドの実体として適する
+型に強制キャストします。
+

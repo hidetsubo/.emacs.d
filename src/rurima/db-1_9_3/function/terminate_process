@@ -1,0 +1,8 @@
+private=true
+params=(int status, const char *mesg, int mlen)
+type=void
+name=terminate_process
+filename=eval.c
+macro=false
+
+

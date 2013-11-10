@@ -1,0 +1,8 @@
+requires=
+category=
+methods=Syck/c.VERSION.syck.constants,Syck/c.SUPPORTED_YAML_VERSIONS.syck.constants,Syck/c.DEFAULTS.syck.constants
+sublibraries=
+classes=
+is_sublibrary=true
+
+YAML 関連の定数のためのサブライブラリです。

@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=report=
+
+--- report=(list)
+
+テストメソッドの実行結果のリストをセットします。
+
+@param list テストメソッドの実行結果のリストを指定します。
+

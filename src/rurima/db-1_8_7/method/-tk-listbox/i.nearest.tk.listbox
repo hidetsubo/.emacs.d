@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=nearest
+
+--- nearest(y)
+@todo
+
+((|y|))で指定したY座標に近い要素の要素番号を返します。
+

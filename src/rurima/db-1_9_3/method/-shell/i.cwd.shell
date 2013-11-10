@@ -1,0 +1,19 @@
+kind=defined
+visibility=public
+names=cwd,dir,getwd,pwd
+
+--- cwd -> String
+--- dir -> String
+--- getwd -> String
+--- pwd -> String
+
+カレントディレクトリのパスを文字列で返します。
+
+使用例
+  require 'shell'
+  sh = Shell.new
+  p sh.cwd 
+  # 例
+  #=> "/Users/kouya/tall"
+
+

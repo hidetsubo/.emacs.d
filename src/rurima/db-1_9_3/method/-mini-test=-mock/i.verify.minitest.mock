@@ -1,0 +1,10 @@
+kind=defined
+visibility=public 
+names=verify
+
+--- verify -> true
+
+モックの検証を行います。
+
+@raise MockExpectationError モックの検証に失敗した場合に発生します。
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=period
+
+--- period(txt, time_begin, time_end, col = None)
+@todo
+

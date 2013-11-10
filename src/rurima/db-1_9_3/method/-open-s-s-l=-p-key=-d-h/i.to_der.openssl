@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=to_der
+
+--- to_der -> String
+
+鍵パラメータをDER 形式に変換します。
+
+

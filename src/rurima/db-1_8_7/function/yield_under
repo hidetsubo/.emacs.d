@@ -1,0 +1,11 @@
+params=(VALUE under, VALUE self)
+filename=eval.c
+name=yield_under
+type=VALUE
+macro=false
+private=true
+
+
+モジュール under の元のコンテキストで
+ruby_block を評価します。
+

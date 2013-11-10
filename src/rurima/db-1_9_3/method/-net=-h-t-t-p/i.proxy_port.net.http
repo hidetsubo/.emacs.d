@@ -1,0 +1,14 @@
+kind=defined
+visibility=public
+names=proxy_port,proxyport
+
+--- proxy_port -> Integer|nil
+--- proxyport -> Integer|nil
+
+プロクシ経由で接続する HTTP オブジェクトならプロクシのポート番号
+を返します。
+
+そうでないなら nil を返します。
+
+proxyport は時代遅れのメソッドです。
+@see [[m:Net::HTTP.Proxy]]

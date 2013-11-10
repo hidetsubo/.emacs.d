@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=dump_text
+
+--- dump_text(*index) { ... }
+@todo
+

@@ -1,0 +1,9 @@
+type=class
+library=tcltklib
+extended=
+aliases=
+included=
+superclass=TkLocalJumpError
+aliasof=
+
+

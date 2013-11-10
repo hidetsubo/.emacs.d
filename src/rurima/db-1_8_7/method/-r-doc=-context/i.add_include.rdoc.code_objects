@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=add_include
+
+--- add_include(an_include) -> ()
+
+引数で指定した [[c:RDoc::Include]] オブジェクトを追加します。
+
+@param an_include [[c:RDoc::Include]] オブジェクトを指定します。
+

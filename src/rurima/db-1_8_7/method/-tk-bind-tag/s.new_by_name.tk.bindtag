@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=new_by_name
+
+--- new_by_name(name, *args, &b)
+@todo
+

@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=getwd,pwd
+
+--- pwd   -> String
+--- getwd -> String
+
+プロセスのカレントディレクトリを文字列で返します。
+

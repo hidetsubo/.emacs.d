@@ -1,0 +1,9 @@
+library=csv
+aliasof=
+type=class
+included=
+aliases=
+superclass=RuntimeError
+extended=
+
+不正な CSV をパースしようとしたときに発生する例外です。

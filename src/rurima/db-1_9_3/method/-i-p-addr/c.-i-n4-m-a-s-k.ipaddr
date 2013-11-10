@@ -1,0 +1,10 @@
+kind=defined
+visibility=protected 
+names=IN4MASK
+
+--- IN4MASK -> Integer
+
+IPv4 アドレスの場合に使用するマスク値。
+
+  0xffffffff
+

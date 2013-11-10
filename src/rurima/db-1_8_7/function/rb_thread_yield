@@ -1,0 +1,8 @@
+params=(VALUE arg, rb_thread_t th)
+filename=eval.c
+name=rb_thread_yield
+type=VALUE
+macro=false
+private=true
+
+

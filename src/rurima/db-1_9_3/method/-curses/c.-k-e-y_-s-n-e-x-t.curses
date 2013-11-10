@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=KEY_SNEXT
+
+--- KEY_SNEXT -> Integer
+
+Shift + Next キーを表す定数です。
+

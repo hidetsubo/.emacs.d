@@ -1,0 +1,10 @@
+private=false
+params=(VALUE thread)
+type=VALUE
+name=rb_thread_wakeup
+filename=eval.c
+macro=false
+
+
+停止中のスレッド thread を再開させます。
+

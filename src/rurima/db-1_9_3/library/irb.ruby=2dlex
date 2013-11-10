@@ -1,0 +1,10 @@
+requires=irb.slex,irb.notifier,irb.ruby=2dtoken,e2mmap,irb.output=2dmethod
+category=
+methods=
+sublibraries=
+classes=
+is_sublibrary=true
+
+Ruby のソースコードを字句解析するためのサブライブラリです。
+
+このライブラリで定義されているメソッドはユーザが直接使用するものではありません。

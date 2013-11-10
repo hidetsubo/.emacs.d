@@ -1,0 +1,9 @@
+kind=defined
+visibility=public 
+names=add_signatures
+
+--- add_signatures
+gem-format な tar ファイルに data.tar.gz.sig, metadata.gz.sig を追加します。
+
+@see [[c:Gem::Security::Signer]]
+

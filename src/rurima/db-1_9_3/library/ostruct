@@ -1,0 +1,8 @@
+requires=
+category=
+methods=
+sublibraries=
+classes=OpenStruct
+is_sublibrary=false
+
+要素を動的に追加・削除できる手軽な構造体を提供するライブラリです。

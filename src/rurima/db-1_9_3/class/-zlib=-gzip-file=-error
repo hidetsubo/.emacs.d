@@ -1,0 +1,10 @@
+library=zlib
+aliasof=
+type=class
+included=
+aliases=
+superclass=Zlib=Error
+extended=
+
+gzip ファイルを処理している間にエラーが生じた時に発生する全ての例外の
+スーパークラスです。

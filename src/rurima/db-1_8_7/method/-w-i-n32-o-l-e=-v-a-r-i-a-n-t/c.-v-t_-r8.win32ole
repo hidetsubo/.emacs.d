@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=VT_R8
+
+--- VT_R8 -> Integer
+倍精度浮動小数点数を示します（5）。
+

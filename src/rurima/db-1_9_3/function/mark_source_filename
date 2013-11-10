@@ -1,0 +1,8 @@
+private=true
+params=(char *f)
+type=void
+name=mark_source_filename
+filename=gc.c
+macro=false
+
+

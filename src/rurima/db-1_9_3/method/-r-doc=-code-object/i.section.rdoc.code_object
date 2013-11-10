@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=section
+
+--- section -> RDoc::Context::Section
+
+所属している section を返します。
+

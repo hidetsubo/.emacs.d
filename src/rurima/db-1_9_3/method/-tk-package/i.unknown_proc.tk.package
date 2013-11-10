@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=unknown_proc
+
+--- unknown_proc(*arg) { .... }
+@todo
+

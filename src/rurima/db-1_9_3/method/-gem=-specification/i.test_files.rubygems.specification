@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=test_files
+
+--- test_files -> [String]
+
+ユニットテストのファイルのリストを返します。
+
+

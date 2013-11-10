@@ -1,0 +1,9 @@
+visibility=public
+kind=defined
+names=num_methods=
+
+--- num_methods=(val)
+
+解析したメソッドの数を指定します。
+
+@param val 数値を指定します。

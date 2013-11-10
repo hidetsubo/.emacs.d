@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=line
+
+--- line -> Fixnum
+
+行番号を返します。
+

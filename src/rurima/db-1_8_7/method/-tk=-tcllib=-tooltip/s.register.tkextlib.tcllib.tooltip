@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=register
+
+--- register(widget, msg, keys = nil)
+@todo
+

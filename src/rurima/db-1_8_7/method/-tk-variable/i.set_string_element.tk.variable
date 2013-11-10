@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=set_string_element
+
+--- set_string_element(idxs, val)
+@todo
+

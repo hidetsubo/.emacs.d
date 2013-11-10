@@ -1,0 +1,8 @@
+private=false
+params=(VALUE mod, void *data)
+type=void *
+name=rb_mod_const_at
+filename=variable.c
+macro=false
+
+

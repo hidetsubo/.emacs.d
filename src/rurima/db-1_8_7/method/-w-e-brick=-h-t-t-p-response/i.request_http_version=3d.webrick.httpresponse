@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=request_http_version=
+
+--- request_http_version=(ver)
+
+リクエストの HTTP バージョンをセットします。
+
+@param ver リクエストの HTTP バージョンを [[c:WEBrick::HTTPVersion]] オブジェクトで指定します。
+

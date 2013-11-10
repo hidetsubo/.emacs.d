@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=passive=
+
+--- passive=(bool)
+passive モードを設定します。
+
+@see [[m:Net::FTP#passive]]
+

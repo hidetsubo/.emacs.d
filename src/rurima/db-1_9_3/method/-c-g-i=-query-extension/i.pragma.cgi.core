@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=pragma
+
+--- pragma -> String
+
+ENV['HTTP_PRAGMA'] を返します。
+

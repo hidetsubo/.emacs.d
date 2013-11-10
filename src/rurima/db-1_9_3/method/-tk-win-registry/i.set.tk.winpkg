@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=set
+
+--- set(keynam, valnam = Tk::None, data = Tk::None, dattype = Tk::None)
+@todo
+
+

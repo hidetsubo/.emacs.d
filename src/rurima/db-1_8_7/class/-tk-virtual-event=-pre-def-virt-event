@@ -1,0 +1,9 @@
+type=class
+library=tk.virtevent
+extended=
+aliases=
+included=
+superclass=TkVirtualEvent
+aliasof=TkNamedVirtualEvent
+
+Alias of [[c:TkNamedVirtualEvent]]

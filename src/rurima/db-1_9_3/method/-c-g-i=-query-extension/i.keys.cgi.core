@@ -1,0 +1,8 @@
+kind=defined
+visibility=public
+names=keys
+
+--- keys(*args) -> [String]
+
+すべてのパラメータのキーを配列として返します。
+

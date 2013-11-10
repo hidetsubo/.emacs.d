@@ -1,0 +1,10 @@
+kind=defined
+visibility=public
+names=JSON_LOADED
+
+--- JSON_LOADED -> bool
+
+JSON ライブラリがロード済みである場合に真を返します。
+そうでない場合は偽を返します。
+
+

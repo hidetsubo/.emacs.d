@@ -1,0 +1,9 @@
+library=tkextlib.tile.tprogressbar
+aliasof=
+type=class
+included=
+aliases=Tk=Tile=TProgressbar
+superclass=Object
+extended=
+
+

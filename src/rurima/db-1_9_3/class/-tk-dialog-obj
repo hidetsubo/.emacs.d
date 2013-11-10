@@ -1,0 +1,9 @@
+library=tk.dialog
+aliasof=
+type=class
+included=
+aliases=TkDialog2
+superclass=TkWindow
+extended=Tk
+
+

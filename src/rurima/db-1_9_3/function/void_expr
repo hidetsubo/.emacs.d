@@ -1,0 +1,16 @@
+private=true
+params=(NODE *node)
+type=void
+name=void_expr
+filename=parse.y
+macro=false
+
+
+node の表すプログラムの中に値を使わないと
+意味のない式があれば警告を出す。
+
+    # 警告が出る例
+    lvar = 1
+    lvar      # 無駄
+    p lvar
+

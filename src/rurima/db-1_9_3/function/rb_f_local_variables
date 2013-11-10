@@ -1,0 +1,8 @@
+private=true
+params=(void)
+type=VALUE
+name=rb_f_local_variables
+filename=eval.c
+macro=false
+
+

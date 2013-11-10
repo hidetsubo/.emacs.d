@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=SOCK_RDM
+
+--- SOCK_RDM -> Integer
+
+信頼性のあるデータグラム通信。
+[[m:Socket.open]] の第二引数 type に使用します。
+
+@see [[man:socket(2linux)]], [[m:Socket.open]]
+

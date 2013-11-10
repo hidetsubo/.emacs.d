@@ -1,0 +1,11 @@
+kind=defined
+visibility=public
+names=AF_LINK,PF_LINK
+
+--- AF_LINK -> Integer
+--- PF_LINK -> Integer
+@todo
+Link layer interface。
+[[m:Socket.open]] の第一引数 domain に使用します。
+
+

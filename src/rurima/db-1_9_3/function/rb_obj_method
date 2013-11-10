@@ -1,0 +1,8 @@
+private=true
+params=(VALUE obj, VALUE vid)
+type=VALUE
+name=rb_obj_method
+filename=eval.c
+macro=false
+
+

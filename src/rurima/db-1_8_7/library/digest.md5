@@ -1,0 +1,9 @@
+requires=digest.sha1,digest.sha2,digest.rmd160,digest,digest.md5
+sublibraries=
+is_sublibrary=true
+category=
+methods=
+classes=Digest=MD5
+
+[[RFC:1321]] に記述されている RSA Data Security, Inc. の MD5 Message-Digest
+Algorithmを実装するクラスを提供するライブラリです。

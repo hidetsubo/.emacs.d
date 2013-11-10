@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=tearoffcommand
+
+--- tearoffcommand(cmd = Proc.new)
+@todo
+

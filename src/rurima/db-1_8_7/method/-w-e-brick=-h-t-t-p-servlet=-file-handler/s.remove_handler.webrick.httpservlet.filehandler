@@ -1,0 +1,10 @@
+visibility=public
+kind=defined
+names=remove_handler
+
+--- remove_handler(suffix) -> Class
+
+与えられた拡張子に対応するサーブレットを削除します。
+
+@param suffix 拡張子を指定します。
+

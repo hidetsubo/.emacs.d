@@ -1,0 +1,8 @@
+visibility=public
+kind=defined
+names=CP_MACCP
+
+--- CP_MACCP -> Fixnum
+
+Macintoshコードページ（2）を示します。
+

@@ -1,0 +1,7 @@
+visibility=public
+kind=defined
+names=wait_on_mainloop=
+
+--- wait_on_mainloop=(bool)
+@todo
+

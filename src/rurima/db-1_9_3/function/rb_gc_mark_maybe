@@ -1,0 +1,10 @@
+private=false
+params=(VALUE v)
+type=void
+name=rb_gc_mark_maybe
+filename=gc.c
+macro=false
+
+
+v が Ruby のオブジェクトであればマークします。
+

@@ -1,0 +1,7 @@
+kind=defined
+visibility=public
+names=text
+
+--- text -> String
+応答のテキストを文字列で返します。
+

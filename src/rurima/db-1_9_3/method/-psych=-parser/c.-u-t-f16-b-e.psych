@@ -1,0 +1,9 @@
+kind=defined
+visibility=public
+names=UTF16BE
+
+--- UTF16BE
+@todo
+
+UTF-16-BE Encoding with BOM
+

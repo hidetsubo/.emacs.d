@@ -1,0 +1,11 @@
+type=class
+library=net.ftptls
+extended=
+aliases=
+included=
+superclass=Net=FTP
+aliasof=
+
+FTP over SSL/TLS を実装したクラスです。
+
+[[c:Net::FTP]] を継承しているため、FTP クラスのメソッドが利用できます。

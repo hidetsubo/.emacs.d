@@ -1,0 +1,12 @@
+library=psych.nodes.alias
+aliasof=
+type=class
+included=
+aliases=
+superclass=Psych=Nodes=Node
+extended=
+
+This class represents a {YAML Alias}[http://yaml.org/spec/1.1/#alias].
+It points to an +anchor+.
+
+A Psych::Nodes::Alias is a terminal node and may have no children.

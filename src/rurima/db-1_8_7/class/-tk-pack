@@ -1,0 +1,12 @@
+type=module
+library=tk.pack
+extended=Tk
+aliases=
+included=Tk
+superclass=
+aliasof=Pack
+
+ウィジェットを配置するためのモジュールです。
+このモジュールにより、ウィジェットは空き領域を順次詰めるように配置されます。
+
+普通、ウィジェットの配置には[[m:TkWindow#pack]]が使われます。
